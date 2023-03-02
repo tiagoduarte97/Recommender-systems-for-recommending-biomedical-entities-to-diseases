@@ -1,41 +1,41 @@
 #!/bin/bash
 
-echo "Selecione uma opção:"
-echo "1. Digitar o nome da doença"
-echo "2. Digitar o número DOID da doença"
-echo "3. Sair"
+echo "select an option:"
+echo "1. Enter disease name"
+echo "2. Enter the DOID number of the disease"
+echo "3. Exit
 read opcao
 
 case $opcao in
   1)
-    echo "Digite o nome da doença:"
+    echo "Enter disease name:"
     read name
     uri=$(echo "$name" | ./geturi.sh doid.owl)
     if [ -z "$uri" ]; then
-      echo "Não foi possível encontrar uma URI para a doença informada"
+      echo "Unable to find a URI for the reported disease"
       exit 1
     fi
-    echo "Ancestrais da doença $name:"
+    echo "ancestors of the disease $name:"
     ;;
   2)
-    echo "Digite o número DOID da doença:"
+    echo "Enter the DOID number of the disease:"
     read doid_number
     uri="http://purl.obolibrary.org/obo/DOID_$doid_number"
-    echo "Ancestrais da doença DOID_$doid_number:"
+    echo "Ancestors of DOID disease_$doid_number:"
     ;;  
   3)
     exit 1
     ;;
   *)
-    echo "Opção inválida"
+    echo "Error"
     exit 1
     ;;
 esac
 
 if [ -n "$uri" ]; then
-  echo "Ancestrais em formato DOID:"
+  echo "Ancestors in DOID format:"
   echo "$uri" | ./getancestors.sh doid.owl
-  echo "Ancestrais em formato nome da doença:"
+  echo "Ancestors in disease name format:"
   echo "$uri" | ./getancestors.sh doid.owl 2>/dev/null | ./getlabels.sh doid.owl
 fi
 
