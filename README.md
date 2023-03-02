@@ -8,4 +8,4 @@ https://raw.githubusercontent.com/DiseaseOntology/HumanDiseaseOntology/main/src/
 
 Please download the executable from the link above and ensure that all files are in the same folder before running.
 
-To run the program, simply execute the file named XXX in the command line.
+To run the program, simply execute the file named AncestryTracker.sh in the command line.
