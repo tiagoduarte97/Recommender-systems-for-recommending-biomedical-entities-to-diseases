@@ -7,3 +7,5 @@ This program is designed to provide you with the names and DOIDs of your ancesto
 https://raw.githubusercontent.com/DiseaseOntology/HumanDiseaseOntology/main/src/ontology/doid.owl
 
 Please download the executable from the link above and ensure that all files are in the same folder before running.
+
+To run the program, simply execute the file named XXX in the command line.
