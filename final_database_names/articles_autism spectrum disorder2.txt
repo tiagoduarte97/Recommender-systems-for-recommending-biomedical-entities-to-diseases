@@ -1,0 +1,2977 @@
+leptin	36946681	Scott SR
+leptin	36946681	Millwood SN
+leptin	36946681	Manczak EM
+resistin	36946681	Scott SR
+resistin	36946681	Millwood SN
+resistin	36946681	Manczak EM
+apelin	36946681	Scott SR
+apelin	36946681	Millwood SN
+apelin	36946681	Manczak EM
+leptin	36946681	Scott SR
+leptin	36946681	Millwood SN
+leptin	36946681	Manczak EM
+leptin	36946681	Scott SR
+leptin	36946681	Millwood SN
+leptin	36946681	Manczak EM
+leptin	36946681	Scott SR
+leptin	36946681	Millwood SN
+leptin	36946681	Manczak EM
+leptin	36946681	Scott SR
+leptin	36946681	Millwood SN
+leptin	36946681	Manczak EM
+leptin	36946681	Scott SR
+leptin	36946681	Millwood SN
+leptin	36946681	Manczak EM
+leptin	36946681	Scott SR
+leptin	36946681	Millwood SN
+leptin	36946681	Manczak EM
+C-reactive protein	36930855	Morimoto M
+C-reactive protein	36930855	Hashimoto T
+C-reactive protein	36930855	Tsuda Y
+C-reactive protein	36930855	Suenaga M
+C-reactive protein	36930855	Nakamura T
+C-reactive protein	36930855	Katoh S
+prolactin	36930855	Morimoto M
+prolactin	36930855	Hashimoto T
+prolactin	36930855	Tsuda Y
+prolactin	36930855	Suenaga M
+prolactin	36930855	Nakamura T
+prolactin	36930855	Katoh S
+albumin	36930855	Morimoto M
+albumin	36930855	Hashimoto T
+albumin	36930855	Tsuda Y
+albumin	36930855	Suenaga M
+albumin	36930855	Nakamura T
+albumin	36930855	Katoh S
+catalase	36930427	Vellingiri B
+catalase	36930427	Venkatesan D
+catalase	36930427	Iyer M
+catalase	36930427	Mohan G
+catalase	36930427	Krishnan P
+catalase	36930427	Sai Krishna K
+catalase	36930427	R S
+catalase	36930427	Narayanasamy A
+catalase	36930427	Gopalakrishnan AV
+catalase	36930427	Kumar NS
+catalase	36930427	Subramaniam MD
+C-reactive protein	36926653	Dumitriu D
+C-reactive protein	36926653	Baldwin E
+C-reactive protein	36926653	Coenen RJJ
+C-reactive protein	36926653	Hammond LA
+C-reactive protein	36926653	Peterka DS
+C-reactive protein	36926653	Heilbrun L
+C-reactive protein	36926653	Frye RE
+C-reactive protein	36926653	Palmer R
+C-reactive protein	36926653	Norrman HN
+C-reactive protein	36926653	Fridell A
+C-reactive protein	36926653	Remnelius KL
+C-reactive protein	36926653	Isaksson J
+C-reactive protein	36926653	Austin C
+C-reactive protein	36926653	Curtin P
+C-reactive protein	36926653	Bolte S
+C-reactive protein	36926653	Arora M
+glutaminase	36915976	Zhang X
+glutaminase	36915976	Liu S
+glutaminase	36915976	Liu X
+glutaminase	36915976	Wang J
+glutaminase	36915976	Zhang X
+glutaminase	36915976	Liu S
+glutaminase	36915976	Liu X
+glutaminase	36915976	Wang J
+folate receptor alpha	36904166	Bobrowski-Khoury N
+folate receptor alpha	36904166	Sequeira JM
+folate receptor alpha	36904166	Quadros EV
+folate receptor alpha	36904166	Bobrowski-Khoury N
+folate receptor alpha	36904166	Sequeira JM
+folate receptor alpha	36904166	Quadros EV
+leptin	36902307	Skorzynska-Dziduszko KE
+leptin	36902307	Makarewicz A
+leptin	36902307	Blazewicz A
+leptin	36902307	Skorzynska-Dziduszko KE
+leptin	36902307	Makarewicz A
+leptin	36902307	Blazewicz A
+leptin	36902307	Skorzynska-Dziduszko KE
+leptin	36902307	Makarewicz A
+leptin	36902307	Blazewicz A
+leptin	36902307	Skorzynska-Dziduszko KE
+leptin	36902307	Makarewicz A
+leptin	36902307	Blazewicz A
+leptin	36902307	Skorzynska-Dziduszko KE
+leptin	36902307	Makarewicz A
+leptin	36902307	Blazewicz A
+leptin	36902307	Skorzynska-Dziduszko KE
+leptin	36902307	Makarewicz A
+leptin	36902307	Blazewicz A
+leptin	36902307	Skorzynska-Dziduszko KE
+leptin	36902307	Makarewicz A
+leptin	36902307	Blazewicz A
+diabetic nephropathy	36900123	Chaaba R
+diabetic nephropathy	36900123	Bouaziz A
+diabetic nephropathy	36900123	Ben Amor A
+diabetic nephropathy	36900123	Mnif W
+diabetic nephropathy	36900123	Hammami M
+diabetic nephropathy	36900123	Mehri S
+biotinidase	36898611	Zhang H
+biotinidase	36898611	Tang X
+biotinidase	36898611	Feng C
+biotinidase	36898611	Gao Y
+biotinidase	36898611	Hong Q
+biotinidase	36898611	Zhang J
+biotinidase	36898611	Zhang X
+biotinidase	36898611	Zheng Q
+biotinidase	36898611	Lin J
+biotinidase	36898611	Liu X
+biotinidase	36898611	Shen L
+insulin	36898611	Zhang H
+insulin	36898611	Tang X
+insulin	36898611	Feng C
+insulin	36898611	Gao Y
+insulin	36898611	Hong Q
+insulin	36898611	Zhang J
+insulin	36898611	Zhang X
+insulin	36898611	Zheng Q
+insulin	36898611	Lin J
+insulin	36898611	Liu X
+insulin	36898611	Shen L
+insulin	36898611	Zhang H
+insulin	36898611	Tang X
+insulin	36898611	Feng C
+insulin	36898611	Gao Y
+insulin	36898611	Hong Q
+insulin	36898611	Zhang J
+insulin	36898611	Zhang X
+insulin	36898611	Zheng Q
+insulin	36898611	Lin J
+insulin	36898611	Liu X
+insulin	36898611	Shen L
+biotinidase	36898611	Zhang H
+biotinidase	36898611	Tang X
+biotinidase	36898611	Feng C
+biotinidase	36898611	Gao Y
+biotinidase	36898611	Hong Q
+biotinidase	36898611	Zhang J
+biotinidase	36898611	Zhang X
+biotinidase	36898611	Zheng Q
+biotinidase	36898611	Lin J
+biotinidase	36898611	Liu X
+biotinidase	36898611	Shen L
+tumor necrosis factor	36879996	Dogan M
+tumor necrosis factor	36879996	Albayrak Y
+tumor necrosis factor	36879996	Erbas O
+parvalbumin	36875674	Klocke B
+parvalbumin	36875674	Krone K
+parvalbumin	36875674	Tornes J
+parvalbumin	36875674	Moore C
+parvalbumin	36875674	Ott H
+parvalbumin	36875674	Pitychoutis PM
+SH3 and multiple ankyrin repeat domains 3	36871873	Okuzono S
+SH3 and multiple ankyrin repeat domains 3	36871873	Fujii F
+SH3 and multiple ankyrin repeat domains 3	36871873	Matsushita Y
+SH3 and multiple ankyrin repeat domains 3	36871873	Setoyama D
+SH3 and multiple ankyrin repeat domains 3	36871873	Shinmyo Y
+SH3 and multiple ankyrin repeat domains 3	36871873	Taira R
+SH3 and multiple ankyrin repeat domains 3	36871873	Yonemoto K
+SH3 and multiple ankyrin repeat domains 3	36871873	Akamine S
+SH3 and multiple ankyrin repeat domains 3	36871873	Motomura Y
+SH3 and multiple ankyrin repeat domains 3	36871873	Sanefuji M
+SH3 and multiple ankyrin repeat domains 3	36871873	Sakurai T
+SH3 and multiple ankyrin repeat domains 3	36871873	Kawasaki H
+SH3 and multiple ankyrin repeat domains 3	36871873	Han K
+SH3 and multiple ankyrin repeat domains 3	36871873	Kato TA
+SH3 and multiple ankyrin repeat domains 3	36871873	Torisu H
+SH3 and multiple ankyrin repeat domains 3	36871873	Kang D
+SH3 and multiple ankyrin repeat domains 3	36871873	Nakabeppu Y
+SH3 and multiple ankyrin repeat domains 3	36871873	Sakai Y
+SH3 and multiple ankyrin repeat domains 3	36871873	Ohga S
+parvalbumin	36871873	Okuzono S
+parvalbumin	36871873	Fujii F
+parvalbumin	36871873	Matsushita Y
+parvalbumin	36871873	Setoyama D
+parvalbumin	36871873	Shinmyo Y
+parvalbumin	36871873	Taira R
+parvalbumin	36871873	Yonemoto K
+parvalbumin	36871873	Akamine S
+parvalbumin	36871873	Motomura Y
+parvalbumin	36871873	Sanefuji M
+parvalbumin	36871873	Sakurai T
+parvalbumin	36871873	Kawasaki H
+parvalbumin	36871873	Han K
+parvalbumin	36871873	Kato TA
+parvalbumin	36871873	Torisu H
+parvalbumin	36871873	Kang D
+parvalbumin	36871873	Nakabeppu Y
+parvalbumin	36871873	Sakai Y
+parvalbumin	36871873	Ohga S
+oxytocin receptor	36870672	Morel C
+oxytocin receptor	36870672	Martinez Sanchez I
+oxytocin receptor	36870672	Cherifi Y
+oxytocin receptor	36870672	Chartrel N
+oxytocin receptor	36870672	Diaz Heijtz R
+interleukin 6	36870094	Backstrom F
+interleukin 6	36870094	Ahl M
+interleukin 6	36870094	Wickham J
+interleukin 6	36870094	Ekdahl CT
+insulin	36862688	Zhang P
+insulin	36862688	Omanska A
+insulin	36862688	Ander BP
+insulin	36862688	Gandal MJ
+insulin	36862688	Stamova B
+insulin	36862688	Schumann CM
+synaptophysin	36853856	de Oliveira Ferreira E
+synaptophysin	36853856	Pessoa Gomes JM
+synaptophysin	36853856	Neves KRT
+synaptophysin	36853856	Lima FAV
+synaptophysin	36853856	de Barros Viana GS
+synaptophysin	36853856	de Andrade GM
+dopamine receptor D4	36847977	Saha S
+dopamine receptor D4	36847977	Chatterjee M
+dopamine receptor D4	36847977	Dutta N
+dopamine receptor D4	36847977	Sinha S
+dopamine receptor D4	36847977	Mukhopadhyay K
+secretin	36845323	Wei JA
+secretin	36845323	Han Q
+secretin	36845323	Luo Z
+secretin	36845323	Liu L
+secretin	36845323	Cui J
+secretin	36845323	Tan J
+secretin	36845323	Chow BKC
+secretin	36845323	So KF
+secretin	36845323	Zhang L
+secretin	36845323	Wei JA
+secretin	36845323	Han Q
+secretin	36845323	Luo Z
+secretin	36845323	Liu L
+secretin	36845323	Cui J
+secretin	36845323	Tan J
+secretin	36845323	Chow BKC
+secretin	36845323	So KF
+secretin	36845323	Zhang L
+secretin	36845323	Wei JA
+secretin	36845323	Han Q
+secretin	36845323	Luo Z
+secretin	36845323	Liu L
+secretin	36845323	Cui J
+secretin	36845323	Tan J
+secretin	36845323	Chow BKC
+secretin	36845323	So KF
+secretin	36845323	Zhang L
+synaptophysin	36842231	Xiong Y
+synaptophysin	36842231	Chen J
+synaptophysin	36842231	Lv M
+synaptophysin	36842231	Wang F
+synaptophysin	36842231	Zhang H
+synaptophysin	36842231	Tang B
+synaptophysin	36842231	Li Y
+phosphatase and tensin homolog	36838876	Thomas SD
+phosphatase and tensin homolog	36838876	Jha NK
+phosphatase and tensin homolog	36838876	Ojha S
+phosphatase and tensin homolog	36838876	Sadek B
+hypoparathyroidism	36835652	Menghi M
+hypoparathyroidism	36835652	Micangeli G
+hypoparathyroidism	36835652	Tarani F
+hypoparathyroidism	36835652	Putotto C
+hypoparathyroidism	36835652	Pirro F
+hypoparathyroidism	36835652	Mariani A
+hypoparathyroidism	36835652	Petrella C
+hypoparathyroidism	36835652	Pulvirenti F
+hypoparathyroidism	36835652	Cinicola B
+hypoparathyroidism	36835652	Colloridi F
+hypoparathyroidism	36835652	Tarani L
+hypoparathyroidism	36835652	Fiore M
+primary cilia formation	36833254	Papuc SM
+primary cilia formation	36833254	Erbescu A
+primary cilia formation	36833254	Glangher A
+primary cilia formation	36833254	Streata I
+primary cilia formation	36833254	Riza AL
+primary cilia formation	36833254	Budisteanu M
+primary cilia formation	36833254	Arghir A
+glutathione-disulfide reductase	36831124	Esvap E
+glutathione-disulfide reductase	36831124	Ulgen KO
+adenosine deaminase	36818658	Dai S
+adenosine deaminase	36818658	Lin J
+adenosine deaminase	36818658	Hou Y
+adenosine deaminase	36818658	Luo X
+adenosine deaminase	36818658	Shen Y
+adenosine deaminase	36818658	Ou J
+adenylosuccinate lyase	36818658	Dai S
+adenylosuccinate lyase	36818658	Lin J
+adenylosuccinate lyase	36818658	Hou Y
+adenylosuccinate lyase	36818658	Luo X
+adenylosuccinate lyase	36818658	Shen Y
+adenylosuccinate lyase	36818658	Ou J
+oxytocin receptor	36817409	Osada K
+oxytocin receptor	36817409	Kujirai R
+oxytocin receptor	36817409	Hosono A
+oxytocin receptor	36817409	Tsuda M
+oxytocin receptor	36817409	Ohata M
+oxytocin receptor	36817409	Ohta T
+oxytocin receptor	36817409	Nishimori K
+oxytocin receptor	36817409	Osada K
+oxytocin receptor	36817409	Kujirai R
+oxytocin receptor	36817409	Hosono A
+oxytocin receptor	36817409	Tsuda M
+oxytocin receptor	36817409	Ohata M
+oxytocin receptor	36817409	Ohta T
+oxytocin receptor	36817409	Nishimori K
+oxytocin receptor	36817409	Osada K
+oxytocin receptor	36817409	Kujirai R
+oxytocin receptor	36817409	Hosono A
+oxytocin receptor	36817409	Tsuda M
+oxytocin receptor	36817409	Ohata M
+oxytocin receptor	36817409	Ohta T
+oxytocin receptor	36817409	Nishimori K
+multiple sclerosis	36816743	Zang Y
+multiple sclerosis	36816743	Lai X
+multiple sclerosis	36816743	Li C
+multiple sclerosis	36816743	Ding D
+multiple sclerosis	36816743	Wang Y
+multiple sclerosis	36816743	Zhu Y
+ribosomal protein L23	36816132	Mazon-Cabrera R
+ribosomal protein L23	36816132	Liesenborgs J
+ribosomal protein L23	36816132	Brone B
+ribosomal protein L23	36816132	Vandormael P
+ribosomal protein L23	36816132	Somers V
+glyceraldehyde-3-phosphate dehydrogenase	36816132	Mazon-Cabrera R
+glyceraldehyde-3-phosphate dehydrogenase	36816132	Liesenborgs J
+glyceraldehyde-3-phosphate dehydrogenase	36816132	Brone B
+glyceraldehyde-3-phosphate dehydrogenase	36816132	Vandormael P
+glyceraldehyde-3-phosphate dehydrogenase	36816132	Somers V
+androgen receptor	36803626	Thongkorn S
+androgen receptor	36803626	Kanlayaprasit S
+androgen receptor	36803626	Kasitipradit K
+androgen receptor	36803626	Lertpeerapan P
+androgen receptor	36803626	Panjabud P
+androgen receptor	36803626	Hu VW
+androgen receptor	36803626	Jindatip D
+androgen receptor	36803626	Sarachana T
+dystrophin	36799992	Nascimento A
+dystrophin	36799992	Bruels CC
+dystrophin	36799992	Donkervoort S
+dystrophin	36799992	Foley AR
+dystrophin	36799992	Codina A
+dystrophin	36799992	Milisenda JC
+dystrophin	36799992	Estrella EA
+dystrophin	36799992	Li C
+dystrophin	36799992	Pijuan J
+dystrophin	36799992	Draper I
+dystrophin	36799992	Hu Y
+dystrophin	36799992	Stafki SA
+dystrophin	36799992	Pais LS
+dystrophin	36799992	Ganesh VS
+dystrophin	36799992	O'Donnell-Luria A
+dystrophin	36799992	Syeda SB
+dystrophin	36799992	Carrera-Garcia L
+dystrophin	36799992	Exposito-Escudero J
+dystrophin	36799992	Yubero D
+dystrophin	36799992	Martorell L
+dystrophin	36799992	Pinal-Fernandez I
+dystrophin	36799992	Lidov HGW
+dystrophin	36799992	Mammen AL
+dystrophin	36799992	Grau-Junyent JM
+dystrophin	36799992	Ortez C
+dystrophin	36799992	Palau F
+dystrophin	36799992	Ghosh PS
+dystrophin	36799992	Darras BT
+dystrophin	36799992	Jou C
+dystrophin	36799992	Kunkel LM
+dystrophin	36799992	Hoenicka J
+dystrophin	36799992	Bonnemann CG
+dystrophin	36799992	Kang PB
+dystrophin	36799992	Natera-de Benito D
+dystrophin	36799992	Nascimento A
+dystrophin	36799992	Bruels CC
+dystrophin	36799992	Donkervoort S
+dystrophin	36799992	Foley AR
+dystrophin	36799992	Codina A
+dystrophin	36799992	Milisenda JC
+dystrophin	36799992	Estrella EA
+dystrophin	36799992	Li C
+dystrophin	36799992	Pijuan J
+dystrophin	36799992	Draper I
+dystrophin	36799992	Hu Y
+dystrophin	36799992	Stafki SA
+dystrophin	36799992	Pais LS
+dystrophin	36799992	Ganesh VS
+dystrophin	36799992	O'Donnell-Luria A
+dystrophin	36799992	Syeda SB
+dystrophin	36799992	Carrera-Garcia L
+dystrophin	36799992	Exposito-Escudero J
+dystrophin	36799992	Yubero D
+dystrophin	36799992	Martorell L
+dystrophin	36799992	Pinal-Fernandez I
+dystrophin	36799992	Lidov HGW
+dystrophin	36799992	Mammen AL
+dystrophin	36799992	Grau-Junyent JM
+dystrophin	36799992	Ortez C
+dystrophin	36799992	Palau F
+dystrophin	36799992	Ghosh PS
+dystrophin	36799992	Darras BT
+dystrophin	36799992	Jou C
+dystrophin	36799992	Kunkel LM
+dystrophin	36799992	Hoenicka J
+dystrophin	36799992	Bonnemann CG
+dystrophin	36799992	Kang PB
+dystrophin	36799992	Natera-de Benito D
+utrophin	36799992	Nascimento A
+utrophin	36799992	Bruels CC
+utrophin	36799992	Donkervoort S
+utrophin	36799992	Foley AR
+utrophin	36799992	Codina A
+utrophin	36799992	Milisenda JC
+utrophin	36799992	Estrella EA
+utrophin	36799992	Li C
+utrophin	36799992	Pijuan J
+utrophin	36799992	Draper I
+utrophin	36799992	Hu Y
+utrophin	36799992	Stafki SA
+utrophin	36799992	Pais LS
+utrophin	36799992	Ganesh VS
+utrophin	36799992	O'Donnell-Luria A
+utrophin	36799992	Syeda SB
+utrophin	36799992	Carrera-Garcia L
+utrophin	36799992	Exposito-Escudero J
+utrophin	36799992	Yubero D
+utrophin	36799992	Martorell L
+utrophin	36799992	Pinal-Fernandez I
+utrophin	36799992	Lidov HGW
+utrophin	36799992	Mammen AL
+utrophin	36799992	Grau-Junyent JM
+utrophin	36799992	Ortez C
+utrophin	36799992	Palau F
+utrophin	36799992	Ghosh PS
+utrophin	36799992	Darras BT
+utrophin	36799992	Jou C
+utrophin	36799992	Kunkel LM
+utrophin	36799992	Hoenicka J
+utrophin	36799992	Bonnemann CG
+utrophin	36799992	Kang PB
+utrophin	36799992	Natera-de Benito D
+dystrophin	36799992	Nascimento A
+dystrophin	36799992	Bruels CC
+dystrophin	36799992	Donkervoort S
+dystrophin	36799992	Foley AR
+dystrophin	36799992	Codina A
+dystrophin	36799992	Milisenda JC
+dystrophin	36799992	Estrella EA
+dystrophin	36799992	Li C
+dystrophin	36799992	Pijuan J
+dystrophin	36799992	Draper I
+dystrophin	36799992	Hu Y
+dystrophin	36799992	Stafki SA
+dystrophin	36799992	Pais LS
+dystrophin	36799992	Ganesh VS
+dystrophin	36799992	O'Donnell-Luria A
+dystrophin	36799992	Syeda SB
+dystrophin	36799992	Carrera-Garcia L
+dystrophin	36799992	Exposito-Escudero J
+dystrophin	36799992	Yubero D
+dystrophin	36799992	Martorell L
+dystrophin	36799992	Pinal-Fernandez I
+dystrophin	36799992	Lidov HGW
+dystrophin	36799992	Mammen AL
+dystrophin	36799992	Grau-Junyent JM
+dystrophin	36799992	Ortez C
+dystrophin	36799992	Palau F
+dystrophin	36799992	Ghosh PS
+dystrophin	36799992	Darras BT
+dystrophin	36799992	Jou C
+dystrophin	36799992	Kunkel LM
+dystrophin	36799992	Hoenicka J
+dystrophin	36799992	Bonnemann CG
+dystrophin	36799992	Kang PB
+dystrophin	36799992	Natera-de Benito D
+NSF attachment protein beta	36780047	AbdelAleem A
+NSF attachment protein beta	36780047	Haddad N
+NSF attachment protein beta	36780047	Al-Ettribi G
+NSF attachment protein beta	36780047	Crunk A
+NSF attachment protein beta	36780047	Elsotouhy A
+parvalbumin	36778241	Shih YT
+parvalbumin	36778241	Alipio JB
+parvalbumin	36778241	Sahay A
+glial fibrillary acidic protein	36769380	Simone M
+glial fibrillary acidic protein	36769380	De Giacomo A
+glial fibrillary acidic protein	36769380	Palumbi R
+glial fibrillary acidic protein	36769380	Palazzo C
+glial fibrillary acidic protein	36769380	Lucisano G
+glial fibrillary acidic protein	36769380	Pompamea F
+glial fibrillary acidic protein	36769380	Micella S
+glial fibrillary acidic protein	36769380	Pascali M
+glial fibrillary acidic protein	36769380	Gabellone A
+glial fibrillary acidic protein	36769380	Marzulli L
+glial fibrillary acidic protein	36769380	Giordano P
+glial fibrillary acidic protein	36769380	Gargano CD
+glial fibrillary acidic protein	36769380	Margari L
+glial fibrillary acidic protein	36769380	Frigeri A
+glial fibrillary acidic protein	36769380	Ruggieri M
+insulin	36738649	Ding H
+insulin	36738649	Xie M
+insulin	36738649	Wang J
+insulin	36738649	Ouyang M
+insulin	36738649	Huang Y
+insulin	36738649	Yuan F
+insulin	36738649	Jia Y
+insulin	36738649	Zhang X
+insulin	36738649	Liu N
+insulin	36738649	Zhang N
+signal transducer and activator of transcription 3	36732866	Kashii H
+signal transducer and activator of transcription 3	36732866	Kasai S
+signal transducer and activator of transcription 3	36732866	Sato A
+signal transducer and activator of transcription 3	36732866	Hagino Y
+signal transducer and activator of transcription 3	36732866	Nishito Y
+signal transducer and activator of transcription 3	36732866	Kobayashi T
+signal transducer and activator of transcription 3	36732866	Hino O
+signal transducer and activator of transcription 3	36732866	Mizuguchi M
+signal transducer and activator of transcription 3	36732866	Ikeda K
+interferon regulatory factor 4	36732866	Kashii H
+interferon regulatory factor 4	36732866	Kasai S
+interferon regulatory factor 4	36732866	Sato A
+interferon regulatory factor 4	36732866	Hagino Y
+interferon regulatory factor 4	36732866	Nishito Y
+interferon regulatory factor 4	36732866	Kobayashi T
+interferon regulatory factor 4	36732866	Hino O
+interferon regulatory factor 4	36732866	Mizuguchi M
+interferon regulatory factor 4	36732866	Ikeda K
+parvalbumin	36732579	Gzielo K
+parvalbumin	36732579	Piotrowska D
+parvalbumin	36732579	Litwa E
+parvalbumin	36732579	Popik P
+parvalbumin	36732579	Nikiforuk A
+myelin regulatory factor	36730342	Rawlings-Mortimer F
+myelin regulatory factor	36730342	Gullino LS
+myelin regulatory factor	36730342	Ruhling S
+myelin regulatory factor	36730342	Ashton A
+myelin regulatory factor	36730342	Barkus C
+myelin regulatory factor	36730342	Johansen-Berg H
+plasminogen	36697271	Krishnan RP
+plasminogen	36697271	Ramani P
+plasminogen	36697271	Pandiar D
+plasminogen	36697271	Y D
+plasminogen	36697271	Krishnan RP
+plasminogen	36697271	Ramani P
+plasminogen	36697271	Pandiar D
+plasminogen	36697271	Y D
+plasminogen	36697271	Krishnan RP
+plasminogen	36697271	Ramani P
+plasminogen	36697271	Pandiar D
+plasminogen	36697271	Y D
+tumor necrosis factor	36676975	Alsubaiei SRM
+tumor necrosis factor	36676975	Alfawaz HA
+tumor necrosis factor	36676975	Almubarak AY
+tumor necrosis factor	36676975	Alabdali NA
+tumor necrosis factor	36676975	Ben Bacha A
+tumor necrosis factor	36676975	El-Ansary A
+cortactin	36670631	Xie Y
+cortactin	36670631	Wang H
+cortactin	36670631	Hu B
+cortactin	36670631	Zhang X
+cortactin	36670631	Liu A
+cortactin	36670631	Cai C
+cortactin	36670631	Li S
+cortactin	36670631	Chen C
+cortactin	36670631	Wang Z
+cortactin	36670631	Yin Z
+cortactin	36670631	Wang M
+occludin	36662163	Bilgic A
+occludin	36662163	Ferahkaya H
+occludin	36662163	Karagoz H
+occludin	36662163	Kilinc I
+occludin	36662163	Energin VM
+vinculin	36662163	Bilgic A
+vinculin	36662163	Ferahkaya H
+vinculin	36662163	Karagoz H
+vinculin	36662163	Kilinc I
+vinculin	36662163	Energin VM
+paxillin	36662163	Bilgic A
+paxillin	36662163	Ferahkaya H
+paxillin	36662163	Karagoz H
+paxillin	36662163	Kilinc I
+paxillin	36662163	Energin VM
+occludin	36662163	Bilgic A
+occludin	36662163	Ferahkaya H
+occludin	36662163	Karagoz H
+occludin	36662163	Kilinc I
+occludin	36662163	Energin VM
+vinculin	36662163	Bilgic A
+vinculin	36662163	Ferahkaya H
+vinculin	36662163	Karagoz H
+vinculin	36662163	Kilinc I
+vinculin	36662163	Energin VM
+paxillin	36662163	Bilgic A
+paxillin	36662163	Ferahkaya H
+paxillin	36662163	Karagoz H
+paxillin	36662163	Kilinc I
+paxillin	36662163	Energin VM
+occludin	36662163	Bilgic A
+occludin	36662163	Ferahkaya H
+occludin	36662163	Karagoz H
+occludin	36662163	Kilinc I
+occludin	36662163	Energin VM
+vinculin	36662163	Bilgic A
+vinculin	36662163	Ferahkaya H
+vinculin	36662163	Karagoz H
+vinculin	36662163	Kilinc I
+vinculin	36662163	Energin VM
+paxillin	36662163	Bilgic A
+paxillin	36662163	Ferahkaya H
+paxillin	36662163	Karagoz H
+paxillin	36662163	Kilinc I
+paxillin	36662163	Energin VM
+occludin	36662163	Bilgic A
+occludin	36662163	Ferahkaya H
+occludin	36662163	Karagoz H
+occludin	36662163	Kilinc I
+occludin	36662163	Energin VM
+occludin	36662163	Bilgic A
+occludin	36662163	Ferahkaya H
+occludin	36662163	Karagoz H
+occludin	36662163	Kilinc I
+occludin	36662163	Energin VM
+paxillin	36662163	Bilgic A
+paxillin	36662163	Ferahkaya H
+paxillin	36662163	Karagoz H
+paxillin	36662163	Kilinc I
+paxillin	36662163	Energin VM
+vinculin	36662163	Bilgic A
+vinculin	36662163	Ferahkaya H
+vinculin	36662163	Karagoz H
+vinculin	36662163	Kilinc I
+vinculin	36662163	Energin VM
+neuronal hypoxia inducible, placenta associated	36650278	LaSalle JM
+catalase	36642103	Moghaddam AH
+catalase	36642103	Eslami A
+catalase	36642103	Jelodar SK
+catalase	36642103	Ranjbar M
+catalase	36642103	Hasantabar V
+phosphatase and tensin homolog	36626331	Smith IN
+phosphatase and tensin homolog	36626331	Dawson JE
+phosphatase and tensin homolog	36626331	Eng C
+multiple sclerosis	36624837	Fumagalli MR
+multiple sclerosis	36624837	Saro SM
+multiple sclerosis	36624837	Tajana M
+multiple sclerosis	36624837	Zapperi S
+multiple sclerosis	36624837	La Porta CAM
+euchromatic histone lysine methyltransferase 1	36617745	Colijn MA
+euchromatic histone lysine methyltransferase 1	36617745	Lakusta CM
+euchromatic histone lysine methyltransferase 1	36617745	Marcadier JL
+insulin	36615279	Panchal SK
+insulin	36615279	Brown L
+tumor necrosis factor	36613969	Eissa N
+tumor necrosis factor	36613969	Awad MA
+tumor necrosis factor	36613969	Thomas SD
+tumor necrosis factor	36613969	Venkatachalam K
+tumor necrosis factor	36613969	Jayaprakash P
+tumor necrosis factor	36613969	Zhong S
+tumor necrosis factor	36613969	Stark H
+tumor necrosis factor	36613969	Sadek B
+insulin	36573444	Erdogan MA
+insulin	36573444	Bozkurt MF
+insulin	36573444	Erbas O
+WD repeat domain 62	36571716	Xu D
+WD repeat domain 62	36571716	Zhi Y
+WD repeat domain 62	36571716	Liu X
+WD repeat domain 62	36571716	Guan L
+WD repeat domain 62	36571716	Yu J
+WD repeat domain 62	36571716	Zhang D
+WD repeat domain 62	36571716	Zhang W
+WD repeat domain 62	36571716	Wang Y
+WD repeat domain 62	36571716	Tao W
+WD repeat domain 62	36571716	Xu Z
+erythropoietin	36567653	Haratizadeh S
+erythropoietin	36567653	Ranjbar M
+erythropoietin	36567653	Darvishzadeh-Mahani F
+erythropoietin	36567653	Basiri M
+erythropoietin	36567653	Nozari M
+erythropoietin	36567653	Haratizadeh S
+erythropoietin	36567653	Ranjbar M
+erythropoietin	36567653	Darvishzadeh-Mahani F
+erythropoietin	36567653	Basiri M
+erythropoietin	36567653	Nozari M
+erythropoietin	36567653	Haratizadeh S
+erythropoietin	36567653	Ranjbar M
+erythropoietin	36567653	Darvishzadeh-Mahani F
+erythropoietin	36567653	Basiri M
+erythropoietin	36567653	Nozari M
+erythropoietin	36567653	Haratizadeh S
+erythropoietin	36567653	Ranjbar M
+erythropoietin	36567653	Darvishzadeh-Mahani F
+erythropoietin	36567653	Basiri M
+erythropoietin	36567653	Nozari M
+erythropoietin	36567653	Haratizadeh S
+erythropoietin	36567653	Ranjbar M
+erythropoietin	36567653	Darvishzadeh-Mahani F
+erythropoietin	36567653	Basiri M
+erythropoietin	36567653	Nozari M
+erythropoietin	36567653	Haratizadeh S
+erythropoietin	36567653	Ranjbar M
+erythropoietin	36567653	Darvishzadeh-Mahani F
+erythropoietin	36567653	Basiri M
+erythropoietin	36567653	Nozari M
+erythropoietin	36567653	Haratizadeh S
+erythropoietin	36567653	Ranjbar M
+erythropoietin	36567653	Darvishzadeh-Mahani F
+erythropoietin	36567653	Basiri M
+erythropoietin	36567653	Nozari M
+dystrophin	36565132	Pascual-Morena C
+dystrophin	36565132	Cavero-Redondo I
+dystrophin	36565132	Martinez-Vizcaino V
+dystrophin	36565132	Sequi-Dominguez I
+dystrophin	36565132	Fernandez-Bravo-Rodrigo J
+dystrophin	36565132	Jimenez-Lopez E
+dystrophin	36565132	Pascual-Morena C
+dystrophin	36565132	Cavero-Redondo I
+dystrophin	36565132	Martinez-Vizcaino V
+dystrophin	36565132	Sequi-Dominguez I
+dystrophin	36565132	Fernandez-Bravo-Rodrigo J
+dystrophin	36565132	Jimenez-Lopez E
+syntaxin 1A	36564538	Luppe J
+syntaxin 1A	36564538	Sticht H
+syntaxin 1A	36564538	Lecoquierre F
+syntaxin 1A	36564538	Goldenberg A
+syntaxin 1A	36564538	Gorman KM
+syntaxin 1A	36564538	Molloy B
+syntaxin 1A	36564538	Agolini E
+syntaxin 1A	36564538	Novelli A
+syntaxin 1A	36564538	Briuglia S
+syntaxin 1A	36564538	Kuismin O
+syntaxin 1A	36564538	Marcelis C
+syntaxin 1A	36564538	Vitobello A
+syntaxin 1A	36564538	Denomme-Pichon AS
+syntaxin 1A	36564538	Julia S
+syntaxin 1A	36564538	Lemke JR
+syntaxin 1A	36564538	Abou Jamra R
+syntaxin 1A	36564538	Platzer K
+glial fibrillary acidic protein	36561125	Elhefnawei DM
+glial fibrillary acidic protein	36561125	Mahmoud AH
+glial fibrillary acidic protein	36561125	Kadry MO
+glial fibrillary acidic protein	36561125	Al-Mokaddem AK
+glial fibrillary acidic protein	36561125	Badawy MA
+glial fibrillary acidic protein	36561125	El-Desouky MA
+fragile X messenger ribonucleoprotein 1	36553666	Aishworiya R
+fragile X messenger ribonucleoprotein 1	36553666	Protic D
+fragile X messenger ribonucleoprotein 1	36553666	Tang SJ
+fragile X messenger ribonucleoprotein 1	36553666	Schneider A
+fragile X messenger ribonucleoprotein 1	36553666	Tassone F
+fragile X messenger ribonucleoprotein 1	36553666	Hagerman R
+prolactin	36539734	Hermans RA
+prolactin	36539734	Ringeling LT
+prolactin	36539734	Liang K
+prolactin	36539734	Kloosterboer SM
+prolactin	36539734	de Winter BCM
+prolactin	36539734	Hillegers MHJ
+prolactin	36539734	Koch BCP
+prolactin	36539734	Dierckx B
+leptin	36539734	Hermans RA
+leptin	36539734	Ringeling LT
+leptin	36539734	Liang K
+leptin	36539734	Kloosterboer SM
+leptin	36539734	de Winter BCM
+leptin	36539734	Hillegers MHJ
+leptin	36539734	Koch BCP
+leptin	36539734	Dierckx B
+heterogeneous nuclear ribonucleoprotein L	36537238	Kerschbamer E
+heterogeneous nuclear ribonucleoprotein L	36537238	Arnoldi M
+heterogeneous nuclear ribonucleoprotein L	36537238	Tripathi T
+heterogeneous nuclear ribonucleoprotein L	36537238	Pellegrini M
+heterogeneous nuclear ribonucleoprotein L	36537238	Maturi S
+heterogeneous nuclear ribonucleoprotein L	36537238	Erdin S
+heterogeneous nuclear ribonucleoprotein L	36537238	Salviato E
+heterogeneous nuclear ribonucleoprotein L	36537238	Di Leva F
+heterogeneous nuclear ribonucleoprotein L	36537238	Sebestyen E
+heterogeneous nuclear ribonucleoprotein L	36537238	Dassi E
+heterogeneous nuclear ribonucleoprotein L	36537238	Zarantonello G
+heterogeneous nuclear ribonucleoprotein L	36537238	Benelli M
+heterogeneous nuclear ribonucleoprotein L	36537238	Campos E
+heterogeneous nuclear ribonucleoprotein L	36537238	Basson MA
+heterogeneous nuclear ribonucleoprotein L	36537238	Gusella JF
+heterogeneous nuclear ribonucleoprotein L	36537238	Gustincich S
+heterogeneous nuclear ribonucleoprotein L	36537238	Piazza S
+heterogeneous nuclear ribonucleoprotein L	36537238	Demichelis F
+heterogeneous nuclear ribonucleoprotein L	36537238	Talkowski ME
+heterogeneous nuclear ribonucleoprotein L	36537238	Ferrari F
+heterogeneous nuclear ribonucleoprotein L	36537238	Biagioli M
+insulin	36530472	Ermakova G
+insulin	36530472	Hou C
+insulin	36530472	Boudreau J
+insulin	36530472	Bendena WG
+insulin	36530472	Chin-Sang ID
+neuroligin 2	36479216	Zhang Z
+neuroligin 2	36479216	Hou M
+neuroligin 2	36479216	Ou H
+neuroligin 2	36479216	Wang D
+neuroligin 2	36479216	Li Z
+neuroligin 2	36479216	Zhang H
+neuroligin 2	36479216	Lu J
+neuroligin 3	36479216	Zhang Z
+neuroligin 3	36479216	Hou M
+neuroligin 3	36479216	Ou H
+neuroligin 3	36479216	Wang D
+neuroligin 3	36479216	Li Z
+neuroligin 3	36479216	Zhang H
+neuroligin 3	36479216	Lu J
+neuroligin 2	36479216	Zhang Z
+neuroligin 2	36479216	Hou M
+neuroligin 2	36479216	Ou H
+neuroligin 2	36479216	Wang D
+neuroligin 2	36479216	Li Z
+neuroligin 2	36479216	Zhang H
+neuroligin 2	36479216	Lu J
+neuroligin 3	36479216	Zhang Z
+neuroligin 3	36479216	Hou M
+neuroligin 3	36479216	Ou H
+neuroligin 3	36479216	Wang D
+neuroligin 3	36479216	Li Z
+neuroligin 3	36479216	Zhang H
+neuroligin 3	36479216	Lu J
+parvalbumin	36476879	Cao W
+parvalbumin	36476879	Li JH
+parvalbumin	36476879	Lin S
+parvalbumin	36476879	Xia QQ
+parvalbumin	36476879	Du YL
+parvalbumin	36476879	Yang Q
+parvalbumin	36476879	Ye YZ
+parvalbumin	36476879	Zeng LH
+parvalbumin	36476879	Li XY
+parvalbumin	36476879	Xu J
+parvalbumin	36476879	Luo JH
+neuroligin 3	36476879	Cao W
+neuroligin 3	36476879	Li JH
+neuroligin 3	36476879	Lin S
+neuroligin 3	36476879	Xia QQ
+neuroligin 3	36476879	Du YL
+neuroligin 3	36476879	Yang Q
+neuroligin 3	36476879	Ye YZ
+neuroligin 3	36476879	Zeng LH
+neuroligin 3	36476879	Li XY
+neuroligin 3	36476879	Xu J
+neuroligin 3	36476879	Luo JH
+parvalbumin	36476879	Cao W
+parvalbumin	36476879	Li JH
+parvalbumin	36476879	Lin S
+parvalbumin	36476879	Xia QQ
+parvalbumin	36476879	Du YL
+parvalbumin	36476879	Yang Q
+parvalbumin	36476879	Ye YZ
+parvalbumin	36476879	Zeng LH
+parvalbumin	36476879	Li XY
+parvalbumin	36476879	Xu J
+parvalbumin	36476879	Luo JH
+glutaredoxin	36468003	Sun JJ
+glutaredoxin	36468003	Chen B
+glutaredoxin	36468003	Yu T
+tyrosine hydroxylase	36421705	Maisterrena A
+tyrosine hydroxylase	36421705	Matas E
+tyrosine hydroxylase	36421705	Mirfendereski H
+tyrosine hydroxylase	36421705	Balbous A
+tyrosine hydroxylase	36421705	Marchand S
+tyrosine hydroxylase	36421705	Jaber M
+parvalbumin	36421705	Maisterrena A
+parvalbumin	36421705	Matas E
+parvalbumin	36421705	Mirfendereski H
+parvalbumin	36421705	Balbous A
+parvalbumin	36421705	Marchand S
+parvalbumin	36421705	Jaber M
+interleukin 17A	36414133	Dutra ML
+interleukin 17A	36414133	Dias P
+interleukin 17A	36414133	Freiberger V
+interleukin 17A	36414133	Ventura L
+interleukin 17A	36414133	Comim CM
+interleukin 17A	36414133	Martins DF
+interleukin 17A	36414133	Bobinski F
+transcription factor 4	36407762	Sirp A
+transcription factor 4	36407762	Shubina A
+transcription factor 4	36407762	Tuvikene J
+transcription factor 4	36407762	Tamberg L
+transcription factor 4	36407762	Kiir CS
+transcription factor 4	36407762	Kranich L
+transcription factor 4	36407762	Timmusk T
+renin	36406395	Yang X
+renin	36406395	Li J
+renin	36406395	Zhou Y
+renin	36406395	Zhang N
+renin	36406395	Liu J
+prolactin	36401485	Gai J
+prolactin	36401485	Xing J
+prolactin	36401485	Wang Y
+prolactin	36401485	Lei J
+prolactin	36401485	Zhang C
+prolactin	36401485	Zhang J
+prolactin	36401485	Tang J
+nerve growth factor	36398773	Filippova YY
+nerve growth factor	36398773	Devyatova EV
+nerve growth factor	36398773	Alekseeva AS
+nerve growth factor	36398773	Burmistrova AL
+nerve growth factor	36398773	Filippova YY
+nerve growth factor	36398773	Devyatova EV
+nerve growth factor	36398773	Alekseeva AS
+nerve growth factor	36398773	Burmistrova AL
+multiple sclerosis	36389228	Bashir Y
+multiple sclerosis	36389228	Khan AU
+fibroblast growth factor 3	36376059	Gracia-Darder I
+fibroblast growth factor 3	36376059	Llull Ramos A
+fibroblast growth factor 3	36376059	Giacaman A
+fibroblast growth factor 3	36376059	Gomez Bellvert C
+fibroblast growth factor 3	36376059	Obrador-Hevia A
+fibroblast growth factor 3	36376059	Jubert Esteve E
+fibroblast growth factor 3	36376059	Martin-Santiago A
+somatostatin	36373424	Cumberland A
+somatostatin	36373424	Hale N
+somatostatin	36373424	Azhan A
+somatostatin	36373424	Gilchrist CP
+somatostatin	36373424	Chincarini G
+somatostatin	36373424	Tolcos M
+C-reactive protein	36364000	Nakhal MM
+C-reactive protein	36364000	Aburuz S
+C-reactive protein	36364000	Sadek B
+C-reactive protein	36364000	Akour A
+tumor necrosis factor	36364000	Nakhal MM
+tumor necrosis factor	36364000	Aburuz S
+tumor necrosis factor	36364000	Sadek B
+tumor necrosis factor	36364000	Akour A
+multiple sclerosis	36334596	Pellegrini C
+multiple sclerosis	36334596	Fornai M
+multiple sclerosis	36334596	D'Antongiovanni V
+multiple sclerosis	36334596	Antonioli L
+multiple sclerosis	36334596	Bernardini N
+multiple sclerosis	36334596	Derkinderen P
+neurofilament light chain	36326357	Paketci C
+neurofilament light chain	36326357	Ermis C
+neurofilament light chain	36326357	Sisman AR
+neurofilament light chain	36326357	Hiz S
+neurofilament light chain	36326357	Baykara B
+neurofilament light chain	36326357	Yis U
+neurofilament light chain	36326357	Paketci C
+neurofilament light chain	36326357	Ermis C
+neurofilament light chain	36326357	Sisman AR
+neurofilament light chain	36326357	Hiz S
+neurofilament light chain	36326357	Baykara B
+neurofilament light chain	36326357	Yis U
+dystrophin	36315559	Iskandar K
+dystrophin	36315559	Triono A
+dystrophin	36315559	Sunartini
+dystrophin	36315559	Dwianingsih EK
+dystrophin	36315559	Indraswari BW
+dystrophin	36315559	Kirana IR
+dystrophin	36315559	Ivana G
+dystrophin	36315559	Sutomo R
+dystrophin	36315559	Patria SY
+dystrophin	36315559	Herini ES
+dystrophin	36315559	Gunadi
+dystrophin	36315559	Iskandar K
+dystrophin	36315559	Triono A
+dystrophin	36315559	Sunartini
+dystrophin	36315559	Dwianingsih EK
+dystrophin	36315559	Indraswari BW
+dystrophin	36315559	Kirana IR
+dystrophin	36315559	Ivana G
+dystrophin	36315559	Sutomo R
+dystrophin	36315559	Patria SY
+dystrophin	36315559	Herini ES
+dystrophin	36315559	Gunadi
+insulin	36310155	Zaki JK
+insulin	36310155	Lago SG
+insulin	36310155	Rustogi N
+insulin	36310155	Gangadin SS
+insulin	36310155	Benacek J
+insulin	36310155	van Rees GF
+insulin	36310155	Haenisch F
+insulin	36310155	Broek JA
+insulin	36310155	Suarez-Pinilla P
+insulin	36310155	Ruland T
+insulin	36310155	Auyeung B
+insulin	36310155	Mikova O
+insulin	36310155	Kabacs N
+insulin	36310155	Arolt V
+insulin	36310155	Baron-Cohen S
+insulin	36310155	Crespo-Facorro B
+insulin	36310155	Drexhage HA
+insulin	36310155	de Witte LD
+insulin	36310155	Kahn RS
+insulin	36310155	Sommer IE
+insulin	36310155	Bahn S
+insulin	36310155	Tomasik J
+glucagon	36307249	Bhalla S
+glucagon	36307249	Mehan S
+insulin	36307249	Bhalla S
+insulin	36307249	Mehan S
+interferon gamma	36300375	Majerczyk D
+interferon gamma	36300375	Ayad EG
+interferon gamma	36300375	Brewton KL
+interferon gamma	36300375	Saing P
+interferon gamma	36300375	Hart PC
+interleukin 6	36300375	Majerczyk D
+interleukin 6	36300375	Ayad EG
+interleukin 6	36300375	Brewton KL
+interleukin 6	36300375	Saing P
+interleukin 6	36300375	Hart PC
+insulin receptor	36291644	Svirin E
+insulin receptor	36291644	de Munter J
+insulin receptor	36291644	Umriukhin A
+insulin receptor	36291644	Sheveleva E
+insulin receptor	36291644	Kalueff AV
+insulin receptor	36291644	Svistunov A
+insulin receptor	36291644	Morozov S
+insulin receptor	36291644	Walitza S
+insulin receptor	36291644	Strekalova T
+insulin receptor	36291644	Svirin E
+insulin receptor	36291644	de Munter J
+insulin receptor	36291644	Umriukhin A
+insulin receptor	36291644	Sheveleva E
+insulin receptor	36291644	Kalueff AV
+insulin receptor	36291644	Svistunov A
+insulin receptor	36291644	Morozov S
+insulin receptor	36291644	Walitza S
+insulin receptor	36291644	Strekalova T
+thyroid hormone receptor interactor 12	36275919	Yi S
+thyroid hormone receptor interactor 12	36275919	Chen F
+thyroid hormone receptor interactor 12	36275919	Qin Z
+thyroid hormone receptor interactor 12	36275919	Yi S
+thyroid hormone receptor interactor 12	36275919	Huang L
+thyroid hormone receptor interactor 12	36275919	Huang L
+thyroid hormone receptor interactor 12	36275919	Feng Y
+thyroid hormone receptor interactor 12	36275919	Wei H
+thyroid hormone receptor interactor 12	36275919	Yang Q
+thyroid hormone receptor interactor 12	36275919	Zhang Q
+thyroid hormone receptor interactor 12	36275919	Luo J
+adenylosuccinate lyase	36271826	Sitaram S
+adenylosuccinate lyase	36271826	Banka HC
+adenylosuccinate lyase	36271826	Vassallo G
+adenylosuccinate lyase	36271826	Pavaine J
+adenylosuccinate lyase	36271826	Fairclough A
+adenylosuccinate lyase	36271826	Wright R
+adenylosuccinate lyase	36271826	Fairbanks L
+adenylosuccinate lyase	36271826	Bierau J
+adenylosuccinate lyase	36271826	Bowden L
+adenylosuccinate lyase	36271826	Schwahn B
+adenylosuccinate lyase	36271826	Horman A
+adenylosuccinate lyase	36271826	Banka S
+Janus kinase 2	36267781	Wei RQ
+Janus kinase 2	36267781	Guo WL
+Janus kinase 2	36267781	Wu YT
+Janus kinase 2	36267781	Alarcon Rodriguez R
+Janus kinase 2	36267781	Requena Mullor MDM
+Janus kinase 2	36267781	Gui YC
+Janus kinase 2	36267781	Xu JW
+transferrin	36265207	DelRosso LM
+transferrin	36265207	Reuter-Yuill LM
+transferrin	36265207	Cho Y
+transferrin	36265207	Ferri R
+transferrin	36265207	Mogavero MP
+transferrin	36265207	Picchietti DL
+multiple sclerosis	36257595	Iannone LF
+multiple sclerosis	36257595	Gomez-Eguilaz M
+multiple sclerosis	36257595	De Caro C
+prolactin	36249785	Stolar O
+prolactin	36249785	Hazan A
+prolactin	36249785	Vissoker RE
+prolactin	36249785	Kishk IA
+prolactin	36249785	Barchel D
+prolactin	36249785	Lezinger M
+prolactin	36249785	Dagan A
+prolactin	36249785	Treves N
+prolactin	36249785	Meiri D
+prolactin	36249785	Berkovitch M
+prolactin	36249785	Kohn E
+prolactin	36249785	Heyman E
+caspase 8	36247010	Frontiers Production Office
+monoamine oxidase A	36243286	Syu GD
+monoamine oxidase A	36243286	Sutandy FXR
+monoamine oxidase A	36243286	Chen K
+monoamine oxidase A	36243286	Cheng Y
+monoamine oxidase A	36243286	Chen CS
+monoamine oxidase A	36243286	Shih JC
+arginine vasopressin	36239083	Zhou B
+arginine vasopressin	36239083	Yan X
+arginine vasopressin	36239083	Yang L
+arginine vasopressin	36239083	Zheng X
+arginine vasopressin	36239083	Chen Y
+arginine vasopressin	36239083	Liu Y
+arginine vasopressin	36239083	Ren Y
+arginine vasopressin	36239083	Peng J
+arginine vasopressin	36239083	Zhang Y
+arginine vasopressin	36239083	Huang J
+arginine vasopressin	36239083	Tang L
+arginine vasopressin	36239083	Wen M
+arginine vasopressin	36239083	Zhou B
+arginine vasopressin	36239083	Yan X
+arginine vasopressin	36239083	Yang L
+arginine vasopressin	36239083	Zheng X
+arginine vasopressin	36239083	Chen Y
+arginine vasopressin	36239083	Liu Y
+arginine vasopressin	36239083	Ren Y
+arginine vasopressin	36239083	Peng J
+arginine vasopressin	36239083	Zhang Y
+arginine vasopressin	36239083	Huang J
+arginine vasopressin	36239083	Tang L
+arginine vasopressin	36239083	Wen M
+protein kinase C beta	36239013	Song X
+protein kinase C beta	36239013	Hu Q
+protein kinase C beta	36239013	Xu X
+protein kinase C beta	36239013	Pan W
+uncoupling protein 1	36239013	Song X
+uncoupling protein 1	36239013	Hu Q
+uncoupling protein 1	36239013	Xu X
+uncoupling protein 1	36239013	Pan W
+protein kinase C beta	36239013	Song X
+protein kinase C beta	36239013	Hu Q
+protein kinase C beta	36239013	Xu X
+protein kinase C beta	36239013	Pan W
+uncoupling protein 1	36239013	Song X
+uncoupling protein 1	36239013	Hu Q
+uncoupling protein 1	36239013	Xu X
+uncoupling protein 1	36239013	Pan W
+C-reactive protein	36226108	Silvestri R
+C-reactive protein	36226108	Ipsiroglu OS
+transferrin	36226108	Silvestri R
+transferrin	36226108	Ipsiroglu OS
+chromodomain helicase DNA binding protein 8	36222238	Coakley-Youngs E
+chromodomain helicase DNA binding protein 8	36222238	Ranatunga M
+chromodomain helicase DNA binding protein 8	36222238	Richardson S
+chromodomain helicase DNA binding protein 8	36222238	Getti G
+chromodomain helicase DNA binding protein 8	36222238	Shorter S
+chromodomain helicase DNA binding protein 8	36222238	Fivaz M
+myelin basic protein	36170102	Brusov OS
+myelin basic protein	36170102	Klyushnik TP
+myelin basic protein	36170102	Zozulya SA
+myelin basic protein	36170102	Karpova NS
+myelin basic protein	36170102	Shilov YE
+myelin basic protein	36170102	Nikitina SG
+myelin basic protein	36170102	Simashkova NV
+catalase	36154275	Anne A
+catalase	36154275	Saxena S
+catalase	36154275	Mohan KN
+dopamine beta-hydroxylase	36143905	Wongpaiboonwattana W
+dopamine beta-hydroxylase	36143905	Hnoonual A
+dopamine beta-hydroxylase	36143905	Limprasert P
+dopamine beta-hydroxylase	36143905	Wongpaiboonwattana W
+dopamine beta-hydroxylase	36143905	Hnoonual A
+dopamine beta-hydroxylase	36143905	Limprasert P
+Coats disease	34978780	Pappas J
+Coats disease	34978780	Rabin R
+Coats disease	34978780	Pappas J
+Coats disease	34978780	Rabin R
+parvalbumin	36127322	Carey C
+parvalbumin	36127322	Singh N
+parvalbumin	36127322	Dunn JT
+parvalbumin	36127322	Sementa T
+parvalbumin	36127322	Mendez MA
+parvalbumin	36127322	Velthuis H
+parvalbumin	36127322	Pereira AC
+parvalbumin	36127322	Pretzsch CM
+parvalbumin	36127322	Horder J
+parvalbumin	36127322	Hader S
+parvalbumin	36127322	Lythgoe DJ
+parvalbumin	36127322	Rotaru DG
+parvalbumin	36127322	Gee A
+parvalbumin	36127322	Cash D
+parvalbumin	36127322	Veronese M
+parvalbumin	36127322	Murphy D
+parvalbumin	36127322	McAlonan G
+glutamate decarboxylase 1	36113682	Singla R
+glutamate decarboxylase 1	36113682	Mishra A
+glutamate decarboxylase 1	36113682	Joshi R
+glutamate decarboxylase 1	36113682	Sarma P
+glutamate decarboxylase 1	36113682	Kumar R
+glutamate decarboxylase 1	36113682	Kaur G
+glutamate decarboxylase 1	36113682	Sharma AR
+glutamate decarboxylase 1	36113682	Jain A
+glutamate decarboxylase 1	36113682	Prakash A
+glutamate decarboxylase 1	36113682	Bhatia A
+glutamate decarboxylase 1	36113682	Medhi B
+folate receptor alpha	36112150	Phunsawat P
+folate receptor alpha	36112150	Chiangjong W
+folate receptor alpha	36112150	Chutipongtanate S
+folate receptor alpha	36112150	Dumrongwongsiri O
+folate receptor alpha	36112150	Thommachot P
+folate receptor alpha	36112150	Butdawong W
+folate receptor alpha	36112150	Chuthapisith J
+reelin	36094739	Takashima K
+reelin	36094739	Okano H
+reelin	36094739	Ojiro R
+reelin	36094739	Tang Q
+reelin	36094739	Takahashi Y
+reelin	36094739	Ozawa S
+reelin	36094739	Zou X
+reelin	36094739	Koyanagi M
+reelin	36094739	Maronpot RR
+reelin	36094739	Yoshida T
+reelin	36094739	Shibutani M
+adhesion G protein-coupled receptor L3	36082049	Maurer MH
+adhesion G protein-coupled receptor L3	36082049	Kohler A
+adhesion G protein-coupled receptor L3	36082049	Hudemann M
+adhesion G protein-coupled receptor L3	36082049	Jungling J
+adhesion G protein-coupled receptor L3	36082049	Biskup S
+adhesion G protein-coupled receptor L3	36082049	Menzel M
+monoamine oxidase B	36072563	Choi J
+monoamine oxidase B	36072563	Kim YS
+monoamine oxidase B	36072563	Kim MH
+monoamine oxidase B	36072563	Kim HJ
+monoamine oxidase B	36072563	Yoon BE
+nuclear receptor subfamily 4 group A member 1	36059036	Zhang Y
+nuclear receptor subfamily 4 group A member 1	36059036	Pang Y
+nuclear receptor subfamily 4 group A member 1	36059036	Feng W
+nuclear receptor subfamily 4 group A member 1	36059036	Jin Y
+nuclear receptor subfamily 4 group A member 1	36059036	Chen S
+nuclear receptor subfamily 4 group A member 1	36059036	Ding S
+nuclear receptor subfamily 4 group A member 1	36059036	Wang Z
+nuclear receptor subfamily 4 group A member 1	36059036	Zou Y
+nuclear receptor subfamily 4 group A member 1	36059036	Li Y
+nuclear receptor subfamily 4 group A member 1	36059036	Wang T
+nuclear receptor subfamily 4 group A member 1	36059036	Sun P
+nuclear receptor subfamily 4 group A member 1	36059036	Gao J
+nuclear receptor subfamily 4 group A member 1	36059036	Zhu Y
+nuclear receptor subfamily 4 group A member 1	36059036	Ke X
+nuclear receptor subfamily 4 group A member 1	36059036	Marshall C
+nuclear receptor subfamily 4 group A member 1	36059036	Huang H
+nuclear receptor subfamily 4 group A member 1	36059036	Sheng C
+nuclear receptor subfamily 4 group A member 1	36059036	Xiao M
+arginine-glutamic acid dipeptide repeats	36053530	Niehaus AD
+arginine-glutamic acid dipeptide repeats	36053530	Kim J
+arginine-glutamic acid dipeptide repeats	36053530	Manning MA
+retinoic acid receptor alpha	36036133	Li LS
+retinoic acid receptor alpha	36036133	Zhang Q
+retinoic acid receptor alpha	36036133	Liu H
+retinoic acid receptor alpha	36036133	Wu QH
+retinoic acid receptor alpha	36036133	Yang T
+retinoic acid receptor alpha	36036133	Chen J
+retinoic acid receptor alpha	36036133	Li TY
+neurexin 1	36036133	Li LS
+neurexin 1	36036133	Zhang Q
+neurexin 1	36036133	Liu H
+neurexin 1	36036133	Wu QH
+neurexin 1	36036133	Yang T
+neurexin 1	36036133	Chen J
+neurexin 1	36036133	Li TY
+retinoic acid receptor alpha	36036133	Li LS
+retinoic acid receptor alpha	36036133	Zhang Q
+retinoic acid receptor alpha	36036133	Liu H
+retinoic acid receptor alpha	36036133	Wu QH
+retinoic acid receptor alpha	36036133	Yang T
+retinoic acid receptor alpha	36036133	Chen J
+retinoic acid receptor alpha	36036133	Li TY
+neurexin 1	36036133	Li LS
+neurexin 1	36036133	Zhang Q
+neurexin 1	36036133	Liu H
+neurexin 1	36036133	Wu QH
+neurexin 1	36036133	Yang T
+neurexin 1	36036133	Chen J
+neurexin 1	36036133	Li TY
+retinoic acid receptor alpha	36036133	Li LS
+retinoic acid receptor alpha	36036133	Zhang Q
+retinoic acid receptor alpha	36036133	Liu H
+retinoic acid receptor alpha	36036133	Wu QH
+retinoic acid receptor alpha	36036133	Yang T
+retinoic acid receptor alpha	36036133	Chen J
+retinoic acid receptor alpha	36036133	Li TY
+neurexin 1	36036133	Li LS
+neurexin 1	36036133	Zhang Q
+neurexin 1	36036133	Liu H
+neurexin 1	36036133	Wu QH
+neurexin 1	36036133	Yang T
+neurexin 1	36036133	Chen J
+neurexin 1	36036133	Li TY
+interferon gamma	36009104	Tamayo JM
+interferon gamma	36009104	Rose D
+interferon gamma	36009104	Church JS
+interferon gamma	36009104	Schwartzer JJ
+interferon gamma	36009104	Ashwood P
+tumor necrosis factor	36009104	Tamayo JM
+tumor necrosis factor	36009104	Rose D
+tumor necrosis factor	36009104	Church JS
+tumor necrosis factor	36009104	Schwartzer JJ
+tumor necrosis factor	36009104	Ashwood P
+arginine vasopressin	35995237	Sen P
+arginine vasopressin	35995237	Sherwin E
+arginine vasopressin	35995237	Sandhu K
+arginine vasopressin	35995237	Bastiaanssen TFS
+arginine vasopressin	35995237	Moloney GM
+arginine vasopressin	35995237	Golubeva A
+arginine vasopressin	35995237	Fitzgerald P
+arginine vasopressin	35995237	Paula Ventura Da Silva A
+arginine vasopressin	35995237	Chruscicka-Smaga B
+arginine vasopressin	35995237	Olavarria-Ramirez L
+arginine vasopressin	35995237	Druelle C
+arginine vasopressin	35995237	Campos D
+arginine vasopressin	35995237	Jayaprakash P
+arginine vasopressin	35995237	Rea K
+arginine vasopressin	35995237	Jeffery IB
+arginine vasopressin	35995237	Savignac H
+arginine vasopressin	35995237	Chetal S
+arginine vasopressin	35995237	Mulder I
+arginine vasopressin	35995237	Schellekens H
+arginine vasopressin	35995237	Dinan TG
+arginine vasopressin	35995237	Cryan JF
+multiple sclerosis	35989698	Anyachor CP
+multiple sclerosis	35989698	Dooka DB
+multiple sclerosis	35989698	Orish CN
+multiple sclerosis	35989698	Amadi CN
+multiple sclerosis	35989698	Bocca B
+multiple sclerosis	35989698	Ruggieri F
+multiple sclerosis	35989698	Senofonte M
+multiple sclerosis	35989698	Frazzoli C
+multiple sclerosis	35989698	Orisakwe OE
+doublecortin	35975241	Rozhkova IN
+doublecortin	35975241	Okotrub SV
+doublecortin	35975241	Brusentsev EY
+doublecortin	35975241	Uldanova EE
+doublecortin	35975241	Chuyko Ecapital A, Cyrillic
+doublecortin	35975241	Lipina TV
+doublecortin	35975241	Amstislavskaya TG
+doublecortin	35975241	Amstislavsky SY
+insulin	35962006	Robinson-Agramonte MLA
+insulin	35962006	Michalski B
+insulin	35962006	Vidal-Martinez B
+insulin	35962006	Hernandez LR
+insulin	35962006	Santiesteban MW
+insulin	35962006	Fahnestock M
+histone deacetylase 2	35959102	Shirinian M
+histone deacetylase 2	35959102	Chen C
+histone deacetylase 2	35959102	Uchida S
+histone deacetylase 2	35959102	Jadavji NM
+ST8 alpha-N-acetyl-neuraminide alpha-2,8-sialyltransferase 2	35957920	Yang X
+ST8 alpha-N-acetyl-neuraminide alpha-2,8-sialyltransferase 2	35957920	Li L
+ST8 alpha-N-acetyl-neuraminide alpha-2,8-sialyltransferase 2	35957920	Chai X
+ST8 alpha-N-acetyl-neuraminide alpha-2,8-sialyltransferase 2	35957920	Liu J
+vitamin D receptor	35953654	Zhang Z
+vitamin D receptor	35953654	Liu J
+vitamin D receptor	35953654	Jiang G
+vitamin D receptor	35953654	Yu H
+multiple sclerosis	35944870	Kattner AA
+dopamine receptor D1	35941573	Sherman HT
+dopamine receptor D1	35941573	Liu K
+dopamine receptor D1	35941573	Kwong K
+dopamine receptor D1	35941573	Chan ST
+dopamine receptor D1	35941573	Li AC
+dopamine receptor D1	35941573	Kong XJ
+methylenetetrahydrofolate reductase	35929945	Xu S
+methylenetetrahydrofolate reductase	35929945	Men S
+methylenetetrahydrofolate reductase	35929945	Wang X
+methylenetetrahydrofolate reductase	35929945	Zhan F
+methylenetetrahydrofolate reductase	35929945	Yuan X
+D-aspartate oxidase	35915065	Lombardo B
+D-aspartate oxidase	35915065	Pagani M
+D-aspartate oxidase	35915065	De Rosa A
+D-aspartate oxidase	35915065	Nunziato M
+D-aspartate oxidase	35915065	Migliarini S
+D-aspartate oxidase	35915065	Garofalo M
+D-aspartate oxidase	35915065	Terrile M
+D-aspartate oxidase	35915065	D'Argenio V
+D-aspartate oxidase	35915065	Galbusera A
+D-aspartate oxidase	35915065	Nuzzo T
+D-aspartate oxidase	35915065	Ranieri A
+D-aspartate oxidase	35915065	Vitale A
+D-aspartate oxidase	35915065	Leggiero E
+D-aspartate oxidase	35915065	Di Maio A
+D-aspartate oxidase	35915065	Barsotti N
+D-aspartate oxidase	35915065	Borello U
+D-aspartate oxidase	35915065	Napolitano F
+D-aspartate oxidase	35915065	Mandarino A
+D-aspartate oxidase	35915065	Carotenuto M
+D-aspartate oxidase	35915065	Heresco-Levy U
+D-aspartate oxidase	35915065	Pasqualetti M
+D-aspartate oxidase	35915065	Malatesta P
+D-aspartate oxidase	35915065	Gozzi A
+D-aspartate oxidase	35915065	Errico F
+D-aspartate oxidase	35915065	Salvatore F
+D-aspartate oxidase	35915065	Pastore L
+D-aspartate oxidase	35915065	Usiello A
+D-aspartate oxidase	35915065	Lombardo B
+D-aspartate oxidase	35915065	Pagani M
+D-aspartate oxidase	35915065	De Rosa A
+D-aspartate oxidase	35915065	Nunziato M
+D-aspartate oxidase	35915065	Migliarini S
+D-aspartate oxidase	35915065	Garofalo M
+D-aspartate oxidase	35915065	Terrile M
+D-aspartate oxidase	35915065	D'Argenio V
+D-aspartate oxidase	35915065	Galbusera A
+D-aspartate oxidase	35915065	Nuzzo T
+D-aspartate oxidase	35915065	Ranieri A
+D-aspartate oxidase	35915065	Vitale A
+D-aspartate oxidase	35915065	Leggiero E
+D-aspartate oxidase	35915065	Di Maio A
+D-aspartate oxidase	35915065	Barsotti N
+D-aspartate oxidase	35915065	Borello U
+D-aspartate oxidase	35915065	Napolitano F
+D-aspartate oxidase	35915065	Mandarino A
+D-aspartate oxidase	35915065	Carotenuto M
+D-aspartate oxidase	35915065	Heresco-Levy U
+D-aspartate oxidase	35915065	Pasqualetti M
+D-aspartate oxidase	35915065	Malatesta P
+D-aspartate oxidase	35915065	Gozzi A
+D-aspartate oxidase	35915065	Errico F
+D-aspartate oxidase	35915065	Salvatore F
+D-aspartate oxidase	35915065	Pastore L
+D-aspartate oxidase	35915065	Usiello A
+oxytocin receptor	35908894	Takayama K
+oxytocin receptor	35908894	Tobori S
+oxytocin receptor	35908894	Andoh C
+oxytocin receptor	35908894	Kakae M
+oxytocin receptor	35908894	Hagiwara M
+oxytocin receptor	35908894	Nagayasu K
+oxytocin receptor	35908894	Shirakawa H
+oxytocin receptor	35908894	Ago Y
+oxytocin receptor	35908894	Kaneko S
+parvalbumin	35907861	Mueller FS
+parvalbumin	35907861	Amport R
+parvalbumin	35907861	Notter T
+parvalbumin	35907861	Schalbetter SM
+parvalbumin	35907861	Lin HY
+parvalbumin	35907861	Garajova Z
+parvalbumin	35907861	Amini P
+parvalbumin	35907861	Weber-Stadlbauer U
+parvalbumin	35907861	Markkanen E
+C-C motif chemokine ligand 3	35906621	Ishihara Y
+C-C motif chemokine ligand 3	35906621	Honda T
+C-C motif chemokine ligand 3	35906621	Ishihara N
+C-C motif chemokine ligand 3	35906621	Namba K
+C-C motif chemokine ligand 3	35906621	Taketoshi M
+C-C motif chemokine ligand 3	35906621	Tominaga Y
+C-C motif chemokine ligand 3	35906621	Tsuji M
+C-C motif chemokine ligand 3	35906621	Vogel CFA
+C-C motif chemokine ligand 3	35906621	Yamazaki T
+C-C motif chemokine ligand 3	35906621	Itoh K
+C-C motif chemokine ligand 3	35906621	Tominaga T
+nerve growth factor	35904498	Durankus F
+nerve growth factor	35904498	Albayrak Y
+nerve growth factor	35904498	Erdogan F
+nerve growth factor	35904498	Albayrak N
+nerve growth factor	35904498	Erdogan MA
+nerve growth factor	35904498	Erbas O
+insulin	35897673	Kummer S
+insulin	35897673	Rinne S
+insulin	35897673	Seemann G
+insulin	35897673	Bachmann N
+insulin	35897673	Timothy K
+insulin	35897673	Thornton PS
+insulin	35897673	Pillekamp F
+insulin	35897673	Mayatepek E
+insulin	35897673	Bergmann C
+insulin	35897673	Meissner T
+insulin	35897673	Decher N
+leptin	35888736	Guiducci L
+leptin	35888736	Vassalle C
+leptin	35888736	Prosperi M
+leptin	35888736	Santocchi E
+leptin	35888736	Morales MA
+leptin	35888736	Muratori F
+leptin	35888736	Calderoni S
+insulin	35888736	Guiducci L
+insulin	35888736	Vassalle C
+insulin	35888736	Prosperi M
+insulin	35888736	Santocchi E
+insulin	35888736	Morales MA
+insulin	35888736	Muratori F
+insulin	35888736	Calderoni S
+resistin	35888736	Guiducci L
+resistin	35888736	Vassalle C
+resistin	35888736	Prosperi M
+resistin	35888736	Santocchi E
+resistin	35888736	Morales MA
+resistin	35888736	Muratori F
+resistin	35888736	Calderoni S
+leptin	35888736	Guiducci L
+leptin	35888736	Vassalle C
+leptin	35888736	Prosperi M
+leptin	35888736	Santocchi E
+leptin	35888736	Morales MA
+leptin	35888736	Muratori F
+leptin	35888736	Calderoni S
+leptin	35888736	Guiducci L
+leptin	35888736	Vassalle C
+leptin	35888736	Prosperi M
+leptin	35888736	Santocchi E
+leptin	35888736	Morales MA
+leptin	35888736	Muratori F
+leptin	35888736	Calderoni S
+oxytocin receptor	35888641	Florea T
+oxytocin receptor	35888641	Palimariciuc M
+oxytocin receptor	35888641	Cristofor AC
+oxytocin receptor	35888641	Dobrin I
+oxytocin receptor	35888641	Chirita R
+oxytocin receptor	35888641	Birsan M
+oxytocin receptor	35888641	Dobrin RP
+oxytocin receptor	35888641	Padurariu M
+albumin	35883654	Jagadapillai R
+albumin	35883654	Qiu X
+albumin	35883654	Ojha K
+albumin	35883654	Li Z
+albumin	35883654	El-Baz A
+albumin	35883654	Zou S
+albumin	35883654	Gozal E
+albumin	35883654	Barnes GN
+C-reactive protein	35878480	Esnafoglu E
+C-reactive protein	35878480	Subasi B
+C-reactive protein	35878480	Esnafoglu E
+C-reactive protein	35878480	Subasi B
+parvalbumin	35869039	Xiang L
+parvalbumin	35869039	Wu Q
+parvalbumin	35869039	Sun H
+parvalbumin	35869039	Miao X
+parvalbumin	35869039	Lv Z
+parvalbumin	35869039	Liu H
+parvalbumin	35869039	Chen L
+parvalbumin	35869039	Gu Y
+parvalbumin	35869039	Chen J
+parvalbumin	35869039	Zhou S
+parvalbumin	35869039	Jiang H
+parvalbumin	35869039	Du S
+parvalbumin	35869039	Zhou Y
+parvalbumin	35869039	Dong H
+parvalbumin	35869039	Fan Y
+parvalbumin	35869039	Miao S
+parvalbumin	35869039	Lu Q
+parvalbumin	35869039	Chang L
+parvalbumin	35869039	Wang H
+parvalbumin	35869039	Lu Y
+parvalbumin	35869039	Xu X
+parvalbumin	35869039	Wang W
+parvalbumin	35869039	Huang Z
+parvalbumin	35869039	Xiang L
+parvalbumin	35869039	Wu Q
+parvalbumin	35869039	Sun H
+parvalbumin	35869039	Miao X
+parvalbumin	35869039	Lv Z
+parvalbumin	35869039	Liu H
+parvalbumin	35869039	Chen L
+parvalbumin	35869039	Gu Y
+parvalbumin	35869039	Chen J
+parvalbumin	35869039	Zhou S
+parvalbumin	35869039	Jiang H
+parvalbumin	35869039	Du S
+parvalbumin	35869039	Zhou Y
+parvalbumin	35869039	Dong H
+parvalbumin	35869039	Fan Y
+parvalbumin	35869039	Miao S
+parvalbumin	35869039	Lu Q
+parvalbumin	35869039	Chang L
+parvalbumin	35869039	Wang H
+parvalbumin	35869039	Lu Y
+parvalbumin	35869039	Xu X
+parvalbumin	35869039	Wang W
+parvalbumin	35869039	Huang Z
+parvalbumin	35869039	Xiang L
+parvalbumin	35869039	Wu Q
+parvalbumin	35869039	Sun H
+parvalbumin	35869039	Miao X
+parvalbumin	35869039	Lv Z
+parvalbumin	35869039	Liu H
+parvalbumin	35869039	Chen L
+parvalbumin	35869039	Gu Y
+parvalbumin	35869039	Chen J
+parvalbumin	35869039	Zhou S
+parvalbumin	35869039	Jiang H
+parvalbumin	35869039	Du S
+parvalbumin	35869039	Zhou Y
+parvalbumin	35869039	Dong H
+parvalbumin	35869039	Fan Y
+parvalbumin	35869039	Miao S
+parvalbumin	35869039	Lu Q
+parvalbumin	35869039	Chang L
+parvalbumin	35869039	Wang H
+parvalbumin	35869039	Lu Y
+parvalbumin	35869039	Xu X
+parvalbumin	35869039	Wang W
+parvalbumin	35869039	Huang Z
+FOXP3 regulating long intergenic non-coding RNA	35860502	Akbari M
+FOXP3 regulating long intergenic non-coding RNA	35860502	Eghtedarian R
+FOXP3 regulating long intergenic non-coding RNA	35860502	Hussen BM
+FOXP3 regulating long intergenic non-coding RNA	35860502	Eslami S
+FOXP3 regulating long intergenic non-coding RNA	35860502	Taheri M
+FOXP3 regulating long intergenic non-coding RNA	35860502	Neishabouri SM
+FOXP3 regulating long intergenic non-coding RNA	35860502	Ghafouri-Fard S
+protocadherin 19	35860011	Johannessen M
+protocadherin 19	35860011	Kjellsen IM
+protocadherin 19	35860011	Malt E
+oxytocin receptor	35858098	Frehner SS
+oxytocin receptor	35858098	Dooley KT
+oxytocin receptor	35858098	Palumbo MC
+oxytocin receptor	35858098	Smith AL
+oxytocin receptor	35858098	Goodman MM
+oxytocin receptor	35858098	Bales KL
+oxytocin receptor	35858098	Freeman SM
+oxytocin receptor	35858098	Frehner SS
+oxytocin receptor	35858098	Dooley KT
+oxytocin receptor	35858098	Palumbo MC
+oxytocin receptor	35858098	Smith AL
+oxytocin receptor	35858098	Goodman MM
+oxytocin receptor	35858098	Bales KL
+oxytocin receptor	35858098	Freeman SM
+tyrosine hydroxylase	35858098	Frehner SS
+tyrosine hydroxylase	35858098	Dooley KT
+tyrosine hydroxylase	35858098	Palumbo MC
+tyrosine hydroxylase	35858098	Smith AL
+tyrosine hydroxylase	35858098	Goodman MM
+tyrosine hydroxylase	35858098	Bales KL
+tyrosine hydroxylase	35858098	Freeman SM
+tyrosine hydroxylase	35858098	Frehner SS
+tyrosine hydroxylase	35858098	Dooley KT
+tyrosine hydroxylase	35858098	Palumbo MC
+tyrosine hydroxylase	35858098	Smith AL
+tyrosine hydroxylase	35858098	Goodman MM
+tyrosine hydroxylase	35858098	Bales KL
+tyrosine hydroxylase	35858098	Freeman SM
+ribosomal protein S6	35851298	Sare RM
+ribosomal protein S6	35851298	Torossian A
+ribosomal protein S6	35851298	Loutaev I
+ribosomal protein S6	35851298	Smith CB
+gephyrin	35821032	Chu MC
+gephyrin	35821032	Wu HF
+gephyrin	35821032	Lee CW
+gephyrin	35821032	Chung YJ
+gephyrin	35821032	Chi H
+gephyrin	35821032	Chen PS
+gephyrin	35821032	Lin HC
+gephyrin	35821032	Chu MC
+gephyrin	35821032	Wu HF
+gephyrin	35821032	Lee CW
+gephyrin	35821032	Chung YJ
+gephyrin	35821032	Chi H
+gephyrin	35821032	Chen PS
+gephyrin	35821032	Lin HC
+gephyrin	35821032	Chu MC
+gephyrin	35821032	Wu HF
+gephyrin	35821032	Lee CW
+gephyrin	35821032	Chung YJ
+gephyrin	35821032	Chi H
+gephyrin	35821032	Chen PS
+gephyrin	35821032	Lin HC
+leptin	35809877	Mitchell AJ
+leptin	35809877	Khambadkone SG
+leptin	35809877	Dunn G
+leptin	35809877	Bagley J
+leptin	35809877	Tamashiro KLK
+leptin	35809877	Fair D
+leptin	35809877	Gustafsson H
+leptin	35809877	Sullivan EL
+leptin receptor	35809703	Zorn S
+leptin receptor	35809703	von Schnurbein J
+leptin receptor	35809703	Schirmer M
+leptin receptor	35809703	Brandt S
+leptin receptor	35809703	Wabitsch M
+parvalbumin	35768828	Kalinowska M
+parvalbumin	35768828	van der Lei MB
+parvalbumin	35768828	Kitiashvili M
+parvalbumin	35768828	Mamcarz M
+parvalbumin	35768828	Oliveira MM
+parvalbumin	35768828	Longo F
+parvalbumin	35768828	Klann E
+parvalbumin	35768828	Kalinowska M
+parvalbumin	35768828	van der Lei MB
+parvalbumin	35768828	Kitiashvili M
+parvalbumin	35768828	Mamcarz M
+parvalbumin	35768828	Oliveira MM
+parvalbumin	35768828	Longo F
+parvalbumin	35768828	Klann E
+somatostatin	35768828	Kalinowska M
+somatostatin	35768828	van der Lei MB
+somatostatin	35768828	Kitiashvili M
+somatostatin	35768828	Mamcarz M
+somatostatin	35768828	Oliveira MM
+somatostatin	35768828	Longo F
+somatostatin	35768828	Klann E
+parvalbumin	35768828	Kalinowska M
+parvalbumin	35768828	van der Lei MB
+parvalbumin	35768828	Kitiashvili M
+parvalbumin	35768828	Mamcarz M
+parvalbumin	35768828	Oliveira MM
+parvalbumin	35768828	Longo F
+parvalbumin	35768828	Klann E
+somatostatin	35768828	Kalinowska M
+somatostatin	35768828	van der Lei MB
+somatostatin	35768828	Kitiashvili M
+somatostatin	35768828	Mamcarz M
+somatostatin	35768828	Oliveira MM
+somatostatin	35768828	Longo F
+somatostatin	35768828	Klann E
+parvalbumin	35768828	Kalinowska M
+parvalbumin	35768828	van der Lei MB
+parvalbumin	35768828	Kitiashvili M
+parvalbumin	35768828	Mamcarz M
+parvalbumin	35768828	Oliveira MM
+parvalbumin	35768828	Longo F
+parvalbumin	35768828	Klann E
+somatostatin	35768828	Kalinowska M
+somatostatin	35768828	van der Lei MB
+somatostatin	35768828	Kitiashvili M
+somatostatin	35768828	Mamcarz M
+somatostatin	35768828	Oliveira MM
+somatostatin	35768828	Longo F
+somatostatin	35768828	Klann E
+parvalbumin	35768828	Kalinowska M
+parvalbumin	35768828	van der Lei MB
+parvalbumin	35768828	Kitiashvili M
+parvalbumin	35768828	Mamcarz M
+parvalbumin	35768828	Oliveira MM
+parvalbumin	35768828	Longo F
+parvalbumin	35768828	Klann E
+somatostatin	35768828	Kalinowska M
+somatostatin	35768828	van der Lei MB
+somatostatin	35768828	Kitiashvili M
+somatostatin	35768828	Mamcarz M
+somatostatin	35768828	Oliveira MM
+somatostatin	35768828	Longo F
+somatostatin	35768828	Klann E
+parvalbumin	35768828	Kalinowska M
+parvalbumin	35768828	van der Lei MB
+parvalbumin	35768828	Kitiashvili M
+parvalbumin	35768828	Mamcarz M
+parvalbumin	35768828	Oliveira MM
+parvalbumin	35768828	Longo F
+parvalbumin	35768828	Klann E
+somatostatin	35768828	Kalinowska M
+somatostatin	35768828	van der Lei MB
+somatostatin	35768828	Kitiashvili M
+somatostatin	35768828	Mamcarz M
+somatostatin	35768828	Oliveira MM
+somatostatin	35768828	Longo F
+somatostatin	35768828	Klann E
+parvalbumin	35768828	Kalinowska M
+parvalbumin	35768828	van der Lei MB
+parvalbumin	35768828	Kitiashvili M
+parvalbumin	35768828	Mamcarz M
+parvalbumin	35768828	Oliveira MM
+parvalbumin	35768828	Longo F
+parvalbumin	35768828	Klann E
+somatostatin	35768828	Kalinowska M
+somatostatin	35768828	van der Lei MB
+somatostatin	35768828	Kitiashvili M
+somatostatin	35768828	Mamcarz M
+somatostatin	35768828	Oliveira MM
+somatostatin	35768828	Longo F
+somatostatin	35768828	Klann E
+parvalbumin	35768828	Kalinowska M
+parvalbumin	35768828	van der Lei MB
+parvalbumin	35768828	Kitiashvili M
+parvalbumin	35768828	Mamcarz M
+parvalbumin	35768828	Oliveira MM
+parvalbumin	35768828	Longo F
+parvalbumin	35768828	Klann E
+methyl-CpG binding protein 2	35767654	Morelli KH
+methyl-CpG binding protein 2	35767654	Jin W
+methyl-CpG binding protein 2	35767654	Shathe S
+methyl-CpG binding protein 2	35767654	Madrigal AA
+methyl-CpG binding protein 2	35767654	Jones KL
+methyl-CpG binding protein 2	35767654	Schwartz JL
+methyl-CpG binding protein 2	35767654	Bridges T
+methyl-CpG binding protein 2	35767654	Mueller JR
+methyl-CpG binding protein 2	35767654	Shankar A
+methyl-CpG binding protein 2	35767654	Chaim IA
+methyl-CpG binding protein 2	35767654	Day JW
+methyl-CpG binding protein 2	35767654	Yeo GW
+neuraminidase 1	35757207	Zhang H
+neuraminidase 1	35757207	Gu Y
+neuraminidase 1	35757207	He W
+neuraminidase 1	35757207	Kuo F
+neuraminidase 1	35757207	Zhang Y
+neuraminidase 1	35757207	Wang D
+neuraminidase 1	35757207	He L
+neuraminidase 1	35757207	Yang Y
+neuraminidase 1	35757207	Wang H
+neuraminidase 1	35757207	Chen Y
+lysozyme	35756062	Vernocchi P
+lysozyme	35756062	Ristori MV
+lysozyme	35756062	Guerrera S
+lysozyme	35756062	Guarrasi V
+lysozyme	35756062	Conte F
+lysozyme	35756062	Russo A
+lysozyme	35756062	Lupi E
+lysozyme	35756062	Albitar-Nehme S
+lysozyme	35756062	Gardini S
+lysozyme	35756062	Paci P
+lysozyme	35756062	Ianiro G
+lysozyme	35756062	Vicari S
+lysozyme	35756062	Gasbarrini A
+lysozyme	35756062	Putignani L
+lysozyme	35756062	Vernocchi P
+lysozyme	35756062	Ristori MV
+lysozyme	35756062	Guerrera S
+lysozyme	35756062	Guarrasi V
+lysozyme	35756062	Conte F
+lysozyme	35756062	Russo A
+lysozyme	35756062	Lupi E
+lysozyme	35756062	Albitar-Nehme S
+lysozyme	35756062	Gardini S
+lysozyme	35756062	Paci P
+lysozyme	35756062	Ianiro G
+lysozyme	35756062	Vicari S
+lysozyme	35756062	Gasbarrini A
+lysozyme	35756062	Putignani L
+lysozyme	35756062	Vernocchi P
+lysozyme	35756062	Ristori MV
+lysozyme	35756062	Guerrera S
+lysozyme	35756062	Guarrasi V
+lysozyme	35756062	Conte F
+lysozyme	35756062	Russo A
+lysozyme	35756062	Lupi E
+lysozyme	35756062	Albitar-Nehme S
+lysozyme	35756062	Gardini S
+lysozyme	35756062	Paci P
+lysozyme	35756062	Ianiro G
+lysozyme	35756062	Vicari S
+lysozyme	35756062	Gasbarrini A
+lysozyme	35756062	Putignani L
+BR serine/threonine kinase 2	35754711	Deng J
+BR serine/threonine kinase 2	35754711	Wang Y
+BR serine/threonine kinase 2	35754711	Hu M
+BR serine/threonine kinase 2	35754711	Lin J
+BR serine/threonine kinase 2	35754711	Li Q
+BR serine/threonine kinase 2	35754711	Liu C
+BR serine/threonine kinase 2	35754711	Xu X
+methyl-CpG binding protein 2	35726297	Lim HK
+methyl-CpG binding protein 2	35726297	Yoon JH
+methyl-CpG binding protein 2	35726297	Song M
+neurexin 1	35726297	Lim HK
+neurexin 1	35726297	Yoon JH
+neurexin 1	35726297	Song M
+chromodomain helicase DNA binding protein 8	35726297	Lim HK
+chromodomain helicase DNA binding protein 8	35726297	Yoon JH
+chromodomain helicase DNA binding protein 8	35726297	Song M
+E1A binding protein p300	35697159	Liu X
+E1A binding protein p300	35697159	Wang Z
+E1A binding protein p300	35697159	Zhang X
+E1A binding protein p300	35697159	Zhang D
+E1A binding protein p300	35697159	Yang Q
+E1A binding protein p300	35697159	Hu P
+E1A binding protein p300	35697159	Li F
+cadherin 2	35697159	Liu X
+cadherin 2	35697159	Wang Z
+cadherin 2	35697159	Zhang X
+cadherin 2	35697159	Zhang D
+cadherin 2	35697159	Yang Q
+cadherin 2	35697159	Hu P
+cadherin 2	35697159	Li F
+myelin basic protein	35687217	Sharma A
+myelin basic protein	35687217	Bhalla S
+myelin basic protein	35687217	Mehan S
+multiple sclerosis	35682642	Tovo PA
+multiple sclerosis	35682642	Davico C
+multiple sclerosis	35682642	Marcotulli D
+multiple sclerosis	35682642	Vitiello B
+multiple sclerosis	35682642	Dapra V
+multiple sclerosis	35682642	Calvi C
+multiple sclerosis	35682642	Montanari P
+multiple sclerosis	35682642	Carpino A
+multiple sclerosis	35682642	Galliano I
+multiple sclerosis	35682642	Bergallo M
+dystrophin	35654209	Hashimoto Y
+dystrophin	35654209	Kuniishi H
+dystrophin	35654209	Sakai K
+dystrophin	35654209	Fukushima Y
+dystrophin	35654209	Du X
+dystrophin	35654209	Yamashiro K
+dystrophin	35654209	Hori K
+dystrophin	35654209	Imamura M
+dystrophin	35654209	Hoshino M
+dystrophin	35654209	Yamada M
+dystrophin	35654209	Araki T
+dystrophin	35654209	Sakagami H
+dystrophin	35654209	Takeda S
+dystrophin	35654209	Itaka K
+dystrophin	35654209	Ichinohe N
+dystrophin	35654209	Muntoni F
+dystrophin	35654209	Sekiguchi M
+dystrophin	35654209	Aoki Y
+dystrophin	35654209	Hashimoto Y
+dystrophin	35654209	Kuniishi H
+dystrophin	35654209	Sakai K
+dystrophin	35654209	Fukushima Y
+dystrophin	35654209	Du X
+dystrophin	35654209	Yamashiro K
+dystrophin	35654209	Hori K
+dystrophin	35654209	Imamura M
+dystrophin	35654209	Hoshino M
+dystrophin	35654209	Yamada M
+dystrophin	35654209	Araki T
+dystrophin	35654209	Sakagami H
+dystrophin	35654209	Takeda S
+dystrophin	35654209	Itaka K
+dystrophin	35654209	Ichinohe N
+dystrophin	35654209	Muntoni F
+dystrophin	35654209	Sekiguchi M
+dystrophin	35654209	Aoki Y
+dystrophin	35654209	Hashimoto Y
+dystrophin	35654209	Kuniishi H
+dystrophin	35654209	Sakai K
+dystrophin	35654209	Fukushima Y
+dystrophin	35654209	Du X
+dystrophin	35654209	Yamashiro K
+dystrophin	35654209	Hori K
+dystrophin	35654209	Imamura M
+dystrophin	35654209	Hoshino M
+dystrophin	35654209	Yamada M
+dystrophin	35654209	Araki T
+dystrophin	35654209	Sakagami H
+dystrophin	35654209	Takeda S
+dystrophin	35654209	Itaka K
+dystrophin	35654209	Ichinohe N
+dystrophin	35654209	Muntoni F
+dystrophin	35654209	Sekiguchi M
+dystrophin	35654209	Aoki Y
+nerve growth factor	35648200	Sivasangari K
+nerve growth factor	35648200	Rajan KE
+glial fibrillary acidic protein	35648200	Sivasangari K
+glial fibrillary acidic protein	35648200	Rajan KE
+proliferating cell nuclear antigen	35648200	Sivasangari K
+proliferating cell nuclear antigen	35648200	Rajan KE
+parvalbumin	35645731	Serra I
+parvalbumin	35645731	Stravs A
+parvalbumin	35645731	Osorio C
+parvalbumin	35645731	Oyaga MR
+parvalbumin	35645731	Schonewille M
+parvalbumin	35645731	Tudorache C
+parvalbumin	35645731	Badura A
+prolactin	35625005	Alsayouf HA
+prolactin	35625005	Talo H
+prolactin	35625005	Biddappa ML
+doublecortin	35618077	He Z
+parathyroid hormone	35592510	Vitale RJ
+parathyroid hormone	35592510	Shieh HF
+parathyroid hormone	35592510	Modi BP
+parathyroid hormone	35592510	Gordon RJ
+tumor necrosis factor	35584252	Ozkul B
+tumor necrosis factor	35584252	Urfali FE
+tumor necrosis factor	35584252	Sever IH
+tumor necrosis factor	35584252	Bozkurt MF
+tumor necrosis factor	35584252	Sogut I
+tumor necrosis factor	35584252	Elgormus CS
+tumor necrosis factor	35584252	Erdogan MA
+tumor necrosis factor	35584252	Erbas O
+glial fibrillary acidic protein	35584252	Ozkul B
+glial fibrillary acidic protein	35584252	Urfali FE
+glial fibrillary acidic protein	35584252	Sever IH
+glial fibrillary acidic protein	35584252	Bozkurt MF
+glial fibrillary acidic protein	35584252	Sogut I
+glial fibrillary acidic protein	35584252	Elgormus CS
+glial fibrillary acidic protein	35584252	Erdogan MA
+glial fibrillary acidic protein	35584252	Erbas O
+leptin	35583626	Dhaliwal KK
+leptin	35583626	Avedzi HM
+leptin	35583626	Richard C
+leptin	35583626	Zwaigenbaum L
+leptin	35583626	Haqq AM
+leptin	35583626	Dhaliwal KK
+leptin	35583626	Avedzi HM
+leptin	35583626	Richard C
+leptin	35583626	Zwaigenbaum L
+leptin	35583626	Haqq AM
+androgen receptor	35563368	Vancolen S
+androgen receptor	35563368	Ayash T
+androgen receptor	35563368	Segura M
+androgen receptor	35563368	Allard MJ
+androgen receptor	35563368	Robaire B
+androgen receptor	35563368	Sebire G
+cortactin	35562389	Shih PY
+cortactin	35562389	Fang YL
+cortactin	35562389	Shankar S
+cortactin	35562389	Lee SP
+cortactin	35562389	Hu HT
+cortactin	35562389	Chen H
+cortactin	35562389	Wang TF
+cortactin	35562389	Hsia KC
+cortactin	35562389	Hsueh YP
+parvalbumin	35544642	Yu D
+parvalbumin	35544642	Li T
+parvalbumin	35544642	Delpech JC
+parvalbumin	35544642	Zhu B
+parvalbumin	35544642	Kishore P
+parvalbumin	35544642	Koshi T
+parvalbumin	35544642	Luo R
+parvalbumin	35544642	Pratt KJB
+parvalbumin	35544642	Popova G
+parvalbumin	35544642	Nowakowski TJ
+parvalbumin	35544642	Villeda SA
+parvalbumin	35544642	Piao X
+tumor necrosis factor	35544642	Yu D
+tumor necrosis factor	35544642	Li T
+tumor necrosis factor	35544642	Delpech JC
+tumor necrosis factor	35544642	Zhu B
+tumor necrosis factor	35544642	Kishore P
+tumor necrosis factor	35544642	Koshi T
+tumor necrosis factor	35544642	Luo R
+tumor necrosis factor	35544642	Pratt KJB
+tumor necrosis factor	35544642	Popova G
+tumor necrosis factor	35544642	Nowakowski TJ
+tumor necrosis factor	35544642	Villeda SA
+tumor necrosis factor	35544642	Piao X
+parvalbumin	35493330	Brandenburg C
+parvalbumin	35493330	Blatt GJ
+parvalbumin	35493330	Brandenburg C
+parvalbumin	35493330	Blatt GJ
+tyrosine hydroxylase	35493109	Suarez-Pereira I
+tyrosine hydroxylase	35493109	Garcia-Dominguez I
+tyrosine hydroxylase	35493109	Bravo L
+tyrosine hydroxylase	35493109	Santiago M
+tyrosine hydroxylase	35493109	Garcia-Revilla J
+tyrosine hydroxylase	35493109	Espinosa-Oliva AM
+tyrosine hydroxylase	35493109	Alonso-Bellido IM
+tyrosine hydroxylase	35493109	Lopez-Martin C
+tyrosine hydroxylase	35493109	Perez-Villegas EM
+tyrosine hydroxylase	35493109	Armengol JA
+tyrosine hydroxylase	35493109	Berrocoso E
+tyrosine hydroxylase	35493109	Venero JL
+tyrosine hydroxylase	35493109	de Pablos RM
+tyrosine hydroxylase	35493109	Ruiz R
+caspase 8	35493109	Suarez-Pereira I
+caspase 8	35493109	Garcia-Dominguez I
+caspase 8	35493109	Bravo L
+caspase 8	35493109	Santiago M
+caspase 8	35493109	Garcia-Revilla J
+caspase 8	35493109	Espinosa-Oliva AM
+caspase 8	35493109	Alonso-Bellido IM
+caspase 8	35493109	Lopez-Martin C
+caspase 8	35493109	Perez-Villegas EM
+caspase 8	35493109	Armengol JA
+caspase 8	35493109	Berrocoso E
+caspase 8	35493109	Venero JL
+caspase 8	35493109	de Pablos RM
+caspase 8	35493109	Ruiz R
+insulin	35488357	Perea V
+insulin	35488357	Urquizu X
+insulin	35488357	Valverde M
+insulin	35488357	Macias M
+insulin	35488357	Carmona A
+insulin	35488357	Esteve E
+insulin	35488357	Escribano G
+insulin	35488357	Pons N
+insulin	35488357	Gimenez O
+insulin	35488357	Girones T
+insulin	35488357	Simo-Servat A
+insulin	35488357	Domenech A
+insulin	35488357	Alonso-Carril N
+insulin	35488357	Quiros C
+insulin	35488357	Amor AJ
+insulin	35488357	Lopez E
+insulin	35488357	Barahona MJ
+lysine methyltransferase 2E (inactive)	35481221	Catana A
+lysine methyltransferase 2E (inactive)	35481221	Kutasi E
+lysine methyltransferase 2E (inactive)	35481221	Cuzmici-Barabas Z
+lysine methyltransferase 2E (inactive)	35481221	Militaru D
+lysine methyltransferase 2E (inactive)	35481221	Iordanescu I
+lysine methyltransferase 2E (inactive)	35481221	Militaru MS
+lysine methyltransferase 2E (inactive)	35481221	Catana A
+lysine methyltransferase 2E (inactive)	35481221	Kutasi E
+lysine methyltransferase 2E (inactive)	35481221	Cuzmici-Barabas Z
+lysine methyltransferase 2E (inactive)	35481221	Militaru D
+lysine methyltransferase 2E (inactive)	35481221	Iordanescu I
+lysine methyltransferase 2E (inactive)	35481221	Militaru MS
+prolactin	35477330	Biswas M
+prolactin	35477330	Vanwong N
+prolactin	35477330	Sukasem C
+parvalbumin	35456893	Santos-Terra J
+parvalbumin	35456893	Deckmann I
+parvalbumin	35456893	Carello-Collar G
+parvalbumin	35456893	Nunes GD
+parvalbumin	35456893	Bauer-Negrini G
+parvalbumin	35456893	Schwingel GB
+parvalbumin	35456893	Fontes-Dutra M
+parvalbumin	35456893	Riesgo R
+parvalbumin	35456893	Gottfried C
+somatostatin	35456893	Santos-Terra J
+somatostatin	35456893	Deckmann I
+somatostatin	35456893	Carello-Collar G
+somatostatin	35456893	Nunes GD
+somatostatin	35456893	Bauer-Negrini G
+somatostatin	35456893	Schwingel GB
+somatostatin	35456893	Fontes-Dutra M
+somatostatin	35456893	Riesgo R
+somatostatin	35456893	Gottfried C
+beta-1,3-N-acetylgalactosaminyltransferase 2	35456500	D'haenens E
+beta-1,3-N-acetylgalactosaminyltransferase 2	35456500	Vergult S
+beta-1,3-N-acetylgalactosaminyltransferase 2	35456500	Menten B
+beta-1,3-N-acetylgalactosaminyltransferase 2	35456500	Dheedene A
+beta-1,3-N-acetylgalactosaminyltransferase 2	35456500	Kooy RF
+beta-1,3-N-acetylgalactosaminyltransferase 2	35456500	Callewaert B
+leptin	35456030	Westmark CJ
+leptin	35456030	Filon MJ
+leptin	35456030	Maina P
+leptin	35456030	Steinberg LI
+leptin	35456030	Ikonomidou C
+leptin	35456030	Westmark PR
+brain derived neurotrophic factor	35451422	Luhach K
+brain derived neurotrophic factor	35451422	Kulkarni GT
+brain derived neurotrophic factor	35451422	Singh VP
+brain derived neurotrophic factor	35451422	Sharma B
+tumor necrosis factor	35451422	Luhach K
+tumor necrosis factor	35451422	Kulkarni GT
+tumor necrosis factor	35451422	Singh VP
+tumor necrosis factor	35451422	Sharma B
+glutamate decarboxylase 2	35420879	Vazifekhah S
+glutamate decarboxylase 2	35420879	Barfi S
+glutamate decarboxylase 2	35420879	Soleimany F
+glutamate decarboxylase 2	35420879	Aliakbar A
+glutamate decarboxylase 2	35420879	Zavvari F
+glutamate decarboxylase 2	35420879	Karimzadeh F
+transferrin	35409689	De Giacomo A
+transferrin	35409689	Medicamento S
+transferrin	35409689	Pedaci C
+transferrin	35409689	Giambersio D
+transferrin	35409689	Giannico OV
+transferrin	35409689	Petruzzelli MG
+transferrin	35409689	Simone M
+transferrin	35409689	Corsalini M
+transferrin	35409689	Marzulli L
+transferrin	35409689	Matera E
+tyrosine hydroxylase	35401120	Xu Y
+tyrosine hydroxylase	35401120	Wang Y
+tyrosine hydroxylase	35401120	Tong G
+tyrosine hydroxylase	35401120	Li L
+tyrosine hydroxylase	35401120	Cheng J
+tyrosine hydroxylase	35401120	Zhang L
+tyrosine hydroxylase	35401120	Xu Q
+tyrosine hydroxylase	35401120	Wang L
+tyrosine hydroxylase	35401120	Zhang P
+arginine vasopressin	35401102	Zhou B
+arginine vasopressin	35401102	Zheng X
+arginine vasopressin	35401102	Chen Y
+arginine vasopressin	35401102	Yan X
+arginine vasopressin	35401102	Peng J
+arginine vasopressin	35401102	Liu Y
+arginine vasopressin	35401102	Zhang Y
+arginine vasopressin	35401102	Tang L
+arginine vasopressin	35401102	Wen M
+arginine vasopressin	35401102	Zhou B
+arginine vasopressin	35401102	Zheng X
+arginine vasopressin	35401102	Chen Y
+arginine vasopressin	35401102	Yan X
+arginine vasopressin	35401102	Peng J
+arginine vasopressin	35401102	Liu Y
+arginine vasopressin	35401102	Zhang Y
+arginine vasopressin	35401102	Tang L
+arginine vasopressin	35401102	Wen M
+insulin	35395866	Kolevzon A
+insulin	35395866	Breen MS
+insulin	35395866	Siper PM
+insulin	35395866	Halpern D
+insulin	35395866	Frank Y
+insulin	35395866	Rieger H
+insulin	35395866	Weismann J
+insulin	35395866	Trelles MP
+insulin	35395866	Lerman B
+insulin	35395866	Rapaport R
+insulin	35395866	Buxbaum JD
+insulin	35395866	Kolevzon A
+insulin	35395866	Breen MS
+insulin	35395866	Siper PM
+insulin	35395866	Halpern D
+insulin	35395866	Frank Y
+insulin	35395866	Rieger H
+insulin	35395866	Weismann J
+insulin	35395866	Trelles MP
+insulin	35395866	Lerman B
+insulin	35395866	Rapaport R
+insulin	35395866	Buxbaum JD
+C-reactive protein	35393396	Brynge M
+C-reactive protein	35393396	Gardner R
+C-reactive protein	35393396	Sjoqvist H
+C-reactive protein	35393396	Karlsson H
+C-reactive protein	35393396	Dalman C
+oxytocin receptor	35384534	Imam B
+oxytocin receptor	35384534	Rahmatinia M
+oxytocin receptor	35384534	Shahsavani A
+oxytocin receptor	35384534	Khodagholi F
+oxytocin receptor	35384534	Hopke PK
+oxytocin receptor	35384534	Bazazzpour S
+oxytocin receptor	35384534	Hadei M
+oxytocin receptor	35384534	Yarahmadi M
+oxytocin receptor	35384534	Abdollahifar MA
+oxytocin receptor	35384534	Torkmahalleh MA
+oxytocin receptor	35384534	Kermani M
+oxytocin receptor	35384534	Ilkhani S
+oxytocin receptor	35384534	MirBehbahani SH
+interleukin 6	35384534	Imam B
+interleukin 6	35384534	Rahmatinia M
+interleukin 6	35384534	Shahsavani A
+interleukin 6	35384534	Khodagholi F
+interleukin 6	35384534	Hopke PK
+interleukin 6	35384534	Bazazzpour S
+interleukin 6	35384534	Hadei M
+interleukin 6	35384534	Yarahmadi M
+interleukin 6	35384534	Abdollahifar MA
+interleukin 6	35384534	Torkmahalleh MA
+interleukin 6	35384534	Kermani M
+interleukin 6	35384534	Ilkhani S
+interleukin 6	35384534	MirBehbahani SH
+tumor necrosis factor	35384534	Imam B
+tumor necrosis factor	35384534	Rahmatinia M
+tumor necrosis factor	35384534	Shahsavani A
+tumor necrosis factor	35384534	Khodagholi F
+tumor necrosis factor	35384534	Hopke PK
+tumor necrosis factor	35384534	Bazazzpour S
+tumor necrosis factor	35384534	Hadei M
+tumor necrosis factor	35384534	Yarahmadi M
+tumor necrosis factor	35384534	Abdollahifar MA
+tumor necrosis factor	35384534	Torkmahalleh MA
+tumor necrosis factor	35384534	Kermani M
+tumor necrosis factor	35384534	Ilkhani S
+tumor necrosis factor	35384534	MirBehbahani SH
+translocator protein	35383319	Simpson D
+translocator protein	35383319	Gharehgazlou A
+translocator protein	35383319	Da Silva T
+translocator protein	35383319	Labrie-Cleary C
+translocator protein	35383319	Wilson AA
+translocator protein	35383319	Meyer JH
+translocator protein	35383319	Mizrahi R
+translocator protein	35383319	Rusjan PM
+translocator protein	35383319	Simpson D
+translocator protein	35383319	Gharehgazlou A
+translocator protein	35383319	Da Silva T
+translocator protein	35383319	Labrie-Cleary C
+translocator protein	35383319	Wilson AA
+translocator protein	35383319	Meyer JH
+translocator protein	35383319	Mizrahi R
+translocator protein	35383319	Rusjan PM
+multiple sclerosis	35383319	Simpson D
+multiple sclerosis	35383319	Gharehgazlou A
+multiple sclerosis	35383319	Da Silva T
+multiple sclerosis	35383319	Labrie-Cleary C
+multiple sclerosis	35383319	Wilson AA
+multiple sclerosis	35383319	Meyer JH
+multiple sclerosis	35383319	Mizrahi R
+multiple sclerosis	35383319	Rusjan PM
+adenosine deaminase	35353796	Mpoulimari I
+adenosine deaminase	35353796	Zintzaras E
+solute carrier family 6 member 4	35353796	Mpoulimari I
+solute carrier family 6 member 4	35353796	Zintzaras E
+vitamin D receptor	35353796	Mpoulimari I
+vitamin D receptor	35353796	Zintzaras E
+dopamine receptor D3	35353796	Mpoulimari I
+dopamine receptor D3	35353796	Zintzaras E
+neurexin 1	35353796	Mpoulimari I
+neurexin 1	35353796	Zintzaras E
+oxytocin receptor	35353796	Mpoulimari I
+oxytocin receptor	35353796	Zintzaras E
+catalase	35346813	Abhishek M
+catalase	35346813	Rubal S
+catalase	35346813	Rohit K
+catalase	35346813	Rupa J
+catalase	35346813	Phulen S
+catalase	35346813	Gurjeet K
+catalase	35346813	Raj SA
+catalase	35346813	Manisha P
+catalase	35346813	Alka B
+catalase	35346813	Ramprasad P
+catalase	35346813	Bikash M
+phosphodiesterase 2A	35338117	Schiavi S
+phosphodiesterase 2A	35338117	Carbone E
+phosphodiesterase 2A	35338117	Melancia F
+phosphodiesterase 2A	35338117	di Masi A
+phosphodiesterase 2A	35338117	Jarjat M
+phosphodiesterase 2A	35338117	Brau F
+phosphodiesterase 2A	35338117	Cardarelli S
+phosphodiesterase 2A	35338117	Giorgi M
+phosphodiesterase 2A	35338117	Bardoni B
+phosphodiesterase 2A	35338117	Trezza V
+insulin	35328058	Cammarata-Scalisi F
+insulin	35328058	Callea M
+insulin	35328058	Martinelli D
+insulin	35328058	Willoughby CE
+insulin	35328058	Tadich AC
+insulin	35328058	Araya Castillo M
+insulin	35328058	Lacruz-Rengel MA
+insulin	35328058	Medina M
+insulin	35328058	Grimaldi P
+insulin	35328058	Bertini E
+insulin	35328058	Nevado J
+insulin	35328058	Cammarata-Scalisi F
+insulin	35328058	Callea M
+insulin	35328058	Martinelli D
+insulin	35328058	Willoughby CE
+insulin	35328058	Tadich AC
+insulin	35328058	Araya Castillo M
+insulin	35328058	Lacruz-Rengel MA
+insulin	35328058	Medina M
+insulin	35328058	Grimaldi P
+insulin	35328058	Bertini E
+insulin	35328058	Nevado J
+prosaposin	35318322	Wang L
+prosaposin	35318322	Chen J
+prosaposin	35318322	Hu Y
+prosaposin	35318322	Liao A
+prosaposin	35318322	Zheng W
+prosaposin	35318322	Wang X
+prosaposin	35318322	Lan J
+prosaposin	35318322	Shen J
+prosaposin	35318322	Wang S
+prosaposin	35318322	Yang F
+prosaposin	35318322	Wang Y
+prosaposin	35318322	Li Y
+prosaposin	35318322	Chen D
+oxytocin receptor	35316293	Al-Ali Z
+oxytocin receptor	35316293	Yasseen AA
+oxytocin receptor	35316293	Al-Dujailli A
+oxytocin receptor	35316293	Al-Karaqully AJ
+oxytocin receptor	35316293	McAllister KA
+oxytocin receptor	35316293	Jumaah AS
+catalase	35307911	Abbasalipour H
+catalase	35307911	Hajizadeh Moghaddam A
+catalase	35307911	Ranjbar M
+parvalbumin	35272296	Cristino LMF
+parvalbumin	35272296	Chaves Filho AJM
+parvalbumin	35272296	Custodio CS
+parvalbumin	35272296	Vasconcelos SMM
+parvalbumin	35272296	de Sousa FCF
+parvalbumin	35272296	Sanders LLO
+parvalbumin	35272296	de Lucena DF
+parvalbumin	35272296	Macedo DS
+parvalbumin	35272296	Cristino LMF
+parvalbumin	35272296	Chaves Filho AJM
+parvalbumin	35272296	Custodio CS
+parvalbumin	35272296	Vasconcelos SMM
+parvalbumin	35272296	de Sousa FCF
+parvalbumin	35272296	Sanders LLO
+parvalbumin	35272296	de Lucena DF
+parvalbumin	35272296	Macedo DS
+parvalbumin	35272296	Cristino LMF
+parvalbumin	35272296	Chaves Filho AJM
+parvalbumin	35272296	Custodio CS
+parvalbumin	35272296	Vasconcelos SMM
+parvalbumin	35272296	de Sousa FCF
+parvalbumin	35272296	Sanders LLO
+parvalbumin	35272296	de Lucena DF
+parvalbumin	35272296	Macedo DS
+superoxide dismutase 1	35266053	Ejlersen M
+superoxide dismutase 1	35266053	Ilieva M
+superoxide dismutase 1	35266053	Michel TM
+superoxide dismutase 1	35266053	Ejlersen M
+superoxide dismutase 1	35266053	Ilieva M
+superoxide dismutase 1	35266053	Michel TM
+superoxide dismutase 1	35266053	Ejlersen M
+superoxide dismutase 1	35266053	Ilieva M
+superoxide dismutase 1	35266053	Michel TM
+superoxide dismutase 2	35266053	Ejlersen M
+superoxide dismutase 2	35266053	Ilieva M
+superoxide dismutase 2	35266053	Michel TM
+glial fibrillary acidic protein	35255304	Heimfarth L
+glial fibrillary acidic protein	35255304	Passos FRS
+glial fibrillary acidic protein	35255304	Monteiro BS
+glial fibrillary acidic protein	35255304	Araujo AAS
+glial fibrillary acidic protein	35255304	Quintans Junior LJ
+glial fibrillary acidic protein	35255304	Quintans JSS
+multiple sclerosis	35255304	Heimfarth L
+multiple sclerosis	35255304	Passos FRS
+multiple sclerosis	35255304	Monteiro BS
+multiple sclerosis	35255304	Araujo AAS
+multiple sclerosis	35255304	Quintans Junior LJ
+multiple sclerosis	35255304	Quintans JSS
+insulin	35241692	Yehia L
+insulin	35241692	Ni Y
+insulin	35241692	Sadler T
+insulin	35241692	Frazier TW
+insulin	35241692	Eng C
+tumor necrosis factor	35236262	Zhang Y
+tumor necrosis factor	35236262	Yin HY
+tumor necrosis factor	35236262	Rubini P
+tumor necrosis factor	35236262	Tang Y
+tumor necrosis factor	35236262	Illes P
+multiple sclerosis	35236262	Zhang Y
+multiple sclerosis	35236262	Yin HY
+multiple sclerosis	35236262	Rubini P
+multiple sclerosis	35236262	Tang Y
+multiple sclerosis	35236262	Illes P
+glutathione peroxidase 4	35227767	Wu H
+glutathione peroxidase 4	35227767	Luan Y
+glutathione peroxidase 4	35227767	Wang H
+glutathione peroxidase 4	35227767	Zhang P
+glutathione peroxidase 4	35227767	Liu S
+glutathione peroxidase 4	35227767	Wang P
+glutathione peroxidase 4	35227767	Cao Y
+glutathione peroxidase 4	35227767	Sun H
+glutathione peroxidase 4	35227767	Wu L
+phosphatidylserine synthase 1	35224839	Gracie S
+phosphatidylserine synthase 1	35224839	Sengupta N
+phosphatidylserine synthase 1	35224839	Ferreira C
+phosphatidylserine synthase 1	35224839	Pemberton J
+phosphatidylserine synthase 1	35224839	Anderson I
+phosphatidylserine synthase 1	35224839	Wang X
+phosphatidylserine synthase 1	35224839	Rhodes L
+phosphatidylserine synthase 1	35224839	Brown K
+phosphatidylserine synthase 1	35224839	Balla T
+phosphatidylserine synthase 1	35224839	Larson A
+SH3 and multiple ankyrin repeat domains 3	35216282	Hausman-Cohen S
+SH3 and multiple ankyrin repeat domains 3	35216282	LaValley W
+SH3 and multiple ankyrin repeat domains 3	35216282	Way H
+SH3 and multiple ankyrin repeat domains 3	35216282	Gutierrez E
+SH3 and multiple ankyrin repeat domains 3	35216282	Reeder J
+parvalbumin	35212623	Mattis J
+parvalbumin	35212623	Somarowthu A
+parvalbumin	35212623	Goff KM
+parvalbumin	35212623	Jiang E
+parvalbumin	35212623	Yom J
+parvalbumin	35212623	Sotuyo N
+parvalbumin	35212623	Mcgarry LM
+parvalbumin	35212623	Feng H
+parvalbumin	35212623	Kaneko K
+parvalbumin	35212623	Goldberg EM
+insulin	35209985	Li Z
+insulin	35209985	Xiao GY
+insulin	35209985	He CY
+insulin	35209985	Liu X
+insulin	35209985	Fan X
+insulin	35209985	Zhao Y
+insulin	35209985	Wang NR
+insulin	35209985	Li Z
+insulin	35209985	Xiao GY
+insulin	35209985	He CY
+insulin	35209985	Liu X
+insulin	35209985	Fan X
+insulin	35209985	Zhao Y
+insulin	35209985	Wang NR
+insulin	35209985	Li Z
+insulin	35209985	Xiao GY
+insulin	35209985	He CY
+insulin	35209985	Liu X
+insulin	35209985	Fan X
+insulin	35209985	Zhao Y
+insulin	35209985	Wang NR
+insulin	35209985	Li Z
+insulin	35209985	Xiao GY
+insulin	35209985	He CY
+insulin	35209985	Liu X
+insulin	35209985	Fan X
+insulin	35209985	Zhao Y
+insulin	35209985	Wang NR
+insulin	35209985	Li Z
+insulin	35209985	Xiao GY
+insulin	35209985	He CY
+insulin	35209985	Liu X
+insulin	35209985	Fan X
+insulin	35209985	Zhao Y
+insulin	35209985	Wang NR
+insulin	35209985	Li Z
+insulin	35209985	Xiao GY
+insulin	35209985	He CY
+insulin	35209985	Liu X
+insulin	35209985	Fan X
+insulin	35209985	Zhao Y
+insulin	35209985	Wang NR
+leptin	35185642	Iwabuchi T
+leptin	35185642	Takahashi N
+leptin	35185642	Nishimura T
+leptin	35185642	Rahman MS
+leptin	35185642	Harada T
+leptin	35185642	Okumura A
+leptin	35185642	Kuwabara H
+leptin	35185642	Takagai S
+leptin	35185642	Nomura Y
+leptin	35185642	Matsuzaki H
+leptin	35185642	Ozaki N
+leptin	35185642	Tsuchiya KJ
+leptin	35185642	Iwabuchi T
+leptin	35185642	Takahashi N
+leptin	35185642	Nishimura T
+leptin	35185642	Rahman MS
+leptin	35185642	Harada T
+leptin	35185642	Okumura A
+leptin	35185642	Kuwabara H
+leptin	35185642	Takagai S
+leptin	35185642	Nomura Y
+leptin	35185642	Matsuzaki H
+leptin	35185642	Ozaki N
+leptin	35185642	Tsuchiya KJ
+leptin	35185642	Iwabuchi T
+leptin	35185642	Takahashi N
+leptin	35185642	Nishimura T
+leptin	35185642	Rahman MS
+leptin	35185642	Harada T
+leptin	35185642	Okumura A
+leptin	35185642	Kuwabara H
+leptin	35185642	Takagai S
+leptin	35185642	Nomura Y
+leptin	35185642	Matsuzaki H
+leptin	35185642	Ozaki N
+leptin	35185642	Tsuchiya KJ
+leptin	35185642	Iwabuchi T
+leptin	35185642	Takahashi N
+leptin	35185642	Nishimura T
+leptin	35185642	Rahman MS
+leptin	35185642	Harada T
+leptin	35185642	Okumura A
+leptin	35185642	Kuwabara H
+leptin	35185642	Takagai S
+leptin	35185642	Nomura Y
+leptin	35185642	Matsuzaki H
+leptin	35185642	Ozaki N
+leptin	35185642	Tsuchiya KJ
+leptin	35185642	Iwabuchi T
+leptin	35185642	Takahashi N
+leptin	35185642	Nishimura T
+leptin	35185642	Rahman MS
+leptin	35185642	Harada T
+leptin	35185642	Okumura A
+leptin	35185642	Kuwabara H
+leptin	35185642	Takagai S
+leptin	35185642	Nomura Y
+leptin	35185642	Matsuzaki H
+leptin	35185642	Ozaki N
+leptin	35185642	Tsuchiya KJ
+leptin	35185642	Iwabuchi T
+leptin	35185642	Takahashi N
+leptin	35185642	Nishimura T
+leptin	35185642	Rahman MS
+leptin	35185642	Harada T
+leptin	35185642	Okumura A
+leptin	35185642	Kuwabara H
+leptin	35185642	Takagai S
+leptin	35185642	Nomura Y
+leptin	35185642	Matsuzaki H
+leptin	35185642	Ozaki N
+leptin	35185642	Tsuchiya KJ
+leptin	35185642	Iwabuchi T
+leptin	35185642	Takahashi N
+leptin	35185642	Nishimura T
+leptin	35185642	Rahman MS
+leptin	35185642	Harada T
+leptin	35185642	Okumura A
+leptin	35185642	Kuwabara H
+leptin	35185642	Takagai S
+leptin	35185642	Nomura Y
+leptin	35185642	Matsuzaki H
+leptin	35185642	Ozaki N
+leptin	35185642	Tsuchiya KJ
+somatostatin	35182575	Cheng Y
+somatostatin	35182575	Tang B
+somatostatin	35182575	Zhang G
+somatostatin	35182575	An P
+somatostatin	35182575	Sun Y
+somatostatin	35182575	Gao M
+somatostatin	35182575	Zhang Y
+somatostatin	35182575	Shan Y
+somatostatin	35182575	Zhang J
+somatostatin	35182575	Liu Q
+somatostatin	35182575	Lai CSW
+somatostatin	35182575	de Villers-Sidani E
+somatostatin	35182575	Wang Y
+somatostatin	35182575	Zhou X
+synaptophysin	35178882	Kutna V
+synaptophysin	35178882	O'Leary VB
+synaptophysin	35178882	Hoschl C
+synaptophysin	35178882	Ovsepian SV
+caspase 3	35178102	Linlin Z
+caspase 3	35178102	Ciai L
+caspase 3	35178102	Yanhong S
+caspase 3	35178102	Huizhong G
+caspase 3	35178102	Yongchun L
+caspase 3	35178102	Zhen Y
+caspase 3	35178102	Shan X
+caspase 3	35178102	Fengying G
+caspase 3	35178102	Ying L
+caspase 3	35178102	Jingjun L
+caspase 3	35178102	Qin F
+tumor necrosis factor	35178102	Linlin Z
+tumor necrosis factor	35178102	Ciai L
+tumor necrosis factor	35178102	Yanhong S
+tumor necrosis factor	35178102	Huizhong G
+tumor necrosis factor	35178102	Yongchun L
+tumor necrosis factor	35178102	Zhen Y
+tumor necrosis factor	35178102	Shan X
+tumor necrosis factor	35178102	Fengying G
+tumor necrosis factor	35178102	Ying L
+tumor necrosis factor	35178102	Jingjun L
+tumor necrosis factor	35178102	Qin F
+AKT serine/threonine kinase 1	35178102	Linlin Z
+AKT serine/threonine kinase 1	35178102	Ciai L
+AKT serine/threonine kinase 1	35178102	Yanhong S
+AKT serine/threonine kinase 1	35178102	Huizhong G
+AKT serine/threonine kinase 1	35178102	Yongchun L
+AKT serine/threonine kinase 1	35178102	Zhen Y
+AKT serine/threonine kinase 1	35178102	Shan X
+AKT serine/threonine kinase 1	35178102	Fengying G
+AKT serine/threonine kinase 1	35178102	Ying L
+AKT serine/threonine kinase 1	35178102	Jingjun L
+AKT serine/threonine kinase 1	35178102	Qin F
+5-hydroxytryptamine receptor 1B	35178102	Linlin Z
+5-hydroxytryptamine receptor 1B	35178102	Ciai L
+5-hydroxytryptamine receptor 1B	35178102	Yanhong S
+5-hydroxytryptamine receptor 1B	35178102	Huizhong G
+5-hydroxytryptamine receptor 1B	35178102	Yongchun L
+5-hydroxytryptamine receptor 1B	35178102	Zhen Y
+5-hydroxytryptamine receptor 1B	35178102	Shan X
+5-hydroxytryptamine receptor 1B	35178102	Fengying G
+5-hydroxytryptamine receptor 1B	35178102	Ying L
+5-hydroxytryptamine receptor 1B	35178102	Jingjun L
+5-hydroxytryptamine receptor 1B	35178102	Qin F
+insulin	35165256	Fanelli G
+insulin	35165256	Franke B
+insulin	35165256	De Witte W
+insulin	35165256	Ruisch IH
+insulin	35165256	Haavik J
+insulin	35165256	van Gils V
+insulin	35165256	Jansen WJ
+insulin	35165256	Vos SJB
+insulin	35165256	Lind L
+insulin	35165256	Buitelaar JK
+insulin	35165256	Banaschewski T
+insulin	35165256	Dalsgaard S
+insulin	35165256	Serretti A
+insulin	35165256	Mota NR
+insulin	35165256	Poelmans G
+insulin	35165256	Bralten J
+insulin	35165256	Fanelli G
+insulin	35165256	Franke B
+insulin	35165256	De Witte W
+insulin	35165256	Ruisch IH
+insulin	35165256	Haavik J
+insulin	35165256	van Gils V
+insulin	35165256	Jansen WJ
+insulin	35165256	Vos SJB
+insulin	35165256	Lind L
+insulin	35165256	Buitelaar JK
+insulin	35165256	Banaschewski T
+insulin	35165256	Dalsgaard S
+insulin	35165256	Serretti A
+insulin	35165256	Mota NR
+insulin	35165256	Poelmans G
+insulin	35165256	Bralten J
+insulin	35165256	Fanelli G
+insulin	35165256	Franke B
+insulin	35165256	De Witte W
+insulin	35165256	Ruisch IH
+insulin	35165256	Haavik J
+insulin	35165256	van Gils V
+insulin	35165256	Jansen WJ
+insulin	35165256	Vos SJB
+insulin	35165256	Lind L
+insulin	35165256	Buitelaar JK
+insulin	35165256	Banaschewski T
+insulin	35165256	Dalsgaard S
+insulin	35165256	Serretti A
+insulin	35165256	Mota NR
+insulin	35165256	Poelmans G
+insulin	35165256	Bralten J
+insulin	35165256	Fanelli G
+insulin	35165256	Franke B
+insulin	35165256	De Witte W
+insulin	35165256	Ruisch IH
+insulin	35165256	Haavik J
+insulin	35165256	van Gils V
+insulin	35165256	Jansen WJ
+insulin	35165256	Vos SJB
+insulin	35165256	Lind L
+insulin	35165256	Buitelaar JK
+insulin	35165256	Banaschewski T
+insulin	35165256	Dalsgaard S
+insulin	35165256	Serretti A
+insulin	35165256	Mota NR
+insulin	35165256	Poelmans G
+insulin	35165256	Bralten J
+insulin	35165256	Fanelli G
+insulin	35165256	Franke B
+insulin	35165256	De Witte W
+insulin	35165256	Ruisch IH
+insulin	35165256	Haavik J
+insulin	35165256	van Gils V
+insulin	35165256	Jansen WJ
+insulin	35165256	Vos SJB
+insulin	35165256	Lind L
+insulin	35165256	Buitelaar JK
+insulin	35165256	Banaschewski T
+insulin	35165256	Dalsgaard S
+insulin	35165256	Serretti A
+insulin	35165256	Mota NR
+insulin	35165256	Poelmans G
+insulin	35165256	Bralten J
+insulin	35165256	Fanelli G
+insulin	35165256	Franke B
+insulin	35165256	De Witte W
+insulin	35165256	Ruisch IH
+insulin	35165256	Haavik J
+insulin	35165256	van Gils V
+insulin	35165256	Jansen WJ
+insulin	35165256	Vos SJB
+insulin	35165256	Lind L
+insulin	35165256	Buitelaar JK
+insulin	35165256	Banaschewski T
+insulin	35165256	Dalsgaard S
+insulin	35165256	Serretti A
+insulin	35165256	Mota NR
+insulin	35165256	Poelmans G
+insulin	35165256	Bralten J
+insulin receptor	35165256	Fanelli G
+insulin receptor	35165256	Franke B
+insulin receptor	35165256	De Witte W
+insulin receptor	35165256	Ruisch IH
+insulin receptor	35165256	Haavik J
+insulin receptor	35165256	van Gils V
+insulin receptor	35165256	Jansen WJ
+insulin receptor	35165256	Vos SJB
+insulin receptor	35165256	Lind L
+insulin receptor	35165256	Buitelaar JK
+insulin receptor	35165256	Banaschewski T
+insulin receptor	35165256	Dalsgaard S
+insulin receptor	35165256	Serretti A
+insulin receptor	35165256	Mota NR
+insulin receptor	35165256	Poelmans G
+insulin receptor	35165256	Bralten J
+insulin	35165256	Fanelli G
+insulin	35165256	Franke B
+insulin	35165256	De Witte W
+insulin	35165256	Ruisch IH
+insulin	35165256	Haavik J
+insulin	35165256	van Gils V
+insulin	35165256	Jansen WJ
+insulin	35165256	Vos SJB
+insulin	35165256	Lind L
+insulin	35165256	Buitelaar JK
+insulin	35165256	Banaschewski T
+insulin	35165256	Dalsgaard S
+insulin	35165256	Serretti A
+insulin	35165256	Mota NR
+insulin	35165256	Poelmans G
+insulin	35165256	Bralten J
+insulin	35165256	Fanelli G
+insulin	35165256	Franke B
+insulin	35165256	De Witte W
+insulin	35165256	Ruisch IH
+insulin	35165256	Haavik J
+insulin	35165256	van Gils V
+insulin	35165256	Jansen WJ
+insulin	35165256	Vos SJB
+insulin	35165256	Lind L
+insulin	35165256	Buitelaar JK
+insulin	35165256	Banaschewski T
+insulin	35165256	Dalsgaard S
+insulin	35165256	Serretti A
+insulin	35165256	Mota NR
+insulin	35165256	Poelmans G
+insulin	35165256	Bralten J
+superoxide dismutase 2	35165191	Wang J
+superoxide dismutase 2	35165191	Frohlich H
+superoxide dismutase 2	35165191	Torres FB
+superoxide dismutase 2	35165191	Silva RL
+superoxide dismutase 2	35165191	Poschet G
+superoxide dismutase 2	35165191	Agarwal A
+superoxide dismutase 2	35165191	Rappold GA
+oxytocin receptor	35149102	Kohlhoff J
+oxytocin receptor	35149102	Cibralic S
+oxytocin receptor	35149102	Hawes DJ
+oxytocin receptor	35149102	Eapen V
+insulin receptor	35142069	Hughes RB
+insulin receptor	35142069	Whittingham-Dowd J
+insulin receptor	35142069	Clapcote SJ
+insulin receptor	35142069	Broughton SJ
+insulin receptor	35142069	Dawson N
+plasminogen	35113965	Okazaki S
+plasminogen	35113965	Kimura R
+plasminogen	35113965	Otsuka I
+plasminogen	35113965	Funabiki Y
+plasminogen	35113965	Murai T
+plasminogen	35113965	Hishimoto A
+plasminogen	35113965	Okazaki S
+plasminogen	35113965	Kimura R
+plasminogen	35113965	Otsuka I
+plasminogen	35113965	Funabiki Y
+plasminogen	35113965	Murai T
+plasminogen	35113965	Hishimoto A
+insulin	35093163	Sethuram S
+insulin	35093163	Levy T
+insulin	35093163	Foss-Feig J
+insulin	35093163	Halpern D
+insulin	35093163	Sandin S
+insulin	35093163	Siper PM
+insulin	35093163	Walker H
+insulin	35093163	Buxbaum JD
+insulin	35093163	Rapaport R
+insulin	35093163	Kolevzon A
+parvalbumin	35069123	Knipper M
+parvalbumin	35069123	Singer W
+parvalbumin	35069123	Schwabe K
+parvalbumin	35069123	Hagberg GE
+parvalbumin	35069123	Li Hegner Y
+parvalbumin	35069123	Ruttiger L
+parvalbumin	35069123	Braun C
+parvalbumin	35069123	Land R
+estrogen receptor 1	35065713	Knoedler JR
+estrogen receptor 1	35065713	Inoue S
+estrogen receptor 1	35065713	Bayless DW
+estrogen receptor 1	35065713	Yang T
+estrogen receptor 1	35065713	Tantry A
+estrogen receptor 1	35065713	Davis CH
+estrogen receptor 1	35065713	Leung NY
+estrogen receptor 1	35065713	Parthasarathy S
+estrogen receptor 1	35065713	Wang G
+estrogen receptor 1	35065713	Alvarado M
+estrogen receptor 1	35065713	Rizvi AH
+estrogen receptor 1	35065713	Fenno LE
+estrogen receptor 1	35065713	Ramakrishnan C
+estrogen receptor 1	35065713	Deisseroth K
+estrogen receptor 1	35065713	Shah NM
+butyrylcholinesterase	35052591	Nadeem MS
+butyrylcholinesterase	35052591	Kazmi I
+butyrylcholinesterase	35052591	Ullah I
+butyrylcholinesterase	35052591	Muhammad K
+butyrylcholinesterase	35052591	Anwar F
+nucleolin	35052391	Sheikh TI
+nucleolin	35052391	Harripaul R
+nucleolin	35052391	Vasli N
+nucleolin	35052391	Ghadami M
+nucleolin	35052391	Santangelo SL
+nucleolin	35052391	Ayub M
+nucleolin	35052391	Sasanfar R
+nucleolin	35052391	Vincent JB
+nucleolin	35052391	Sheikh TI
+nucleolin	35052391	Harripaul R
+nucleolin	35052391	Vasli N
+nucleolin	35052391	Ghadami M
+nucleolin	35052391	Santangelo SL
+nucleolin	35052391	Ayub M
+nucleolin	35052391	Sasanfar R
+nucleolin	35052391	Vincent JB
+nucleolin	35052391	Sheikh TI
+nucleolin	35052391	Harripaul R
+nucleolin	35052391	Vasli N
+nucleolin	35052391	Ghadami M
+nucleolin	35052391	Santangelo SL
+nucleolin	35052391	Ayub M
+nucleolin	35052391	Sasanfar R
+nucleolin	35052391	Vincent JB
+nucleolin	35052391	Sheikh TI
+nucleolin	35052391	Harripaul R
+nucleolin	35052391	Vasli N
+nucleolin	35052391	Ghadami M
+nucleolin	35052391	Santangelo SL
+nucleolin	35052391	Ayub M
+nucleolin	35052391	Sasanfar R
+nucleolin	35052391	Vincent JB
+nucleolin	35052391	Sheikh TI
+nucleolin	35052391	Harripaul R
+nucleolin	35052391	Vasli N
+nucleolin	35052391	Ghadami M
+nucleolin	35052391	Santangelo SL
+nucleolin	35052391	Ayub M
+nucleolin	35052391	Sasanfar R
+nucleolin	35052391	Vincent JB
+nucleolin	35052391	Sheikh TI
+nucleolin	35052391	Harripaul R
+nucleolin	35052391	Vasli N
+nucleolin	35052391	Ghadami M
+nucleolin	35052391	Santangelo SL
+nucleolin	35052391	Ayub M
+nucleolin	35052391	Sasanfar R
+nucleolin	35052391	Vincent JB
+tumor necrosis factor	35047232	Alhakbany M
+tumor necrosis factor	35047232	Al-Ayadhi L
+tumor necrosis factor	35047232	El-Ansary A
+tumor necrosis factor	35047232	Alhakbany M
+tumor necrosis factor	35047232	Al-Ayadhi L
+tumor necrosis factor	35047232	El-Ansary A
+Gilles de la Tourette syndrome	35042017	Lin WD
+Gilles de la Tourette syndrome	35042017	Tsai FJ
+Gilles de la Tourette syndrome	35042017	Chou IC
+histidine decarboxylase	35042017	Lin WD
+histidine decarboxylase	35042017	Tsai FJ
+histidine decarboxylase	35042017	Chou IC
+superoxide dismutase 2	35027651	Yu H
+superoxide dismutase 2	35027651	Niu Y
+superoxide dismutase 2	35027651	Jia G
+superoxide dismutase 2	35027651	Liang Y
+superoxide dismutase 2	35027651	Chen B
+superoxide dismutase 2	35027651	Sun R
+superoxide dismutase 2	35027651	Wang M
+superoxide dismutase 2	35027651	Huang S
+superoxide dismutase 2	35027651	Zeng J
+superoxide dismutase 2	35027651	Lu J
+superoxide dismutase 2	35027651	Li L
+superoxide dismutase 2	35027651	Guo X
+superoxide dismutase 2	35027651	Yao P
+multiple sclerosis	35024691	Azcoitia I
+multiple sclerosis	35024691	Mendez P
+multiple sclerosis	35024691	Garcia-Segura LM
+thioredoxin	35015875	Zhao P
+thioredoxin	35015875	Fu H
+thioredoxin	35015875	Cheng H
+thioredoxin	35015875	Zheng R
+thioredoxin	35015875	Yuan D
+thioredoxin	35015875	Yang J
+thioredoxin	35015875	Li S
+thioredoxin	35015875	Li E
+thioredoxin	35015875	Li L
+caspase 1	35015875	Zhao P
+caspase 1	35015875	Fu H
+caspase 1	35015875	Cheng H
+caspase 1	35015875	Zheng R
+caspase 1	35015875	Yuan D
+caspase 1	35015875	Yang J
+caspase 1	35015875	Li S
+caspase 1	35015875	Li E
+caspase 1	35015875	Li L
+caspase 1	35015875	Zhao P
+caspase 1	35015875	Fu H
+caspase 1	35015875	Cheng H
+caspase 1	35015875	Zheng R
+caspase 1	35015875	Yuan D
+caspase 1	35015875	Yang J
+caspase 1	35015875	Li S
+caspase 1	35015875	Li E
+caspase 1	35015875	Li L
+adenylosuccinate lyase	34998670	Dewulf JP
+adenylosuccinate lyase	34998670	Marie S
+adenylosuccinate lyase	34998670	Nassogne MC
+glutathione peroxidase 1	34997988	Carducci F
+glutathione peroxidase 1	34997988	Ardiccioni C
+glutathione peroxidase 1	34997988	Fiorini R
+glutathione peroxidase 1	34997988	Vignini A
+glutathione peroxidase 1	34997988	Di Paolo A
+glutathione peroxidase 1	34997988	Alia S
+glutathione peroxidase 1	34997988	Barucca M
+glutathione peroxidase 1	34997988	Biscotti MA
+occludin	34988901	Nalbant K
+occludin	34988901	Erden S
+occludin	34988901	Yazar A
+occludin	34988901	Kilinc I
+occludin	34988901	Nalbant K
+occludin	34988901	Erden S
+occludin	34988901	Yazar A
+occludin	34988901	Kilinc I
+occludin	34988901	Nalbant K
+occludin	34988901	Erden S
+occludin	34988901	Yazar A
+occludin	34988901	Kilinc I
+occludin	34988901	Nalbant K
+occludin	34988901	Erden S
+occludin	34988901	Yazar A
+occludin	34988901	Kilinc I
+occludin	34988901	Nalbant K
+occludin	34988901	Erden S
+occludin	34988901	Yazar A
+occludin	34988901	Kilinc I
+oxytocin receptor	34980886	Meyer M
+oxytocin receptor	34980886	Jurek B
+oxytocin receptor	34980886	Alfonso-Prieto M
+oxytocin receptor	34980886	Ribeiro R
+oxytocin receptor	34980886	Milenkovic VM
+oxytocin receptor	34980886	Winter J
+oxytocin receptor	34980886	Hoffmann P
+oxytocin receptor	34980886	Wetzel CH
+oxytocin receptor	34980886	Giorgetti A
+oxytocin receptor	34980886	Carloni P
+oxytocin receptor	34980886	Neumann ID
+oxytocin receptor	34980886	Meyer M
+oxytocin receptor	34980886	Jurek B
+oxytocin receptor	34980886	Alfonso-Prieto M
+oxytocin receptor	34980886	Ribeiro R
+oxytocin receptor	34980886	Milenkovic VM
+oxytocin receptor	34980886	Winter J
+oxytocin receptor	34980886	Hoffmann P
+oxytocin receptor	34980886	Wetzel CH
+oxytocin receptor	34980886	Giorgetti A
+oxytocin receptor	34980886	Carloni P
+oxytocin receptor	34980886	Neumann ID
+cholecystokinin	34976023	Drozd MM
+cholecystokinin	34976023	Capovilla M
+cholecystokinin	34976023	Previdere C
+cholecystokinin	34976023	Grossi M
+cholecystokinin	34976023	Askenazy F
+cholecystokinin	34976023	Bardoni B
+cholecystokinin	34976023	Fernandez A
+oxytocin receptor	34970101	Caliskan E
+oxytocin receptor	34970101	Sahin MN
+oxytocin receptor	34970101	Guldag MA
+oxytocin receptor	34970101	Caliskan E
+oxytocin receptor	34970101	Sahin MN
+oxytocin receptor	34970101	Guldag MA
+renin	34959804	Ali A
+renin	34959804	Alexander S
+renin	34959804	Ko P
+renin	34959804	Cuffe JSM
+renin	34959804	Whitehouse AJO
+renin	34959804	McGrath JJ
+renin	34959804	Eyles D

@@ -1,0 +1,438 @@
+Subramaniam S	Atypical autism	huntingtin	1
+Boregowda S	Atypical autism	huntingtin	1
+Dumitriu D	Atypical autism	C-reactive protein	1
+Baldwin E	Atypical autism	C-reactive protein	1
+Coenen RJJ	Atypical autism	C-reactive protein	1
+Hammond LA	Atypical autism	C-reactive protein	1
+Peterka DS	Atypical autism	C-reactive protein	1
+Heilbrun L	Atypical autism	C-reactive protein	1
+Frye RE	Atypical autism	C-reactive protein	1
+Palmer R	Atypical autism	C-reactive protein	1
+Norrman HN	Atypical autism	C-reactive protein	1
+Fridell A	Atypical autism	C-reactive protein	1
+Remnelius KL	Atypical autism	C-reactive protein	1
+Isaksson J	Atypical autism	C-reactive protein	1
+Austin C	Atypical autism	C-reactive protein	1
+Curtin P	Atypical autism	C-reactive protein	1
+Bolte S	Atypical autism	C-reactive protein	1
+Arora M	Atypical autism	C-reactive protein	1
+Morel C	Atypical autism	oxytocin receptor	1
+Martinez Sanchez I	Atypical autism	oxytocin receptor	1
+Cherifi Y	Atypical autism	oxytocin receptor	1
+Chartrel N	Atypical autism	oxytocin receptor	1
+Diaz Heijtz R	Atypical autism	oxytocin receptor	1
+de Oliveira Ferreira E	Atypical autism	synaptophysin	1
+Pessoa Gomes JM	Atypical autism	synaptophysin	1
+Neves KRT	Atypical autism	synaptophysin	1
+Lima FAV	Atypical autism	synaptophysin	1
+de Barros Viana GS	Atypical autism	synaptophysin	1
+de Andrade GM	Atypical autism	synaptophysin	1
+Rawlings-Mortimer F	Atypical autism	myelin regulatory factor	1
+Gullino LS	Atypical autism	myelin regulatory factor	1
+Ruhling S	Atypical autism	myelin regulatory factor	1
+Ashton A	Atypical autism	myelin regulatory factor	1
+Barkus C	Atypical autism	myelin regulatory factor	1
+Johansen-Berg H	Atypical autism	myelin regulatory factor	1
+Caria A	Atypical autism	arginine vasopressin	2
+Maurer MH	Atypical autism	adhesion G protein-coupled receptor L3	1
+Kohler A	Atypical autism	adhesion G protein-coupled receptor L3	1
+Hudemann M	Atypical autism	adhesion G protein-coupled receptor L3	1
+Jungling J	Atypical autism	adhesion G protein-coupled receptor L3	1
+Biskup S	Atypical autism	adhesion G protein-coupled receptor L3	1
+Menzel M	Atypical autism	adhesion G protein-coupled receptor L3	1
+Lombardo B	Atypical autism	D-aspartate oxidase	1
+Pagani M	Atypical autism	D-aspartate oxidase	1
+De Rosa A	Atypical autism	D-aspartate oxidase	1
+Nunziato M	Atypical autism	D-aspartate oxidase	1
+Migliarini S	Atypical autism	D-aspartate oxidase	1
+Garofalo M	Atypical autism	D-aspartate oxidase	1
+Terrile M	Atypical autism	D-aspartate oxidase	1
+D'Argenio V	Atypical autism	D-aspartate oxidase	1
+Galbusera A	Atypical autism	D-aspartate oxidase	1
+Nuzzo T	Atypical autism	D-aspartate oxidase	1
+Ranieri A	Atypical autism	D-aspartate oxidase	1
+Vitale A	Atypical autism	D-aspartate oxidase	1
+Leggiero E	Atypical autism	D-aspartate oxidase	1
+Di Maio A	Atypical autism	D-aspartate oxidase	1
+Barsotti N	Atypical autism	D-aspartate oxidase	1
+Borello U	Atypical autism	D-aspartate oxidase	1
+Napolitano F	Atypical autism	D-aspartate oxidase	1
+Mandarino A	Atypical autism	D-aspartate oxidase	1
+Carotenuto M	Atypical autism	D-aspartate oxidase	1
+Heresco-Levy U	Atypical autism	D-aspartate oxidase	1
+Pasqualetti M	Atypical autism	D-aspartate oxidase	1
+Malatesta P	Atypical autism	D-aspartate oxidase	1
+Gozzi A	Atypical autism	D-aspartate oxidase	1
+Errico F	Atypical autism	D-aspartate oxidase	1
+Salvatore F	Atypical autism	D-aspartate oxidase	1
+Pastore L	Atypical autism	D-aspartate oxidase	1
+Usiello A	Atypical autism	D-aspartate oxidase	1
+Simpson D	Atypical autism	translocator protein	2
+Gharehgazlou A	Atypical autism	translocator protein	2
+Da Silva T	Atypical autism	translocator protein	2
+Labrie-Cleary C	Atypical autism	translocator protein	2
+Wilson AA	Atypical autism	translocator protein	2
+Meyer JH	Atypical autism	translocator protein	2
+Mizrahi R	Atypical autism	translocator protein	2
+Rusjan PM	Atypical autism	translocator protein	2
+Simpson D	Atypical autism	multiple sclerosis	2
+Gharehgazlou A	Atypical autism	multiple sclerosis	2
+Da Silva T	Atypical autism	multiple sclerosis	2
+Labrie-Cleary C	Atypical autism	multiple sclerosis	2
+Wilson AA	Atypical autism	multiple sclerosis	2
+Meyer JH	Atypical autism	multiple sclerosis	2
+Mizrahi R	Atypical autism	multiple sclerosis	2
+Rusjan PM	Atypical autism	multiple sclerosis	2
+Contractor A	Atypical autism	parvalbumin	2
+Ethell IM	Atypical autism	parvalbumin	2
+Portera-Cailliau C	Atypical autism	parvalbumin	2
+Razak KA	Atypical autism	parvalbumin	1
+Binder DK	Atypical autism	parvalbumin	1
+Ethell IM	Atypical autism	parvalbumin	2
+Wang X	Atypical autism	oxytocin receptor	1
+Escobar JB	Atypical autism	oxytocin receptor	1
+Mendelowitz D	Atypical autism	oxytocin receptor	1
+Tempesta AJ	Atypical autism	multiple sclerosis	1
+Miller CE	Atypical autism	multiple sclerosis	1
+Litvak V	Atypical autism	multiple sclerosis	1
+Bowman H	Atypical autism	multiple sclerosis	1
+Schofield AJ	Atypical autism	multiple sclerosis	1
+Frei JA	Atypical autism	FAT atypical cadherin 1	1
+Brandenburg C	Atypical autism	FAT atypical cadherin 1	1
+Nestor JE	Atypical autism	FAT atypical cadherin 1	1
+Hodzic DM	Atypical autism	FAT atypical cadherin 1	1
+Plachez C	Atypical autism	FAT atypical cadherin 1	1
+McNeill H	Atypical autism	FAT atypical cadherin 1	1
+Dykxhoorn DM	Atypical autism	FAT atypical cadherin 1	1
+Nestor MW	Atypical autism	FAT atypical cadherin 1	1
+Blatt GJ	Atypical autism	FAT atypical cadherin 1	1
+Lin YC	Atypical autism	FAT atypical cadherin 1	1
+Ahern TH	Atypical autism	oxytocin receptor	1
+Olsen S	Atypical autism	oxytocin receptor	1
+Tudino R	Atypical autism	oxytocin receptor	1
+Beery AK	Atypical autism	oxytocin receptor	1
+Fadila	Atypical autism	methylenetetrahydrofolate reductase	1
+Suman P	Atypical autism	methylenetetrahydrofolate reductase	1
+Kumar P	Atypical autism	methylenetetrahydrofolate reductase	1
+Omair F	Atypical autism	methylenetetrahydrofolate reductase	1
+Dai L	Atypical autism	insulin	1
+Weiss RB	Atypical autism	insulin	1
+Dunn DM	Atypical autism	insulin	1
+Ramirez A	Atypical autism	insulin	1
+Paul S	Atypical autism	insulin	1
+Korenberg JR	Atypical autism	insulin	1
+Ibi D	Atypical autism	synaptoporin	1
+Nakasai G	Atypical autism	synaptoporin	1
+Koide N	Atypical autism	synaptoporin	1
+Sawahata M	Atypical autism	synaptoporin	1
+Kohno T	Atypical autism	synaptoporin	1
+Takaba R	Atypical autism	synaptoporin	1
+Nagai T	Atypical autism	synaptoporin	1
+Hattori M	Atypical autism	synaptoporin	1
+Nabeshima T	Atypical autism	synaptoporin	1
+Yamada K	Atypical autism	synaptoporin	1
+Hiramatsu M	Atypical autism	synaptoporin	1
+Martinez-Rodriguez E	Atypical autism	arginine vasopressin	1
+Martin-Sanchez A	Atypical autism	arginine vasopressin	1
+Kul E	Atypical autism	arginine vasopressin	1
+Bose A	Atypical autism	arginine vasopressin	1
+Martinez-Martinez FJ	Atypical autism	arginine vasopressin	1
+Stork O	Atypical autism	arginine vasopressin	1
+Martinez-Garcia F	Atypical autism	arginine vasopressin	1
+Lanuza E	Atypical autism	arginine vasopressin	1
+Santos M	Atypical autism	arginine vasopressin	1
+Agustin-Pavon C	Atypical autism	arginine vasopressin	1
+Piras IS	Atypical autism	huntingtin	1
+Picinelli C	Atypical autism	huntingtin	1
+Iennaco R	Atypical autism	huntingtin	1
+Baccarin M	Atypical autism	huntingtin	1
+Castronovo P	Atypical autism	huntingtin	1
+Tomaiuolo P	Atypical autism	huntingtin	1
+Cucinotta F	Atypical autism	huntingtin	1
+Ricciardello A	Atypical autism	huntingtin	1
+Turriziani L	Atypical autism	huntingtin	1
+Nanetti L	Atypical autism	huntingtin	1
+Mariotti C	Atypical autism	huntingtin	1
+Gellera C	Atypical autism	huntingtin	1
+Lintas C	Atypical autism	huntingtin	1
+Sacco R	Atypical autism	huntingtin	1
+Zuccato C	Atypical autism	huntingtin	1
+Cattaneo E	Atypical autism	huntingtin	1
+Persico AM	Atypical autism	huntingtin	1
+Caria A	Atypical autism	oxytocin receptor	2
+Ciringione L	Atypical autism	oxytocin receptor	1
+Falco S	Atypical autism	oxytocin receptor	1
+Endres D	Atypical autism	amphiphysin	1
+Leypoldt F	Atypical autism	amphiphysin	1
+Bechter K	Atypical autism	amphiphysin	1
+Hasan A	Atypical autism	amphiphysin	1
+Steiner J	Atypical autism	amphiphysin	1
+Domschke K	Atypical autism	amphiphysin	1
+Wandinger KP	Atypical autism	amphiphysin	1
+Falkai P	Atypical autism	amphiphysin	1
+Arolt V	Atypical autism	amphiphysin	1
+Stich O	Atypical autism	amphiphysin	1
+Rauer S	Atypical autism	amphiphysin	1
+Pruss H	Atypical autism	amphiphysin	1
+van Elst LT	Atypical autism	amphiphysin	1
+Hacohen-Kleiman G	Atypical autism	glutamate decarboxylase 1	1
+Yizhar-Barnea O	Atypical autism	glutamate decarboxylase 1	1
+Touloumi O	Atypical autism	glutamate decarboxylase 1	1
+Lagoudaki R	Atypical autism	glutamate decarboxylase 1	1
+Avraham KB	Atypical autism	glutamate decarboxylase 1	1
+Grigoriadis N	Atypical autism	glutamate decarboxylase 1	1
+Gozes I	Atypical autism	glutamate decarboxylase 1	1
+Rendall AR	Atypical autism	SH3 and multiple ankyrin repeat domains 3	1
+Perrino PA	Atypical autism	SH3 and multiple ankyrin repeat domains 3	1
+Buscarello AN	Atypical autism	SH3 and multiple ankyrin repeat domains 3	1
+Fitch RH	Atypical autism	SH3 and multiple ankyrin repeat domains 3	1
+Sakaguchi Y	Atypical autism	nuclear receptor corepressor 1	1
+Uehara T	Atypical autism	nuclear receptor corepressor 1	1
+Suzuki H	Atypical autism	nuclear receptor corepressor 1	1
+Sakamoto Y	Atypical autism	nuclear receptor corepressor 1	1
+Fujiwara M	Atypical autism	nuclear receptor corepressor 1	1
+Kosaki K	Atypical autism	nuclear receptor corepressor 1	1
+Takenouchi T	Atypical autism	nuclear receptor corepressor 1	1
+Goel A	Atypical autism	parvalbumin	1
+Cantu DA	Atypical autism	parvalbumin	1
+Guilfoyle J	Atypical autism	parvalbumin	1
+Chaudhari GR	Atypical autism	parvalbumin	1
+Newadkar A	Atypical autism	parvalbumin	1
+Todisco B	Atypical autism	parvalbumin	1
+de Alba D	Atypical autism	parvalbumin	1
+Kourdougli N	Atypical autism	parvalbumin	1
+Schmitt LM	Atypical autism	parvalbumin	1
+Pedapati E	Atypical autism	parvalbumin	1
+Erickson CA	Atypical autism	parvalbumin	1
+Portera-Cailliau C	Atypical autism	parvalbumin	2
+Bariselli S	Atypical autism	neuroligin 3	1
+Hornberg H	Atypical autism	neuroligin 3	1
+Prevost-Solie C	Atypical autism	neuroligin 3	1
+Musardo S	Atypical autism	neuroligin 3	1
+Hatstatt-Burkle L	Atypical autism	neuroligin 3	1
+Scheiffele P	Atypical autism	neuroligin 3	1
+Bellone C	Atypical autism	neuroligin 3	1
+Sekiya N	Atypical autism	arginine vasopressin	1
+Awazu M	Atypical autism	arginine vasopressin	1
+Malik A	Atypical autism	steroid sulfatase	1
+Amer AB	Atypical autism	steroid sulfatase	1
+Salama M	Atypical autism	steroid sulfatase	1
+Haddad B	Atypical autism	steroid sulfatase	1
+Alrifai MT	Atypical autism	steroid sulfatase	1
+Balwi MA	Atypical autism	steroid sulfatase	1
+Davies W	Atypical autism	steroid sulfatase	1
+Eyaid W	Atypical autism	steroid sulfatase	1
+Motyl KJ	Atypical autism	prolactin	1
+Beauchemin M	Atypical autism	prolactin	1
+Barlow D	Atypical autism	prolactin	1
+Le PT	Atypical autism	prolactin	1
+Nagano K	Atypical autism	prolactin	1
+Treyball A	Atypical autism	prolactin	1
+Contractor A	Atypical autism	prolactin	2
+Baron R	Atypical autism	prolactin	1
+Rosen CJ	Atypical autism	prolactin	1
+Houseknecht KL	Atypical autism	prolactin	1
+Burrows EL	Atypical autism	neuroligin 3	1
+Eastwood AF	Atypical autism	neuroligin 3	1
+May C	Atypical autism	neuroligin 3	1
+Kolbe SC	Atypical autism	neuroligin 3	1
+Hill T	Atypical autism	neuroligin 3	1
+McLachlan NM	Atypical autism	neuroligin 3	1
+Churilov L	Atypical autism	neuroligin 3	1
+Hannan AJ	Atypical autism	neuroligin 3	1
+Vanwong N	Atypical autism	insulin	3
+Srisawasdi P	Atypical autism	insulin	2
+Ngamsamut N	Atypical autism	insulin	3
+Nuntamool N	Atypical autism	insulin	3
+Puangpetch A	Atypical autism	insulin	3
+Chamkrachangpada B	Atypical autism	insulin	2
+Hongkaew Y	Atypical autism	insulin	3
+Limsila P	Atypical autism	insulin	3
+Kittitharaphan W	Atypical autism	insulin	2
+Sukasem C	Atypical autism	insulin	3
+Vanwong N	Atypical autism	leptin	3
+Srisawasdi P	Atypical autism	leptin	2
+Ngamsamut N	Atypical autism	leptin	3
+Nuntamool N	Atypical autism	leptin	3
+Puangpetch A	Atypical autism	leptin	3
+Chamkrachangpada B	Atypical autism	leptin	2
+Hongkaew Y	Atypical autism	leptin	3
+Limsila P	Atypical autism	leptin	3
+Kittitharaphan W	Atypical autism	leptin	2
+Sukasem C	Atypical autism	leptin	3
+Vanwong N	Atypical autism	prolactin	3
+Prommas S	Atypical autism	prolactin	1
+Puangpetch A	Atypical autism	prolactin	3
+Hongkaew Y	Atypical autism	prolactin	3
+Nuntamool N	Atypical autism	prolactin	3
+Nakorn CN	Atypical autism	prolactin	1
+Ngamsamut N	Atypical autism	prolactin	3
+Limsila P	Atypical autism	prolactin	3
+Sukasem C	Atypical autism	prolactin	3
+Preckel K	Atypical autism	oxytocin receptor	1
+Kanske P	Atypical autism	oxytocin receptor	1
+Singer T	Atypical autism	oxytocin receptor	1
+Paulus FM	Atypical autism	oxytocin receptor	1
+Krach S	Atypical autism	oxytocin receptor	1
+Reuter M	Atypical autism	oxytocin receptor	1
+Montag C	Atypical autism	oxytocin receptor	1
+Altmann S	Atypical autism	oxytocin receptor	1
+Bendlow F	Atypical autism	oxytocin receptor	1
+Elger C	Atypical autism	oxytocin receptor	1
+Kirsch P	Atypical autism	oxytocin receptor	1
+Becker A	Atypical autism	oxytocin receptor	1
+Schoch-McGovern S	Atypical autism	oxytocin receptor	1
+Simon M	Atypical autism	oxytocin receptor	1
+Weber B	Atypical autism	oxytocin receptor	1
+Felten A	Atypical autism	oxytocin receptor	1
+McDonald NM	Atypical autism	oxytocin receptor	1
+Baker JK	Atypical autism	oxytocin receptor	1
+Messinger DS	Atypical autism	oxytocin receptor	1
+Kushak RI	Atypical autism	lactase	1
+Buie TM	Atypical autism	lactase	1
+Murray KF	Atypical autism	lactase	1
+Newburg DS	Atypical autism	lactase	1
+Chen C	Atypical autism	lactase	2
+Nestoridi E	Atypical autism	lactase	1
+Winter HS	Atypical autism	lactase	1
+Yoganathan S	Atypical autism	WD repeat domain 45	1
+Arunachal G	Atypical autism	WD repeat domain 45	1
+Sudhakar SV	Atypical autism	WD repeat domain 45	1
+Rajaraman V	Atypical autism	WD repeat domain 45	1
+Thomas M	Atypical autism	WD repeat domain 45	1
+Danda S	Atypical autism	WD repeat domain 45	1
+Chen C	Atypical autism	androgen receptor	2
+Van Horn JD	Atypical autism	androgen receptor	1
+Imitola J	Atypical autism	neurexin 1	1
+Walleigh D	Atypical autism	neurexin 1	1
+Anderson CE	Atypical autism	neurexin 1	1
+Jethva R	Atypical autism	neurexin 1	1
+Carvalho KS	Atypical autism	neurexin 1	1
+Legido A	Atypical autism	neurexin 1	1
+Khurana DS	Atypical autism	neurexin 1	1
+Akshoomoff N	Atypical autism	Jacobsen syndrome	1
+Mattson SN	Atypical autism	Jacobsen syndrome	1
+Grossfeld PD	Atypical autism	Jacobsen syndrome	1
+Liu XB	Atypical autism	multiple sclerosis	1
+Schumann CM	Atypical autism	multiple sclerosis	1
+Zikopoulos B	Atypical autism	parvalbumin	1
+Barbas H	Atypical autism	parvalbumin	1
+Lim KC	Atypical autism	TBC1 domain family member 7	3
+Crino PB	Atypical autism	TBC1 domain family member 7	3
+Lim KC	Atypical autism	glial fibrillary acidic protein	3
+Crino PB	Atypical autism	glial fibrillary acidic protein	3
+Lim KC	Atypical autism	phosphatase and tensin homolog	3
+Crino PB	Atypical autism	phosphatase and tensin homolog	3
+Kohlstadt I	Atypical autism	insulin	1
+Wharton G	Atypical autism	insulin	1
+Farmer C	Atypical autism	secretin	1
+Thurm A	Atypical autism	secretin	1
+Grant P	Atypical autism	secretin	1
+Mestre TA	Atypical autism	Gilles de la Tourette syndrome	1
+Zurowski M	Atypical autism	Gilles de la Tourette syndrome	1
+Fox SH	Atypical autism	Gilles de la Tourette syndrome	1
+Ishima T	Atypical autism	nerve growth factor	1
+Iyo M	Atypical autism	nerve growth factor	1
+Hashimoto K	Atypical autism	nerve growth factor	1
+Verhoeven WM	Atypical autism	SH3 and multiple ankyrin repeat domains 3	1
+Egger JI	Atypical autism	SH3 and multiple ankyrin repeat domains 3	1
+Willemsen MH	Atypical autism	SH3 and multiple ankyrin repeat domains 3	1
+de Leijer GJ	Atypical autism	SH3 and multiple ankyrin repeat domains 3	1
+Kleefstra T	Atypical autism	SH3 and multiple ankyrin repeat domains 3	1
+Sanmann JN	Atypical autism	methyl-CpG binding protein 2	1
+Schaefer GB	Atypical autism	methyl-CpG binding protein 2	1
+Buehler BA	Atypical autism	methyl-CpG binding protein 2	1
+Sanger WG	Atypical autism	methyl-CpG binding protein 2	1
+Pasca SP	Atypical autism	tyrosine hydroxylase	1
+Portmann T	Atypical autism	tyrosine hydroxylase	1
+Voineagu I	Atypical autism	tyrosine hydroxylase	1
+Yazawa M	Atypical autism	tyrosine hydroxylase	1
+Shcheglovitov A	Atypical autism	tyrosine hydroxylase	1
+Pasca AM	Atypical autism	tyrosine hydroxylase	1
+Cord B	Atypical autism	tyrosine hydroxylase	1
+Palmer TD	Atypical autism	tyrosine hydroxylase	1
+Chikahisa S	Atypical autism	tyrosine hydroxylase	1
+Nishino S	Atypical autism	tyrosine hydroxylase	1
+Bernstein JA	Atypical autism	tyrosine hydroxylase	1
+Hallmayer J	Atypical autism	tyrosine hydroxylase	1
+Geschwind DH	Atypical autism	tyrosine hydroxylase	1
+Dolmetsch RE	Atypical autism	tyrosine hydroxylase	1
+Kliushnik TP	Atypical autism	C-reactive protein	2
+Androsova LV	Atypical autism	C-reactive protein	2
+Simashkova NV	Atypical autism	C-reactive protein	2
+Zozulia SA	Atypical autism	C-reactive protein	2
+Otman IN	Atypical autism	C-reactive protein	2
+Koval'-Zaitsev AA	Atypical autism	C-reactive protein	2
+Kliushnik TP	Atypical autism	nerve growth factor	2
+Androsova LV	Atypical autism	nerve growth factor	2
+Simashkova NV	Atypical autism	nerve growth factor	2
+Zozulia SA	Atypical autism	nerve growth factor	2
+Otman IN	Atypical autism	nerve growth factor	2
+Koval'-Zaitsev AA	Atypical autism	nerve growth factor	2
+Perez-Duenas B	Atypical autism	adenylosuccinate lyase	1
+Sempere A	Atypical autism	adenylosuccinate lyase	1
+Campistol J	Atypical autism	adenylosuccinate lyase	1
+Alonso-Colmenero I	Atypical autism	adenylosuccinate lyase	1
+Diez M	Atypical autism	adenylosuccinate lyase	1
+Gonzalez V	Atypical autism	adenylosuccinate lyase	1
+Merinero B	Atypical autism	adenylosuccinate lyase	1
+Desviat LR	Atypical autism	adenylosuccinate lyase	1
+Artuch R	Atypical autism	adenylosuccinate lyase	1
+Presti-Torres J	Atypical autism	gastrin	2
+Garcia VA	Atypical autism	gastrin	2
+Dornelles A	Atypical autism	gastrin	2
+Halmenschlager LH	Atypical autism	gastrin	2
+Alcalde LA	Atypical autism	gastrin	2
+Vedana G	Atypical autism	gastrin	2
+Rico EP	Atypical autism	gastrin	2
+Bogo MR	Atypical autism	gastrin	2
+Schwartsmann G	Atypical autism	gastrin	2
+Roesler R	Atypical autism	gastrin	2
+Schroder N	Atypical autism	gastrin	2
+Presti-Torres J	Atypical autism	epidermal growth factor	2
+Garcia VA	Atypical autism	epidermal growth factor	2
+Dornelles A	Atypical autism	epidermal growth factor	2
+Halmenschlager LH	Atypical autism	epidermal growth factor	2
+Alcalde LA	Atypical autism	epidermal growth factor	2
+Vedana G	Atypical autism	epidermal growth factor	2
+Rico EP	Atypical autism	epidermal growth factor	2
+Bogo MR	Atypical autism	epidermal growth factor	2
+Schwartsmann G	Atypical autism	epidermal growth factor	2
+Roesler R	Atypical autism	epidermal growth factor	2
+Schroder N	Atypical autism	epidermal growth factor	2
+Panagiotopoulos C	Atypical autism	prolactin	1
+Ronsley R	Atypical autism	prolactin	1
+Elbe D	Atypical autism	prolactin	2
+Davidson J	Atypical autism	prolactin	1
+Smith DH	Atypical autism	prolactin	1
+Wermter AK	Atypical autism	oxytocin receptor	2
+Kamp-Becker I	Atypical autism	oxytocin receptor	2
+Hesse P	Atypical autism	oxytocin receptor	1
+Schulte-Korne G	Atypical autism	oxytocin receptor	2
+Strauch K	Atypical autism	oxytocin receptor	2
+Remschmidt H	Atypical autism	oxytocin receptor	2
+Greenaway M	Atypical autism	prolactin	1
+Elbe D	Atypical autism	prolactin	2
+Luder AS	Atypical autism	hydroxymethylbilane synthase	1
+Mamet R	Atypical autism	hydroxymethylbilane synthase	1
+Farbstein I	Atypical autism	hydroxymethylbilane synthase	1
+Schoenfeld N	Atypical autism	hydroxymethylbilane synthase	1
+Malone RP	Atypical autism	prolactin	1
+Delaney MA	Atypical autism	prolactin	1
+Hyman SB	Atypical autism	prolactin	1
+Cater JR	Atypical autism	prolactin	1
+Wermter AK	Atypical autism	neuroligin 3	2
+Kamp-Becker I	Atypical autism	neuroligin 3	2
+Strauch K	Atypical autism	neuroligin 3	2
+Schulte-Korne G	Atypical autism	neuroligin 3	2
+Remschmidt H	Atypical autism	neuroligin 3	2
+Brahm NC	Atypical autism	prolactin	1
+Fast GA	Atypical autism	prolactin	1
+Brown RC	Atypical autism	prolactin	1
+Zimmerman AW	Atypical autism	myelin basic protein	1
+Connors SL	Atypical autism	myelin basic protein	1
+Matteson KJ	Atypical autism	myelin basic protein	1
+Lee LC	Atypical autism	myelin basic protein	1
+Singer HS	Atypical autism	myelin basic protein	1
+Castaneda JA	Atypical autism	myelin basic protein	1
+Pearce DA	Atypical autism	myelin basic protein	1

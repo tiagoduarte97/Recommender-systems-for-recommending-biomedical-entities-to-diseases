@@ -1,0 +1,928 @@
+glutaminase	36915976	Zhang X	Autistic disorder	4
+glutaminase	36915976	Liu S	Autistic disorder	3
+glutaminase	36915976	Liu X	Autistic disorder	4
+glutaminase	36915976	Wang J	Autistic disorder	3
+biotinidase	36898611	Zhang H	Autistic disorder	3
+biotinidase	36898611	Tang X	Autistic disorder	2
+biotinidase	36898611	Feng C	Autistic disorder	2
+biotinidase	36898611	Gao Y	Autistic disorder	4
+biotinidase	36898611	Hong Q	Autistic disorder	2
+biotinidase	36898611	Zhang J	Autistic disorder	5
+biotinidase	36898611	Zhang X	Autistic disorder	4
+biotinidase	36898611	Zheng Q	Autistic disorder	2
+biotinidase	36898611	Lin J	Autistic disorder	2
+biotinidase	36898611	Liu X	Autistic disorder	4
+biotinidase	36898611	Shen L	Autistic disorder	2
+insulin	36898611	Zhang H	Autistic disorder	3
+insulin	36898611	Tang X	Autistic disorder	2
+insulin	36898611	Feng C	Autistic disorder	2
+insulin	36898611	Gao Y	Autistic disorder	4
+insulin	36898611	Hong Q	Autistic disorder	2
+insulin	36898611	Zhang J	Autistic disorder	5
+insulin	36898611	Zhang X	Autistic disorder	4
+insulin	36898611	Zheng Q	Autistic disorder	2
+insulin	36898611	Lin J	Autistic disorder	2
+insulin	36898611	Liu X	Autistic disorder	4
+insulin	36898611	Shen L	Autistic disorder	2
+parvalbumin	36882863	Ghirardini E	Autistic disorder	1
+parvalbumin	36882863	Sagona G	Autistic disorder	1
+parvalbumin	36882863	Marquez-Galera A	Autistic disorder	1
+parvalbumin	36882863	Calugi F	Autistic disorder	1
+parvalbumin	36882863	Navarron CM	Autistic disorder	1
+parvalbumin	36882863	Cacciante F	Autistic disorder	1
+parvalbumin	36882863	Chen S	Autistic disorder	1
+parvalbumin	36882863	Di Vetta F	Autistic disorder	1
+parvalbumin	36882863	Dada L	Autistic disorder	1
+parvalbumin	36882863	Mazziotti R	Autistic disorder	1
+parvalbumin	36882863	Lupori L	Autistic disorder	1
+parvalbumin	36882863	Putignano E	Autistic disorder	1
+parvalbumin	36882863	Baldi P	Autistic disorder	1
+parvalbumin	36882863	Lopez-Atalaya JP	Autistic disorder	1
+parvalbumin	36882863	Pizzorusso T	Autistic disorder	1
+parvalbumin	36882863	Baroncelli L	Autistic disorder	1
+interleukin 6	36870094	Backstrom F	Autistic disorder	1
+interleukin 6	36870094	Ahl M	Autistic disorder	1
+interleukin 6	36870094	Wickham J	Autistic disorder	1
+interleukin 6	36870094	Ekdahl CT	Autistic disorder	1
+synaptophysin	36853856	de Oliveira Ferreira E	Autistic disorder	1
+synaptophysin	36853856	Pessoa Gomes JM	Autistic disorder	1
+synaptophysin	36853856	Neves KRT	Autistic disorder	1
+synaptophysin	36853856	Lima FAV	Autistic disorder	1
+synaptophysin	36853856	de Barros Viana GS	Autistic disorder	1
+synaptophysin	36853856	de Andrade GM	Autistic disorder	1
+phosphatase and tensin homolog	36838876	Thomas SD	Autistic disorder	2
+phosphatase and tensin homolog	36838876	Jha NK	Autistic disorder	1
+phosphatase and tensin homolog	36838876	Ojha S	Autistic disorder	1
+phosphatase and tensin homolog	36838876	Sadek B	Autistic disorder	3
+primary cilia formation	36833254	Papuc SM	Autistic disorder	1
+primary cilia formation	36833254	Erbescu A	Autistic disorder	1
+primary cilia formation	36833254	Glangher A	Autistic disorder	1
+primary cilia formation	36833254	Streata I	Autistic disorder	1
+primary cilia formation	36833254	Riza AL	Autistic disorder	1
+primary cilia formation	36833254	Budisteanu M	Autistic disorder	1
+primary cilia formation	36833254	Arghir A	Autistic disorder	1
+glutathione-disulfide reductase	36831124	Esvap E	Autistic disorder	1
+glutathione-disulfide reductase	36831124	Ulgen KO	Autistic disorder	1
+SET binding protein 1	36805818	Cardo LF	Autistic disorder	1
+SET binding protein 1	36805818	de la Fuente DC	Autistic disorder	1
+SET binding protein 1	36805818	Li M	Autistic disorder	1
+androgen receptor	36803626	Thongkorn S	Autistic disorder	1
+androgen receptor	36803626	Kanlayaprasit S	Autistic disorder	1
+androgen receptor	36803626	Kasitipradit K	Autistic disorder	1
+androgen receptor	36803626	Lertpeerapan P	Autistic disorder	1
+androgen receptor	36803626	Panjabud P	Autistic disorder	1
+androgen receptor	36803626	Hu VW	Autistic disorder	1
+androgen receptor	36803626	Jindatip D	Autistic disorder	1
+androgen receptor	36803626	Sarachana T	Autistic disorder	1
+signal transducer and activator of transcription 3	36732866	Kashii H	Autistic disorder	2
+signal transducer and activator of transcription 3	36732866	Kasai S	Autistic disorder	2
+signal transducer and activator of transcription 3	36732866	Sato A	Autistic disorder	2
+signal transducer and activator of transcription 3	36732866	Hagino Y	Autistic disorder	2
+signal transducer and activator of transcription 3	36732866	Nishito Y	Autistic disorder	2
+signal transducer and activator of transcription 3	36732866	Kobayashi T	Autistic disorder	2
+signal transducer and activator of transcription 3	36732866	Hino O	Autistic disorder	2
+signal transducer and activator of transcription 3	36732866	Mizuguchi M	Autistic disorder	2
+signal transducer and activator of transcription 3	36732866	Ikeda K	Autistic disorder	2
+interferon regulatory factor 4	36732866	Kashii H	Autistic disorder	2
+interferon regulatory factor 4	36732866	Kasai S	Autistic disorder	2
+interferon regulatory factor 4	36732866	Sato A	Autistic disorder	2
+interferon regulatory factor 4	36732866	Hagino Y	Autistic disorder	2
+interferon regulatory factor 4	36732866	Nishito Y	Autistic disorder	2
+interferon regulatory factor 4	36732866	Kobayashi T	Autistic disorder	2
+interferon regulatory factor 4	36732866	Hino O	Autistic disorder	2
+interferon regulatory factor 4	36732866	Mizuguchi M	Autistic disorder	2
+interferon regulatory factor 4	36732866	Ikeda K	Autistic disorder	2
+tumor necrosis factor	36676975	Alsubaiei SRM	Autistic disorder	1
+tumor necrosis factor	36676975	Alfawaz HA	Autistic disorder	1
+tumor necrosis factor	36676975	Almubarak AY	Autistic disorder	1
+tumor necrosis factor	36676975	Alabdali NA	Autistic disorder	1
+tumor necrosis factor	36676975	Ben Bacha A	Autistic disorder	1
+tumor necrosis factor	36676975	El-Ansary A	Autistic disorder	4
+cortactin	36670631	Xie Y	Autistic disorder	1
+cortactin	36670631	Wang H	Autistic disorder	4
+cortactin	36670631	Hu B	Autistic disorder	1
+cortactin	36670631	Zhang X	Autistic disorder	4
+cortactin	36670631	Liu A	Autistic disorder	1
+cortactin	36670631	Cai C	Autistic disorder	1
+cortactin	36670631	Li S	Autistic disorder	3
+cortactin	36670631	Chen C	Autistic disorder	1
+cortactin	36670631	Wang Z	Autistic disorder	2
+cortactin	36670631	Yin Z	Autistic disorder	1
+cortactin	36670631	Wang M	Autistic disorder	1
+catalase	36642103	Moghaddam AH	Autistic disorder	1
+catalase	36642103	Eslami A	Autistic disorder	1
+catalase	36642103	Jelodar SK	Autistic disorder	1
+catalase	36642103	Ranjbar M	Autistic disorder	3
+catalase	36642103	Hasantabar V	Autistic disorder	1
+phosphatase and tensin homolog	36626331	Smith IN	Autistic disorder	1
+phosphatase and tensin homolog	36626331	Dawson JE	Autistic disorder	1
+phosphatase and tensin homolog	36626331	Eng C	Autistic disorder	1
+euchromatic histone lysine methyltransferase 1	36617745	Colijn MA	Autistic disorder	1
+euchromatic histone lysine methyltransferase 1	36617745	Lakusta CM	Autistic disorder	1
+euchromatic histone lysine methyltransferase 1	36617745	Marcadier JL	Autistic disorder	1
+tumor necrosis factor	36613969	Eissa N	Autistic disorder	1
+tumor necrosis factor	36613969	Awad MA	Autistic disorder	1
+tumor necrosis factor	36613969	Thomas SD	Autistic disorder	2
+tumor necrosis factor	36613969	Venkatachalam K	Autistic disorder	1
+tumor necrosis factor	36613969	Jayaprakash P	Autistic disorder	3
+tumor necrosis factor	36613969	Zhong S	Autistic disorder	1
+tumor necrosis factor	36613969	Stark H	Autistic disorder	1
+tumor necrosis factor	36613969	Sadek B	Autistic disorder	3
+insulin	36573444	Erdogan MA	Autistic disorder	2
+insulin	36573444	Bozkurt MF	Autistic disorder	1
+insulin	36573444	Erbas O	Autistic disorder	2
+erythropoietin	36567653	Haratizadeh S	Autistic disorder	1
+erythropoietin	36567653	Ranjbar M	Autistic disorder	3
+erythropoietin	36567653	Darvishzadeh-Mahani F	Autistic disorder	1
+erythropoietin	36567653	Basiri M	Autistic disorder	1
+erythropoietin	36567653	Nozari M	Autistic disorder	1
+dystrophin	36565132	Pascual-Morena C	Autistic disorder	1
+dystrophin	36565132	Cavero-Redondo I	Autistic disorder	1
+dystrophin	36565132	Martinez-Vizcaino V	Autistic disorder	1
+dystrophin	36565132	Sequi-Dominguez I	Autistic disorder	1
+dystrophin	36565132	Fernandez-Bravo-Rodrigo J	Autistic disorder	1
+dystrophin	36565132	Jimenez-Lopez E	Autistic disorder	1
+syntaxin 1A	36564538	Luppe J	Autistic disorder	1
+syntaxin 1A	36564538	Sticht H	Autistic disorder	1
+syntaxin 1A	36564538	Lecoquierre F	Autistic disorder	1
+syntaxin 1A	36564538	Goldenberg A	Autistic disorder	1
+syntaxin 1A	36564538	Gorman KM	Autistic disorder	1
+syntaxin 1A	36564538	Molloy B	Autistic disorder	1
+syntaxin 1A	36564538	Agolini E	Autistic disorder	1
+syntaxin 1A	36564538	Novelli A	Autistic disorder	1
+syntaxin 1A	36564538	Briuglia S	Autistic disorder	1
+syntaxin 1A	36564538	Kuismin O	Autistic disorder	1
+syntaxin 1A	36564538	Marcelis C	Autistic disorder	1
+syntaxin 1A	36564538	Vitobello A	Autistic disorder	2
+syntaxin 1A	36564538	Denomme-Pichon AS	Autistic disorder	1
+syntaxin 1A	36564538	Julia S	Autistic disorder	1
+syntaxin 1A	36564538	Lemke JR	Autistic disorder	1
+syntaxin 1A	36564538	Abou Jamra R	Autistic disorder	1
+syntaxin 1A	36564538	Platzer K	Autistic disorder	1
+glial fibrillary acidic protein	36561125	Elhefnawei DM	Autistic disorder	1
+glial fibrillary acidic protein	36561125	Mahmoud AH	Autistic disorder	1
+glial fibrillary acidic protein	36561125	Kadry MO	Autistic disorder	1
+glial fibrillary acidic protein	36561125	Al-Mokaddem AK	Autistic disorder	1
+glial fibrillary acidic protein	36561125	Badawy MA	Autistic disorder	1
+glial fibrillary acidic protein	36561125	El-Desouky MA	Autistic disorder	1
+interleukin 17A	36414133	Dutra ML	Autistic disorder	1
+interleukin 17A	36414133	Dias P	Autistic disorder	1
+interleukin 17A	36414133	Freiberger V	Autistic disorder	1
+interleukin 17A	36414133	Ventura L	Autistic disorder	1
+interleukin 17A	36414133	Comim CM	Autistic disorder	1
+interleukin 17A	36414133	Martins DF	Autistic disorder	1
+interleukin 17A	36414133	Bobinski F	Autistic disorder	1
+nerve growth factor	36398773	Filippova YY	Autistic disorder	1
+nerve growth factor	36398773	Devyatova EV	Autistic disorder	1
+nerve growth factor	36398773	Alekseeva AS	Autistic disorder	1
+nerve growth factor	36398773	Burmistrova AL	Autistic disorder	1
+somatostatin	36373424	Cumberland A	Autistic disorder	1
+somatostatin	36373424	Hale N	Autistic disorder	1
+somatostatin	36373424	Azhan A	Autistic disorder	1
+somatostatin	36373424	Gilchrist CP	Autistic disorder	1
+somatostatin	36373424	Chincarini G	Autistic disorder	1
+somatostatin	36373424	Tolcos M	Autistic disorder	1
+neurofilament light chain	36326357	Paketci C	Autistic disorder	1
+neurofilament light chain	36326357	Ermis C	Autistic disorder	1
+neurofilament light chain	36326357	Sisman AR	Autistic disorder	1
+neurofilament light chain	36326357	Hiz S	Autistic disorder	1
+neurofilament light chain	36326357	Baykara B	Autistic disorder	1
+neurofilament light chain	36326357	Yis U	Autistic disorder	1
+glucagon	36307249	Bhalla S	Autistic disorder	3
+glucagon	36307249	Mehan S	Autistic disorder	3
+insulin	36307249	Bhalla S	Autistic disorder	3
+insulin	36307249	Mehan S	Autistic disorder	3
+adenylosuccinate lyase	36271826	Sitaram S	Autistic disorder	1
+adenylosuccinate lyase	36271826	Banka HC	Autistic disorder	1
+adenylosuccinate lyase	36271826	Vassallo G	Autistic disorder	1
+adenylosuccinate lyase	36271826	Pavaine J	Autistic disorder	1
+adenylosuccinate lyase	36271826	Fairclough A	Autistic disorder	1
+adenylosuccinate lyase	36271826	Wright R	Autistic disorder	1
+adenylosuccinate lyase	36271826	Fairbanks L	Autistic disorder	1
+adenylosuccinate lyase	36271826	Bierau J	Autistic disorder	1
+adenylosuccinate lyase	36271826	Bowden L	Autistic disorder	1
+adenylosuccinate lyase	36271826	Schwahn B	Autistic disorder	1
+adenylosuccinate lyase	36271826	Horman A	Autistic disorder	1
+adenylosuccinate lyase	36271826	Banka S	Autistic disorder	1
+prolactin	36249785	Stolar O	Autistic disorder	1
+prolactin	36249785	Hazan A	Autistic disorder	1
+prolactin	36249785	Vissoker RE	Autistic disorder	1
+prolactin	36249785	Kishk IA	Autistic disorder	1
+prolactin	36249785	Barchel D	Autistic disorder	1
+prolactin	36249785	Lezinger M	Autistic disorder	1
+prolactin	36249785	Dagan A	Autistic disorder	1
+prolactin	36249785	Treves N	Autistic disorder	1
+prolactin	36249785	Meiri D	Autistic disorder	1
+prolactin	36249785	Berkovitch M	Autistic disorder	1
+prolactin	36249785	Kohn E	Autistic disorder	1
+prolactin	36249785	Heyman E	Autistic disorder	1
+arginine vasopressin	36239083	Zhou B	Autistic disorder	2
+arginine vasopressin	36239083	Yan X	Autistic disorder	1
+arginine vasopressin	36239083	Yang L	Autistic disorder	1
+arginine vasopressin	36239083	Zheng X	Autistic disorder	1
+arginine vasopressin	36239083	Chen Y	Autistic disorder	1
+arginine vasopressin	36239083	Liu Y	Autistic disorder	1
+arginine vasopressin	36239083	Ren Y	Autistic disorder	1
+arginine vasopressin	36239083	Peng J	Autistic disorder	1
+arginine vasopressin	36239083	Zhang Y	Autistic disorder	3
+arginine vasopressin	36239083	Huang J	Autistic disorder	1
+arginine vasopressin	36239083	Tang L	Autistic disorder	1
+arginine vasopressin	36239083	Wen M	Autistic disorder	1
+protein kinase C beta	36239013	Song X	Autistic disorder	2
+protein kinase C beta	36239013	Hu Q	Autistic disorder	2
+protein kinase C beta	36239013	Xu X	Autistic disorder	3
+protein kinase C beta	36239013	Pan W	Autistic disorder	2
+uncoupling protein 1	36239013	Song X	Autistic disorder	2
+uncoupling protein 1	36239013	Hu Q	Autistic disorder	2
+uncoupling protein 1	36239013	Xu X	Autistic disorder	3
+uncoupling protein 1	36239013	Pan W	Autistic disorder	2
+chromodomain helicase DNA binding protein 8	36222238	Coakley-Youngs E	Autistic disorder	1
+chromodomain helicase DNA binding protein 8	36222238	Ranatunga M	Autistic disorder	1
+chromodomain helicase DNA binding protein 8	36222238	Richardson S	Autistic disorder	1
+chromodomain helicase DNA binding protein 8	36222238	Getti G	Autistic disorder	1
+chromodomain helicase DNA binding protein 8	36222238	Shorter S	Autistic disorder	1
+chromodomain helicase DNA binding protein 8	36222238	Fivaz M	Autistic disorder	1
+myelin basic protein	36170102	Brusov OS	Autistic disorder	1
+myelin basic protein	36170102	Klyushnik TP	Autistic disorder	1
+myelin basic protein	36170102	Zozulya SA	Autistic disorder	1
+myelin basic protein	36170102	Karpova NS	Autistic disorder	1
+myelin basic protein	36170102	Shilov YE	Autistic disorder	1
+myelin basic protein	36170102	Nikitina SG	Autistic disorder	1
+myelin basic protein	36170102	Simashkova NV	Autistic disorder	1
+Coats disease	34978780	Pappas J	Autistic disorder	1
+Coats disease	34978780	Rabin R	Autistic disorder	1
+parvalbumin	36127322	Carey C	Autistic disorder	1
+parvalbumin	36127322	Singh N	Autistic disorder	1
+parvalbumin	36127322	Dunn JT	Autistic disorder	1
+parvalbumin	36127322	Sementa T	Autistic disorder	1
+parvalbumin	36127322	Mendez MA	Autistic disorder	1
+parvalbumin	36127322	Velthuis H	Autistic disorder	1
+parvalbumin	36127322	Pereira AC	Autistic disorder	1
+parvalbumin	36127322	Pretzsch CM	Autistic disorder	1
+parvalbumin	36127322	Horder J	Autistic disorder	1
+parvalbumin	36127322	Hader S	Autistic disorder	1
+parvalbumin	36127322	Lythgoe DJ	Autistic disorder	1
+parvalbumin	36127322	Rotaru DG	Autistic disorder	1
+parvalbumin	36127322	Gee A	Autistic disorder	1
+parvalbumin	36127322	Cash D	Autistic disorder	1
+parvalbumin	36127322	Veronese M	Autistic disorder	1
+parvalbumin	36127322	Murphy D	Autistic disorder	1
+parvalbumin	36127322	McAlonan G	Autistic disorder	1
+monoamine oxidase B	36072563	Choi J	Autistic disorder	1
+monoamine oxidase B	36072563	Kim YS	Autistic disorder	1
+monoamine oxidase B	36072563	Kim MH	Autistic disorder	1
+monoamine oxidase B	36072563	Kim HJ	Autistic disorder	1
+monoamine oxidase B	36072563	Yoon BE	Autistic disorder	1
+retinoic acid receptor alpha	36036133	Li LS	Autistic disorder	2
+retinoic acid receptor alpha	36036133	Zhang Q	Autistic disorder	3
+retinoic acid receptor alpha	36036133	Liu H	Autistic disorder	3
+retinoic acid receptor alpha	36036133	Wu QH	Autistic disorder	2
+retinoic acid receptor alpha	36036133	Yang T	Autistic disorder	3
+retinoic acid receptor alpha	36036133	Chen J	Autistic disorder	5
+retinoic acid receptor alpha	36036133	Li TY	Autistic disorder	2
+neurexin 1	36036133	Li LS	Autistic disorder	2
+neurexin 1	36036133	Zhang Q	Autistic disorder	3
+neurexin 1	36036133	Liu H	Autistic disorder	3
+neurexin 1	36036133	Wu QH	Autistic disorder	2
+neurexin 1	36036133	Yang T	Autistic disorder	3
+neurexin 1	36036133	Chen J	Autistic disorder	5
+neurexin 1	36036133	Li TY	Autistic disorder	2
+arginine vasopressin	35995237	Sen P	Autistic disorder	1
+arginine vasopressin	35995237	Sherwin E	Autistic disorder	1
+arginine vasopressin	35995237	Sandhu K	Autistic disorder	1
+arginine vasopressin	35995237	Bastiaanssen TFS	Autistic disorder	1
+arginine vasopressin	35995237	Moloney GM	Autistic disorder	1
+arginine vasopressin	35995237	Golubeva A	Autistic disorder	1
+arginine vasopressin	35995237	Fitzgerald P	Autistic disorder	1
+arginine vasopressin	35995237	Paula Ventura Da Silva A	Autistic disorder	1
+arginine vasopressin	35995237	Chruscicka-Smaga B	Autistic disorder	1
+arginine vasopressin	35995237	Olavarria-Ramirez L	Autistic disorder	1
+arginine vasopressin	35995237	Druelle C	Autistic disorder	1
+arginine vasopressin	35995237	Campos D	Autistic disorder	1
+arginine vasopressin	35995237	Jayaprakash P	Autistic disorder	3
+arginine vasopressin	35995237	Rea K	Autistic disorder	1
+arginine vasopressin	35995237	Jeffery IB	Autistic disorder	1
+arginine vasopressin	35995237	Savignac H	Autistic disorder	1
+arginine vasopressin	35995237	Chetal S	Autistic disorder	1
+arginine vasopressin	35995237	Mulder I	Autistic disorder	1
+arginine vasopressin	35995237	Schellekens H	Autistic disorder	1
+arginine vasopressin	35995237	Dinan TG	Autistic disorder	1
+arginine vasopressin	35995237	Cryan JF	Autistic disorder	1
+doublecortin	35975241	Rozhkova IN	Autistic disorder	1
+doublecortin	35975241	Okotrub SV	Autistic disorder	1
+doublecortin	35975241	Brusentsev EY	Autistic disorder	1
+doublecortin	35975241	Uldanova EE	Autistic disorder	1
+doublecortin	35975241	Chuyko Ecapital A, Cyrillic	Autistic disorder	1
+doublecortin	35975241	Lipina TV	Autistic disorder	1
+doublecortin	35975241	Amstislavskaya TG	Autistic disorder	1
+doublecortin	35975241	Amstislavsky SY	Autistic disorder	1
+insulin	35962006	Robinson-Agramonte MLA	Autistic disorder	1
+insulin	35962006	Michalski B	Autistic disorder	1
+insulin	35962006	Vidal-Martinez B	Autistic disorder	1
+insulin	35962006	Hernandez LR	Autistic disorder	1
+insulin	35962006	Santiesteban MW	Autistic disorder	1
+insulin	35962006	Fahnestock M	Autistic disorder	1
+ST8 alpha-N-acetyl-neuraminide alpha-2,8-sialyltransferase 2	35957920	Yang X	Autistic disorder	2
+ST8 alpha-N-acetyl-neuraminide alpha-2,8-sialyltransferase 2	35957920	Li L	Autistic disorder	3
+ST8 alpha-N-acetyl-neuraminide alpha-2,8-sialyltransferase 2	35957920	Chai X	Autistic disorder	1
+ST8 alpha-N-acetyl-neuraminide alpha-2,8-sialyltransferase 2	35957920	Liu J	Autistic disorder	2
+methylenetetrahydrofolate reductase	35929945	Xu S	Autistic disorder	1
+methylenetetrahydrofolate reductase	35929945	Men S	Autistic disorder	1
+methylenetetrahydrofolate reductase	35929945	Wang X	Autistic disorder	2
+methylenetetrahydrofolate reductase	35929945	Zhan F	Autistic disorder	1
+methylenetetrahydrofolate reductase	35929945	Yuan X	Autistic disorder	1
+nerve growth factor	35904498	Durankus F	Autistic disorder	1
+nerve growth factor	35904498	Albayrak Y	Autistic disorder	1
+nerve growth factor	35904498	Erdogan F	Autistic disorder	1
+nerve growth factor	35904498	Albayrak N	Autistic disorder	1
+nerve growth factor	35904498	Erdogan MA	Autistic disorder	2
+nerve growth factor	35904498	Erbas O	Autistic disorder	2
+insulin	35897673	Kummer S	Autistic disorder	1
+insulin	35897673	Rinne S	Autistic disorder	1
+insulin	35897673	Seemann G	Autistic disorder	1
+insulin	35897673	Bachmann N	Autistic disorder	1
+insulin	35897673	Timothy K	Autistic disorder	1
+insulin	35897673	Thornton PS	Autistic disorder	1
+insulin	35897673	Pillekamp F	Autistic disorder	1
+insulin	35897673	Mayatepek E	Autistic disorder	1
+insulin	35897673	Bergmann C	Autistic disorder	1
+insulin	35897673	Meissner T	Autistic disorder	1
+insulin	35897673	Decher N	Autistic disorder	1
+oxytocin receptor	35888641	Florea T	Autistic disorder	1
+oxytocin receptor	35888641	Palimariciuc M	Autistic disorder	1
+oxytocin receptor	35888641	Cristofor AC	Autistic disorder	1
+oxytocin receptor	35888641	Dobrin I	Autistic disorder	1
+oxytocin receptor	35888641	Chirita R	Autistic disorder	1
+oxytocin receptor	35888641	Birsan M	Autistic disorder	1
+oxytocin receptor	35888641	Dobrin RP	Autistic disorder	1
+oxytocin receptor	35888641	Padurariu M	Autistic disorder	1
+albumin	35883654	Jagadapillai R	Autistic disorder	1
+albumin	35883654	Qiu X	Autistic disorder	1
+albumin	35883654	Ojha K	Autistic disorder	1
+albumin	35883654	Li Z	Autistic disorder	2
+albumin	35883654	El-Baz A	Autistic disorder	1
+albumin	35883654	Zou S	Autistic disorder	1
+albumin	35883654	Gozal E	Autistic disorder	1
+albumin	35883654	Barnes GN	Autistic disorder	1
+C-reactive protein	35878480	Esnafoglu E	Autistic disorder	1
+C-reactive protein	35878480	Subasi B	Autistic disorder	1
+parvalbumin	35869039	Xiang L	Autistic disorder	1
+parvalbumin	35869039	Wu Q	Autistic disorder	1
+parvalbumin	35869039	Sun H	Autistic disorder	2
+parvalbumin	35869039	Miao X	Autistic disorder	1
+parvalbumin	35869039	Lv Z	Autistic disorder	1
+parvalbumin	35869039	Liu H	Autistic disorder	3
+parvalbumin	35869039	Chen L	Autistic disorder	1
+parvalbumin	35869039	Gu Y	Autistic disorder	1
+parvalbumin	35869039	Chen J	Autistic disorder	5
+parvalbumin	35869039	Zhou S	Autistic disorder	1
+parvalbumin	35869039	Jiang H	Autistic disorder	1
+parvalbumin	35869039	Du S	Autistic disorder	1
+parvalbumin	35869039	Zhou Y	Autistic disorder	1
+parvalbumin	35869039	Dong H	Autistic disorder	1
+parvalbumin	35869039	Fan Y	Autistic disorder	1
+parvalbumin	35869039	Miao S	Autistic disorder	1
+parvalbumin	35869039	Lu Q	Autistic disorder	1
+parvalbumin	35869039	Chang L	Autistic disorder	1
+parvalbumin	35869039	Wang H	Autistic disorder	4
+parvalbumin	35869039	Lu Y	Autistic disorder	1
+parvalbumin	35869039	Xu X	Autistic disorder	3
+parvalbumin	35869039	Wang W	Autistic disorder	1
+parvalbumin	35869039	Huang Z	Autistic disorder	1
+gephyrin	35821032	Chu MC	Autistic disorder	1
+gephyrin	35821032	Wu HF	Autistic disorder	1
+gephyrin	35821032	Lee CW	Autistic disorder	1
+gephyrin	35821032	Chung YJ	Autistic disorder	1
+gephyrin	35821032	Chi H	Autistic disorder	1
+gephyrin	35821032	Chen PS	Autistic disorder	1
+gephyrin	35821032	Lin HC	Autistic disorder	1
+leptin receptor	35809703	Zorn S	Autistic disorder	1
+leptin receptor	35809703	von Schnurbein J	Autistic disorder	1
+leptin receptor	35809703	Schirmer M	Autistic disorder	1
+leptin receptor	35809703	Brandt S	Autistic disorder	1
+leptin receptor	35809703	Wabitsch M	Autistic disorder	1
+parvalbumin	35768828	Kalinowska M	Autistic disorder	2
+parvalbumin	35768828	van der Lei MB	Autistic disorder	2
+parvalbumin	35768828	Kitiashvili M	Autistic disorder	2
+parvalbumin	35768828	Mamcarz M	Autistic disorder	2
+parvalbumin	35768828	Oliveira MM	Autistic disorder	2
+parvalbumin	35768828	Longo F	Autistic disorder	2
+parvalbumin	35768828	Klann E	Autistic disorder	2
+somatostatin	35768828	Kalinowska M	Autistic disorder	2
+somatostatin	35768828	van der Lei MB	Autistic disorder	2
+somatostatin	35768828	Kitiashvili M	Autistic disorder	2
+somatostatin	35768828	Mamcarz M	Autistic disorder	2
+somatostatin	35768828	Oliveira MM	Autistic disorder	2
+somatostatin	35768828	Longo F	Autistic disorder	2
+somatostatin	35768828	Klann E	Autistic disorder	2
+myelin basic protein	35687217	Sharma A	Autistic disorder	1
+myelin basic protein	35687217	Bhalla S	Autistic disorder	3
+myelin basic protein	35687217	Mehan S	Autistic disorder	3
+nerve growth factor	35648200	Sivasangari K	Autistic disorder	3
+nerve growth factor	35648200	Rajan KE	Autistic disorder	3
+glial fibrillary acidic protein	35648200	Sivasangari K	Autistic disorder	3
+glial fibrillary acidic protein	35648200	Rajan KE	Autistic disorder	3
+proliferating cell nuclear antigen	35648200	Sivasangari K	Autistic disorder	3
+proliferating cell nuclear antigen	35648200	Rajan KE	Autistic disorder	3
+cortactin	35562389	Shih PY	Autistic disorder	1
+cortactin	35562389	Fang YL	Autistic disorder	1
+cortactin	35562389	Shankar S	Autistic disorder	1
+cortactin	35562389	Lee SP	Autistic disorder	1
+cortactin	35562389	Hu HT	Autistic disorder	1
+cortactin	35562389	Chen H	Autistic disorder	1
+cortactin	35562389	Wang TF	Autistic disorder	1
+cortactin	35562389	Hsia KC	Autistic disorder	1
+cortactin	35562389	Hsueh YP	Autistic disorder	1
+parvalbumin	35544642	Yu D	Autistic disorder	2
+parvalbumin	35544642	Li T	Autistic disorder	2
+parvalbumin	35544642	Delpech JC	Autistic disorder	2
+parvalbumin	35544642	Zhu B	Autistic disorder	2
+parvalbumin	35544642	Kishore P	Autistic disorder	2
+parvalbumin	35544642	Koshi T	Autistic disorder	2
+parvalbumin	35544642	Luo R	Autistic disorder	2
+parvalbumin	35544642	Pratt KJB	Autistic disorder	2
+parvalbumin	35544642	Popova G	Autistic disorder	2
+parvalbumin	35544642	Nowakowski TJ	Autistic disorder	2
+parvalbumin	35544642	Villeda SA	Autistic disorder	2
+parvalbumin	35544642	Piao X	Autistic disorder	2
+tumor necrosis factor	35544642	Yu D	Autistic disorder	2
+tumor necrosis factor	35544642	Li T	Autistic disorder	2
+tumor necrosis factor	35544642	Delpech JC	Autistic disorder	2
+tumor necrosis factor	35544642	Zhu B	Autistic disorder	2
+tumor necrosis factor	35544642	Kishore P	Autistic disorder	2
+tumor necrosis factor	35544642	Koshi T	Autistic disorder	2
+tumor necrosis factor	35544642	Luo R	Autistic disorder	2
+tumor necrosis factor	35544642	Pratt KJB	Autistic disorder	2
+tumor necrosis factor	35544642	Popova G	Autistic disorder	2
+tumor necrosis factor	35544642	Nowakowski TJ	Autistic disorder	2
+tumor necrosis factor	35544642	Villeda SA	Autistic disorder	2
+tumor necrosis factor	35544642	Piao X	Autistic disorder	2
+parvalbumin	35456893	Santos-Terra J	Autistic disorder	2
+parvalbumin	35456893	Deckmann I	Autistic disorder	2
+parvalbumin	35456893	Carello-Collar G	Autistic disorder	2
+parvalbumin	35456893	Nunes GD	Autistic disorder	2
+parvalbumin	35456893	Bauer-Negrini G	Autistic disorder	2
+parvalbumin	35456893	Schwingel GB	Autistic disorder	2
+parvalbumin	35456893	Fontes-Dutra M	Autistic disorder	2
+parvalbumin	35456893	Riesgo R	Autistic disorder	2
+parvalbumin	35456893	Gottfried C	Autistic disorder	2
+somatostatin	35456893	Santos-Terra J	Autistic disorder	2
+somatostatin	35456893	Deckmann I	Autistic disorder	2
+somatostatin	35456893	Carello-Collar G	Autistic disorder	2
+somatostatin	35456893	Nunes GD	Autistic disorder	2
+somatostatin	35456893	Bauer-Negrini G	Autistic disorder	2
+somatostatin	35456893	Schwingel GB	Autistic disorder	2
+somatostatin	35456893	Fontes-Dutra M	Autistic disorder	2
+somatostatin	35456893	Riesgo R	Autistic disorder	2
+somatostatin	35456893	Gottfried C	Autistic disorder	2
+leptin	35456030	Westmark CJ	Autistic disorder	1
+leptin	35456030	Filon MJ	Autistic disorder	1
+leptin	35456030	Maina P	Autistic disorder	1
+leptin	35456030	Steinberg LI	Autistic disorder	1
+leptin	35456030	Ikonomidou C	Autistic disorder	1
+leptin	35456030	Westmark PR	Autistic disorder	1
+glutamate decarboxylase 2	35420879	Vazifekhah S	Autistic disorder	1
+glutamate decarboxylase 2	35420879	Barfi S	Autistic disorder	1
+glutamate decarboxylase 2	35420879	Soleimany F	Autistic disorder	1
+glutamate decarboxylase 2	35420879	Aliakbar A	Autistic disorder	1
+glutamate decarboxylase 2	35420879	Zavvari F	Autistic disorder	1
+glutamate decarboxylase 2	35420879	Karimzadeh F	Autistic disorder	1
+oxytocin receptor	35384534	Imam B	Autistic disorder	3
+oxytocin receptor	35384534	Rahmatinia M	Autistic disorder	3
+oxytocin receptor	35384534	Shahsavani A	Autistic disorder	3
+oxytocin receptor	35384534	Khodagholi F	Autistic disorder	3
+oxytocin receptor	35384534	Hopke PK	Autistic disorder	3
+oxytocin receptor	35384534	Bazazzpour S	Autistic disorder	3
+oxytocin receptor	35384534	Hadei M	Autistic disorder	3
+oxytocin receptor	35384534	Yarahmadi M	Autistic disorder	3
+oxytocin receptor	35384534	Abdollahifar MA	Autistic disorder	3
+oxytocin receptor	35384534	Torkmahalleh MA	Autistic disorder	3
+oxytocin receptor	35384534	Kermani M	Autistic disorder	3
+oxytocin receptor	35384534	Ilkhani S	Autistic disorder	3
+oxytocin receptor	35384534	MirBehbahani SH	Autistic disorder	3
+interleukin 6	35384534	Imam B	Autistic disorder	3
+interleukin 6	35384534	Rahmatinia M	Autistic disorder	3
+interleukin 6	35384534	Shahsavani A	Autistic disorder	3
+interleukin 6	35384534	Khodagholi F	Autistic disorder	3
+interleukin 6	35384534	Hopke PK	Autistic disorder	3
+interleukin 6	35384534	Bazazzpour S	Autistic disorder	3
+interleukin 6	35384534	Hadei M	Autistic disorder	3
+interleukin 6	35384534	Yarahmadi M	Autistic disorder	3
+interleukin 6	35384534	Abdollahifar MA	Autistic disorder	3
+interleukin 6	35384534	Torkmahalleh MA	Autistic disorder	3
+interleukin 6	35384534	Kermani M	Autistic disorder	3
+interleukin 6	35384534	Ilkhani S	Autistic disorder	3
+interleukin 6	35384534	MirBehbahani SH	Autistic disorder	3
+tumor necrosis factor	35384534	Imam B	Autistic disorder	3
+tumor necrosis factor	35384534	Rahmatinia M	Autistic disorder	3
+tumor necrosis factor	35384534	Shahsavani A	Autistic disorder	3
+tumor necrosis factor	35384534	Khodagholi F	Autistic disorder	3
+tumor necrosis factor	35384534	Hopke PK	Autistic disorder	3
+tumor necrosis factor	35384534	Bazazzpour S	Autistic disorder	3
+tumor necrosis factor	35384534	Hadei M	Autistic disorder	3
+tumor necrosis factor	35384534	Yarahmadi M	Autistic disorder	3
+tumor necrosis factor	35384534	Abdollahifar MA	Autistic disorder	3
+tumor necrosis factor	35384534	Torkmahalleh MA	Autistic disorder	3
+tumor necrosis factor	35384534	Kermani M	Autistic disorder	3
+tumor necrosis factor	35384534	Ilkhani S	Autistic disorder	3
+tumor necrosis factor	35384534	MirBehbahani SH	Autistic disorder	3
+prosaposin	35318322	Wang L	Autistic disorder	1
+prosaposin	35318322	Chen J	Autistic disorder	5
+prosaposin	35318322	Hu Y	Autistic disorder	1
+prosaposin	35318322	Liao A	Autistic disorder	1
+prosaposin	35318322	Zheng W	Autistic disorder	1
+prosaposin	35318322	Wang X	Autistic disorder	2
+prosaposin	35318322	Lan J	Autistic disorder	1
+prosaposin	35318322	Shen J	Autistic disorder	1
+prosaposin	35318322	Wang S	Autistic disorder	1
+prosaposin	35318322	Yang F	Autistic disorder	1
+prosaposin	35318322	Wang Y	Autistic disorder	2
+prosaposin	35318322	Li Y	Autistic disorder	1
+prosaposin	35318322	Chen D	Autistic disorder	1
+oxytocin receptor	35316293	Al-Ali Z	Autistic disorder	1
+oxytocin receptor	35316293	Yasseen AA	Autistic disorder	1
+oxytocin receptor	35316293	Al-Dujailli A	Autistic disorder	1
+oxytocin receptor	35316293	Al-Karaqully AJ	Autistic disorder	1
+oxytocin receptor	35316293	McAllister KA	Autistic disorder	1
+oxytocin receptor	35316293	Jumaah AS	Autistic disorder	1
+catalase	35307911	Abbasalipour H	Autistic disorder	1
+catalase	35307911	Hajizadeh Moghaddam A	Autistic disorder	1
+catalase	35307911	Ranjbar M	Autistic disorder	3
+parvalbumin	35272296	Cristino LMF	Autistic disorder	1
+parvalbumin	35272296	Chaves Filho AJM	Autistic disorder	1
+parvalbumin	35272296	Custodio CS	Autistic disorder	1
+parvalbumin	35272296	Vasconcelos SMM	Autistic disorder	1
+parvalbumin	35272296	de Sousa FCF	Autistic disorder	1
+parvalbumin	35272296	Sanders LLO	Autistic disorder	1
+parvalbumin	35272296	de Lucena DF	Autistic disorder	1
+parvalbumin	35272296	Macedo DS	Autistic disorder	1
+superoxide dismutase 1	35266053	Ejlersen M	Autistic disorder	2
+superoxide dismutase 1	35266053	Ilieva M	Autistic disorder	2
+superoxide dismutase 1	35266053	Michel TM	Autistic disorder	2
+superoxide dismutase 2	35266053	Ejlersen M	Autistic disorder	2
+superoxide dismutase 2	35266053	Ilieva M	Autistic disorder	2
+superoxide dismutase 2	35266053	Michel TM	Autistic disorder	2
+glutathione peroxidase 4	35227767	Wu H	Autistic disorder	1
+glutathione peroxidase 4	35227767	Luan Y	Autistic disorder	1
+glutathione peroxidase 4	35227767	Wang H	Autistic disorder	4
+glutathione peroxidase 4	35227767	Zhang P	Autistic disorder	1
+glutathione peroxidase 4	35227767	Liu S	Autistic disorder	3
+glutathione peroxidase 4	35227767	Wang P	Autistic disorder	2
+glutathione peroxidase 4	35227767	Cao Y	Autistic disorder	1
+glutathione peroxidase 4	35227767	Sun H	Autistic disorder	2
+glutathione peroxidase 4	35227767	Wu L	Autistic disorder	1
+SH3 and multiple ankyrin repeat domains 3	35216282	Hausman-Cohen S	Autistic disorder	1
+SH3 and multiple ankyrin repeat domains 3	35216282	LaValley W	Autistic disorder	1
+SH3 and multiple ankyrin repeat domains 3	35216282	Way H	Autistic disorder	1
+SH3 and multiple ankyrin repeat domains 3	35216282	Gutierrez E	Autistic disorder	1
+SH3 and multiple ankyrin repeat domains 3	35216282	Reeder J	Autistic disorder	1
+insulin	35209985	Li Z	Autistic disorder	2
+insulin	35209985	Xiao GY	Autistic disorder	1
+insulin	35209985	He CY	Autistic disorder	1
+insulin	35209985	Liu X	Autistic disorder	4
+insulin	35209985	Fan X	Autistic disorder	1
+insulin	35209985	Zhao Y	Autistic disorder	1
+insulin	35209985	Wang NR	Autistic disorder	1
+leptin	35185642	Iwabuchi T	Autistic disorder	1
+leptin	35185642	Takahashi N	Autistic disorder	1
+leptin	35185642	Nishimura T	Autistic disorder	1
+leptin	35185642	Rahman MS	Autistic disorder	1
+leptin	35185642	Harada T	Autistic disorder	1
+leptin	35185642	Okumura A	Autistic disorder	1
+leptin	35185642	Kuwabara H	Autistic disorder	1
+leptin	35185642	Takagai S	Autistic disorder	1
+leptin	35185642	Nomura Y	Autistic disorder	1
+leptin	35185642	Matsuzaki H	Autistic disorder	1
+leptin	35185642	Ozaki N	Autistic disorder	1
+leptin	35185642	Tsuchiya KJ	Autistic disorder	1
+somatostatin	35182575	Cheng Y	Autistic disorder	1
+somatostatin	35182575	Tang B	Autistic disorder	1
+somatostatin	35182575	Zhang G	Autistic disorder	1
+somatostatin	35182575	An P	Autistic disorder	1
+somatostatin	35182575	Sun Y	Autistic disorder	1
+somatostatin	35182575	Gao M	Autistic disorder	1
+somatostatin	35182575	Zhang Y	Autistic disorder	3
+somatostatin	35182575	Shan Y	Autistic disorder	1
+somatostatin	35182575	Zhang J	Autistic disorder	5
+somatostatin	35182575	Liu Q	Autistic disorder	1
+somatostatin	35182575	Lai CSW	Autistic disorder	1
+somatostatin	35182575	de Villers-Sidani E	Autistic disorder	1
+somatostatin	35182575	Wang Y	Autistic disorder	2
+somatostatin	35182575	Zhou X	Autistic disorder	1
+synaptophysin	35178882	Kutna V	Autistic disorder	1
+synaptophysin	35178882	O'Leary VB	Autistic disorder	1
+synaptophysin	35178882	Hoschl C	Autistic disorder	1
+synaptophysin	35178882	Ovsepian SV	Autistic disorder	1
+superoxide dismutase 2	35165191	Wang J	Autistic disorder	3
+superoxide dismutase 2	35165191	Frohlich H	Autistic disorder	1
+superoxide dismutase 2	35165191	Torres FB	Autistic disorder	1
+superoxide dismutase 2	35165191	Silva RL	Autistic disorder	1
+superoxide dismutase 2	35165191	Poschet G	Autistic disorder	1
+superoxide dismutase 2	35165191	Agarwal A	Autistic disorder	1
+superoxide dismutase 2	35165191	Rappold GA	Autistic disorder	1
+insulin receptor	35142069	Hughes RB	Autistic disorder	1
+insulin receptor	35142069	Whittingham-Dowd J	Autistic disorder	1
+insulin receptor	35142069	Clapcote SJ	Autistic disorder	1
+insulin receptor	35142069	Broughton SJ	Autistic disorder	1
+insulin receptor	35142069	Dawson N	Autistic disorder	1
+heterogeneous nuclear ribonucleoprotein U	35138025	Taylor J	Autistic disorder	1
+heterogeneous nuclear ribonucleoprotein U	35138025	Spiller M	Autistic disorder	1
+heterogeneous nuclear ribonucleoprotein U	35138025	Ranguin K	Autistic disorder	1
+heterogeneous nuclear ribonucleoprotein U	35138025	Vitobello A	Autistic disorder	2
+heterogeneous nuclear ribonucleoprotein U	35138025	Philippe C	Autistic disorder	1
+heterogeneous nuclear ribonucleoprotein U	35138025	Bruel AL	Autistic disorder	1
+heterogeneous nuclear ribonucleoprotein U	35138025	Cappuccio G	Autistic disorder	1
+heterogeneous nuclear ribonucleoprotein U	35138025	Brunetti-Pierri N	Autistic disorder	1
+heterogeneous nuclear ribonucleoprotein U	35138025	Willems M	Autistic disorder	1
+heterogeneous nuclear ribonucleoprotein U	35138025	Isidor B	Autistic disorder	1
+heterogeneous nuclear ribonucleoprotein U	35138025	Park K	Autistic disorder	1
+heterogeneous nuclear ribonucleoprotein U	35138025	Balasubramanian M	Autistic disorder	1
+glycine amidinotransferase	20301745	Mercimek-Andrews S	Autistic disorder	1
+glycine amidinotransferase	20301745	Salomons GS	Autistic disorder	1
+microtubule associated serine/threonine kinase 3	35095415	Shu L	Autistic disorder	1
+microtubule associated serine/threonine kinase 3	35095415	Xiao N	Autistic disorder	1
+microtubule associated serine/threonine kinase 3	35095415	Qin J	Autistic disorder	1
+microtubule associated serine/threonine kinase 3	35095415	Tian Q	Autistic disorder	1
+microtubule associated serine/threonine kinase 3	35095415	Zhang Y	Autistic disorder	3
+microtubule associated serine/threonine kinase 3	35095415	Li H	Autistic disorder	1
+microtubule associated serine/threonine kinase 3	35095415	Liu J	Autistic disorder	2
+microtubule associated serine/threonine kinase 3	35095415	Li Q	Autistic disorder	1
+microtubule associated serine/threonine kinase 3	35095415	Gu W	Autistic disorder	2
+microtubule associated serine/threonine kinase 3	35095415	Wang P	Autistic disorder	2
+microtubule associated serine/threonine kinase 3	35095415	Wang H	Autistic disorder	4
+microtubule associated serine/threonine kinase 3	35095415	Mao X	Autistic disorder	1
+estrogen receptor 1	35065713	Knoedler JR	Autistic disorder	1
+estrogen receptor 1	35065713	Inoue S	Autistic disorder	1
+estrogen receptor 1	35065713	Bayless DW	Autistic disorder	1
+estrogen receptor 1	35065713	Yang T	Autistic disorder	3
+estrogen receptor 1	35065713	Tantry A	Autistic disorder	1
+estrogen receptor 1	35065713	Davis CH	Autistic disorder	1
+estrogen receptor 1	35065713	Leung NY	Autistic disorder	1
+estrogen receptor 1	35065713	Parthasarathy S	Autistic disorder	1
+estrogen receptor 1	35065713	Wang G	Autistic disorder	1
+estrogen receptor 1	35065713	Alvarado M	Autistic disorder	1
+estrogen receptor 1	35065713	Rizvi AH	Autistic disorder	1
+estrogen receptor 1	35065713	Fenno LE	Autistic disorder	1
+estrogen receptor 1	35065713	Ramakrishnan C	Autistic disorder	1
+estrogen receptor 1	35065713	Deisseroth K	Autistic disorder	1
+estrogen receptor 1	35065713	Shah NM	Autistic disorder	1
+tumor necrosis factor	35047232	Alhakbany M	Autistic disorder	1
+tumor necrosis factor	35047232	Al-Ayadhi L	Autistic disorder	2
+tumor necrosis factor	35047232	El-Ansary A	Autistic disorder	4
+thioredoxin	35015875	Zhao P	Autistic disorder	2
+thioredoxin	35015875	Fu H	Autistic disorder	2
+thioredoxin	35015875	Cheng H	Autistic disorder	2
+thioredoxin	35015875	Zheng R	Autistic disorder	2
+thioredoxin	35015875	Yuan D	Autistic disorder	2
+thioredoxin	35015875	Yang J	Autistic disorder	2
+thioredoxin	35015875	Li S	Autistic disorder	3
+thioredoxin	35015875	Li E	Autistic disorder	2
+thioredoxin	35015875	Li L	Autistic disorder	3
+caspase 1	35015875	Zhao P	Autistic disorder	2
+caspase 1	35015875	Fu H	Autistic disorder	2
+caspase 1	35015875	Cheng H	Autistic disorder	2
+caspase 1	35015875	Zheng R	Autistic disorder	2
+caspase 1	35015875	Yuan D	Autistic disorder	2
+caspase 1	35015875	Yang J	Autistic disorder	2
+caspase 1	35015875	Li S	Autistic disorder	3
+caspase 1	35015875	Li E	Autistic disorder	2
+caspase 1	35015875	Li L	Autistic disorder	3
+neuroligin 3	35012288	Hegde R	Autistic disorder	1
+neuroligin 3	35012288	Hegde S	Autistic disorder	1
+neuroligin 3	35012288	Kulkarni SS	Autistic disorder	1
+neuroligin 3	35012288	Pandurangi A	Autistic disorder	1
+neuroligin 3	35012288	Gai PB	Autistic disorder	1
+neuroligin 3	35012288	Das KK	Autistic disorder	1
+adenylosuccinate lyase	34998670	Dewulf JP	Autistic disorder	1
+adenylosuccinate lyase	34998670	Marie S	Autistic disorder	1
+adenylosuccinate lyase	34998670	Nassogne MC	Autistic disorder	1
+occludin	34988901	Nalbant K	Autistic disorder	1
+occludin	34988901	Erden S	Autistic disorder	1
+occludin	34988901	Yazar A	Autistic disorder	1
+occludin	34988901	Kilinc I	Autistic disorder	1
+renin	sorders in offspring, such as autism and schizophrenia.	AU não encontrado	Autistic disorder	1
+glutamate ionotropic receptor AMPA type subunit 2	34899870	Zhou B	Autistic disorder	2
+glutamate ionotropic receptor AMPA type subunit 2	34899870	Zhang C	Autistic disorder	1
+glutamate ionotropic receptor AMPA type subunit 2	34899870	Zheng L	Autistic disorder	1
+glutamate ionotropic receptor AMPA type subunit 2	34899870	Wang Z	Autistic disorder	2
+glutamate ionotropic receptor AMPA type subunit 2	34899870	Chen X	Autistic disorder	1
+glutamate ionotropic receptor AMPA type subunit 2	34899870	Feng X	Autistic disorder	1
+glutamate ionotropic receptor AMPA type subunit 2	34899870	Zhang Q	Autistic disorder	3
+glutamate ionotropic receptor AMPA type subunit 2	34899870	Hao S	Autistic disorder	1
+glutamate ionotropic receptor AMPA type subunit 2	34899870	Wei L	Autistic disorder	1
+glutamate ionotropic receptor AMPA type subunit 2	34899870	Gu W	Autistic disorder	2
+glutamate ionotropic receptor AMPA type subunit 2	34899870	Hui L	Autistic disorder	1
+parvalbumin	34848882	Contractor A	Autistic disorder	1
+parvalbumin	34848882	Ethell IM	Autistic disorder	1
+parvalbumin	34848882	Portera-Cailliau C	Autistic disorder	1
+caspase 3	34830376	Kang J	Autistic disorder	1
+caspase 3	34830376	Bishayee K	Autistic disorder	1
+caspase 3	34830376	Huh SO	Autistic disorder	1
+histone deacetylase 5	34822816	Rein B	Autistic disorder	1
+histone deacetylase 5	34822816	Conrow-Graham M	Autistic disorder	1
+histone deacetylase 5	34822816	Frazier A	Autistic disorder	1
+histone deacetylase 5	34822816	Cao Q	Autistic disorder	1
+histone deacetylase 5	34822816	Yan Z	Autistic disorder	1
+leucine rich glioma inactivated 1	34738360	Aslan C	Autistic disorder	1
+leucine rich glioma inactivated 1	34738360	Konuskan B	Autistic disorder	1
+leucine rich glioma inactivated 1	34738360	Sener B	Autistic disorder	1
+leucine rich glioma inactivated 1	34738360	Unal F	Autistic disorder	1
+Gilles de la Tourette syndrome	34687698	Bellato A	Autistic disorder	1
+Gilles de la Tourette syndrome	34687698	Norman L	Autistic disorder	1
+Gilles de la Tourette syndrome	34687698	Idrees I	Autistic disorder	1
+Gilles de la Tourette syndrome	34687698	Ogawa CY	Autistic disorder	1
+Gilles de la Tourette syndrome	34687698	Waitt A	Autistic disorder	1
+Gilles de la Tourette syndrome	34687698	Zuccolo PF	Autistic disorder	1
+Gilles de la Tourette syndrome	34687698	Tye C	Autistic disorder	1
+Gilles de la Tourette syndrome	34687698	Radua J	Autistic disorder	1
+Gilles de la Tourette syndrome	34687698	Groom MJ	Autistic disorder	1
+Gilles de la Tourette syndrome	34687698	Shephard E	Autistic disorder	1
+neuroplastin	34680901	Lin X	Autistic disorder	1
+neuroplastin	34680901	Liang Y	Autistic disorder	1
+neuroplastin	34680901	Herrera-Molina R	Autistic disorder	1
+neuroplastin	34680901	Montag D	Autistic disorder	1
+neuropilin 2	34663783	Eisenberg C	Autistic disorder	4
+neuropilin 2	34663783	Subramanian D	Autistic disorder	4
+neuropilin 2	34663783	Afrasiabi M	Autistic disorder	4
+neuropilin 2	34663783	Ziobro P	Autistic disorder	4
+neuropilin 2	34663783	DeLucia J	Autistic disorder	4
+neuropilin 2	34663783	Hirschberg PR	Autistic disorder	4
+neuropilin 2	34663783	Shiflett MW	Autistic disorder	4
+neuropilin 2	34663783	Santhakumar V	Autistic disorder	4
+neuropilin 2	34663783	Tran TS	Autistic disorder	4
+parvalbumin	34663783	Eisenberg C	Autistic disorder	4
+parvalbumin	34663783	Subramanian D	Autistic disorder	4
+parvalbumin	34663783	Afrasiabi M	Autistic disorder	4
+parvalbumin	34663783	Ziobro P	Autistic disorder	4
+parvalbumin	34663783	DeLucia J	Autistic disorder	4
+parvalbumin	34663783	Hirschberg PR	Autistic disorder	4
+parvalbumin	34663783	Shiflett MW	Autistic disorder	4
+parvalbumin	34663783	Santhakumar V	Autistic disorder	4
+parvalbumin	34663783	Tran TS	Autistic disorder	4
+somatostatin	34663783	Eisenberg C	Autistic disorder	4
+somatostatin	34663783	Subramanian D	Autistic disorder	4
+somatostatin	34663783	Afrasiabi M	Autistic disorder	4
+somatostatin	34663783	Ziobro P	Autistic disorder	4
+somatostatin	34663783	DeLucia J	Autistic disorder	4
+somatostatin	34663783	Hirschberg PR	Autistic disorder	4
+somatostatin	34663783	Shiflett MW	Autistic disorder	4
+somatostatin	34663783	Santhakumar V	Autistic disorder	4
+somatostatin	34663783	Tran TS	Autistic disorder	4
+neuropeptide Y	34663783	Eisenberg C	Autistic disorder	4
+neuropeptide Y	34663783	Subramanian D	Autistic disorder	4
+neuropeptide Y	34663783	Afrasiabi M	Autistic disorder	4
+neuropeptide Y	34663783	Ziobro P	Autistic disorder	4
+neuropeptide Y	34663783	DeLucia J	Autistic disorder	4
+neuropeptide Y	34663783	Hirschberg PR	Autistic disorder	4
+neuropeptide Y	34663783	Shiflett MW	Autistic disorder	4
+neuropeptide Y	34663783	Santhakumar V	Autistic disorder	4
+neuropeptide Y	34663783	Tran TS	Autistic disorder	4
+CREB binding protein	34652060	Nishi E	Autistic disorder	1
+CREB binding protein	34652060	Takenouchi T	Autistic disorder	1
+CREB binding protein	34652060	Miya F	Autistic disorder	1
+CREB binding protein	34652060	Uehara T	Autistic disorder	1
+CREB binding protein	34652060	Yanagi K	Autistic disorder	1
+CREB binding protein	34652060	Hasegawa Y	Autistic disorder	1
+CREB binding protein	34652060	Ueda K	Autistic disorder	1
+CREB binding protein	34652060	Mizuno S	Autistic disorder	1
+CREB binding protein	34652060	Kaname T	Autistic disorder	1
+CREB binding protein	34652060	Kosaki K	Autistic disorder	1
+CREB binding protein	34652060	Okamoto N	Autistic disorder	1
+parvalbumin	34646371	Huang L	Autistic disorder	1
+parvalbumin	34646371	Wang J	Autistic disorder	3
+parvalbumin	34646371	Liang G	Autistic disorder	1
+parvalbumin	34646371	Gao Y	Autistic disorder	4
+parvalbumin	34646371	Jin SY	Autistic disorder	1
+parvalbumin	34646371	Hu J	Autistic disorder	1
+parvalbumin	34646371	Yang X	Autistic disorder	2
+parvalbumin	34646371	Lao J	Autistic disorder	1
+parvalbumin	34646371	Chen J	Autistic disorder	5
+parvalbumin	34646371	Luo ZC	Autistic disorder	1
+parvalbumin	34646371	Fan C	Autistic disorder	1
+parvalbumin	34646371	Xiong L	Autistic disorder	1
+parvalbumin	34646371	Zhu X	Autistic disorder	1
+parvalbumin	34646371	Gao TM	Autistic disorder	1
+parvalbumin	34646371	Zhong M	Autistic disorder	1
+neurobeachin	34609286	Schiavoni S	Autistic disorder	1
+neurobeachin	34609286	Spagnoli C	Autistic disorder	1
+neurobeachin	34609286	Rizzi S	Autistic disorder	1
+neurobeachin	34609286	Salerno GG	Autistic disorder	1
+neurobeachin	34609286	Frattini D	Autistic disorder	1
+neurobeachin	34609286	Pisani F	Autistic disorder	1
+neurobeachin	34609286	Fusco C	Autistic disorder	1
+insulin	34562183	Aljumaiah MM	Autistic disorder	1
+insulin	34562183	Alonazi MA	Autistic disorder	1
+insulin	34562183	Al-Dbass AM	Autistic disorder	1
+insulin	34562183	Almnaizel AT	Autistic disorder	1
+insulin	34562183	Alahmed M	Autistic disorder	1
+insulin	34562183	Soliman DA	Autistic disorder	1
+insulin	34562183	El-Ansary A	Autistic disorder	4
+transferrin	34539458	Imataka G	Autistic disorder	2
+transferrin	34539458	Yui K	Autistic disorder	2
+transferrin	34539458	Shiko Y	Autistic disorder	2
+transferrin	34539458	Kawasaki Y	Autistic disorder	2
+transferrin	34539458	Sasaki H	Autistic disorder	2
+transferrin	34539458	Shiroki R	Autistic disorder	2
+transferrin	34539458	Yoshihara S	Autistic disorder	2
+ceruloplasmin	34539458	Imataka G	Autistic disorder	2
+ceruloplasmin	34539458	Yui K	Autistic disorder	2
+ceruloplasmin	34539458	Shiko Y	Autistic disorder	2
+ceruloplasmin	34539458	Kawasaki Y	Autistic disorder	2
+ceruloplasmin	34539458	Sasaki H	Autistic disorder	2
+ceruloplasmin	34539458	Shiroki R	Autistic disorder	2
+ceruloplasmin	34539458	Yoshihara S	Autistic disorder	2
+catalase	34528217	Shilpa O	Autistic disorder	1
+catalase	34528217	Anupama KP	Autistic disorder	1
+catalase	34528217	Antony A	Autistic disorder	1
+catalase	34528217	Gurushankara HP	Autistic disorder	1
+lysozyme	34517895	Al-Ayadhi L	Autistic disorder	2
+lysozyme	34517895	Zayed N	Autistic disorder	1
+lysozyme	34517895	Bhat RS	Autistic disorder	1
+lysozyme	34517895	Moubayed NMS	Autistic disorder	1
+lysozyme	34517895	Al-Muammar MN	Autistic disorder	1
+lysozyme	34517895	El-Ansary A	Autistic disorder	4
+apolipoprotein A1	34504056	Tierney E	Autistic disorder	2
+apolipoprotein A1	34504056	Remaley AT	Autistic disorder	2
+apolipoprotein A1	34504056	Thurm A	Autistic disorder	2
+apolipoprotein A1	34504056	Jager LR	Autistic disorder	2
+apolipoprotein A1	34504056	Wassif CA	Autistic disorder	2
+apolipoprotein A1	34504056	Kratz LE	Autistic disorder	2
+apolipoprotein A1	34504056	Bailey-Wilson JE	Autistic disorder	2
+apolipoprotein A1	34504056	Bukelis I	Autistic disorder	2
+apolipoprotein A1	34504056	Sarphare G	Autistic disorder	2
+apolipoprotein A1	34504056	Jung ES	Autistic disorder	2
+apolipoprotein A1	34504056	Brand B	Autistic disorder	2
+apolipoprotein A1	34504056	Noah KK	Autistic disorder	2
+apolipoprotein A1	34504056	Porter FD	Autistic disorder	2
+apolipoprotein B	34504056	Tierney E	Autistic disorder	2
+apolipoprotein B	34504056	Remaley AT	Autistic disorder	2
+apolipoprotein B	34504056	Thurm A	Autistic disorder	2
+apolipoprotein B	34504056	Jager LR	Autistic disorder	2
+apolipoprotein B	34504056	Wassif CA	Autistic disorder	2
+apolipoprotein B	34504056	Kratz LE	Autistic disorder	2
+apolipoprotein B	34504056	Bailey-Wilson JE	Autistic disorder	2
+apolipoprotein B	34504056	Bukelis I	Autistic disorder	2
+apolipoprotein B	34504056	Sarphare G	Autistic disorder	2
+apolipoprotein B	34504056	Jung ES	Autistic disorder	2
+apolipoprotein B	34504056	Brand B	Autistic disorder	2
+apolipoprotein B	34504056	Noah KK	Autistic disorder	2
+apolipoprotein B	34504056	Porter FD	Autistic disorder	2
+insulin	34440366	Dyar B	Autistic disorder	1
+insulin	34440366	Meaddough E	Autistic disorder	1
+insulin	34440366	Sarasua SM	Autistic disorder	1
+insulin	34440366	Rogers C	Autistic disorder	1
+insulin	34440366	Phelan K	Autistic disorder	1
+insulin	34440366	Boccuto L	Autistic disorder	1
+agrin	34430425	Meng W	Autistic disorder	1
+agrin	34430425	Huan Y	Autistic disorder	1
+agrin	34430425	Gao Y	Autistic disorder	4
+catalase	34298871	Jayaprakash P	Autistic disorder	3
+catalase	34298871	Isaev D	Autistic disorder	1
+catalase	34298871	Shabbir W	Autistic disorder	1
+catalase	34298871	Lorke DE	Autistic disorder	1
+catalase	34298871	Sadek B	Autistic disorder	3
+catalase	34298871	Oz M	Autistic disorder	1
+oxytocin receptor	34290367	Bertoni A	Autistic disorder	2
+oxytocin receptor	34290367	Schaller F	Autistic disorder	2
+oxytocin receptor	34290367	Tyzio R	Autistic disorder	2
+oxytocin receptor	34290367	Gaillard S	Autistic disorder	2
+oxytocin receptor	34290367	Santini F	Autistic disorder	2
+oxytocin receptor	34290367	Xolin M	Autistic disorder	2
+oxytocin receptor	34290367	Diabira D	Autistic disorder	2
+oxytocin receptor	34290367	Vaidyanathan R	Autistic disorder	2
+oxytocin receptor	34290367	Matarazzo V	Autistic disorder	2
+oxytocin receptor	34290367	Medina I	Autistic disorder	2
+oxytocin receptor	34290367	Hammock E	Autistic disorder	2
+oxytocin receptor	34290367	Zhang J	Autistic disorder	5
+oxytocin receptor	34290367	Chini B	Autistic disorder	2
+oxytocin receptor	34290367	Gaiarsa JL	Autistic disorder	2
+oxytocin receptor	34290367	Muscatelli F	Autistic disorder	2
+somatostatin	34290367	Bertoni A	Autistic disorder	2
+somatostatin	34290367	Schaller F	Autistic disorder	2
+somatostatin	34290367	Tyzio R	Autistic disorder	2
+somatostatin	34290367	Gaillard S	Autistic disorder	2
+somatostatin	34290367	Santini F	Autistic disorder	2
+somatostatin	34290367	Xolin M	Autistic disorder	2
+somatostatin	34290367	Diabira D	Autistic disorder	2
+somatostatin	34290367	Vaidyanathan R	Autistic disorder	2
+somatostatin	34290367	Matarazzo V	Autistic disorder	2
+somatostatin	34290367	Medina I	Autistic disorder	2
+somatostatin	34290367	Hammock E	Autistic disorder	2
+somatostatin	34290367	Zhang J	Autistic disorder	5
+somatostatin	34290367	Chini B	Autistic disorder	2
+somatostatin	34290367	Gaiarsa JL	Autistic disorder	2
+somatostatin	34290367	Muscatelli F	Autistic disorder	2
+tumor necrosis factor	34276441	Zhao H	Autistic disorder	1
+tumor necrosis factor	34276441	Zhang H	Autistic disorder	3
+tumor necrosis factor	34276441	Liu S	Autistic disorder	3
+tumor necrosis factor	34276441	Luo W	Autistic disorder	1
+tumor necrosis factor	34276441	Jiang Y	Autistic disorder	1
+tumor necrosis factor	34276441	Gao J	Autistic disorder	1
+neuroligin 3	34262438	Lai ESK	Autistic disorder	1
+neuroligin 3	34262438	Nakayama H	Autistic disorder	1
+neuroligin 3	34262438	Miyazaki T	Autistic disorder	1
+neuroligin 3	34262438	Nakazawa T	Autistic disorder	1
+neuroligin 3	34262438	Tabuchi K	Autistic disorder	1
+neuroligin 3	34262438	Hashimoto K	Autistic disorder	1
+neuroligin 3	34262438	Watanabe M	Autistic disorder	1
+neuroligin 3	34262438	Kano M	Autistic disorder	1

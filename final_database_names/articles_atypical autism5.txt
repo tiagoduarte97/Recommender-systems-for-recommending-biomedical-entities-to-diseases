@@ -1,0 +1,438 @@
+huntingtin	36959146	Subramaniam S	Atypical autism	1
+huntingtin	36959146	Boregowda S	Atypical autism	1
+C-reactive protein	36926653	Dumitriu D	Atypical autism	1
+C-reactive protein	36926653	Baldwin E	Atypical autism	1
+C-reactive protein	36926653	Coenen RJJ	Atypical autism	1
+C-reactive protein	36926653	Hammond LA	Atypical autism	1
+C-reactive protein	36926653	Peterka DS	Atypical autism	1
+C-reactive protein	36926653	Heilbrun L	Atypical autism	1
+C-reactive protein	36926653	Frye RE	Atypical autism	1
+C-reactive protein	36926653	Palmer R	Atypical autism	1
+C-reactive protein	36926653	Norrman HN	Atypical autism	1
+C-reactive protein	36926653	Fridell A	Atypical autism	1
+C-reactive protein	36926653	Remnelius KL	Atypical autism	1
+C-reactive protein	36926653	Isaksson J	Atypical autism	1
+C-reactive protein	36926653	Austin C	Atypical autism	1
+C-reactive protein	36926653	Curtin P	Atypical autism	1
+C-reactive protein	36926653	Bolte S	Atypical autism	1
+C-reactive protein	36926653	Arora M	Atypical autism	1
+oxytocin receptor	36870672	Morel C	Atypical autism	1
+oxytocin receptor	36870672	Martinez Sanchez I	Atypical autism	1
+oxytocin receptor	36870672	Cherifi Y	Atypical autism	1
+oxytocin receptor	36870672	Chartrel N	Atypical autism	1
+oxytocin receptor	36870672	Diaz Heijtz R	Atypical autism	1
+synaptophysin	36853856	de Oliveira Ferreira E	Atypical autism	1
+synaptophysin	36853856	Pessoa Gomes JM	Atypical autism	1
+synaptophysin	36853856	Neves KRT	Atypical autism	1
+synaptophysin	36853856	Lima FAV	Atypical autism	1
+synaptophysin	36853856	de Barros Viana GS	Atypical autism	1
+synaptophysin	36853856	de Andrade GM	Atypical autism	1
+myelin regulatory factor	36730342	Rawlings-Mortimer F	Atypical autism	1
+myelin regulatory factor	36730342	Gullino LS	Atypical autism	1
+myelin regulatory factor	36730342	Ruhling S	Atypical autism	1
+myelin regulatory factor	36730342	Ashton A	Atypical autism	1
+myelin regulatory factor	36730342	Barkus C	Atypical autism	1
+myelin regulatory factor	36730342	Johansen-Berg H	Atypical autism	1
+arginine vasopressin	36703298	Caria A	Atypical autism	2
+adhesion G protein-coupled receptor L3	36082049	Maurer MH	Atypical autism	1
+adhesion G protein-coupled receptor L3	36082049	Kohler A	Atypical autism	1
+adhesion G protein-coupled receptor L3	36082049	Hudemann M	Atypical autism	1
+adhesion G protein-coupled receptor L3	36082049	Jungling J	Atypical autism	1
+adhesion G protein-coupled receptor L3	36082049	Biskup S	Atypical autism	1
+adhesion G protein-coupled receptor L3	36082049	Menzel M	Atypical autism	1
+D-aspartate oxidase	35915065	Lombardo B	Atypical autism	1
+D-aspartate oxidase	35915065	Pagani M	Atypical autism	1
+D-aspartate oxidase	35915065	De Rosa A	Atypical autism	1
+D-aspartate oxidase	35915065	Nunziato M	Atypical autism	1
+D-aspartate oxidase	35915065	Migliarini S	Atypical autism	1
+D-aspartate oxidase	35915065	Garofalo M	Atypical autism	1
+D-aspartate oxidase	35915065	Terrile M	Atypical autism	1
+D-aspartate oxidase	35915065	D'Argenio V	Atypical autism	1
+D-aspartate oxidase	35915065	Galbusera A	Atypical autism	1
+D-aspartate oxidase	35915065	Nuzzo T	Atypical autism	1
+D-aspartate oxidase	35915065	Ranieri A	Atypical autism	1
+D-aspartate oxidase	35915065	Vitale A	Atypical autism	1
+D-aspartate oxidase	35915065	Leggiero E	Atypical autism	1
+D-aspartate oxidase	35915065	Di Maio A	Atypical autism	1
+D-aspartate oxidase	35915065	Barsotti N	Atypical autism	1
+D-aspartate oxidase	35915065	Borello U	Atypical autism	1
+D-aspartate oxidase	35915065	Napolitano F	Atypical autism	1
+D-aspartate oxidase	35915065	Mandarino A	Atypical autism	1
+D-aspartate oxidase	35915065	Carotenuto M	Atypical autism	1
+D-aspartate oxidase	35915065	Heresco-Levy U	Atypical autism	1
+D-aspartate oxidase	35915065	Pasqualetti M	Atypical autism	1
+D-aspartate oxidase	35915065	Malatesta P	Atypical autism	1
+D-aspartate oxidase	35915065	Gozzi A	Atypical autism	1
+D-aspartate oxidase	35915065	Errico F	Atypical autism	1
+D-aspartate oxidase	35915065	Salvatore F	Atypical autism	1
+D-aspartate oxidase	35915065	Pastore L	Atypical autism	1
+D-aspartate oxidase	35915065	Usiello A	Atypical autism	1
+translocator protein	35383319	Simpson D	Atypical autism	2
+translocator protein	35383319	Gharehgazlou A	Atypical autism	2
+translocator protein	35383319	Da Silva T	Atypical autism	2
+translocator protein	35383319	Labrie-Cleary C	Atypical autism	2
+translocator protein	35383319	Wilson AA	Atypical autism	2
+translocator protein	35383319	Meyer JH	Atypical autism	2
+translocator protein	35383319	Mizrahi R	Atypical autism	2
+translocator protein	35383319	Rusjan PM	Atypical autism	2
+multiple sclerosis	35383319	Simpson D	Atypical autism	2
+multiple sclerosis	35383319	Gharehgazlou A	Atypical autism	2
+multiple sclerosis	35383319	Da Silva T	Atypical autism	2
+multiple sclerosis	35383319	Labrie-Cleary C	Atypical autism	2
+multiple sclerosis	35383319	Wilson AA	Atypical autism	2
+multiple sclerosis	35383319	Meyer JH	Atypical autism	2
+multiple sclerosis	35383319	Mizrahi R	Atypical autism	2
+multiple sclerosis	35383319	Rusjan PM	Atypical autism	2
+parvalbumin	34848882	Contractor A	Atypical autism	2
+parvalbumin	34848882	Ethell IM	Atypical autism	2
+parvalbumin	34848882	Portera-Cailliau C	Atypical autism	2
+parvalbumin	34690832	Razak KA	Atypical autism	1
+parvalbumin	34690832	Binder DK	Atypical autism	1
+parvalbumin	34690832	Ethell IM	Atypical autism	2
+oxytocin receptor	34445224	Wang X	Atypical autism	1
+oxytocin receptor	34445224	Escobar JB	Atypical autism	1
+oxytocin receptor	34445224	Mendelowitz D	Atypical autism	1
+multiple sclerosis	34374142	Tempesta AJ	Atypical autism	1
+multiple sclerosis	34374142	Miller CE	Atypical autism	1
+multiple sclerosis	34374142	Litvak V	Atypical autism	1
+multiple sclerosis	34374142	Bowman H	Atypical autism	1
+multiple sclerosis	34374142	Schofield AJ	Atypical autism	1
+FAT atypical cadherin 1	34100899	Frei JA	Atypical autism	1
+FAT atypical cadherin 1	34100899	Brandenburg C	Atypical autism	1
+FAT atypical cadherin 1	34100899	Nestor JE	Atypical autism	1
+FAT atypical cadherin 1	34100899	Hodzic DM	Atypical autism	1
+FAT atypical cadherin 1	34100899	Plachez C	Atypical autism	1
+FAT atypical cadherin 1	34100899	McNeill H	Atypical autism	1
+FAT atypical cadherin 1	34100899	Dykxhoorn DM	Atypical autism	1
+FAT atypical cadherin 1	34100899	Nestor MW	Atypical autism	1
+FAT atypical cadherin 1	34100899	Blatt GJ	Atypical autism	1
+FAT atypical cadherin 1	34100899	Lin YC	Atypical autism	1
+oxytocin receptor	33839431	Ahern TH	Atypical autism	1
+oxytocin receptor	33839431	Olsen S	Atypical autism	1
+oxytocin receptor	33839431	Tudino R	Atypical autism	1
+oxytocin receptor	33839431	Beery AK	Atypical autism	1
+methylenetetrahydrofolate reductase	33577628	Fadila	Atypical autism	1
+methylenetetrahydrofolate reductase	33577628	Suman P	Atypical autism	1
+methylenetetrahydrofolate reductase	33577628	Kumar P	Atypical autism	1
+methylenetetrahydrofolate reductase	33577628	Omair F	Atypical autism	1
+insulin	33564861	Dai L	Atypical autism	1
+insulin	33564861	Weiss RB	Atypical autism	1
+insulin	33564861	Dunn DM	Atypical autism	1
+insulin	33564861	Ramirez A	Atypical autism	1
+insulin	33564861	Paul S	Atypical autism	1
+insulin	33564861	Korenberg JR	Atypical autism	1
+synaptoporin	32982694	Ibi D	Atypical autism	1
+synaptoporin	32982694	Nakasai G	Atypical autism	1
+synaptoporin	32982694	Koide N	Atypical autism	1
+synaptoporin	32982694	Sawahata M	Atypical autism	1
+synaptoporin	32982694	Kohno T	Atypical autism	1
+synaptoporin	32982694	Takaba R	Atypical autism	1
+synaptoporin	32982694	Nagai T	Atypical autism	1
+synaptoporin	32982694	Hattori M	Atypical autism	1
+synaptoporin	32982694	Nabeshima T	Atypical autism	1
+synaptoporin	32982694	Yamada K	Atypical autism	1
+synaptoporin	32982694	Hiramatsu M	Atypical autism	1
+arginine vasopressin	32749543	Martinez-Rodriguez E	Atypical autism	1
+arginine vasopressin	32749543	Martin-Sanchez A	Atypical autism	1
+arginine vasopressin	32749543	Kul E	Atypical autism	1
+arginine vasopressin	32749543	Bose A	Atypical autism	1
+arginine vasopressin	32749543	Martinez-Martinez FJ	Atypical autism	1
+arginine vasopressin	32749543	Stork O	Atypical autism	1
+arginine vasopressin	32749543	Martinez-Garcia F	Atypical autism	1
+arginine vasopressin	32749543	Lanuza E	Atypical autism	1
+arginine vasopressin	32749543	Santos M	Atypical autism	1
+arginine vasopressin	32749543	Agustin-Pavon C	Atypical autism	1
+huntingtin	32652810	Piras IS	Atypical autism	1
+huntingtin	32652810	Picinelli C	Atypical autism	1
+huntingtin	32652810	Iennaco R	Atypical autism	1
+huntingtin	32652810	Baccarin M	Atypical autism	1
+huntingtin	32652810	Castronovo P	Atypical autism	1
+huntingtin	32652810	Tomaiuolo P	Atypical autism	1
+huntingtin	32652810	Cucinotta F	Atypical autism	1
+huntingtin	32652810	Ricciardello A	Atypical autism	1
+huntingtin	32652810	Turriziani L	Atypical autism	1
+huntingtin	32652810	Nanetti L	Atypical autism	1
+huntingtin	32652810	Mariotti C	Atypical autism	1
+huntingtin	32652810	Gellera C	Atypical autism	1
+huntingtin	32652810	Lintas C	Atypical autism	1
+huntingtin	32652810	Sacco R	Atypical autism	1
+huntingtin	32652810	Zuccato C	Atypical autism	1
+huntingtin	32652810	Cattaneo E	Atypical autism	1
+huntingtin	32652810	Persico AM	Atypical autism	1
+oxytocin receptor	32650534	Caria A	Atypical autism	2
+oxytocin receptor	32650534	Ciringione L	Atypical autism	1
+oxytocin receptor	32650534	Falco S	Atypical autism	1
+amphiphysin	32166503	Endres D	Atypical autism	1
+amphiphysin	32166503	Leypoldt F	Atypical autism	1
+amphiphysin	32166503	Bechter K	Atypical autism	1
+amphiphysin	32166503	Hasan A	Atypical autism	1
+amphiphysin	32166503	Steiner J	Atypical autism	1
+amphiphysin	32166503	Domschke K	Atypical autism	1
+amphiphysin	32166503	Wandinger KP	Atypical autism	1
+amphiphysin	32166503	Falkai P	Atypical autism	1
+amphiphysin	32166503	Arolt V	Atypical autism	1
+amphiphysin	32166503	Stich O	Atypical autism	1
+amphiphysin	32166503	Rauer S	Atypical autism	1
+amphiphysin	32166503	Pruss H	Atypical autism	1
+amphiphysin	32166503	van Elst LT	Atypical autism	1
+glutamate decarboxylase 1	30659505	Hacohen-Kleiman G	Atypical autism	1
+glutamate decarboxylase 1	30659505	Yizhar-Barnea O	Atypical autism	1
+glutamate decarboxylase 1	30659505	Touloumi O	Atypical autism	1
+glutamate decarboxylase 1	30659505	Lagoudaki R	Atypical autism	1
+glutamate decarboxylase 1	30659505	Avraham KB	Atypical autism	1
+glutamate decarboxylase 1	30659505	Grigoriadis N	Atypical autism	1
+glutamate decarboxylase 1	30659505	Gozes I	Atypical autism	1
+SH3 and multiple ankyrin repeat domains 3	30385192	Rendall AR	Atypical autism	1
+SH3 and multiple ankyrin repeat domains 3	30385192	Perrino PA	Atypical autism	1
+SH3 and multiple ankyrin repeat domains 3	30385192	Buscarello AN	Atypical autism	1
+SH3 and multiple ankyrin repeat domains 3	30385192	Fitch RH	Atypical autism	1
+nuclear receptor corepressor 1	30289594	Sakaguchi Y	Atypical autism	1
+nuclear receptor corepressor 1	30289594	Uehara T	Atypical autism	1
+nuclear receptor corepressor 1	30289594	Suzuki H	Atypical autism	1
+nuclear receptor corepressor 1	30289594	Sakamoto Y	Atypical autism	1
+nuclear receptor corepressor 1	30289594	Fujiwara M	Atypical autism	1
+nuclear receptor corepressor 1	30289594	Kosaki K	Atypical autism	1
+nuclear receptor corepressor 1	30289594	Takenouchi T	Atypical autism	1
+parvalbumin	30250263	Goel A	Atypical autism	1
+parvalbumin	30250263	Cantu DA	Atypical autism	1
+parvalbumin	30250263	Guilfoyle J	Atypical autism	1
+parvalbumin	30250263	Chaudhari GR	Atypical autism	1
+parvalbumin	30250263	Newadkar A	Atypical autism	1
+parvalbumin	30250263	Todisco B	Atypical autism	1
+parvalbumin	30250263	de Alba D	Atypical autism	1
+parvalbumin	30250263	Kourdougli N	Atypical autism	1
+parvalbumin	30250263	Schmitt LM	Atypical autism	1
+parvalbumin	30250263	Pedapati E	Atypical autism	1
+parvalbumin	30250263	Erickson CA	Atypical autism	1
+parvalbumin	30250263	Portera-Cailliau C	Atypical autism	2
+neuroligin 3	30093665	Bariselli S	Atypical autism	1
+neuroligin 3	30093665	Hornberg H	Atypical autism	1
+neuroligin 3	30093665	Prevost-Solie C	Atypical autism	1
+neuroligin 3	30093665	Musardo S	Atypical autism	1
+neuroligin 3	30093665	Hatstatt-Burkle L	Atypical autism	1
+neuroligin 3	30093665	Scheiffele P	Atypical autism	1
+neuroligin 3	30093665	Bellone C	Atypical autism	1
+arginine vasopressin	29282644	Sekiya N	Atypical autism	1
+arginine vasopressin	29282644	Awazu M	Atypical autism	1
+steroid sulfatase	28934990	Malik A	Atypical autism	1
+steroid sulfatase	28934990	Amer AB	Atypical autism	1
+steroid sulfatase	28934990	Salama M	Atypical autism	1
+steroid sulfatase	28934990	Haddad B	Atypical autism	1
+steroid sulfatase	28934990	Alrifai MT	Atypical autism	1
+steroid sulfatase	28934990	Balwi MA	Atypical autism	1
+steroid sulfatase	28934990	Davies W	Atypical autism	1
+steroid sulfatase	28934990	Eyaid W	Atypical autism	1
+prolactin	28689816	Motyl KJ	Atypical autism	1
+prolactin	28689816	Beauchemin M	Atypical autism	1
+prolactin	28689816	Barlow D	Atypical autism	1
+prolactin	28689816	Le PT	Atypical autism	1
+prolactin	28689816	Nagano K	Atypical autism	1
+prolactin	28689816	Treyball A	Atypical autism	1
+prolactin	28689816	Contractor A	Atypical autism	2
+prolactin	28689816	Baron R	Atypical autism	1
+prolactin	28689816	Rosen CJ	Atypical autism	1
+prolactin	28689816	Houseknecht KL	Atypical autism	1
+neuroligin 3	28255463	Burrows EL	Atypical autism	1
+neuroligin 3	28255463	Eastwood AF	Atypical autism	1
+neuroligin 3	28255463	May C	Atypical autism	1
+neuroligin 3	28255463	Kolbe SC	Atypical autism	1
+neuroligin 3	28255463	Hill T	Atypical autism	1
+neuroligin 3	28255463	McLachlan NM	Atypical autism	1
+neuroligin 3	28255463	Churilov L	Atypical autism	1
+neuroligin 3	28255463	Hannan AJ	Atypical autism	1
+insulin	28105014	Vanwong N	Atypical autism	3
+insulin	28105014	Srisawasdi P	Atypical autism	2
+insulin	28105014	Ngamsamut N	Atypical autism	3
+insulin	28105014	Nuntamool N	Atypical autism	3
+insulin	28105014	Puangpetch A	Atypical autism	3
+insulin	28105014	Chamkrachangpada B	Atypical autism	2
+insulin	28105014	Hongkaew Y	Atypical autism	3
+insulin	28105014	Limsila P	Atypical autism	3
+insulin	28105014	Kittitharaphan W	Atypical autism	2
+insulin	28105014	Sukasem C	Atypical autism	3
+leptin	28105014	Vanwong N	Atypical autism	3
+leptin	28105014	Srisawasdi P	Atypical autism	2
+leptin	28105014	Ngamsamut N	Atypical autism	3
+leptin	28105014	Nuntamool N	Atypical autism	3
+leptin	28105014	Puangpetch A	Atypical autism	3
+leptin	28105014	Chamkrachangpada B	Atypical autism	2
+leptin	28105014	Hongkaew Y	Atypical autism	3
+leptin	28105014	Limsila P	Atypical autism	3
+leptin	28105014	Kittitharaphan W	Atypical autism	2
+leptin	28105014	Sukasem C	Atypical autism	3
+prolactin	27346210	Vanwong N	Atypical autism	3
+prolactin	27346210	Prommas S	Atypical autism	1
+prolactin	27346210	Puangpetch A	Atypical autism	3
+prolactin	27346210	Hongkaew Y	Atypical autism	3
+prolactin	27346210	Nuntamool N	Atypical autism	3
+prolactin	27346210	Nakorn CN	Atypical autism	1
+prolactin	27346210	Ngamsamut N	Atypical autism	3
+prolactin	27346210	Limsila P	Atypical autism	3
+prolactin	27346210	Sukasem C	Atypical autism	3
+oxytocin receptor	27655235	Preckel K	Atypical autism	1
+oxytocin receptor	27655235	Kanske P	Atypical autism	1
+oxytocin receptor	27655235	Singer T	Atypical autism	1
+oxytocin receptor	27655235	Paulus FM	Atypical autism	1
+oxytocin receptor	27655235	Krach S	Atypical autism	1
+oxytocin receptor	27421662	Reuter M	Atypical autism	1
+oxytocin receptor	27421662	Montag C	Atypical autism	1
+oxytocin receptor	27421662	Altmann S	Atypical autism	1
+oxytocin receptor	27421662	Bendlow F	Atypical autism	1
+oxytocin receptor	27421662	Elger C	Atypical autism	1
+oxytocin receptor	27421662	Kirsch P	Atypical autism	1
+oxytocin receptor	27421662	Becker A	Atypical autism	1
+oxytocin receptor	27421662	Schoch-McGovern S	Atypical autism	1
+oxytocin receptor	27421662	Simon M	Atypical autism	1
+oxytocin receptor	27421662	Weber B	Atypical autism	1
+oxytocin receptor	27421662	Felten A	Atypical autism	1
+oxytocin receptor	26998571	McDonald NM	Atypical autism	1
+oxytocin receptor	26998571	Baker JK	Atypical autism	1
+oxytocin receptor	26998571	Messinger DS	Atypical autism	1
+lactase	26913756	Kushak RI	Atypical autism	1
+lactase	26913756	Buie TM	Atypical autism	1
+lactase	26913756	Murray KF	Atypical autism	1
+lactase	26913756	Newburg DS	Atypical autism	1
+lactase	26913756	Chen C	Atypical autism	2
+lactase	26913756	Nestoridi E	Atypical autism	1
+lactase	26913756	Winter HS	Atypical autism	1
+WD repeat domain 45	26859818	Yoganathan S	Atypical autism	1
+WD repeat domain 45	26859818	Arunachal G	Atypical autism	1
+WD repeat domain 45	26859818	Sudhakar SV	Atypical autism	1
+WD repeat domain 45	26859818	Rajaraman V	Atypical autism	1
+WD repeat domain 45	26859818	Thomas M	Atypical autism	1
+WD repeat domain 45	26859818	Danda S	Atypical autism	1
+androgen receptor	26781567	Chen C	Atypical autism	2
+androgen receptor	26781567	Van Horn JD	Atypical autism	1
+neurexin 1	25149956	Imitola J	Atypical autism	1
+neurexin 1	25149956	Walleigh D	Atypical autism	1
+neurexin 1	25149956	Anderson CE	Atypical autism	1
+neurexin 1	25149956	Jethva R	Atypical autism	1
+neurexin 1	25149956	Carvalho KS	Atypical autism	1
+neurexin 1	25149956	Legido A	Atypical autism	1
+neurexin 1	25149956	Khurana DS	Atypical autism	1
+Jacobsen syndrome	25058499	Akshoomoff N	Atypical autism	1
+Jacobsen syndrome	25058499	Mattson SN	Atypical autism	1
+Jacobsen syndrome	25058499	Grossfeld PD	Atypical autism	1
+multiple sclerosis	24721148	Liu XB	Atypical autism	1
+multiple sclerosis	24721148	Schumann CM	Atypical autism	1
+parvalbumin	24098278	Zikopoulos B	Atypical autism	1
+parvalbumin	24098278	Barbas H	Atypical autism	1
+TBC1 domain family member 7	23892008	Lim KC	Atypical autism	3
+TBC1 domain family member 7	23892008	Crino PB	Atypical autism	3
+glial fibrillary acidic protein	23892008	Lim KC	Atypical autism	3
+glial fibrillary acidic protein	23892008	Crino PB	Atypical autism	3
+phosphatase and tensin homolog	23892008	Lim KC	Atypical autism	3
+phosphatase and tensin homolog	23892008	Crino PB	Atypical autism	3
+insulin	23575242	Kohlstadt I	Atypical autism	1
+insulin	23575242	Wharton G	Atypical autism	1
+secretin	23504356	Farmer C	Atypical autism	1
+secretin	23504356	Thurm A	Atypical autism	1
+secretin	23504356	Grant P	Atypical autism	1
+Gilles de la Tourette syndrome	23409724	Mestre TA	Atypical autism	1
+Gilles de la Tourette syndrome	23409724	Zurowski M	Atypical autism	1
+Gilles de la Tourette syndrome	23409724	Fox SH	Atypical autism	1
+nerve growth factor	23047241	Ishima T	Atypical autism	1
+nerve growth factor	23047241	Iyo M	Atypical autism	1
+nerve growth factor	23047241	Hashimoto K	Atypical autism	1
+SH3 and multiple ankyrin repeat domains 3	22570549	Verhoeven WM	Atypical autism	1
+SH3 and multiple ankyrin repeat domains 3	22570549	Egger JI	Atypical autism	1
+SH3 and multiple ankyrin repeat domains 3	22570549	Willemsen MH	Atypical autism	1
+SH3 and multiple ankyrin repeat domains 3	22570549	de Leijer GJ	Atypical autism	1
+SH3 and multiple ankyrin repeat domains 3	22570549	Kleefstra T	Atypical autism	1
+methyl-CpG binding protein 2	22123427	Sanmann JN	Atypical autism	1
+methyl-CpG binding protein 2	22123427	Schaefer GB	Atypical autism	1
+methyl-CpG binding protein 2	22123427	Buehler BA	Atypical autism	1
+methyl-CpG binding protein 2	22123427	Sanger WG	Atypical autism	1
+tyrosine hydroxylase	22120178	Pasca SP	Atypical autism	1
+tyrosine hydroxylase	22120178	Portmann T	Atypical autism	1
+tyrosine hydroxylase	22120178	Voineagu I	Atypical autism	1
+tyrosine hydroxylase	22120178	Yazawa M	Atypical autism	1
+tyrosine hydroxylase	22120178	Shcheglovitov A	Atypical autism	1
+tyrosine hydroxylase	22120178	Pasca AM	Atypical autism	1
+tyrosine hydroxylase	22120178	Cord B	Atypical autism	1
+tyrosine hydroxylase	22120178	Palmer TD	Atypical autism	1
+tyrosine hydroxylase	22120178	Chikahisa S	Atypical autism	1
+tyrosine hydroxylase	22120178	Nishino S	Atypical autism	1
+tyrosine hydroxylase	22120178	Bernstein JA	Atypical autism	1
+tyrosine hydroxylase	22120178	Hallmayer J	Atypical autism	1
+tyrosine hydroxylase	22120178	Geschwind DH	Atypical autism	1
+tyrosine hydroxylase	22120178	Dolmetsch RE	Atypical autism	1
+C-reactive protein	21946139	Kliushnik TP	Atypical autism	2
+C-reactive protein	21946139	Androsova LV	Atypical autism	2
+C-reactive protein	21946139	Simashkova NV	Atypical autism	2
+C-reactive protein	21946139	Zozulia SA	Atypical autism	2
+C-reactive protein	21946139	Otman IN	Atypical autism	2
+C-reactive protein	21946139	Koval'-Zaitsev AA	Atypical autism	2
+nerve growth factor	21946139	Kliushnik TP	Atypical autism	2
+nerve growth factor	21946139	Androsova LV	Atypical autism	2
+nerve growth factor	21946139	Simashkova NV	Atypical autism	2
+nerve growth factor	21946139	Zozulia SA	Atypical autism	2
+nerve growth factor	21946139	Otman IN	Atypical autism	2
+nerve growth factor	21946139	Koval'-Zaitsev AA	Atypical autism	2
+adenylosuccinate lyase	21903433	Perez-Duenas B	Atypical autism	1
+adenylosuccinate lyase	21903433	Sempere A	Atypical autism	1
+adenylosuccinate lyase	21903433	Campistol J	Atypical autism	1
+adenylosuccinate lyase	21903433	Alonso-Colmenero I	Atypical autism	1
+adenylosuccinate lyase	21903433	Diez M	Atypical autism	1
+adenylosuccinate lyase	21903433	Gonzalez V	Atypical autism	1
+adenylosuccinate lyase	21903433	Merinero B	Atypical autism	1
+adenylosuccinate lyase	21903433	Desviat LR	Atypical autism	1
+adenylosuccinate lyase	21903433	Artuch R	Atypical autism	1
+gastrin	21847557	Presti-Torres J	Atypical autism	2
+gastrin	21847557	Garcia VA	Atypical autism	2
+gastrin	21847557	Dornelles A	Atypical autism	2
+gastrin	21847557	Halmenschlager LH	Atypical autism	2
+gastrin	21847557	Alcalde LA	Atypical autism	2
+gastrin	21847557	Vedana G	Atypical autism	2
+gastrin	21847557	Rico EP	Atypical autism	2
+gastrin	21847557	Bogo MR	Atypical autism	2
+gastrin	21847557	Schwartsmann G	Atypical autism	2
+gastrin	21847557	Roesler R	Atypical autism	2
+gastrin	21847557	Schroder N	Atypical autism	2
+epidermal growth factor	21847557	Presti-Torres J	Atypical autism	2
+epidermal growth factor	21847557	Garcia VA	Atypical autism	2
+epidermal growth factor	21847557	Dornelles A	Atypical autism	2
+epidermal growth factor	21847557	Halmenschlager LH	Atypical autism	2
+epidermal growth factor	21847557	Alcalde LA	Atypical autism	2
+epidermal growth factor	21847557	Vedana G	Atypical autism	2
+epidermal growth factor	21847557	Rico EP	Atypical autism	2
+epidermal growth factor	21847557	Bogo MR	Atypical autism	2
+epidermal growth factor	21847557	Schwartsmann G	Atypical autism	2
+epidermal growth factor	21847557	Roesler R	Atypical autism	2
+epidermal growth factor	21847557	Schroder N	Atypical autism	2
+prolactin	20467549	Panagiotopoulos C	Atypical autism	1
+prolactin	20467549	Ronsley R	Atypical autism	1
+prolactin	20467549	Elbe D	Atypical autism	2
+prolactin	20467549	Davidson J	Atypical autism	1
+prolactin	20467549	Smith DH	Atypical autism	1
+oxytocin receptor	19777562	Wermter AK	Atypical autism	2
+oxytocin receptor	19777562	Kamp-Becker I	Atypical autism	2
+oxytocin receptor	19777562	Hesse P	Atypical autism	1
+oxytocin receptor	19777562	Schulte-Korne G	Atypical autism	2
+oxytocin receptor	19777562	Strauch K	Atypical autism	2
+oxytocin receptor	19777562	Remschmidt H	Atypical autism	2
+prolactin	19718428	Greenaway M	Atypical autism	1
+prolactin	19718428	Elbe D	Atypical autism	2
+hydroxymethylbilane synthase	19267997	Luder AS	Atypical autism	1
+hydroxymethylbilane synthase	19267997	Mamet R	Atypical autism	1
+hydroxymethylbilane synthase	19267997	Farbstein I	Atypical autism	1
+hydroxymethylbilane synthase	19267997	Schoenfeld N	Atypical autism	1
+prolactin	18315450	Malone RP	Atypical autism	1
+prolactin	18315450	Delaney MA	Atypical autism	1
+prolactin	18315450	Hyman SB	Atypical autism	1
+prolactin	18315450	Cater JR	Atypical autism	1
+neuroligin 3	18189281	Wermter AK	Atypical autism	2
+neuroligin 3	18189281	Kamp-Becker I	Atypical autism	2
+neuroligin 3	18189281	Strauch K	Atypical autism	2
+neuroligin 3	18189281	Schulte-Korne G	Atypical autism	2
+neuroligin 3	18189281	Remschmidt H	Atypical autism	2
+prolactin	18056831	Brahm NC	Atypical autism	1
+prolactin	18056831	Fast GA	Atypical autism	1
+prolactin	18056831	Brown RC	Atypical autism	1
+myelin basic protein	17029701	Zimmerman AW	Atypical autism	1
+myelin basic protein	17029701	Connors SL	Atypical autism	1
+myelin basic protein	17029701	Matteson KJ	Atypical autism	1
+myelin basic protein	17029701	Lee LC	Atypical autism	1
+myelin basic protein	17029701	Singer HS	Atypical autism	1
+myelin basic protein	17029701	Castaneda JA	Atypical autism	1
+myelin basic protein	17029701	Pearce DA	Atypical autism	1

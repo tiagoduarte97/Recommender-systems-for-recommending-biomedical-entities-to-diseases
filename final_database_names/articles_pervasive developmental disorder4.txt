@@ -1,0 +1,2052 @@
+leptin	36946681	Scott SR	Pervasive developmental disorder
+leptin	36946681	Millwood SN	Pervasive developmental disorder
+leptin	36946681	Manczak EM	Pervasive developmental disorder
+resistin	36946681	Scott SR	Pervasive developmental disorder
+resistin	36946681	Millwood SN	Pervasive developmental disorder
+resistin	36946681	Manczak EM	Pervasive developmental disorder
+apelin	36946681	Scott SR	Pervasive developmental disorder
+apelin	36946681	Millwood SN	Pervasive developmental disorder
+apelin	36946681	Manczak EM	Pervasive developmental disorder
+glutaminase	36915976	Zhang X	Pervasive developmental disorder
+glutaminase	36915976	Liu S	Pervasive developmental disorder
+glutaminase	36915976	Liu X	Pervasive developmental disorder
+glutaminase	36915976	Wang J	Pervasive developmental disorder
+leptin	36902307	Skorzynska-Dziduszko KE	Pervasive developmental disorder
+leptin	36902307	Makarewicz A	Pervasive developmental disorder
+leptin	36902307	Blazewicz A	Pervasive developmental disorder
+biotinidase	36898611	Zhang H	Pervasive developmental disorder
+biotinidase	36898611	Tang X	Pervasive developmental disorder
+biotinidase	36898611	Feng C	Pervasive developmental disorder
+biotinidase	36898611	Gao Y	Pervasive developmental disorder
+biotinidase	36898611	Hong Q	Pervasive developmental disorder
+biotinidase	36898611	Zhang J	Pervasive developmental disorder
+biotinidase	36898611	Zhang X	Pervasive developmental disorder
+biotinidase	36898611	Zheng Q	Pervasive developmental disorder
+biotinidase	36898611	Lin J	Pervasive developmental disorder
+biotinidase	36898611	Liu X	Pervasive developmental disorder
+biotinidase	36898611	Shen L	Pervasive developmental disorder
+insulin	36898611	Zhang H	Pervasive developmental disorder
+insulin	36898611	Tang X	Pervasive developmental disorder
+insulin	36898611	Feng C	Pervasive developmental disorder
+insulin	36898611	Gao Y	Pervasive developmental disorder
+insulin	36898611	Hong Q	Pervasive developmental disorder
+insulin	36898611	Zhang J	Pervasive developmental disorder
+insulin	36898611	Zhang X	Pervasive developmental disorder
+insulin	36898611	Zheng Q	Pervasive developmental disorder
+insulin	36898611	Lin J	Pervasive developmental disorder
+insulin	36898611	Liu X	Pervasive developmental disorder
+insulin	36898611	Shen L	Pervasive developmental disorder
+oxytocin receptor	36870672	Morel C	Pervasive developmental disorder
+oxytocin receptor	36870672	Martinez Sanchez I	Pervasive developmental disorder
+oxytocin receptor	36870672	Cherifi Y	Pervasive developmental disorder
+oxytocin receptor	36870672	Chartrel N	Pervasive developmental disorder
+oxytocin receptor	36870672	Diaz Heijtz R	Pervasive developmental disorder
+interleukin 6	36870094	Backstrom F	Pervasive developmental disorder
+interleukin 6	36870094	Ahl M	Pervasive developmental disorder
+interleukin 6	36870094	Wickham J	Pervasive developmental disorder
+interleukin 6	36870094	Ekdahl CT	Pervasive developmental disorder
+insulin	36862688	Zhang P	Pervasive developmental disorder
+insulin	36862688	Omanska A	Pervasive developmental disorder
+insulin	36862688	Ander BP	Pervasive developmental disorder
+insulin	36862688	Gandal MJ	Pervasive developmental disorder
+insulin	36862688	Stamova B	Pervasive developmental disorder
+insulin	36862688	Schumann CM	Pervasive developmental disorder
+synaptophysin	36853856	de Oliveira Ferreira E	Pervasive developmental disorder
+synaptophysin	36853856	Pessoa Gomes JM	Pervasive developmental disorder
+synaptophysin	36853856	Neves KRT	Pervasive developmental disorder
+synaptophysin	36853856	Lima FAV	Pervasive developmental disorder
+synaptophysin	36853856	de Barros Viana GS	Pervasive developmental disorder
+synaptophysin	36853856	de Andrade GM	Pervasive developmental disorder
+phosphatase and tensin homolog	36838876	Thomas SD	Pervasive developmental disorder
+phosphatase and tensin homolog	36838876	Jha NK	Pervasive developmental disorder
+phosphatase and tensin homolog	36838876	Ojha S	Pervasive developmental disorder
+phosphatase and tensin homolog	36838876	Sadek B	Pervasive developmental disorder
+primary cilia formation	36833254	Papuc SM	Pervasive developmental disorder
+primary cilia formation	36833254	Erbescu A	Pervasive developmental disorder
+primary cilia formation	36833254	Glangher A	Pervasive developmental disorder
+primary cilia formation	36833254	Streata I	Pervasive developmental disorder
+primary cilia formation	36833254	Riza AL	Pervasive developmental disorder
+primary cilia formation	36833254	Budisteanu M	Pervasive developmental disorder
+primary cilia formation	36833254	Arghir A	Pervasive developmental disorder
+multiple sclerosis	36816743	Zang Y	Pervasive developmental disorder
+multiple sclerosis	36816743	Lai X	Pervasive developmental disorder
+multiple sclerosis	36816743	Li C	Pervasive developmental disorder
+multiple sclerosis	36816743	Ding D	Pervasive developmental disorder
+multiple sclerosis	36816743	Wang Y	Pervasive developmental disorder
+multiple sclerosis	36816743	Zhu Y	Pervasive developmental disorder
+androgen receptor	36803626	Thongkorn S	Pervasive developmental disorder
+androgen receptor	36803626	Kanlayaprasit S	Pervasive developmental disorder
+androgen receptor	36803626	Kasitipradit K	Pervasive developmental disorder
+androgen receptor	36803626	Lertpeerapan P	Pervasive developmental disorder
+androgen receptor	36803626	Panjabud P	Pervasive developmental disorder
+androgen receptor	36803626	Hu VW	Pervasive developmental disorder
+androgen receptor	36803626	Jindatip D	Pervasive developmental disorder
+androgen receptor	36803626	Sarachana T	Pervasive developmental disorder
+dystrophin	36799992	Nascimento A	Pervasive developmental disorder
+dystrophin	36799992	Bruels CC	Pervasive developmental disorder
+dystrophin	36799992	Donkervoort S	Pervasive developmental disorder
+dystrophin	36799992	Foley AR	Pervasive developmental disorder
+dystrophin	36799992	Codina A	Pervasive developmental disorder
+dystrophin	36799992	Milisenda JC	Pervasive developmental disorder
+dystrophin	36799992	Estrella EA	Pervasive developmental disorder
+dystrophin	36799992	Li C	Pervasive developmental disorder
+dystrophin	36799992	Pijuan J	Pervasive developmental disorder
+dystrophin	36799992	Draper I	Pervasive developmental disorder
+dystrophin	36799992	Hu Y	Pervasive developmental disorder
+dystrophin	36799992	Stafki SA	Pervasive developmental disorder
+dystrophin	36799992	Pais LS	Pervasive developmental disorder
+dystrophin	36799992	Ganesh VS	Pervasive developmental disorder
+dystrophin	36799992	O'Donnell-Luria A	Pervasive developmental disorder
+dystrophin	36799992	Syeda SB	Pervasive developmental disorder
+dystrophin	36799992	Carrera-Garcia L	Pervasive developmental disorder
+dystrophin	36799992	Exposito-Escudero J	Pervasive developmental disorder
+dystrophin	36799992	Yubero D	Pervasive developmental disorder
+dystrophin	36799992	Martorell L	Pervasive developmental disorder
+dystrophin	36799992	Pinal-Fernandez I	Pervasive developmental disorder
+dystrophin	36799992	Lidov HGW	Pervasive developmental disorder
+dystrophin	36799992	Mammen AL	Pervasive developmental disorder
+dystrophin	36799992	Grau-Junyent JM	Pervasive developmental disorder
+dystrophin	36799992	Ortez C	Pervasive developmental disorder
+dystrophin	36799992	Palau F	Pervasive developmental disorder
+dystrophin	36799992	Ghosh PS	Pervasive developmental disorder
+dystrophin	36799992	Darras BT	Pervasive developmental disorder
+dystrophin	36799992	Jou C	Pervasive developmental disorder
+dystrophin	36799992	Kunkel LM	Pervasive developmental disorder
+dystrophin	36799992	Hoenicka J	Pervasive developmental disorder
+dystrophin	36799992	Bonnemann CG	Pervasive developmental disorder
+dystrophin	36799992	Kang PB	Pervasive developmental disorder
+dystrophin	36799992	Natera-de Benito D	Pervasive developmental disorder
+utrophin	36799992	Nascimento A	Pervasive developmental disorder
+utrophin	36799992	Bruels CC	Pervasive developmental disorder
+utrophin	36799992	Donkervoort S	Pervasive developmental disorder
+utrophin	36799992	Foley AR	Pervasive developmental disorder
+utrophin	36799992	Codina A	Pervasive developmental disorder
+utrophin	36799992	Milisenda JC	Pervasive developmental disorder
+utrophin	36799992	Estrella EA	Pervasive developmental disorder
+utrophin	36799992	Li C	Pervasive developmental disorder
+utrophin	36799992	Pijuan J	Pervasive developmental disorder
+utrophin	36799992	Draper I	Pervasive developmental disorder
+utrophin	36799992	Hu Y	Pervasive developmental disorder
+utrophin	36799992	Stafki SA	Pervasive developmental disorder
+utrophin	36799992	Pais LS	Pervasive developmental disorder
+utrophin	36799992	Ganesh VS	Pervasive developmental disorder
+utrophin	36799992	O'Donnell-Luria A	Pervasive developmental disorder
+utrophin	36799992	Syeda SB	Pervasive developmental disorder
+utrophin	36799992	Carrera-Garcia L	Pervasive developmental disorder
+utrophin	36799992	Exposito-Escudero J	Pervasive developmental disorder
+utrophin	36799992	Yubero D	Pervasive developmental disorder
+utrophin	36799992	Martorell L	Pervasive developmental disorder
+utrophin	36799992	Pinal-Fernandez I	Pervasive developmental disorder
+utrophin	36799992	Lidov HGW	Pervasive developmental disorder
+utrophin	36799992	Mammen AL	Pervasive developmental disorder
+utrophin	36799992	Grau-Junyent JM	Pervasive developmental disorder
+utrophin	36799992	Ortez C	Pervasive developmental disorder
+utrophin	36799992	Palau F	Pervasive developmental disorder
+utrophin	36799992	Ghosh PS	Pervasive developmental disorder
+utrophin	36799992	Darras BT	Pervasive developmental disorder
+utrophin	36799992	Jou C	Pervasive developmental disorder
+utrophin	36799992	Kunkel LM	Pervasive developmental disorder
+utrophin	36799992	Hoenicka J	Pervasive developmental disorder
+utrophin	36799992	Bonnemann CG	Pervasive developmental disorder
+utrophin	36799992	Kang PB	Pervasive developmental disorder
+utrophin	36799992	Natera-de Benito D	Pervasive developmental disorder
+glial fibrillary acidic protein	36769380	Simone M	Pervasive developmental disorder
+glial fibrillary acidic protein	36769380	De Giacomo A	Pervasive developmental disorder
+glial fibrillary acidic protein	36769380	Palumbi R	Pervasive developmental disorder
+glial fibrillary acidic protein	36769380	Palazzo C	Pervasive developmental disorder
+glial fibrillary acidic protein	36769380	Lucisano G	Pervasive developmental disorder
+glial fibrillary acidic protein	36769380	Pompamea F	Pervasive developmental disorder
+glial fibrillary acidic protein	36769380	Micella S	Pervasive developmental disorder
+glial fibrillary acidic protein	36769380	Pascali M	Pervasive developmental disorder
+glial fibrillary acidic protein	36769380	Gabellone A	Pervasive developmental disorder
+glial fibrillary acidic protein	36769380	Marzulli L	Pervasive developmental disorder
+glial fibrillary acidic protein	36769380	Giordano P	Pervasive developmental disorder
+glial fibrillary acidic protein	36769380	Gargano CD	Pervasive developmental disorder
+glial fibrillary acidic protein	36769380	Margari L	Pervasive developmental disorder
+glial fibrillary acidic protein	36769380	Frigeri A	Pervasive developmental disorder
+glial fibrillary acidic protein	36769380	Ruggieri M	Pervasive developmental disorder
+insulin	36738649	Ding H	Pervasive developmental disorder
+insulin	36738649	Xie M	Pervasive developmental disorder
+insulin	36738649	Wang J	Pervasive developmental disorder
+insulin	36738649	Ouyang M	Pervasive developmental disorder
+insulin	36738649	Huang Y	Pervasive developmental disorder
+insulin	36738649	Yuan F	Pervasive developmental disorder
+insulin	36738649	Jia Y	Pervasive developmental disorder
+insulin	36738649	Zhang X	Pervasive developmental disorder
+insulin	36738649	Liu N	Pervasive developmental disorder
+insulin	36738649	Zhang N	Pervasive developmental disorder
+signal transducer and activator of transcription 3	36732866	Kashii H	Pervasive developmental disorder
+signal transducer and activator of transcription 3	36732866	Kasai S	Pervasive developmental disorder
+signal transducer and activator of transcription 3	36732866	Sato A	Pervasive developmental disorder
+signal transducer and activator of transcription 3	36732866	Hagino Y	Pervasive developmental disorder
+signal transducer and activator of transcription 3	36732866	Nishito Y	Pervasive developmental disorder
+signal transducer and activator of transcription 3	36732866	Kobayashi T	Pervasive developmental disorder
+signal transducer and activator of transcription 3	36732866	Hino O	Pervasive developmental disorder
+signal transducer and activator of transcription 3	36732866	Mizuguchi M	Pervasive developmental disorder
+signal transducer and activator of transcription 3	36732866	Ikeda K	Pervasive developmental disorder
+interferon regulatory factor 4	36732866	Kashii H	Pervasive developmental disorder
+interferon regulatory factor 4	36732866	Kasai S	Pervasive developmental disorder
+interferon regulatory factor 4	36732866	Sato A	Pervasive developmental disorder
+interferon regulatory factor 4	36732866	Hagino Y	Pervasive developmental disorder
+interferon regulatory factor 4	36732866	Nishito Y	Pervasive developmental disorder
+interferon regulatory factor 4	36732866	Kobayashi T	Pervasive developmental disorder
+interferon regulatory factor 4	36732866	Hino O	Pervasive developmental disorder
+interferon regulatory factor 4	36732866	Mizuguchi M	Pervasive developmental disorder
+interferon regulatory factor 4	36732866	Ikeda K	Pervasive developmental disorder
+parvalbumin	36732579	Gzielo K	Pervasive developmental disorder
+parvalbumin	36732579	Piotrowska D	Pervasive developmental disorder
+parvalbumin	36732579	Litwa E	Pervasive developmental disorder
+parvalbumin	36732579	Popik P	Pervasive developmental disorder
+parvalbumin	36732579	Nikiforuk A	Pervasive developmental disorder
+myelin regulatory factor	36730342	Rawlings-Mortimer F	Pervasive developmental disorder
+myelin regulatory factor	36730342	Gullino LS	Pervasive developmental disorder
+myelin regulatory factor	36730342	Ruhling S	Pervasive developmental disorder
+myelin regulatory factor	36730342	Ashton A	Pervasive developmental disorder
+myelin regulatory factor	36730342	Barkus C	Pervasive developmental disorder
+myelin regulatory factor	36730342	Johansen-Berg H	Pervasive developmental disorder
+catalase	36642103	Moghaddam AH	Pervasive developmental disorder
+catalase	36642103	Eslami A	Pervasive developmental disorder
+catalase	36642103	Jelodar SK	Pervasive developmental disorder
+catalase	36642103	Ranjbar M	Pervasive developmental disorder
+catalase	36642103	Hasantabar V	Pervasive developmental disorder
+phosphatase and tensin homolog	36626331	Smith IN	Pervasive developmental disorder
+phosphatase and tensin homolog	36626331	Dawson JE	Pervasive developmental disorder
+phosphatase and tensin homolog	36626331	Eng C	Pervasive developmental disorder
+euchromatic histone lysine methyltransferase 1	36617745	Colijn MA	Pervasive developmental disorder
+euchromatic histone lysine methyltransferase 1	36617745	Lakusta CM	Pervasive developmental disorder
+euchromatic histone lysine methyltransferase 1	36617745	Marcadier JL	Pervasive developmental disorder
+insulin	36615279	Panchal SK	Pervasive developmental disorder
+insulin	36615279	Brown L	Pervasive developmental disorder
+tumor necrosis factor	36613969	Eissa N	Pervasive developmental disorder
+tumor necrosis factor	36613969	Awad MA	Pervasive developmental disorder
+tumor necrosis factor	36613969	Thomas SD	Pervasive developmental disorder
+tumor necrosis factor	36613969	Venkatachalam K	Pervasive developmental disorder
+tumor necrosis factor	36613969	Jayaprakash P	Pervasive developmental disorder
+tumor necrosis factor	36613969	Zhong S	Pervasive developmental disorder
+tumor necrosis factor	36613969	Stark H	Pervasive developmental disorder
+tumor necrosis factor	36613969	Sadek B	Pervasive developmental disorder
+erythropoietin	36567653	Haratizadeh S	Pervasive developmental disorder
+erythropoietin	36567653	Ranjbar M	Pervasive developmental disorder
+erythropoietin	36567653	Darvishzadeh-Mahani F	Pervasive developmental disorder
+erythropoietin	36567653	Basiri M	Pervasive developmental disorder
+erythropoietin	36567653	Nozari M	Pervasive developmental disorder
+syntaxin 1A	36564538	Luppe J	Pervasive developmental disorder
+syntaxin 1A	36564538	Sticht H	Pervasive developmental disorder
+syntaxin 1A	36564538	Lecoquierre F	Pervasive developmental disorder
+syntaxin 1A	36564538	Goldenberg A	Pervasive developmental disorder
+syntaxin 1A	36564538	Gorman KM	Pervasive developmental disorder
+syntaxin 1A	36564538	Molloy B	Pervasive developmental disorder
+syntaxin 1A	36564538	Agolini E	Pervasive developmental disorder
+syntaxin 1A	36564538	Novelli A	Pervasive developmental disorder
+syntaxin 1A	36564538	Briuglia S	Pervasive developmental disorder
+syntaxin 1A	36564538	Kuismin O	Pervasive developmental disorder
+syntaxin 1A	36564538	Marcelis C	Pervasive developmental disorder
+syntaxin 1A	36564538	Vitobello A	Pervasive developmental disorder
+syntaxin 1A	36564538	Denomme-Pichon AS	Pervasive developmental disorder
+syntaxin 1A	36564538	Julia S	Pervasive developmental disorder
+syntaxin 1A	36564538	Lemke JR	Pervasive developmental disorder
+syntaxin 1A	36564538	Abou Jamra R	Pervasive developmental disorder
+syntaxin 1A	36564538	Platzer K	Pervasive developmental disorder
+fragile X messenger ribonucleoprotein 1	36553666	Aishworiya R	Pervasive developmental disorder
+fragile X messenger ribonucleoprotein 1	36553666	Protic D	Pervasive developmental disorder
+fragile X messenger ribonucleoprotein 1	36553666	Tang SJ	Pervasive developmental disorder
+fragile X messenger ribonucleoprotein 1	36553666	Schneider A	Pervasive developmental disorder
+fragile X messenger ribonucleoprotein 1	36553666	Tassone F	Pervasive developmental disorder
+fragile X messenger ribonucleoprotein 1	36553666	Hagerman R	Pervasive developmental disorder
+heterogeneous nuclear ribonucleoprotein L	36537238	Kerschbamer E	Pervasive developmental disorder
+heterogeneous nuclear ribonucleoprotein L	36537238	Arnoldi M	Pervasive developmental disorder
+heterogeneous nuclear ribonucleoprotein L	36537238	Tripathi T	Pervasive developmental disorder
+heterogeneous nuclear ribonucleoprotein L	36537238	Pellegrini M	Pervasive developmental disorder
+heterogeneous nuclear ribonucleoprotein L	36537238	Maturi S	Pervasive developmental disorder
+heterogeneous nuclear ribonucleoprotein L	36537238	Erdin S	Pervasive developmental disorder
+heterogeneous nuclear ribonucleoprotein L	36537238	Salviato E	Pervasive developmental disorder
+heterogeneous nuclear ribonucleoprotein L	36537238	Di Leva F	Pervasive developmental disorder
+heterogeneous nuclear ribonucleoprotein L	36537238	Sebestyen E	Pervasive developmental disorder
+heterogeneous nuclear ribonucleoprotein L	36537238	Dassi E	Pervasive developmental disorder
+heterogeneous nuclear ribonucleoprotein L	36537238	Zarantonello G	Pervasive developmental disorder
+heterogeneous nuclear ribonucleoprotein L	36537238	Benelli M	Pervasive developmental disorder
+heterogeneous nuclear ribonucleoprotein L	36537238	Campos E	Pervasive developmental disorder
+heterogeneous nuclear ribonucleoprotein L	36537238	Basson MA	Pervasive developmental disorder
+heterogeneous nuclear ribonucleoprotein L	36537238	Gusella JF	Pervasive developmental disorder
+heterogeneous nuclear ribonucleoprotein L	36537238	Gustincich S	Pervasive developmental disorder
+heterogeneous nuclear ribonucleoprotein L	36537238	Piazza S	Pervasive developmental disorder
+heterogeneous nuclear ribonucleoprotein L	36537238	Demichelis F	Pervasive developmental disorder
+heterogeneous nuclear ribonucleoprotein L	36537238	Talkowski ME	Pervasive developmental disorder
+heterogeneous nuclear ribonucleoprotein L	36537238	Ferrari F	Pervasive developmental disorder
+heterogeneous nuclear ribonucleoprotein L	36537238	Biagioli M	Pervasive developmental disorder
+neuroligin 2	36479216	Zhang Z	Pervasive developmental disorder
+neuroligin 2	36479216	Hou M	Pervasive developmental disorder
+neuroligin 2	36479216	Ou H	Pervasive developmental disorder
+neuroligin 2	36479216	Wang D	Pervasive developmental disorder
+neuroligin 2	36479216	Li Z	Pervasive developmental disorder
+neuroligin 2	36479216	Zhang H	Pervasive developmental disorder
+neuroligin 2	36479216	Lu J	Pervasive developmental disorder
+neuroligin 3	36479216	Zhang Z	Pervasive developmental disorder
+neuroligin 3	36479216	Hou M	Pervasive developmental disorder
+neuroligin 3	36479216	Ou H	Pervasive developmental disorder
+neuroligin 3	36479216	Wang D	Pervasive developmental disorder
+neuroligin 3	36479216	Li Z	Pervasive developmental disorder
+neuroligin 3	36479216	Zhang H	Pervasive developmental disorder
+neuroligin 3	36479216	Lu J	Pervasive developmental disorder
+parvalbumin	36476879	Cao W	Pervasive developmental disorder
+parvalbumin	36476879	Li JH	Pervasive developmental disorder
+parvalbumin	36476879	Lin S	Pervasive developmental disorder
+parvalbumin	36476879	Xia QQ	Pervasive developmental disorder
+parvalbumin	36476879	Du YL	Pervasive developmental disorder
+parvalbumin	36476879	Yang Q	Pervasive developmental disorder
+parvalbumin	36476879	Ye YZ	Pervasive developmental disorder
+parvalbumin	36476879	Zeng LH	Pervasive developmental disorder
+parvalbumin	36476879	Li XY	Pervasive developmental disorder
+parvalbumin	36476879	Xu J	Pervasive developmental disorder
+parvalbumin	36476879	Luo JH	Pervasive developmental disorder
+neuroligin 3	36476879	Cao W	Pervasive developmental disorder
+neuroligin 3	36476879	Li JH	Pervasive developmental disorder
+neuroligin 3	36476879	Lin S	Pervasive developmental disorder
+neuroligin 3	36476879	Xia QQ	Pervasive developmental disorder
+neuroligin 3	36476879	Du YL	Pervasive developmental disorder
+neuroligin 3	36476879	Yang Q	Pervasive developmental disorder
+neuroligin 3	36476879	Ye YZ	Pervasive developmental disorder
+neuroligin 3	36476879	Zeng LH	Pervasive developmental disorder
+neuroligin 3	36476879	Li XY	Pervasive developmental disorder
+neuroligin 3	36476879	Xu J	Pervasive developmental disorder
+neuroligin 3	36476879	Luo JH	Pervasive developmental disorder
+tyrosine hydroxylase	36421705	Maisterrena A	Pervasive developmental disorder
+tyrosine hydroxylase	36421705	Matas E	Pervasive developmental disorder
+tyrosine hydroxylase	36421705	Mirfendereski H	Pervasive developmental disorder
+tyrosine hydroxylase	36421705	Balbous A	Pervasive developmental disorder
+tyrosine hydroxylase	36421705	Marchand S	Pervasive developmental disorder
+tyrosine hydroxylase	36421705	Jaber M	Pervasive developmental disorder
+parvalbumin	36421705	Maisterrena A	Pervasive developmental disorder
+parvalbumin	36421705	Matas E	Pervasive developmental disorder
+parvalbumin	36421705	Mirfendereski H	Pervasive developmental disorder
+parvalbumin	36421705	Balbous A	Pervasive developmental disorder
+parvalbumin	36421705	Marchand S	Pervasive developmental disorder
+parvalbumin	36421705	Jaber M	Pervasive developmental disorder
+interleukin 17A	36414133	Dutra ML	Pervasive developmental disorder
+interleukin 17A	36414133	Dias P	Pervasive developmental disorder
+interleukin 17A	36414133	Freiberger V	Pervasive developmental disorder
+interleukin 17A	36414133	Ventura L	Pervasive developmental disorder
+interleukin 17A	36414133	Comim CM	Pervasive developmental disorder
+interleukin 17A	36414133	Martins DF	Pervasive developmental disorder
+interleukin 17A	36414133	Bobinski F	Pervasive developmental disorder
+prolactin	36401485	Gai J	Pervasive developmental disorder
+prolactin	36401485	Xing J	Pervasive developmental disorder
+prolactin	36401485	Wang Y	Pervasive developmental disorder
+prolactin	36401485	Lei J	Pervasive developmental disorder
+prolactin	36401485	Zhang C	Pervasive developmental disorder
+prolactin	36401485	Zhang J	Pervasive developmental disorder
+prolactin	36401485	Tang J	Pervasive developmental disorder
+nerve growth factor	36398773	Filippova YY	Pervasive developmental disorder
+nerve growth factor	36398773	Devyatova EV	Pervasive developmental disorder
+nerve growth factor	36398773	Alekseeva AS	Pervasive developmental disorder
+nerve growth factor	36398773	Burmistrova AL	Pervasive developmental disorder
+somatostatin	36373424	Cumberland A	Pervasive developmental disorder
+somatostatin	36373424	Hale N	Pervasive developmental disorder
+somatostatin	36373424	Azhan A	Pervasive developmental disorder
+somatostatin	36373424	Gilchrist CP	Pervasive developmental disorder
+somatostatin	36373424	Chincarini G	Pervasive developmental disorder
+somatostatin	36373424	Tolcos M	Pervasive developmental disorder
+C-reactive protein	36364000	Nakhal MM	Pervasive developmental disorder
+C-reactive protein	36364000	Aburuz S	Pervasive developmental disorder
+C-reactive protein	36364000	Sadek B	Pervasive developmental disorder
+C-reactive protein	36364000	Akour A	Pervasive developmental disorder
+tumor necrosis factor	36364000	Nakhal MM	Pervasive developmental disorder
+tumor necrosis factor	36364000	Aburuz S	Pervasive developmental disorder
+tumor necrosis factor	36364000	Sadek B	Pervasive developmental disorder
+tumor necrosis factor	36364000	Akour A	Pervasive developmental disorder
+multiple sclerosis	36334596	Pellegrini C	Pervasive developmental disorder
+multiple sclerosis	36334596	Fornai M	Pervasive developmental disorder
+multiple sclerosis	36334596	D'Antongiovanni V	Pervasive developmental disorder
+multiple sclerosis	36334596	Antonioli L	Pervasive developmental disorder
+multiple sclerosis	36334596	Bernardini N	Pervasive developmental disorder
+multiple sclerosis	36334596	Derkinderen P	Pervasive developmental disorder
+neurofilament light chain	36326357	Paketci C	Pervasive developmental disorder
+neurofilament light chain	36326357	Ermis C	Pervasive developmental disorder
+neurofilament light chain	36326357	Sisman AR	Pervasive developmental disorder
+neurofilament light chain	36326357	Hiz S	Pervasive developmental disorder
+neurofilament light chain	36326357	Baykara B	Pervasive developmental disorder
+neurofilament light chain	36326357	Yis U	Pervasive developmental disorder
+dystrophin	36315559	Iskandar K	Pervasive developmental disorder
+dystrophin	36315559	Triono A	Pervasive developmental disorder
+dystrophin	36315559	Sunartini	Pervasive developmental disorder
+dystrophin	36315559	Dwianingsih EK	Pervasive developmental disorder
+dystrophin	36315559	Indraswari BW	Pervasive developmental disorder
+dystrophin	36315559	Kirana IR	Pervasive developmental disorder
+dystrophin	36315559	Ivana G	Pervasive developmental disorder
+dystrophin	36315559	Sutomo R	Pervasive developmental disorder
+dystrophin	36315559	Patria SY	Pervasive developmental disorder
+dystrophin	36315559	Herini ES	Pervasive developmental disorder
+dystrophin	36315559	Gunadi	Pervasive developmental disorder
+insulin	36310155	Zaki JK	Pervasive developmental disorder
+insulin	36310155	Lago SG	Pervasive developmental disorder
+insulin	36310155	Rustogi N	Pervasive developmental disorder
+insulin	36310155	Gangadin SS	Pervasive developmental disorder
+insulin	36310155	Benacek J	Pervasive developmental disorder
+insulin	36310155	van Rees GF	Pervasive developmental disorder
+insulin	36310155	Haenisch F	Pervasive developmental disorder
+insulin	36310155	Broek JA	Pervasive developmental disorder
+insulin	36310155	Suarez-Pinilla P	Pervasive developmental disorder
+insulin	36310155	Ruland T	Pervasive developmental disorder
+insulin	36310155	Auyeung B	Pervasive developmental disorder
+insulin	36310155	Mikova O	Pervasive developmental disorder
+insulin	36310155	Kabacs N	Pervasive developmental disorder
+insulin	36310155	Arolt V	Pervasive developmental disorder
+insulin	36310155	Baron-Cohen S	Pervasive developmental disorder
+insulin	36310155	Crespo-Facorro B	Pervasive developmental disorder
+insulin	36310155	Drexhage HA	Pervasive developmental disorder
+insulin	36310155	de Witte LD	Pervasive developmental disorder
+insulin	36310155	Kahn RS	Pervasive developmental disorder
+insulin	36310155	Sommer IE	Pervasive developmental disorder
+insulin	36310155	Bahn S	Pervasive developmental disorder
+insulin	36310155	Tomasik J	Pervasive developmental disorder
+glucagon	36307249	Bhalla S	Pervasive developmental disorder
+glucagon	36307249	Mehan S	Pervasive developmental disorder
+insulin	36307249	Bhalla S	Pervasive developmental disorder
+insulin	36307249	Mehan S	Pervasive developmental disorder
+interferon gamma	36300375	Majerczyk D	Pervasive developmental disorder
+interferon gamma	36300375	Ayad EG	Pervasive developmental disorder
+interferon gamma	36300375	Brewton KL	Pervasive developmental disorder
+interferon gamma	36300375	Saing P	Pervasive developmental disorder
+interferon gamma	36300375	Hart PC	Pervasive developmental disorder
+interleukin 6	36300375	Majerczyk D	Pervasive developmental disorder
+interleukin 6	36300375	Ayad EG	Pervasive developmental disorder
+interleukin 6	36300375	Brewton KL	Pervasive developmental disorder
+interleukin 6	36300375	Saing P	Pervasive developmental disorder
+interleukin 6	36300375	Hart PC	Pervasive developmental disorder
+insulin receptor	36291644	Svirin E	Pervasive developmental disorder
+insulin receptor	36291644	de Munter J	Pervasive developmental disorder
+insulin receptor	36291644	Umriukhin A	Pervasive developmental disorder
+insulin receptor	36291644	Sheveleva E	Pervasive developmental disorder
+insulin receptor	36291644	Kalueff AV	Pervasive developmental disorder
+insulin receptor	36291644	Svistunov A	Pervasive developmental disorder
+insulin receptor	36291644	Morozov S	Pervasive developmental disorder
+insulin receptor	36291644	Walitza S	Pervasive developmental disorder
+insulin receptor	36291644	Strekalova T	Pervasive developmental disorder
+adenylosuccinate lyase	36271826	Sitaram S	Pervasive developmental disorder
+adenylosuccinate lyase	36271826	Banka HC	Pervasive developmental disorder
+adenylosuccinate lyase	36271826	Vassallo G	Pervasive developmental disorder
+adenylosuccinate lyase	36271826	Pavaine J	Pervasive developmental disorder
+adenylosuccinate lyase	36271826	Fairclough A	Pervasive developmental disorder
+adenylosuccinate lyase	36271826	Wright R	Pervasive developmental disorder
+adenylosuccinate lyase	36271826	Fairbanks L	Pervasive developmental disorder
+adenylosuccinate lyase	36271826	Bierau J	Pervasive developmental disorder
+adenylosuccinate lyase	36271826	Bowden L	Pervasive developmental disorder
+adenylosuccinate lyase	36271826	Schwahn B	Pervasive developmental disorder
+adenylosuccinate lyase	36271826	Horman A	Pervasive developmental disorder
+adenylosuccinate lyase	36271826	Banka S	Pervasive developmental disorder
+Janus kinase 2	36267781	Wei RQ	Pervasive developmental disorder
+Janus kinase 2	36267781	Guo WL	Pervasive developmental disorder
+Janus kinase 2	36267781	Wu YT	Pervasive developmental disorder
+Janus kinase 2	36267781	Alarcon Rodriguez R	Pervasive developmental disorder
+Janus kinase 2	36267781	Requena Mullor MDM	Pervasive developmental disorder
+Janus kinase 2	36267781	Gui YC	Pervasive developmental disorder
+Janus kinase 2	36267781	Xu JW	Pervasive developmental disorder
+transferrin	36265207	DelRosso LM	Pervasive developmental disorder
+transferrin	36265207	Reuter-Yuill LM	Pervasive developmental disorder
+transferrin	36265207	Cho Y	Pervasive developmental disorder
+transferrin	36265207	Ferri R	Pervasive developmental disorder
+transferrin	36265207	Mogavero MP	Pervasive developmental disorder
+transferrin	36265207	Picchietti DL	Pervasive developmental disorder
+multiple sclerosis	36257595	Iannone LF	Pervasive developmental disorder
+multiple sclerosis	36257595	Gomez-Eguilaz M	Pervasive developmental disorder
+multiple sclerosis	36257595	De Caro C	Pervasive developmental disorder
+monoamine oxidase A	36243286	Syu GD	Pervasive developmental disorder
+monoamine oxidase A	36243286	Sutandy FXR	Pervasive developmental disorder
+monoamine oxidase A	36243286	Chen K	Pervasive developmental disorder
+monoamine oxidase A	36243286	Cheng Y	Pervasive developmental disorder
+monoamine oxidase A	36243286	Chen CS	Pervasive developmental disorder
+monoamine oxidase A	36243286	Shih JC	Pervasive developmental disorder
+arginine vasopressin	36239083	Zhou B	Pervasive developmental disorder
+arginine vasopressin	36239083	Yan X	Pervasive developmental disorder
+arginine vasopressin	36239083	Yang L	Pervasive developmental disorder
+arginine vasopressin	36239083	Zheng X	Pervasive developmental disorder
+arginine vasopressin	36239083	Chen Y	Pervasive developmental disorder
+arginine vasopressin	36239083	Liu Y	Pervasive developmental disorder
+arginine vasopressin	36239083	Ren Y	Pervasive developmental disorder
+arginine vasopressin	36239083	Peng J	Pervasive developmental disorder
+arginine vasopressin	36239083	Zhang Y	Pervasive developmental disorder
+arginine vasopressin	36239083	Huang J	Pervasive developmental disorder
+arginine vasopressin	36239083	Tang L	Pervasive developmental disorder
+arginine vasopressin	36239083	Wen M	Pervasive developmental disorder
+protein kinase C beta	36239013	Song X	Pervasive developmental disorder
+protein kinase C beta	36239013	Hu Q	Pervasive developmental disorder
+protein kinase C beta	36239013	Xu X	Pervasive developmental disorder
+protein kinase C beta	36239013	Pan W	Pervasive developmental disorder
+uncoupling protein 1	36239013	Song X	Pervasive developmental disorder
+uncoupling protein 1	36239013	Hu Q	Pervasive developmental disorder
+uncoupling protein 1	36239013	Xu X	Pervasive developmental disorder
+uncoupling protein 1	36239013	Pan W	Pervasive developmental disorder
+chromodomain helicase DNA binding protein 8	36222238	Coakley-Youngs E	Pervasive developmental disorder
+chromodomain helicase DNA binding protein 8	36222238	Ranatunga M	Pervasive developmental disorder
+chromodomain helicase DNA binding protein 8	36222238	Richardson S	Pervasive developmental disorder
+chromodomain helicase DNA binding protein 8	36222238	Getti G	Pervasive developmental disorder
+chromodomain helicase DNA binding protein 8	36222238	Shorter S	Pervasive developmental disorder
+chromodomain helicase DNA binding protein 8	36222238	Fivaz M	Pervasive developmental disorder
+myelin basic protein	36170102	Brusov OS	Pervasive developmental disorder
+myelin basic protein	36170102	Klyushnik TP	Pervasive developmental disorder
+myelin basic protein	36170102	Zozulya SA	Pervasive developmental disorder
+myelin basic protein	36170102	Karpova NS	Pervasive developmental disorder
+myelin basic protein	36170102	Shilov YE	Pervasive developmental disorder
+myelin basic protein	36170102	Nikitina SG	Pervasive developmental disorder
+myelin basic protein	36170102	Simashkova NV	Pervasive developmental disorder
+catalase	36154275	Anne A	Pervasive developmental disorder
+catalase	36154275	Saxena S	Pervasive developmental disorder
+catalase	36154275	Mohan KN	Pervasive developmental disorder
+dopamine beta-hydroxylase	36143905	Wongpaiboonwattana W	Pervasive developmental disorder
+dopamine beta-hydroxylase	36143905	Hnoonual A	Pervasive developmental disorder
+dopamine beta-hydroxylase	36143905	Limprasert P	Pervasive developmental disorder
+parvalbumin	36127322	Carey C	Pervasive developmental disorder
+parvalbumin	36127322	Singh N	Pervasive developmental disorder
+parvalbumin	36127322	Dunn JT	Pervasive developmental disorder
+parvalbumin	36127322	Sementa T	Pervasive developmental disorder
+parvalbumin	36127322	Mendez MA	Pervasive developmental disorder
+parvalbumin	36127322	Velthuis H	Pervasive developmental disorder
+parvalbumin	36127322	Pereira AC	Pervasive developmental disorder
+parvalbumin	36127322	Pretzsch CM	Pervasive developmental disorder
+parvalbumin	36127322	Horder J	Pervasive developmental disorder
+parvalbumin	36127322	Hader S	Pervasive developmental disorder
+parvalbumin	36127322	Lythgoe DJ	Pervasive developmental disorder
+parvalbumin	36127322	Rotaru DG	Pervasive developmental disorder
+parvalbumin	36127322	Gee A	Pervasive developmental disorder
+parvalbumin	36127322	Cash D	Pervasive developmental disorder
+parvalbumin	36127322	Veronese M	Pervasive developmental disorder
+parvalbumin	36127322	Murphy D	Pervasive developmental disorder
+parvalbumin	36127322	McAlonan G	Pervasive developmental disorder
+glutamate decarboxylase 1	36113682	Singla R	Pervasive developmental disorder
+glutamate decarboxylase 1	36113682	Mishra A	Pervasive developmental disorder
+glutamate decarboxylase 1	36113682	Joshi R	Pervasive developmental disorder
+glutamate decarboxylase 1	36113682	Sarma P	Pervasive developmental disorder
+glutamate decarboxylase 1	36113682	Kumar R	Pervasive developmental disorder
+glutamate decarboxylase 1	36113682	Kaur G	Pervasive developmental disorder
+glutamate decarboxylase 1	36113682	Sharma AR	Pervasive developmental disorder
+glutamate decarboxylase 1	36113682	Jain A	Pervasive developmental disorder
+glutamate decarboxylase 1	36113682	Prakash A	Pervasive developmental disorder
+glutamate decarboxylase 1	36113682	Bhatia A	Pervasive developmental disorder
+glutamate decarboxylase 1	36113682	Medhi B	Pervasive developmental disorder
+folate receptor alpha	36112150	Phunsawat P	Pervasive developmental disorder
+folate receptor alpha	36112150	Chiangjong W	Pervasive developmental disorder
+folate receptor alpha	36112150	Chutipongtanate S	Pervasive developmental disorder
+folate receptor alpha	36112150	Dumrongwongsiri O	Pervasive developmental disorder
+folate receptor alpha	36112150	Thommachot P	Pervasive developmental disorder
+folate receptor alpha	36112150	Butdawong W	Pervasive developmental disorder
+folate receptor alpha	36112150	Chuthapisith J	Pervasive developmental disorder
+reelin	36094739	Takashima K	Pervasive developmental disorder
+reelin	36094739	Okano H	Pervasive developmental disorder
+reelin	36094739	Ojiro R	Pervasive developmental disorder
+reelin	36094739	Tang Q	Pervasive developmental disorder
+reelin	36094739	Takahashi Y	Pervasive developmental disorder
+reelin	36094739	Ozawa S	Pervasive developmental disorder
+reelin	36094739	Zou X	Pervasive developmental disorder
+reelin	36094739	Koyanagi M	Pervasive developmental disorder
+reelin	36094739	Maronpot RR	Pervasive developmental disorder
+reelin	36094739	Yoshida T	Pervasive developmental disorder
+reelin	36094739	Shibutani M	Pervasive developmental disorder
+nuclear receptor subfamily 4 group A member 1	36059036	Zhang Y	Pervasive developmental disorder
+nuclear receptor subfamily 4 group A member 1	36059036	Pang Y	Pervasive developmental disorder
+nuclear receptor subfamily 4 group A member 1	36059036	Feng W	Pervasive developmental disorder
+nuclear receptor subfamily 4 group A member 1	36059036	Jin Y	Pervasive developmental disorder
+nuclear receptor subfamily 4 group A member 1	36059036	Chen S	Pervasive developmental disorder
+nuclear receptor subfamily 4 group A member 1	36059036	Ding S	Pervasive developmental disorder
+nuclear receptor subfamily 4 group A member 1	36059036	Wang Z	Pervasive developmental disorder
+nuclear receptor subfamily 4 group A member 1	36059036	Zou Y	Pervasive developmental disorder
+nuclear receptor subfamily 4 group A member 1	36059036	Li Y	Pervasive developmental disorder
+nuclear receptor subfamily 4 group A member 1	36059036	Wang T	Pervasive developmental disorder
+nuclear receptor subfamily 4 group A member 1	36059036	Sun P	Pervasive developmental disorder
+nuclear receptor subfamily 4 group A member 1	36059036	Gao J	Pervasive developmental disorder
+nuclear receptor subfamily 4 group A member 1	36059036	Zhu Y	Pervasive developmental disorder
+nuclear receptor subfamily 4 group A member 1	36059036	Ke X	Pervasive developmental disorder
+nuclear receptor subfamily 4 group A member 1	36059036	Marshall C	Pervasive developmental disorder
+nuclear receptor subfamily 4 group A member 1	36059036	Huang H	Pervasive developmental disorder
+nuclear receptor subfamily 4 group A member 1	36059036	Sheng C	Pervasive developmental disorder
+nuclear receptor subfamily 4 group A member 1	36059036	Xiao M	Pervasive developmental disorder
+arginine-glutamic acid dipeptide repeats	36053530	Niehaus AD	Pervasive developmental disorder
+arginine-glutamic acid dipeptide repeats	36053530	Kim J	Pervasive developmental disorder
+arginine-glutamic acid dipeptide repeats	36053530	Manning MA	Pervasive developmental disorder
+retinoic acid receptor alpha	36036133	Li LS	Pervasive developmental disorder
+retinoic acid receptor alpha	36036133	Zhang Q	Pervasive developmental disorder
+retinoic acid receptor alpha	36036133	Liu H	Pervasive developmental disorder
+retinoic acid receptor alpha	36036133	Wu QH	Pervasive developmental disorder
+retinoic acid receptor alpha	36036133	Yang T	Pervasive developmental disorder
+retinoic acid receptor alpha	36036133	Chen J	Pervasive developmental disorder
+retinoic acid receptor alpha	36036133	Li TY	Pervasive developmental disorder
+neurexin 1	36036133	Li LS	Pervasive developmental disorder
+neurexin 1	36036133	Zhang Q	Pervasive developmental disorder
+neurexin 1	36036133	Liu H	Pervasive developmental disorder
+neurexin 1	36036133	Wu QH	Pervasive developmental disorder
+neurexin 1	36036133	Yang T	Pervasive developmental disorder
+neurexin 1	36036133	Chen J	Pervasive developmental disorder
+neurexin 1	36036133	Li TY	Pervasive developmental disorder
+arginine vasopressin	35995237	Sen P	Pervasive developmental disorder
+arginine vasopressin	35995237	Sherwin E	Pervasive developmental disorder
+arginine vasopressin	35995237	Sandhu K	Pervasive developmental disorder
+arginine vasopressin	35995237	Bastiaanssen TFS	Pervasive developmental disorder
+arginine vasopressin	35995237	Moloney GM	Pervasive developmental disorder
+arginine vasopressin	35995237	Golubeva A	Pervasive developmental disorder
+arginine vasopressin	35995237	Fitzgerald P	Pervasive developmental disorder
+arginine vasopressin	35995237	Paula Ventura Da Silva A	Pervasive developmental disorder
+arginine vasopressin	35995237	Chruscicka-Smaga B	Pervasive developmental disorder
+arginine vasopressin	35995237	Olavarria-Ramirez L	Pervasive developmental disorder
+arginine vasopressin	35995237	Druelle C	Pervasive developmental disorder
+arginine vasopressin	35995237	Campos D	Pervasive developmental disorder
+arginine vasopressin	35995237	Jayaprakash P	Pervasive developmental disorder
+arginine vasopressin	35995237	Rea K	Pervasive developmental disorder
+arginine vasopressin	35995237	Jeffery IB	Pervasive developmental disorder
+arginine vasopressin	35995237	Savignac H	Pervasive developmental disorder
+arginine vasopressin	35995237	Chetal S	Pervasive developmental disorder
+arginine vasopressin	35995237	Mulder I	Pervasive developmental disorder
+arginine vasopressin	35995237	Schellekens H	Pervasive developmental disorder
+arginine vasopressin	35995237	Dinan TG	Pervasive developmental disorder
+arginine vasopressin	35995237	Cryan JF	Pervasive developmental disorder
+insulin	35962006	Robinson-Agramonte MLA	Pervasive developmental disorder
+insulin	35962006	Michalski B	Pervasive developmental disorder
+insulin	35962006	Vidal-Martinez B	Pervasive developmental disorder
+insulin	35962006	Hernandez LR	Pervasive developmental disorder
+insulin	35962006	Santiesteban MW	Pervasive developmental disorder
+insulin	35962006	Fahnestock M	Pervasive developmental disorder
+vitamin D receptor	35953654	Zhang Z	Pervasive developmental disorder
+vitamin D receptor	35953654	Liu J	Pervasive developmental disorder
+vitamin D receptor	35953654	Jiang G	Pervasive developmental disorder
+vitamin D receptor	35953654	Yu H	Pervasive developmental disorder
+multiple sclerosis	35944870	Kattner AA	Pervasive developmental disorder
+dopamine receptor D1	35941573	Sherman HT	Pervasive developmental disorder
+dopamine receptor D1	35941573	Liu K	Pervasive developmental disorder
+dopamine receptor D1	35941573	Kwong K	Pervasive developmental disorder
+dopamine receptor D1	35941573	Chan ST	Pervasive developmental disorder
+dopamine receptor D1	35941573	Li AC	Pervasive developmental disorder
+dopamine receptor D1	35941573	Kong XJ	Pervasive developmental disorder
+methylenetetrahydrofolate reductase	35929945	Xu S	Pervasive developmental disorder
+methylenetetrahydrofolate reductase	35929945	Men S	Pervasive developmental disorder
+methylenetetrahydrofolate reductase	35929945	Wang X	Pervasive developmental disorder
+methylenetetrahydrofolate reductase	35929945	Zhan F	Pervasive developmental disorder
+methylenetetrahydrofolate reductase	35929945	Yuan X	Pervasive developmental disorder
+D-aspartate oxidase	35915065	Lombardo B	Pervasive developmental disorder
+D-aspartate oxidase	35915065	Pagani M	Pervasive developmental disorder
+D-aspartate oxidase	35915065	De Rosa A	Pervasive developmental disorder
+D-aspartate oxidase	35915065	Nunziato M	Pervasive developmental disorder
+D-aspartate oxidase	35915065	Migliarini S	Pervasive developmental disorder
+D-aspartate oxidase	35915065	Garofalo M	Pervasive developmental disorder
+D-aspartate oxidase	35915065	Terrile M	Pervasive developmental disorder
+D-aspartate oxidase	35915065	D'Argenio V	Pervasive developmental disorder
+D-aspartate oxidase	35915065	Galbusera A	Pervasive developmental disorder
+D-aspartate oxidase	35915065	Nuzzo T	Pervasive developmental disorder
+D-aspartate oxidase	35915065	Ranieri A	Pervasive developmental disorder
+D-aspartate oxidase	35915065	Vitale A	Pervasive developmental disorder
+D-aspartate oxidase	35915065	Leggiero E	Pervasive developmental disorder
+D-aspartate oxidase	35915065	Di Maio A	Pervasive developmental disorder
+D-aspartate oxidase	35915065	Barsotti N	Pervasive developmental disorder
+D-aspartate oxidase	35915065	Borello U	Pervasive developmental disorder
+D-aspartate oxidase	35915065	Napolitano F	Pervasive developmental disorder
+D-aspartate oxidase	35915065	Mandarino A	Pervasive developmental disorder
+D-aspartate oxidase	35915065	Carotenuto M	Pervasive developmental disorder
+D-aspartate oxidase	35915065	Heresco-Levy U	Pervasive developmental disorder
+D-aspartate oxidase	35915065	Pasqualetti M	Pervasive developmental disorder
+D-aspartate oxidase	35915065	Malatesta P	Pervasive developmental disorder
+D-aspartate oxidase	35915065	Gozzi A	Pervasive developmental disorder
+D-aspartate oxidase	35915065	Errico F	Pervasive developmental disorder
+D-aspartate oxidase	35915065	Salvatore F	Pervasive developmental disorder
+D-aspartate oxidase	35915065	Pastore L	Pervasive developmental disorder
+D-aspartate oxidase	35915065	Usiello A	Pervasive developmental disorder
+oxytocin receptor	35908894	Takayama K	Pervasive developmental disorder
+oxytocin receptor	35908894	Tobori S	Pervasive developmental disorder
+oxytocin receptor	35908894	Andoh C	Pervasive developmental disorder
+oxytocin receptor	35908894	Kakae M	Pervasive developmental disorder
+oxytocin receptor	35908894	Hagiwara M	Pervasive developmental disorder
+oxytocin receptor	35908894	Nagayasu K	Pervasive developmental disorder
+oxytocin receptor	35908894	Shirakawa H	Pervasive developmental disorder
+oxytocin receptor	35908894	Ago Y	Pervasive developmental disorder
+oxytocin receptor	35908894	Kaneko S	Pervasive developmental disorder
+parvalbumin	35907861	Mueller FS	Pervasive developmental disorder
+parvalbumin	35907861	Amport R	Pervasive developmental disorder
+parvalbumin	35907861	Notter T	Pervasive developmental disorder
+parvalbumin	35907861	Schalbetter SM	Pervasive developmental disorder
+parvalbumin	35907861	Lin HY	Pervasive developmental disorder
+parvalbumin	35907861	Garajova Z	Pervasive developmental disorder
+parvalbumin	35907861	Amini P	Pervasive developmental disorder
+parvalbumin	35907861	Weber-Stadlbauer U	Pervasive developmental disorder
+parvalbumin	35907861	Markkanen E	Pervasive developmental disorder
+C-C motif chemokine ligand 3	35906621	Ishihara Y	Pervasive developmental disorder
+C-C motif chemokine ligand 3	35906621	Honda T	Pervasive developmental disorder
+C-C motif chemokine ligand 3	35906621	Ishihara N	Pervasive developmental disorder
+C-C motif chemokine ligand 3	35906621	Namba K	Pervasive developmental disorder
+C-C motif chemokine ligand 3	35906621	Taketoshi M	Pervasive developmental disorder
+C-C motif chemokine ligand 3	35906621	Tominaga Y	Pervasive developmental disorder
+C-C motif chemokine ligand 3	35906621	Tsuji M	Pervasive developmental disorder
+C-C motif chemokine ligand 3	35906621	Vogel CFA	Pervasive developmental disorder
+C-C motif chemokine ligand 3	35906621	Yamazaki T	Pervasive developmental disorder
+C-C motif chemokine ligand 3	35906621	Itoh K	Pervasive developmental disorder
+C-C motif chemokine ligand 3	35906621	Tominaga T	Pervasive developmental disorder
+nerve growth factor	35904498	Durankus F	Pervasive developmental disorder
+nerve growth factor	35904498	Albayrak Y	Pervasive developmental disorder
+nerve growth factor	35904498	Erdogan F	Pervasive developmental disorder
+nerve growth factor	35904498	Albayrak N	Pervasive developmental disorder
+nerve growth factor	35904498	Erdogan MA	Pervasive developmental disorder
+nerve growth factor	35904498	Erbas O	Pervasive developmental disorder
+insulin	35897673	Kummer S	Pervasive developmental disorder
+insulin	35897673	Rinne S	Pervasive developmental disorder
+insulin	35897673	Seemann G	Pervasive developmental disorder
+insulin	35897673	Bachmann N	Pervasive developmental disorder
+insulin	35897673	Timothy K	Pervasive developmental disorder
+insulin	35897673	Thornton PS	Pervasive developmental disorder
+insulin	35897673	Pillekamp F	Pervasive developmental disorder
+insulin	35897673	Mayatepek E	Pervasive developmental disorder
+insulin	35897673	Bergmann C	Pervasive developmental disorder
+insulin	35897673	Meissner T	Pervasive developmental disorder
+insulin	35897673	Decher N	Pervasive developmental disorder
+oxytocin receptor	35888641	Florea T	Pervasive developmental disorder
+oxytocin receptor	35888641	Palimariciuc M	Pervasive developmental disorder
+oxytocin receptor	35888641	Cristofor AC	Pervasive developmental disorder
+oxytocin receptor	35888641	Dobrin I	Pervasive developmental disorder
+oxytocin receptor	35888641	Chirita R	Pervasive developmental disorder
+oxytocin receptor	35888641	Birsan M	Pervasive developmental disorder
+oxytocin receptor	35888641	Dobrin RP	Pervasive developmental disorder
+oxytocin receptor	35888641	Padurariu M	Pervasive developmental disorder
+albumin	35883654	Jagadapillai R	Pervasive developmental disorder
+albumin	35883654	Qiu X	Pervasive developmental disorder
+albumin	35883654	Ojha K	Pervasive developmental disorder
+albumin	35883654	Li Z	Pervasive developmental disorder
+albumin	35883654	El-Baz A	Pervasive developmental disorder
+albumin	35883654	Zou S	Pervasive developmental disorder
+albumin	35883654	Gozal E	Pervasive developmental disorder
+albumin	35883654	Barnes GN	Pervasive developmental disorder
+C-reactive protein	35878480	Esnafoglu E	Pervasive developmental disorder
+C-reactive protein	35878480	Subasi B	Pervasive developmental disorder
+parvalbumin	35869039	Xiang L	Pervasive developmental disorder
+parvalbumin	35869039	Wu Q	Pervasive developmental disorder
+parvalbumin	35869039	Sun H	Pervasive developmental disorder
+parvalbumin	35869039	Miao X	Pervasive developmental disorder
+parvalbumin	35869039	Lv Z	Pervasive developmental disorder
+parvalbumin	35869039	Liu H	Pervasive developmental disorder
+parvalbumin	35869039	Chen L	Pervasive developmental disorder
+parvalbumin	35869039	Gu Y	Pervasive developmental disorder
+parvalbumin	35869039	Chen J	Pervasive developmental disorder
+parvalbumin	35869039	Zhou S	Pervasive developmental disorder
+parvalbumin	35869039	Jiang H	Pervasive developmental disorder
+parvalbumin	35869039	Du S	Pervasive developmental disorder
+parvalbumin	35869039	Zhou Y	Pervasive developmental disorder
+parvalbumin	35869039	Dong H	Pervasive developmental disorder
+parvalbumin	35869039	Fan Y	Pervasive developmental disorder
+parvalbumin	35869039	Miao S	Pervasive developmental disorder
+parvalbumin	35869039	Lu Q	Pervasive developmental disorder
+parvalbumin	35869039	Chang L	Pervasive developmental disorder
+parvalbumin	35869039	Wang H	Pervasive developmental disorder
+parvalbumin	35869039	Lu Y	Pervasive developmental disorder
+parvalbumin	35869039	Xu X	Pervasive developmental disorder
+parvalbumin	35869039	Wang W	Pervasive developmental disorder
+parvalbumin	35869039	Huang Z	Pervasive developmental disorder
+parvalbumin	tein (SARM1) is known as	AU não encontrado	Pervasive developmental disorder
+oxytocin receptor	35858098	Frehner SS	Pervasive developmental disorder
+oxytocin receptor	35858098	Dooley KT	Pervasive developmental disorder
+oxytocin receptor	35858098	Palumbo MC	Pervasive developmental disorder
+oxytocin receptor	35858098	Smith AL	Pervasive developmental disorder
+oxytocin receptor	35858098	Goodman MM	Pervasive developmental disorder
+oxytocin receptor	35858098	Bales KL	Pervasive developmental disorder
+oxytocin receptor	35858098	Freeman SM	Pervasive developmental disorder
+tyrosine hydroxylase	35858098	Frehner SS	Pervasive developmental disorder
+tyrosine hydroxylase	35858098	Dooley KT	Pervasive developmental disorder
+tyrosine hydroxylase	35858098	Palumbo MC	Pervasive developmental disorder
+tyrosine hydroxylase	35858098	Smith AL	Pervasive developmental disorder
+tyrosine hydroxylase	35858098	Goodman MM	Pervasive developmental disorder
+tyrosine hydroxylase	35858098	Bales KL	Pervasive developmental disorder
+tyrosine hydroxylase	35858098	Freeman SM	Pervasive developmental disorder
+gephyrin	35821032	Chu MC	Pervasive developmental disorder
+gephyrin	35821032	Wu HF	Pervasive developmental disorder
+gephyrin	35821032	Lee CW	Pervasive developmental disorder
+gephyrin	35821032	Chung YJ	Pervasive developmental disorder
+gephyrin	35821032	Chi H	Pervasive developmental disorder
+gephyrin	35821032	Chen PS	Pervasive developmental disorder
+gephyrin	35821032	Lin HC	Pervasive developmental disorder
+leptin	35809877	Mitchell AJ	Pervasive developmental disorder
+leptin	35809877	Khambadkone SG	Pervasive developmental disorder
+leptin	35809877	Dunn G	Pervasive developmental disorder
+leptin	35809877	Bagley J	Pervasive developmental disorder
+leptin	35809877	Tamashiro KLK	Pervasive developmental disorder
+leptin	35809877	Fair D	Pervasive developmental disorder
+leptin	35809877	Gustafsson H	Pervasive developmental disorder
+leptin	35809877	Sullivan EL	Pervasive developmental disorder
+leptin receptor	35809703	Zorn S	Pervasive developmental disorder
+leptin receptor	35809703	von Schnurbein J	Pervasive developmental disorder
+leptin receptor	35809703	Schirmer M	Pervasive developmental disorder
+leptin receptor	35809703	Brandt S	Pervasive developmental disorder
+leptin receptor	35809703	Wabitsch M	Pervasive developmental disorder
+parvalbumin	35768828	Kalinowska M	Pervasive developmental disorder
+parvalbumin	35768828	van der Lei MB	Pervasive developmental disorder
+parvalbumin	35768828	Kitiashvili M	Pervasive developmental disorder
+parvalbumin	35768828	Mamcarz M	Pervasive developmental disorder
+parvalbumin	35768828	Oliveira MM	Pervasive developmental disorder
+parvalbumin	35768828	Longo F	Pervasive developmental disorder
+parvalbumin	35768828	Klann E	Pervasive developmental disorder
+somatostatin	35768828	Kalinowska M	Pervasive developmental disorder
+somatostatin	35768828	van der Lei MB	Pervasive developmental disorder
+somatostatin	35768828	Kitiashvili M	Pervasive developmental disorder
+somatostatin	35768828	Mamcarz M	Pervasive developmental disorder
+somatostatin	35768828	Oliveira MM	Pervasive developmental disorder
+somatostatin	35768828	Longo F	Pervasive developmental disorder
+somatostatin	35768828	Klann E	Pervasive developmental disorder
+E1A binding protein p300	35697159	Liu X	Pervasive developmental disorder
+E1A binding protein p300	35697159	Wang Z	Pervasive developmental disorder
+E1A binding protein p300	35697159	Zhang X	Pervasive developmental disorder
+E1A binding protein p300	35697159	Zhang D	Pervasive developmental disorder
+E1A binding protein p300	35697159	Yang Q	Pervasive developmental disorder
+E1A binding protein p300	35697159	Hu P	Pervasive developmental disorder
+E1A binding protein p300	35697159	Li F	Pervasive developmental disorder
+cadherin 2	35697159	Liu X	Pervasive developmental disorder
+cadherin 2	35697159	Wang Z	Pervasive developmental disorder
+cadherin 2	35697159	Zhang X	Pervasive developmental disorder
+cadherin 2	35697159	Zhang D	Pervasive developmental disorder
+cadherin 2	35697159	Yang Q	Pervasive developmental disorder
+cadherin 2	35697159	Hu P	Pervasive developmental disorder
+cadherin 2	35697159	Li F	Pervasive developmental disorder
+myelin basic protein	35687217	Sharma A	Pervasive developmental disorder
+myelin basic protein	35687217	Bhalla S	Pervasive developmental disorder
+myelin basic protein	35687217	Mehan S	Pervasive developmental disorder
+multiple sclerosis	35682642	Tovo PA	Pervasive developmental disorder
+multiple sclerosis	35682642	Davico C	Pervasive developmental disorder
+multiple sclerosis	35682642	Marcotulli D	Pervasive developmental disorder
+multiple sclerosis	35682642	Vitiello B	Pervasive developmental disorder
+multiple sclerosis	35682642	Dapra V	Pervasive developmental disorder
+multiple sclerosis	35682642	Calvi C	Pervasive developmental disorder
+multiple sclerosis	35682642	Montanari P	Pervasive developmental disorder
+multiple sclerosis	35682642	Carpino A	Pervasive developmental disorder
+multiple sclerosis	35682642	Galliano I	Pervasive developmental disorder
+multiple sclerosis	35682642	Bergallo M	Pervasive developmental disorder
+nerve growth factor	35648200	Sivasangari K	Pervasive developmental disorder
+nerve growth factor	35648200	Rajan KE	Pervasive developmental disorder
+glial fibrillary acidic protein	35648200	Sivasangari K	Pervasive developmental disorder
+glial fibrillary acidic protein	35648200	Rajan KE	Pervasive developmental disorder
+proliferating cell nuclear antigen	35648200	Sivasangari K	Pervasive developmental disorder
+proliferating cell nuclear antigen	35648200	Rajan KE	Pervasive developmental disorder
+doublecortin	35618077	He Z	Pervasive developmental disorder
+tumor necrosis factor	35584252	Ozkul B	Pervasive developmental disorder
+tumor necrosis factor	35584252	Urfali FE	Pervasive developmental disorder
+tumor necrosis factor	35584252	Sever IH	Pervasive developmental disorder
+tumor necrosis factor	35584252	Bozkurt MF	Pervasive developmental disorder
+tumor necrosis factor	35584252	Sogut I	Pervasive developmental disorder
+tumor necrosis factor	35584252	Elgormus CS	Pervasive developmental disorder
+tumor necrosis factor	35584252	Erdogan MA	Pervasive developmental disorder
+tumor necrosis factor	35584252	Erbas O	Pervasive developmental disorder
+glial fibrillary acidic protein	35584252	Ozkul B	Pervasive developmental disorder
+glial fibrillary acidic protein	35584252	Urfali FE	Pervasive developmental disorder
+glial fibrillary acidic protein	35584252	Sever IH	Pervasive developmental disorder
+glial fibrillary acidic protein	35584252	Bozkurt MF	Pervasive developmental disorder
+glial fibrillary acidic protein	35584252	Sogut I	Pervasive developmental disorder
+glial fibrillary acidic protein	35584252	Elgormus CS	Pervasive developmental disorder
+glial fibrillary acidic protein	35584252	Erdogan MA	Pervasive developmental disorder
+glial fibrillary acidic protein	35584252	Erbas O	Pervasive developmental disorder
+cortactin	35562389	Shih PY	Pervasive developmental disorder
+cortactin	35562389	Fang YL	Pervasive developmental disorder
+cortactin	35562389	Shankar S	Pervasive developmental disorder
+cortactin	35562389	Lee SP	Pervasive developmental disorder
+cortactin	35562389	Hu HT	Pervasive developmental disorder
+cortactin	35562389	Chen H	Pervasive developmental disorder
+cortactin	35562389	Wang TF	Pervasive developmental disorder
+cortactin	35562389	Hsia KC	Pervasive developmental disorder
+cortactin	35562389	Hsueh YP	Pervasive developmental disorder
+parvalbumin	35544642	Yu D	Pervasive developmental disorder
+parvalbumin	35544642	Li T	Pervasive developmental disorder
+parvalbumin	35544642	Delpech JC	Pervasive developmental disorder
+parvalbumin	35544642	Zhu B	Pervasive developmental disorder
+parvalbumin	35544642	Kishore P	Pervasive developmental disorder
+parvalbumin	35544642	Koshi T	Pervasive developmental disorder
+parvalbumin	35544642	Luo R	Pervasive developmental disorder
+parvalbumin	35544642	Pratt KJB	Pervasive developmental disorder
+parvalbumin	35544642	Popova G	Pervasive developmental disorder
+parvalbumin	35544642	Nowakowski TJ	Pervasive developmental disorder
+parvalbumin	35544642	Villeda SA	Pervasive developmental disorder
+parvalbumin	35544642	Piao X	Pervasive developmental disorder
+tumor necrosis factor	35544642	Yu D	Pervasive developmental disorder
+tumor necrosis factor	35544642	Li T	Pervasive developmental disorder
+tumor necrosis factor	35544642	Delpech JC	Pervasive developmental disorder
+tumor necrosis factor	35544642	Zhu B	Pervasive developmental disorder
+tumor necrosis factor	35544642	Kishore P	Pervasive developmental disorder
+tumor necrosis factor	35544642	Koshi T	Pervasive developmental disorder
+tumor necrosis factor	35544642	Luo R	Pervasive developmental disorder
+tumor necrosis factor	35544642	Pratt KJB	Pervasive developmental disorder
+tumor necrosis factor	35544642	Popova G	Pervasive developmental disorder
+tumor necrosis factor	35544642	Nowakowski TJ	Pervasive developmental disorder
+tumor necrosis factor	35544642	Villeda SA	Pervasive developmental disorder
+tumor necrosis factor	35544642	Piao X	Pervasive developmental disorder
+insulin	35488357	Perea V	Pervasive developmental disorder
+insulin	35488357	Urquizu X	Pervasive developmental disorder
+insulin	35488357	Valverde M	Pervasive developmental disorder
+insulin	35488357	Macias M	Pervasive developmental disorder
+insulin	35488357	Carmona A	Pervasive developmental disorder
+insulin	35488357	Esteve E	Pervasive developmental disorder
+insulin	35488357	Escribano G	Pervasive developmental disorder
+insulin	35488357	Pons N	Pervasive developmental disorder
+insulin	35488357	Gimenez O	Pervasive developmental disorder
+insulin	35488357	Girones T	Pervasive developmental disorder
+insulin	35488357	Simo-Servat A	Pervasive developmental disorder
+insulin	35488357	Domenech A	Pervasive developmental disorder
+insulin	35488357	Alonso-Carril N	Pervasive developmental disorder
+insulin	35488357	Quiros C	Pervasive developmental disorder
+insulin	35488357	Amor AJ	Pervasive developmental disorder
+insulin	35488357	Lopez E	Pervasive developmental disorder
+insulin	35488357	Barahona MJ	Pervasive developmental disorder
+prolactin	35477330	Biswas M	Pervasive developmental disorder
+prolactin	35477330	Vanwong N	Pervasive developmental disorder
+prolactin	35477330	Sukasem C	Pervasive developmental disorder
+parvalbumin	35456893	Santos-Terra J	Pervasive developmental disorder
+parvalbumin	35456893	Deckmann I	Pervasive developmental disorder
+parvalbumin	35456893	Carello-Collar G	Pervasive developmental disorder
+parvalbumin	35456893	Nunes GD	Pervasive developmental disorder
+parvalbumin	35456893	Bauer-Negrini G	Pervasive developmental disorder
+parvalbumin	35456893	Schwingel GB	Pervasive developmental disorder
+parvalbumin	35456893	Fontes-Dutra M	Pervasive developmental disorder
+parvalbumin	35456893	Riesgo R	Pervasive developmental disorder
+parvalbumin	35456893	Gottfried C	Pervasive developmental disorder
+somatostatin	35456893	Santos-Terra J	Pervasive developmental disorder
+somatostatin	35456893	Deckmann I	Pervasive developmental disorder
+somatostatin	35456893	Carello-Collar G	Pervasive developmental disorder
+somatostatin	35456893	Nunes GD	Pervasive developmental disorder
+somatostatin	35456893	Bauer-Negrini G	Pervasive developmental disorder
+somatostatin	35456893	Schwingel GB	Pervasive developmental disorder
+somatostatin	35456893	Fontes-Dutra M	Pervasive developmental disorder
+somatostatin	35456893	Riesgo R	Pervasive developmental disorder
+somatostatin	35456893	Gottfried C	Pervasive developmental disorder
+beta-1,3-N-acetylgalactosaminyltransferase 2	35456500	D'haenens E	Pervasive developmental disorder
+beta-1,3-N-acetylgalactosaminyltransferase 2	35456500	Vergult S	Pervasive developmental disorder
+beta-1,3-N-acetylgalactosaminyltransferase 2	35456500	Menten B	Pervasive developmental disorder
+beta-1,3-N-acetylgalactosaminyltransferase 2	35456500	Dheedene A	Pervasive developmental disorder
+beta-1,3-N-acetylgalactosaminyltransferase 2	35456500	Kooy RF	Pervasive developmental disorder
+beta-1,3-N-acetylgalactosaminyltransferase 2	35456500	Callewaert B	Pervasive developmental disorder
+leptin	35456030	Westmark CJ	Pervasive developmental disorder
+leptin	35456030	Filon MJ	Pervasive developmental disorder
+leptin	35456030	Maina P	Pervasive developmental disorder
+leptin	35456030	Steinberg LI	Pervasive developmental disorder
+leptin	35456030	Ikonomidou C	Pervasive developmental disorder
+leptin	35456030	Westmark PR	Pervasive developmental disorder
+brain derived neurotrophic factor	35451422	Luhach K	Pervasive developmental disorder
+brain derived neurotrophic factor	35451422	Kulkarni GT	Pervasive developmental disorder
+brain derived neurotrophic factor	35451422	Singh VP	Pervasive developmental disorder
+brain derived neurotrophic factor	35451422	Sharma B	Pervasive developmental disorder
+tumor necrosis factor	35451422	Luhach K	Pervasive developmental disorder
+tumor necrosis factor	35451422	Kulkarni GT	Pervasive developmental disorder
+tumor necrosis factor	35451422	Singh VP	Pervasive developmental disorder
+tumor necrosis factor	35451422	Sharma B	Pervasive developmental disorder
+glutamate decarboxylase 2	35420879	Vazifekhah S	Pervasive developmental disorder
+glutamate decarboxylase 2	35420879	Barfi S	Pervasive developmental disorder
+glutamate decarboxylase 2	35420879	Soleimany F	Pervasive developmental disorder
+glutamate decarboxylase 2	35420879	Aliakbar A	Pervasive developmental disorder
+glutamate decarboxylase 2	35420879	Zavvari F	Pervasive developmental disorder
+glutamate decarboxylase 2	35420879	Karimzadeh F	Pervasive developmental disorder
+transferrin	35409689	De Giacomo A	Pervasive developmental disorder
+transferrin	35409689	Medicamento S	Pervasive developmental disorder
+transferrin	35409689	Pedaci C	Pervasive developmental disorder
+transferrin	35409689	Giambersio D	Pervasive developmental disorder
+transferrin	35409689	Giannico OV	Pervasive developmental disorder
+transferrin	35409689	Petruzzelli MG	Pervasive developmental disorder
+transferrin	35409689	Simone M	Pervasive developmental disorder
+transferrin	35409689	Corsalini M	Pervasive developmental disorder
+transferrin	35409689	Marzulli L	Pervasive developmental disorder
+transferrin	35409689	Matera E	Pervasive developmental disorder
+C-reactive protein	35393396	Brynge M	Pervasive developmental disorder
+C-reactive protein	35393396	Gardner R	Pervasive developmental disorder
+C-reactive protein	35393396	Sjoqvist H	Pervasive developmental disorder
+C-reactive protein	35393396	Karlsson H	Pervasive developmental disorder
+C-reactive protein	35393396	Dalman C	Pervasive developmental disorder
+oxytocin receptor	35384534	Imam B	Pervasive developmental disorder
+oxytocin receptor	35384534	Rahmatinia M	Pervasive developmental disorder
+oxytocin receptor	35384534	Shahsavani A	Pervasive developmental disorder
+oxytocin receptor	35384534	Khodagholi F	Pervasive developmental disorder
+oxytocin receptor	35384534	Hopke PK	Pervasive developmental disorder
+oxytocin receptor	35384534	Bazazzpour S	Pervasive developmental disorder
+oxytocin receptor	35384534	Hadei M	Pervasive developmental disorder
+oxytocin receptor	35384534	Yarahmadi M	Pervasive developmental disorder
+oxytocin receptor	35384534	Abdollahifar MA	Pervasive developmental disorder
+oxytocin receptor	35384534	Torkmahalleh MA	Pervasive developmental disorder
+oxytocin receptor	35384534	Kermani M	Pervasive developmental disorder
+oxytocin receptor	35384534	Ilkhani S	Pervasive developmental disorder
+oxytocin receptor	35384534	MirBehbahani SH	Pervasive developmental disorder
+interleukin 6	35384534	Imam B	Pervasive developmental disorder
+interleukin 6	35384534	Rahmatinia M	Pervasive developmental disorder
+interleukin 6	35384534	Shahsavani A	Pervasive developmental disorder
+interleukin 6	35384534	Khodagholi F	Pervasive developmental disorder
+interleukin 6	35384534	Hopke PK	Pervasive developmental disorder
+interleukin 6	35384534	Bazazzpour S	Pervasive developmental disorder
+interleukin 6	35384534	Hadei M	Pervasive developmental disorder
+interleukin 6	35384534	Yarahmadi M	Pervasive developmental disorder
+interleukin 6	35384534	Abdollahifar MA	Pervasive developmental disorder
+interleukin 6	35384534	Torkmahalleh MA	Pervasive developmental disorder
+interleukin 6	35384534	Kermani M	Pervasive developmental disorder
+interleukin 6	35384534	Ilkhani S	Pervasive developmental disorder
+interleukin 6	35384534	MirBehbahani SH	Pervasive developmental disorder
+tumor necrosis factor	35384534	Imam B	Pervasive developmental disorder
+tumor necrosis factor	35384534	Rahmatinia M	Pervasive developmental disorder
+tumor necrosis factor	35384534	Shahsavani A	Pervasive developmental disorder
+tumor necrosis factor	35384534	Khodagholi F	Pervasive developmental disorder
+tumor necrosis factor	35384534	Hopke PK	Pervasive developmental disorder
+tumor necrosis factor	35384534	Bazazzpour S	Pervasive developmental disorder
+tumor necrosis factor	35384534	Hadei M	Pervasive developmental disorder
+tumor necrosis factor	35384534	Yarahmadi M	Pervasive developmental disorder
+tumor necrosis factor	35384534	Abdollahifar MA	Pervasive developmental disorder
+tumor necrosis factor	35384534	Torkmahalleh MA	Pervasive developmental disorder
+tumor necrosis factor	35384534	Kermani M	Pervasive developmental disorder
+tumor necrosis factor	35384534	Ilkhani S	Pervasive developmental disorder
+tumor necrosis factor	35384534	MirBehbahani SH	Pervasive developmental disorder
+translocator protein	35383319	Simpson D	Pervasive developmental disorder
+translocator protein	35383319	Gharehgazlou A	Pervasive developmental disorder
+translocator protein	35383319	Da Silva T	Pervasive developmental disorder
+translocator protein	35383319	Labrie-Cleary C	Pervasive developmental disorder
+translocator protein	35383319	Wilson AA	Pervasive developmental disorder
+translocator protein	35383319	Meyer JH	Pervasive developmental disorder
+translocator protein	35383319	Mizrahi R	Pervasive developmental disorder
+translocator protein	35383319	Rusjan PM	Pervasive developmental disorder
+multiple sclerosis	35383319	Simpson D	Pervasive developmental disorder
+multiple sclerosis	35383319	Gharehgazlou A	Pervasive developmental disorder
+multiple sclerosis	35383319	Da Silva T	Pervasive developmental disorder
+multiple sclerosis	35383319	Labrie-Cleary C	Pervasive developmental disorder
+multiple sclerosis	35383319	Wilson AA	Pervasive developmental disorder
+multiple sclerosis	35383319	Meyer JH	Pervasive developmental disorder
+multiple sclerosis	35383319	Mizrahi R	Pervasive developmental disorder
+multiple sclerosis	35383319	Rusjan PM	Pervasive developmental disorder
+adenosine deaminase	35353796	Mpoulimari I	Pervasive developmental disorder
+adenosine deaminase	35353796	Zintzaras E	Pervasive developmental disorder
+solute carrier family 6 member 4	35353796	Mpoulimari I	Pervasive developmental disorder
+solute carrier family 6 member 4	35353796	Zintzaras E	Pervasive developmental disorder
+vitamin D receptor	35353796	Mpoulimari I	Pervasive developmental disorder
+vitamin D receptor	35353796	Zintzaras E	Pervasive developmental disorder
+dopamine receptor D3	35353796	Mpoulimari I	Pervasive developmental disorder
+dopamine receptor D3	35353796	Zintzaras E	Pervasive developmental disorder
+neurexin 1	35353796	Mpoulimari I	Pervasive developmental disorder
+neurexin 1	35353796	Zintzaras E	Pervasive developmental disorder
+oxytocin receptor	35353796	Mpoulimari I	Pervasive developmental disorder
+oxytocin receptor	35353796	Zintzaras E	Pervasive developmental disorder
+catalase	35346813	Abhishek M	Pervasive developmental disorder
+catalase	35346813	Rubal S	Pervasive developmental disorder
+catalase	35346813	Rohit K	Pervasive developmental disorder
+catalase	35346813	Rupa J	Pervasive developmental disorder
+catalase	35346813	Phulen S	Pervasive developmental disorder
+catalase	35346813	Gurjeet K	Pervasive developmental disorder
+catalase	35346813	Raj SA	Pervasive developmental disorder
+catalase	35346813	Manisha P	Pervasive developmental disorder
+catalase	35346813	Alka B	Pervasive developmental disorder
+catalase	35346813	Ramprasad P	Pervasive developmental disorder
+catalase	35346813	Bikash M	Pervasive developmental disorder
+phosphodiesterase 2A	35338117	Schiavi S	Pervasive developmental disorder
+phosphodiesterase 2A	35338117	Carbone E	Pervasive developmental disorder
+phosphodiesterase 2A	35338117	Melancia F	Pervasive developmental disorder
+phosphodiesterase 2A	35338117	di Masi A	Pervasive developmental disorder
+phosphodiesterase 2A	35338117	Jarjat M	Pervasive developmental disorder
+phosphodiesterase 2A	35338117	Brau F	Pervasive developmental disorder
+phosphodiesterase 2A	35338117	Cardarelli S	Pervasive developmental disorder
+phosphodiesterase 2A	35338117	Giorgi M	Pervasive developmental disorder
+phosphodiesterase 2A	35338117	Bardoni B	Pervasive developmental disorder
+phosphodiesterase 2A	35338117	Trezza V	Pervasive developmental disorder
+insulin	35328058	Cammarata-Scalisi F	Pervasive developmental disorder
+insulin	35328058	Callea M	Pervasive developmental disorder
+insulin	35328058	Martinelli D	Pervasive developmental disorder
+insulin	35328058	Willoughby CE	Pervasive developmental disorder
+insulin	35328058	Tadich AC	Pervasive developmental disorder
+insulin	35328058	Araya Castillo M	Pervasive developmental disorder
+insulin	35328058	Lacruz-Rengel MA	Pervasive developmental disorder
+insulin	35328058	Medina M	Pervasive developmental disorder
+insulin	35328058	Grimaldi P	Pervasive developmental disorder
+insulin	35328058	Bertini E	Pervasive developmental disorder
+insulin	35328058	Nevado J	Pervasive developmental disorder
+prosaposin	35318322	Wang L	Pervasive developmental disorder
+prosaposin	35318322	Chen J	Pervasive developmental disorder
+prosaposin	35318322	Hu Y	Pervasive developmental disorder
+prosaposin	35318322	Liao A	Pervasive developmental disorder
+prosaposin	35318322	Zheng W	Pervasive developmental disorder
+prosaposin	35318322	Wang X	Pervasive developmental disorder
+prosaposin	35318322	Lan J	Pervasive developmental disorder
+prosaposin	35318322	Shen J	Pervasive developmental disorder
+prosaposin	35318322	Wang S	Pervasive developmental disorder
+prosaposin	35318322	Yang F	Pervasive developmental disorder
+prosaposin	35318322	Wang Y	Pervasive developmental disorder
+prosaposin	35318322	Li Y	Pervasive developmental disorder
+prosaposin	35318322	Chen D	Pervasive developmental disorder
+oxytocin receptor	35316293	Al-Ali Z	Pervasive developmental disorder
+oxytocin receptor	35316293	Yasseen AA	Pervasive developmental disorder
+oxytocin receptor	35316293	Al-Dujailli A	Pervasive developmental disorder
+oxytocin receptor	35316293	Al-Karaqully AJ	Pervasive developmental disorder
+oxytocin receptor	35316293	McAllister KA	Pervasive developmental disorder
+oxytocin receptor	35316293	Jumaah AS	Pervasive developmental disorder
+catalase	35307911	Abbasalipour H	Pervasive developmental disorder
+catalase	35307911	Hajizadeh Moghaddam A	Pervasive developmental disorder
+catalase	35307911	Ranjbar M	Pervasive developmental disorder
+parvalbumin	35272296	Cristino LMF	Pervasive developmental disorder
+parvalbumin	35272296	Chaves Filho AJM	Pervasive developmental disorder
+parvalbumin	35272296	Custodio CS	Pervasive developmental disorder
+parvalbumin	35272296	Vasconcelos SMM	Pervasive developmental disorder
+parvalbumin	35272296	de Sousa FCF	Pervasive developmental disorder
+parvalbumin	35272296	Sanders LLO	Pervasive developmental disorder
+parvalbumin	35272296	de Lucena DF	Pervasive developmental disorder
+parvalbumin	35272296	Macedo DS	Pervasive developmental disorder
+superoxide dismutase 1	35266053	Ejlersen M	Pervasive developmental disorder
+superoxide dismutase 1	35266053	Ilieva M	Pervasive developmental disorder
+superoxide dismutase 1	35266053	Michel TM	Pervasive developmental disorder
+superoxide dismutase 2	35266053	Ejlersen M	Pervasive developmental disorder
+superoxide dismutase 2	35266053	Ilieva M	Pervasive developmental disorder
+superoxide dismutase 2	35266053	Michel TM	Pervasive developmental disorder
+tumor necrosis factor	35236262	Zhang Y	Pervasive developmental disorder
+tumor necrosis factor	35236262	Yin HY	Pervasive developmental disorder
+tumor necrosis factor	35236262	Rubini P	Pervasive developmental disorder
+tumor necrosis factor	35236262	Tang Y	Pervasive developmental disorder
+tumor necrosis factor	35236262	Illes P	Pervasive developmental disorder
+multiple sclerosis	35236262	Zhang Y	Pervasive developmental disorder
+multiple sclerosis	35236262	Yin HY	Pervasive developmental disorder
+multiple sclerosis	35236262	Rubini P	Pervasive developmental disorder
+multiple sclerosis	35236262	Tang Y	Pervasive developmental disorder
+multiple sclerosis	35236262	Illes P	Pervasive developmental disorder
+glutathione peroxidase 4	35227767	Wu H	Pervasive developmental disorder
+glutathione peroxidase 4	35227767	Luan Y	Pervasive developmental disorder
+glutathione peroxidase 4	35227767	Wang H	Pervasive developmental disorder
+glutathione peroxidase 4	35227767	Zhang P	Pervasive developmental disorder
+glutathione peroxidase 4	35227767	Liu S	Pervasive developmental disorder
+glutathione peroxidase 4	35227767	Wang P	Pervasive developmental disorder
+glutathione peroxidase 4	35227767	Cao Y	Pervasive developmental disorder
+glutathione peroxidase 4	35227767	Sun H	Pervasive developmental disorder
+glutathione peroxidase 4	35227767	Wu L	Pervasive developmental disorder
+SH3 and multiple ankyrin repeat domains 3	35216282	Hausman-Cohen S	Pervasive developmental disorder
+SH3 and multiple ankyrin repeat domains 3	35216282	LaValley W	Pervasive developmental disorder
+SH3 and multiple ankyrin repeat domains 3	35216282	Way H	Pervasive developmental disorder
+SH3 and multiple ankyrin repeat domains 3	35216282	Gutierrez E	Pervasive developmental disorder
+SH3 and multiple ankyrin repeat domains 3	35216282	Reeder J	Pervasive developmental disorder
+parvalbumin	35212623	Mattis J	Pervasive developmental disorder
+parvalbumin	35212623	Somarowthu A	Pervasive developmental disorder
+parvalbumin	35212623	Goff KM	Pervasive developmental disorder
+parvalbumin	35212623	Jiang E	Pervasive developmental disorder
+parvalbumin	35212623	Yom J	Pervasive developmental disorder
+parvalbumin	35212623	Sotuyo N	Pervasive developmental disorder
+parvalbumin	35212623	Mcgarry LM	Pervasive developmental disorder
+parvalbumin	35212623	Feng H	Pervasive developmental disorder
+parvalbumin	35212623	Kaneko K	Pervasive developmental disorder
+parvalbumin	35212623	Goldberg EM	Pervasive developmental disorder
+insulin	35209985	Li Z	Pervasive developmental disorder
+insulin	35209985	Xiao GY	Pervasive developmental disorder
+insulin	35209985	He CY	Pervasive developmental disorder
+insulin	35209985	Liu X	Pervasive developmental disorder
+insulin	35209985	Fan X	Pervasive developmental disorder
+insulin	35209985	Zhao Y	Pervasive developmental disorder
+insulin	35209985	Wang NR	Pervasive developmental disorder
+somatostatin	35182575	Cheng Y	Pervasive developmental disorder
+somatostatin	35182575	Tang B	Pervasive developmental disorder
+somatostatin	35182575	Zhang G	Pervasive developmental disorder
+somatostatin	35182575	An P	Pervasive developmental disorder
+somatostatin	35182575	Sun Y	Pervasive developmental disorder
+somatostatin	35182575	Gao M	Pervasive developmental disorder
+somatostatin	35182575	Zhang Y	Pervasive developmental disorder
+somatostatin	35182575	Shan Y	Pervasive developmental disorder
+somatostatin	35182575	Zhang J	Pervasive developmental disorder
+somatostatin	35182575	Liu Q	Pervasive developmental disorder
+somatostatin	35182575	Lai CSW	Pervasive developmental disorder
+somatostatin	35182575	de Villers-Sidani E	Pervasive developmental disorder
+somatostatin	35182575	Wang Y	Pervasive developmental disorder
+somatostatin	35182575	Zhou X	Pervasive developmental disorder
+synaptophysin	35178882	Kutna V	Pervasive developmental disorder
+synaptophysin	35178882	O'Leary VB	Pervasive developmental disorder
+synaptophysin	35178882	Hoschl C	Pervasive developmental disorder
+synaptophysin	35178882	Ovsepian SV	Pervasive developmental disorder
+insulin	35165256	Fanelli G	Pervasive developmental disorder
+insulin	35165256	Franke B	Pervasive developmental disorder
+insulin	35165256	De Witte W	Pervasive developmental disorder
+insulin	35165256	Ruisch IH	Pervasive developmental disorder
+insulin	35165256	Haavik J	Pervasive developmental disorder
+insulin	35165256	van Gils V	Pervasive developmental disorder
+insulin	35165256	Jansen WJ	Pervasive developmental disorder
+insulin	35165256	Vos SJB	Pervasive developmental disorder
+insulin	35165256	Lind L	Pervasive developmental disorder
+insulin	35165256	Buitelaar JK	Pervasive developmental disorder
+insulin	35165256	Banaschewski T	Pervasive developmental disorder
+insulin	35165256	Dalsgaard S	Pervasive developmental disorder
+insulin	35165256	Serretti A	Pervasive developmental disorder
+insulin	35165256	Mota NR	Pervasive developmental disorder
+insulin	35165256	Poelmans G	Pervasive developmental disorder
+insulin	35165256	Bralten J	Pervasive developmental disorder
+insulin receptor	35165256	Fanelli G	Pervasive developmental disorder
+insulin receptor	35165256	Franke B	Pervasive developmental disorder
+insulin receptor	35165256	De Witte W	Pervasive developmental disorder
+insulin receptor	35165256	Ruisch IH	Pervasive developmental disorder
+insulin receptor	35165256	Haavik J	Pervasive developmental disorder
+insulin receptor	35165256	van Gils V	Pervasive developmental disorder
+insulin receptor	35165256	Jansen WJ	Pervasive developmental disorder
+insulin receptor	35165256	Vos SJB	Pervasive developmental disorder
+insulin receptor	35165256	Lind L	Pervasive developmental disorder
+insulin receptor	35165256	Buitelaar JK	Pervasive developmental disorder
+insulin receptor	35165256	Banaschewski T	Pervasive developmental disorder
+insulin receptor	35165256	Dalsgaard S	Pervasive developmental disorder
+insulin receptor	35165256	Serretti A	Pervasive developmental disorder
+insulin receptor	35165256	Mota NR	Pervasive developmental disorder
+insulin receptor	35165256	Poelmans G	Pervasive developmental disorder
+insulin receptor	35165256	Bralten J	Pervasive developmental disorder
+superoxide dismutase 2	35165191	Wang J	Pervasive developmental disorder
+superoxide dismutase 2	35165191	Frohlich H	Pervasive developmental disorder
+superoxide dismutase 2	35165191	Torres FB	Pervasive developmental disorder
+superoxide dismutase 2	35165191	Silva RL	Pervasive developmental disorder
+superoxide dismutase 2	35165191	Poschet G	Pervasive developmental disorder
+superoxide dismutase 2	35165191	Agarwal A	Pervasive developmental disorder
+superoxide dismutase 2	35165191	Rappold GA	Pervasive developmental disorder
+oxytocin receptor	35149102	Kohlhoff J	Pervasive developmental disorder
+oxytocin receptor	35149102	Cibralic S	Pervasive developmental disorder
+oxytocin receptor	35149102	Hawes DJ	Pervasive developmental disorder
+oxytocin receptor	35149102	Eapen V	Pervasive developmental disorder
+insulin receptor	35142069	Hughes RB	Pervasive developmental disorder
+insulin receptor	35142069	Whittingham-Dowd J	Pervasive developmental disorder
+insulin receptor	35142069	Clapcote SJ	Pervasive developmental disorder
+insulin receptor	35142069	Broughton SJ	Pervasive developmental disorder
+insulin receptor	35142069	Dawson N	Pervasive developmental disorder
+plasminogen	35113965	Okazaki S	Pervasive developmental disorder
+plasminogen	35113965	Kimura R	Pervasive developmental disorder
+plasminogen	35113965	Otsuka I	Pervasive developmental disorder
+plasminogen	35113965	Funabiki Y	Pervasive developmental disorder
+plasminogen	35113965	Murai T	Pervasive developmental disorder
+plasminogen	35113965	Hishimoto A	Pervasive developmental disorder
+insulin	35093163	Sethuram S	Pervasive developmental disorder
+insulin	35093163	Levy T	Pervasive developmental disorder
+insulin	35093163	Foss-Feig J	Pervasive developmental disorder
+insulin	35093163	Halpern D	Pervasive developmental disorder
+insulin	35093163	Sandin S	Pervasive developmental disorder
+insulin	35093163	Siper PM	Pervasive developmental disorder
+insulin	35093163	Walker H	Pervasive developmental disorder
+insulin	35093163	Buxbaum JD	Pervasive developmental disorder
+insulin	35093163	Rapaport R	Pervasive developmental disorder
+insulin	35093163	Kolevzon A	Pervasive developmental disorder
+parvalbumin	35069123	Knipper M	Pervasive developmental disorder
+parvalbumin	35069123	Singer W	Pervasive developmental disorder
+parvalbumin	35069123	Schwabe K	Pervasive developmental disorder
+parvalbumin	35069123	Hagberg GE	Pervasive developmental disorder
+parvalbumin	35069123	Li Hegner Y	Pervasive developmental disorder
+parvalbumin	35069123	Ruttiger L	Pervasive developmental disorder
+parvalbumin	35069123	Braun C	Pervasive developmental disorder
+parvalbumin	35069123	Land R	Pervasive developmental disorder
+estrogen receptor 1	35065713	Knoedler JR	Pervasive developmental disorder
+estrogen receptor 1	35065713	Inoue S	Pervasive developmental disorder
+estrogen receptor 1	35065713	Bayless DW	Pervasive developmental disorder
+estrogen receptor 1	35065713	Yang T	Pervasive developmental disorder
+estrogen receptor 1	35065713	Tantry A	Pervasive developmental disorder
+estrogen receptor 1	35065713	Davis CH	Pervasive developmental disorder
+estrogen receptor 1	35065713	Leung NY	Pervasive developmental disorder
+estrogen receptor 1	35065713	Parthasarathy S	Pervasive developmental disorder
+estrogen receptor 1	35065713	Wang G	Pervasive developmental disorder
+estrogen receptor 1	35065713	Alvarado M	Pervasive developmental disorder
+estrogen receptor 1	35065713	Rizvi AH	Pervasive developmental disorder
+estrogen receptor 1	35065713	Fenno LE	Pervasive developmental disorder
+estrogen receptor 1	35065713	Ramakrishnan C	Pervasive developmental disorder
+estrogen receptor 1	35065713	Deisseroth K	Pervasive developmental disorder
+estrogen receptor 1	35065713	Shah NM	Pervasive developmental disorder
+nucleolin	35052391	Sheikh TI	Pervasive developmental disorder
+nucleolin	35052391	Harripaul R	Pervasive developmental disorder
+nucleolin	35052391	Vasli N	Pervasive developmental disorder
+nucleolin	35052391	Ghadami M	Pervasive developmental disorder
+nucleolin	35052391	Santangelo SL	Pervasive developmental disorder
+nucleolin	35052391	Ayub M	Pervasive developmental disorder
+nucleolin	35052391	Sasanfar R	Pervasive developmental disorder
+nucleolin	35052391	Vincent JB	Pervasive developmental disorder
+tumor necrosis factor	35047232	Alhakbany M	Pervasive developmental disorder
+tumor necrosis factor	35047232	Al-Ayadhi L	Pervasive developmental disorder
+tumor necrosis factor	35047232	El-Ansary A	Pervasive developmental disorder
+Gilles de la Tourette syndrome	35042017	Lin WD	Pervasive developmental disorder
+Gilles de la Tourette syndrome	35042017	Tsai FJ	Pervasive developmental disorder
+Gilles de la Tourette syndrome	35042017	Chou IC	Pervasive developmental disorder
+histidine decarboxylase	35042017	Lin WD	Pervasive developmental disorder
+histidine decarboxylase	35042017	Tsai FJ	Pervasive developmental disorder
+histidine decarboxylase	35042017	Chou IC	Pervasive developmental disorder
+superoxide dismutase 2	35027651	Yu H	Pervasive developmental disorder
+superoxide dismutase 2	35027651	Niu Y	Pervasive developmental disorder
+superoxide dismutase 2	35027651	Jia G	Pervasive developmental disorder
+superoxide dismutase 2	35027651	Liang Y	Pervasive developmental disorder
+superoxide dismutase 2	35027651	Chen B	Pervasive developmental disorder
+superoxide dismutase 2	35027651	Sun R	Pervasive developmental disorder
+superoxide dismutase 2	35027651	Wang M	Pervasive developmental disorder
+superoxide dismutase 2	35027651	Huang S	Pervasive developmental disorder
+superoxide dismutase 2	35027651	Zeng J	Pervasive developmental disorder
+superoxide dismutase 2	35027651	Lu J	Pervasive developmental disorder
+superoxide dismutase 2	35027651	Li L	Pervasive developmental disorder
+superoxide dismutase 2	35027651	Guo X	Pervasive developmental disorder
+superoxide dismutase 2	35027651	Yao P	Pervasive developmental disorder
+thioredoxin	35015875	Zhao P	Pervasive developmental disorder
+thioredoxin	35015875	Fu H	Pervasive developmental disorder
+thioredoxin	35015875	Cheng H	Pervasive developmental disorder
+thioredoxin	35015875	Zheng R	Pervasive developmental disorder
+thioredoxin	35015875	Yuan D	Pervasive developmental disorder
+thioredoxin	35015875	Yang J	Pervasive developmental disorder
+thioredoxin	35015875	Li S	Pervasive developmental disorder
+thioredoxin	35015875	Li E	Pervasive developmental disorder
+thioredoxin	35015875	Li L	Pervasive developmental disorder
+caspase 1	35015875	Zhao P	Pervasive developmental disorder
+caspase 1	35015875	Fu H	Pervasive developmental disorder
+caspase 1	35015875	Cheng H	Pervasive developmental disorder
+caspase 1	35015875	Zheng R	Pervasive developmental disorder
+caspase 1	35015875	Yuan D	Pervasive developmental disorder
+caspase 1	35015875	Yang J	Pervasive developmental disorder
+caspase 1	35015875	Li S	Pervasive developmental disorder
+caspase 1	35015875	Li E	Pervasive developmental disorder
+caspase 1	35015875	Li L	Pervasive developmental disorder
+adenylosuccinate lyase	34998670	Dewulf JP	Pervasive developmental disorder
+adenylosuccinate lyase	34998670	Marie S	Pervasive developmental disorder
+adenylosuccinate lyase	34998670	Nassogne MC	Pervasive developmental disorder
+glutathione peroxidase 1	34997988	Carducci F	Pervasive developmental disorder
+glutathione peroxidase 1	34997988	Ardiccioni C	Pervasive developmental disorder
+glutathione peroxidase 1	34997988	Fiorini R	Pervasive developmental disorder
+glutathione peroxidase 1	34997988	Vignini A	Pervasive developmental disorder
+glutathione peroxidase 1	34997988	Di Paolo A	Pervasive developmental disorder
+glutathione peroxidase 1	34997988	Alia S	Pervasive developmental disorder
+glutathione peroxidase 1	34997988	Barucca M	Pervasive developmental disorder
+glutathione peroxidase 1	34997988	Biscotti MA	Pervasive developmental disorder
+occludin	34988901	Nalbant K	Pervasive developmental disorder
+occludin	34988901	Erden S	Pervasive developmental disorder
+occludin	34988901	Yazar A	Pervasive developmental disorder
+occludin	34988901	Kilinc I	Pervasive developmental disorder
+oxytocin receptor	34980886	Meyer M	Pervasive developmental disorder
+oxytocin receptor	34980886	Jurek B	Pervasive developmental disorder
+oxytocin receptor	34980886	Alfonso-Prieto M	Pervasive developmental disorder
+oxytocin receptor	34980886	Ribeiro R	Pervasive developmental disorder
+oxytocin receptor	34980886	Milenkovic VM	Pervasive developmental disorder
+oxytocin receptor	34980886	Winter J	Pervasive developmental disorder
+oxytocin receptor	34980886	Hoffmann P	Pervasive developmental disorder
+oxytocin receptor	34980886	Wetzel CH	Pervasive developmental disorder
+oxytocin receptor	34980886	Giorgetti A	Pervasive developmental disorder
+oxytocin receptor	34980886	Carloni P	Pervasive developmental disorder
+oxytocin receptor	34980886	Neumann ID	Pervasive developmental disorder
+oxytocin receptor	34970101	Caliskan E	Pervasive developmental disorder
+oxytocin receptor	34970101	Sahin MN	Pervasive developmental disorder
+oxytocin receptor	34970101	Guldag MA	Pervasive developmental disorder
+renin	34959804	Ali A	Pervasive developmental disorder
+renin	34959804	Alexander S	Pervasive developmental disorder
+renin	34959804	Ko P	Pervasive developmental disorder
+renin	34959804	Cuffe JSM	Pervasive developmental disorder
+renin	34959804	Whitehouse AJO	Pervasive developmental disorder
+renin	34959804	McGrath JJ	Pervasive developmental disorder
+renin	34959804	Eyles D	Pervasive developmental disorder
+gephyrin	34851771	Qiu T	Pervasive developmental disorder
+gephyrin	34851771	Dai Q	Pervasive developmental disorder
+gephyrin	34851771	Wang Q	Pervasive developmental disorder
+parvalbumin	34848882	Contractor A	Pervasive developmental disorder
+parvalbumin	34848882	Ethell IM	Pervasive developmental disorder
+parvalbumin	34848882	Portera-Cailliau C	Pervasive developmental disorder
+neuroligin 3	34845591	Muellerleile J	Pervasive developmental disorder
+neuroligin 3	34845591	Vnencak M	Pervasive developmental disorder
+neuroligin 3	34845591	Ippolito A	Pervasive developmental disorder
+neuroligin 3	34845591	Krueger-Burg D	Pervasive developmental disorder
+neuroligin 3	34845591	Jungenitz T	Pervasive developmental disorder
+neuroligin 3	34845591	Schwarzacher SW	Pervasive developmental disorder
+neuroligin 3	34845591	Jedlicka P	Pervasive developmental disorder
+multiple sclerosis	34841782	Tang Q	Pervasive developmental disorder
+multiple sclerosis	34841782	Cao L	Pervasive developmental disorder
+caspase 3	34830376	Kang J	Pervasive developmental disorder
+caspase 3	34830376	Bishayee K	Pervasive developmental disorder
+caspase 3	34830376	Huh SO	Pervasive developmental disorder
+histone deacetylase 5	34822816	Rein B	Pervasive developmental disorder
+histone deacetylase 5	34822816	Conrow-Graham M	Pervasive developmental disorder
+histone deacetylase 5	34822816	Frazier A	Pervasive developmental disorder
+histone deacetylase 5	34822816	Cao Q	Pervasive developmental disorder
+histone deacetylase 5	34822816	Yan Z	Pervasive developmental disorder
+Gilles de la Tourette syndrome	34794811	Pedersen JH	Pervasive developmental disorder
+Gilles de la Tourette syndrome	34794811	Skytthe A	Pervasive developmental disorder
+Gilles de la Tourette syndrome	34794811	Bybjerg-Grauholm J	Pervasive developmental disorder
+Gilles de la Tourette syndrome	34794811	Kucukyildiz AS	Pervasive developmental disorder
+Gilles de la Tourette syndrome	34794811	Skov L	Pervasive developmental disorder
+Gilles de la Tourette syndrome	34794811	Debes NM	Pervasive developmental disorder
+Gilles de la Tourette syndrome	34794811	Tumer Z	Pervasive developmental disorder
+methylenetetrahydrofolate reductase	34792727	Saha S	Pervasive developmental disorder
+methylenetetrahydrofolate reductase	34792727	Saha T	Pervasive developmental disorder
+methylenetetrahydrofolate reductase	34792727	Rajamma U	Pervasive developmental disorder
+methylenetetrahydrofolate reductase	34792727	Sinha S	Pervasive developmental disorder
+methylenetetrahydrofolate reductase	34792727	Mukhopadhyay K	Pervasive developmental disorder
+fatty acid amide hydrolase	34775294	De Pol M	Pervasive developmental disorder
+fatty acid amide hydrolase	34775294	Kolla NJ	Pervasive developmental disorder
+parvalbumin	34758298	Paterno R	Pervasive developmental disorder
+parvalbumin	34758298	Marafiga JR	Pervasive developmental disorder
+parvalbumin	34758298	Ramsay H	Pervasive developmental disorder
+parvalbumin	34758298	Li T	Pervasive developmental disorder
+parvalbumin	34758298	Salvati KA	Pervasive developmental disorder
+parvalbumin	34758298	Baraban SC	Pervasive developmental disorder
+leucine rich glioma inactivated 1	34738360	Aslan C	Pervasive developmental disorder
+leucine rich glioma inactivated 1	34738360	Konuskan B	Pervasive developmental disorder
+leucine rich glioma inactivated 1	34738360	Sener B	Pervasive developmental disorder
+leucine rich glioma inactivated 1	34738360	Unal F	Pervasive developmental disorder
+gephyrin	34715405	Koganezawa N	Pervasive developmental disorder
+gephyrin	34715405	Hanamura K	Pervasive developmental disorder
+gephyrin	34715405	Schwark M	Pervasive developmental disorder
+gephyrin	34715405	Krueger-Burg D	Pervasive developmental disorder
+gephyrin	34715405	Kawabe H	Pervasive developmental disorder
+neuroligin 3	34715405	Koganezawa N	Pervasive developmental disorder
+neuroligin 3	34715405	Hanamura K	Pervasive developmental disorder
+neuroligin 3	34715405	Schwark M	Pervasive developmental disorder
+neuroligin 3	34715405	Krueger-Burg D	Pervasive developmental disorder
+neuroligin 3	34715405	Kawabe H	Pervasive developmental disorder
+amphiphysin	34689686	Bilgen Ulgar S	Pervasive developmental disorder
+amphiphysin	34689686	Ayaydin H	Pervasive developmental disorder
+amphiphysin	34689686	Celik H	Pervasive developmental disorder
+amphiphysin	34689686	Koyuncu I	Pervasive developmental disorder
+amphiphysin	34689686	Kirmit A	Pervasive developmental disorder
+Gilles de la Tourette syndrome	34687698	Bellato A	Pervasive developmental disorder
+Gilles de la Tourette syndrome	34687698	Norman L	Pervasive developmental disorder
+Gilles de la Tourette syndrome	34687698	Idrees I	Pervasive developmental disorder
+Gilles de la Tourette syndrome	34687698	Ogawa CY	Pervasive developmental disorder
+Gilles de la Tourette syndrome	34687698	Waitt A	Pervasive developmental disorder
+Gilles de la Tourette syndrome	34687698	Zuccolo PF	Pervasive developmental disorder
+Gilles de la Tourette syndrome	34687698	Tye C	Pervasive developmental disorder
+Gilles de la Tourette syndrome	34687698	Radua J	Pervasive developmental disorder
+Gilles de la Tourette syndrome	34687698	Groom MJ	Pervasive developmental disorder
+Gilles de la Tourette syndrome	34687698	Shephard E	Pervasive developmental disorder
+neuroplastin	34680901	Lin X	Pervasive developmental disorder
+neuroplastin	34680901	Liang Y	Pervasive developmental disorder
+neuroplastin	34680901	Herrera-Molina R	Pervasive developmental disorder
+neuroplastin	34680901	Montag D	Pervasive developmental disorder
+neuropilin 2	34663783	Eisenberg C	Pervasive developmental disorder
+neuropilin 2	34663783	Subramanian D	Pervasive developmental disorder
+neuropilin 2	34663783	Afrasiabi M	Pervasive developmental disorder
+neuropilin 2	34663783	Ziobro P	Pervasive developmental disorder
+neuropilin 2	34663783	DeLucia J	Pervasive developmental disorder
+neuropilin 2	34663783	Hirschberg PR	Pervasive developmental disorder
+neuropilin 2	34663783	Shiflett MW	Pervasive developmental disorder
+neuropilin 2	34663783	Santhakumar V	Pervasive developmental disorder
+neuropilin 2	34663783	Tran TS	Pervasive developmental disorder
+parvalbumin	34663783	Eisenberg C	Pervasive developmental disorder
+parvalbumin	34663783	Subramanian D	Pervasive developmental disorder
+parvalbumin	34663783	Afrasiabi M	Pervasive developmental disorder
+parvalbumin	34663783	Ziobro P	Pervasive developmental disorder
+parvalbumin	34663783	DeLucia J	Pervasive developmental disorder
+parvalbumin	34663783	Hirschberg PR	Pervasive developmental disorder
+parvalbumin	34663783	Shiflett MW	Pervasive developmental disorder
+parvalbumin	34663783	Santhakumar V	Pervasive developmental disorder
+parvalbumin	34663783	Tran TS	Pervasive developmental disorder
+somatostatin	34663783	Eisenberg C	Pervasive developmental disorder
+somatostatin	34663783	Subramanian D	Pervasive developmental disorder
+somatostatin	34663783	Afrasiabi M	Pervasive developmental disorder
+somatostatin	34663783	Ziobro P	Pervasive developmental disorder
+somatostatin	34663783	DeLucia J	Pervasive developmental disorder
+somatostatin	34663783	Hirschberg PR	Pervasive developmental disorder
+somatostatin	34663783	Shiflett MW	Pervasive developmental disorder
+somatostatin	34663783	Santhakumar V	Pervasive developmental disorder
+somatostatin	34663783	Tran TS	Pervasive developmental disorder
+neuropeptide Y	34663783	Eisenberg C	Pervasive developmental disorder
+neuropeptide Y	34663783	Subramanian D	Pervasive developmental disorder
+neuropeptide Y	34663783	Afrasiabi M	Pervasive developmental disorder
+neuropeptide Y	34663783	Ziobro P	Pervasive developmental disorder
+neuropeptide Y	34663783	DeLucia J	Pervasive developmental disorder
+neuropeptide Y	34663783	Hirschberg PR	Pervasive developmental disorder
+neuropeptide Y	34663783	Shiflett MW	Pervasive developmental disorder
+neuropeptide Y	34663783	Santhakumar V	Pervasive developmental disorder
+neuropeptide Y	34663783	Tran TS	Pervasive developmental disorder
+parvalbumin	34646371	Huang L	Pervasive developmental disorder
+parvalbumin	34646371	Wang J	Pervasive developmental disorder
+parvalbumin	34646371	Liang G	Pervasive developmental disorder
+parvalbumin	34646371	Gao Y	Pervasive developmental disorder
+parvalbumin	34646371	Jin SY	Pervasive developmental disorder
+parvalbumin	34646371	Hu J	Pervasive developmental disorder
+parvalbumin	34646371	Yang X	Pervasive developmental disorder
+parvalbumin	34646371	Lao J	Pervasive developmental disorder
+parvalbumin	34646371	Chen J	Pervasive developmental disorder
+parvalbumin	34646371	Luo ZC	Pervasive developmental disorder
+parvalbumin	34646371	Fan C	Pervasive developmental disorder
+parvalbumin	34646371	Xiong L	Pervasive developmental disorder
+parvalbumin	34646371	Zhu X	Pervasive developmental disorder
+parvalbumin	34646371	Gao TM	Pervasive developmental disorder
+parvalbumin	34646371	Zhong M	Pervasive developmental disorder
+glutamate metabotropic receptor 5	34566559	Liu C	Pervasive developmental disorder
+glutamate metabotropic receptor 5	34566559	Wang Y	Pervasive developmental disorder
+glutamate metabotropic receptor 5	34566559	Deng J	Pervasive developmental disorder
+glutamate metabotropic receptor 5	34566559	Lin J	Pervasive developmental disorder
+glutamate metabotropic receptor 5	34566559	Hu C	Pervasive developmental disorder
+glutamate metabotropic receptor 5	34566559	Li Q	Pervasive developmental disorder
+glutamate metabotropic receptor 5	34566559	Xu X	Pervasive developmental disorder
+insulin	34562183	Aljumaiah MM	Pervasive developmental disorder
+insulin	34562183	Alonazi MA	Pervasive developmental disorder
+insulin	34562183	Al-Dbass AM	Pervasive developmental disorder
+insulin	34562183	Almnaizel AT	Pervasive developmental disorder
+insulin	34562183	Alahmed M	Pervasive developmental disorder
+insulin	34562183	Soliman DA	Pervasive developmental disorder
+insulin	34562183	El-Ansary A	Pervasive developmental disorder
+neuroligin 3	34542148	Gatford NJF	Pervasive developmental disorder
+neuroligin 3	34542148	Deans PJM	Pervasive developmental disorder
+neuroligin 3	34542148	Duarte RRR	Pervasive developmental disorder
+neuroligin 3	34542148	Chennell G	Pervasive developmental disorder
+neuroligin 3	34542148	Sellers KJ	Pervasive developmental disorder
+neuroligin 3	34542148	Raval P	Pervasive developmental disorder
+neuroligin 3	34542148	Srivastava DP	Pervasive developmental disorder
+arginine vasopressin	34537624	Zhuang Q	Pervasive developmental disorder
+arginine vasopressin	34537624	Zheng X	Pervasive developmental disorder
+arginine vasopressin	34537624	Becker B	Pervasive developmental disorder
+arginine vasopressin	34537624	Lei W	Pervasive developmental disorder
+arginine vasopressin	34537624	Xu X	Pervasive developmental disorder
+arginine vasopressin	34537624	Kendrick KM	Pervasive developmental disorder
+catalase	34528217	Shilpa O	Pervasive developmental disorder
+catalase	34528217	Anupama KP	Pervasive developmental disorder
+catalase	34528217	Antony A	Pervasive developmental disorder
+catalase	34528217	Gurushankara HP	Pervasive developmental disorder
+apolipoprotein A1	34504056	Tierney E	Pervasive developmental disorder
+apolipoprotein A1	34504056	Remaley AT	Pervasive developmental disorder
+apolipoprotein A1	34504056	Thurm A	Pervasive developmental disorder
+apolipoprotein A1	34504056	Jager LR	Pervasive developmental disorder
+apolipoprotein A1	34504056	Wassif CA	Pervasive developmental disorder
+apolipoprotein A1	34504056	Kratz LE	Pervasive developmental disorder
+apolipoprotein A1	34504056	Bailey-Wilson JE	Pervasive developmental disorder
+apolipoprotein A1	34504056	Bukelis I	Pervasive developmental disorder
+apolipoprotein A1	34504056	Sarphare G	Pervasive developmental disorder
+apolipoprotein A1	34504056	Jung ES	Pervasive developmental disorder
+apolipoprotein A1	34504056	Brand B	Pervasive developmental disorder
+apolipoprotein A1	34504056	Noah KK	Pervasive developmental disorder
+apolipoprotein A1	34504056	Porter FD	Pervasive developmental disorder
+apolipoprotein B	34504056	Tierney E	Pervasive developmental disorder
+apolipoprotein B	34504056	Remaley AT	Pervasive developmental disorder
+apolipoprotein B	34504056	Thurm A	Pervasive developmental disorder
+apolipoprotein B	34504056	Jager LR	Pervasive developmental disorder
+apolipoprotein B	34504056	Wassif CA	Pervasive developmental disorder
+apolipoprotein B	34504056	Kratz LE	Pervasive developmental disorder
+apolipoprotein B	34504056	Bailey-Wilson JE	Pervasive developmental disorder
+apolipoprotein B	34504056	Bukelis I	Pervasive developmental disorder
+apolipoprotein B	34504056	Sarphare G	Pervasive developmental disorder
+apolipoprotein B	34504056	Jung ES	Pervasive developmental disorder
+apolipoprotein B	34504056	Brand B	Pervasive developmental disorder
+apolipoprotein B	34504056	Noah KK	Pervasive developmental disorder
+apolipoprotein B	34504056	Porter FD	Pervasive developmental disorder
+aryl hydrocarbon receptor	34502168	Dhulkifle H	Pervasive developmental disorder
+aryl hydrocarbon receptor	34502168	Agouni A	Pervasive developmental disorder
+aryl hydrocarbon receptor	34502168	Zeidan A	Pervasive developmental disorder
+aryl hydrocarbon receptor	34502168	Al-Kuwari MS	Pervasive developmental disorder
+aryl hydrocarbon receptor	34502168	Parray A	Pervasive developmental disorder
+aryl hydrocarbon receptor	34502168	Tolefat M	Pervasive developmental disorder
+aryl hydrocarbon receptor	34502168	Korashy HM	Pervasive developmental disorder
+insulin	34497307	Takanezawa Y	Pervasive developmental disorder
+insulin	34497307	Tanabe S	Pervasive developmental disorder
+insulin	34497307	Kato D	Pervasive developmental disorder
+insulin	34497307	Ozeki R	Pervasive developmental disorder
+insulin	34497307	Komoda M	Pervasive developmental disorder
+insulin	34497307	Suzuki T	Pervasive developmental disorder
+insulin	34497307	Baba H	Pervasive developmental disorder
+insulin	34497307	Muramatsu R	Pervasive developmental disorder
+erythropoietin	34465877	Rancken EJ	Pervasive developmental disorder
+erythropoietin	34465877	Metsaranta MPH	Pervasive developmental disorder
+erythropoietin	34465877	Gissler M	Pervasive developmental disorder
+erythropoietin	34465877	Rahkonen LK	Pervasive developmental disorder
+erythropoietin	34465877	Haataja LM	Pervasive developmental disorder
+folate receptor alpha	34440744	Hoxha B	Pervasive developmental disorder
+folate receptor alpha	34440744	Hoxha M	Pervasive developmental disorder
+folate receptor alpha	34440744	Domi E	Pervasive developmental disorder
+folate receptor alpha	34440744	Gervasoni J	Pervasive developmental disorder
+folate receptor alpha	34440744	Persichilli S	Pervasive developmental disorder
+folate receptor alpha	34440744	Malaj V	Pervasive developmental disorder
+folate receptor alpha	34440744	Zappacosta B	Pervasive developmental disorder
+parvalbumin	34439901	Burket JA	Pervasive developmental disorder
+parvalbumin	34439901	Webb JD	Pervasive developmental disorder
+parvalbumin	34439901	Deutsch SI	Pervasive developmental disorder
+plasminogen	34427356	Peteri UK	Pervasive developmental disorder
+plasminogen	34427356	Pitkonen J	Pervasive developmental disorder
+plasminogen	34427356	de Toma I	Pervasive developmental disorder
+plasminogen	34427356	Nieminen O	Pervasive developmental disorder
+plasminogen	34427356	Utami KH	Pervasive developmental disorder
+plasminogen	34427356	Strandin TM	Pervasive developmental disorder
+plasminogen	34427356	Corcoran P	Pervasive developmental disorder
+plasminogen	34427356	Roybon L	Pervasive developmental disorder
+plasminogen	34427356	Vaheri A	Pervasive developmental disorder
+plasminogen	34427356	Ethell I	Pervasive developmental disorder
+plasminogen	34427356	Casarotto P	Pervasive developmental disorder
+plasminogen	34427356	Pouladi MA	Pervasive developmental disorder
+plasminogen	34427356	Castren ML	Pervasive developmental disorder
+doublecortin	34415116	Luhach K	Pervasive developmental disorder
+doublecortin	34415116	Kulkarni GT	Pervasive developmental disorder
+doublecortin	34415116	Singh VP	Pervasive developmental disorder
+doublecortin	34415116	Sharma B	Pervasive developmental disorder
+synaptophysin	34384873	Gonzalez-Cano SI	Pervasive developmental disorder
+synaptophysin	34384873	Camacho-Abrego I	Pervasive developmental disorder
+synaptophysin	34384873	Diaz A	Pervasive developmental disorder
+synaptophysin	34384873	de la Cruz F	Pervasive developmental disorder
+synaptophysin	34384873	Morales-Medina JC	Pervasive developmental disorder
+synaptophysin	34384873	Flores G	Pervasive developmental disorder
+metallothionein 3	34384873	Gonzalez-Cano SI	Pervasive developmental disorder
+metallothionein 3	34384873	Camacho-Abrego I	Pervasive developmental disorder
+metallothionein 3	34384873	Diaz A	Pervasive developmental disorder
+metallothionein 3	34384873	de la Cruz F	Pervasive developmental disorder
+metallothionein 3	34384873	Morales-Medina JC	Pervasive developmental disorder
+metallothionein 3	34384873	Flores G	Pervasive developmental disorder
+tumor necrosis factor	34374213	Yamauchi T	Pervasive developmental disorder
+tumor necrosis factor	34374213	Makinodan M	Pervasive developmental disorder
+tumor necrosis factor	34374213	Toritsuka M	Pervasive developmental disorder
+tumor necrosis factor	34374213	Okumura K	Pervasive developmental disorder
+tumor necrosis factor	34374213	Kayashima Y	Pervasive developmental disorder
+tumor necrosis factor	34374213	Ishida R	Pervasive developmental disorder
+tumor necrosis factor	34374213	Kishimoto N	Pervasive developmental disorder
+tumor necrosis factor	34374213	Takahashi M	Pervasive developmental disorder
+tumor necrosis factor	34374213	Komori T	Pervasive developmental disorder
+tumor necrosis factor	34374213	Yamaguchi Y	Pervasive developmental disorder
+tumor necrosis factor	34374213	Takada R	Pervasive developmental disorder
+tumor necrosis factor	34374213	Yamamuro K	Pervasive developmental disorder
+tumor necrosis factor	34374213	Kimoto S	Pervasive developmental disorder
+tumor necrosis factor	34374213	Yasuda Y	Pervasive developmental disorder
+tumor necrosis factor	34374213	Hashimoto R	Pervasive developmental disorder
+tumor necrosis factor	34374213	Kishimoto T	Pervasive developmental disorder
+insulin	34357581	Crosswell AD	Pervasive developmental disorder
+insulin	34357581	Sagui-Henson S	Pervasive developmental disorder
+insulin	34357581	Prather AA	Pervasive developmental disorder
+insulin	34357581	Coccia M	Pervasive developmental disorder
+insulin	34357581	Irwin MR	Pervasive developmental disorder
+insulin	34357581	Epel ES	Pervasive developmental disorder
+neuroligin 1	34353896	Tian C	Pervasive developmental disorder
+neuroligin 1	34353896	Paskus JD	Pervasive developmental disorder
+neuroligin 1	34353896	Fingleton E	Pervasive developmental disorder
+neuroligin 1	34353896	Roche KW	Pervasive developmental disorder
+neuroligin 1	34353896	Herring BE	Pervasive developmental disorder
+parvalbumin	34347040	Deemyad T	Pervasive developmental disorder
+parvalbumin	34347040	Puig S	Pervasive developmental disorder
+parvalbumin	34347040	Papale AE	Pervasive developmental disorder
+parvalbumin	34347040	Qi H	Pervasive developmental disorder
+parvalbumin	34347040	LaRocca GM	Pervasive developmental disorder
+parvalbumin	34347040	Aravind D	Pervasive developmental disorder
+parvalbumin	34347040	LaNoce E	Pervasive developmental disorder
+parvalbumin	34347040	Urban NN	Pervasive developmental disorder
+somatostatin	34331907	Santos-Terra J	Pervasive developmental disorder
+somatostatin	34331907	Deckmann I	Pervasive developmental disorder
+somatostatin	34331907	Schwingel GB	Pervasive developmental disorder
+somatostatin	34331907	Paz AVC	Pervasive developmental disorder
+somatostatin	34331907	Gama CS	Pervasive developmental disorder
+somatostatin	34331907	Bambini-Junior V	Pervasive developmental disorder
+somatostatin	34331907	Fontes-Dutra M	Pervasive developmental disorder
+somatostatin	34331907	Gottfried C	Pervasive developmental disorder
+catalase	34298871	Jayaprakash P	Pervasive developmental disorder
+catalase	34298871	Isaev D	Pervasive developmental disorder
+catalase	34298871	Shabbir W	Pervasive developmental disorder
+catalase	34298871	Lorke DE	Pervasive developmental disorder
+catalase	34298871	Sadek B	Pervasive developmental disorder
+catalase	34298871	Oz M	Pervasive developmental disorder
+plasminogen	34291889	Bozkurt H	Pervasive developmental disorder
+plasminogen	34291889	Simsek S	Pervasive developmental disorder
+plasminogen	34291889	Sahin S	Pervasive developmental disorder
+oxytocin receptor	34290367	Bertoni A	Pervasive developmental disorder
+oxytocin receptor	34290367	Schaller F	Pervasive developmental disorder
+oxytocin receptor	34290367	Tyzio R	Pervasive developmental disorder
+oxytocin receptor	34290367	Gaillard S	Pervasive developmental disorder
+oxytocin receptor	34290367	Santini F	Pervasive developmental disorder
+oxytocin receptor	34290367	Xolin M	Pervasive developmental disorder
+oxytocin receptor	34290367	Diabira D	Pervasive developmental disorder
+oxytocin receptor	34290367	Vaidyanathan R	Pervasive developmental disorder
+oxytocin receptor	34290367	Matarazzo V	Pervasive developmental disorder
+oxytocin receptor	34290367	Medina I	Pervasive developmental disorder
+oxytocin receptor	34290367	Hammock E	Pervasive developmental disorder
+oxytocin receptor	34290367	Zhang J	Pervasive developmental disorder
+oxytocin receptor	34290367	Chini B	Pervasive developmental disorder
+oxytocin receptor	34290367	Gaiarsa JL	Pervasive developmental disorder
+oxytocin receptor	34290367	Muscatelli F	Pervasive developmental disorder
+somatostatin	34290367	Bertoni A	Pervasive developmental disorder
+somatostatin	34290367	Schaller F	Pervasive developmental disorder
+somatostatin	34290367	Tyzio R	Pervasive developmental disorder
+somatostatin	34290367	Gaillard S	Pervasive developmental disorder
+somatostatin	34290367	Santini F	Pervasive developmental disorder
+somatostatin	34290367	Xolin M	Pervasive developmental disorder
+somatostatin	34290367	Diabira D	Pervasive developmental disorder
+somatostatin	34290367	Vaidyanathan R	Pervasive developmental disorder
+somatostatin	34290367	Matarazzo V	Pervasive developmental disorder
+somatostatin	34290367	Medina I	Pervasive developmental disorder
+somatostatin	34290367	Hammock E	Pervasive developmental disorder
+somatostatin	34290367	Zhang J	Pervasive developmental disorder
+somatostatin	34290367	Chini B	Pervasive developmental disorder
+somatostatin	34290367	Gaiarsa JL	Pervasive developmental disorder
+somatostatin	34290367	Muscatelli F	Pervasive developmental disorder
+Aicardi syndrome	34269179	Yoshitomi S	Pervasive developmental disorder
+Aicardi syndrome	34269179	Hamano SI	Pervasive developmental disorder
+Aicardi syndrome	34269179	Hayashi M	Pervasive developmental disorder
+Aicardi syndrome	34269179	Sakuma H	Pervasive developmental disorder
+Aicardi syndrome	34269179	Hirose S	Pervasive developmental disorder
+Aicardi syndrome	34269179	Ishii A	Pervasive developmental disorder
+Aicardi syndrome	34269179	Honda R	Pervasive developmental disorder
+Aicardi syndrome	34269179	Ikeda A	Pervasive developmental disorder
+Aicardi syndrome	34269179	Imai K	Pervasive developmental disorder
+Aicardi syndrome	34269179	Jin K	Pervasive developmental disorder
+Aicardi syndrome	34269179	Kada A	Pervasive developmental disorder
+Aicardi syndrome	34269179	Kakita A	Pervasive developmental disorder
+Aicardi syndrome	34269179	Kato M	Pervasive developmental disorder
+Aicardi syndrome	34269179	Kawai K	Pervasive developmental disorder
+Aicardi syndrome	34269179	Kawakami T	Pervasive developmental disorder
+Aicardi syndrome	34269179	Kobayashi K	Pervasive developmental disorder
+Aicardi syndrome	34269179	Matsuishi T	Pervasive developmental disorder
+Aicardi syndrome	34269179	Matsuo T	Pervasive developmental disorder
+Aicardi syndrome	34269179	Nabatame S	Pervasive developmental disorder
+Aicardi syndrome	34269179	Okamoto N	Pervasive developmental disorder
+Aicardi syndrome	34269179	Ito S	Pervasive developmental disorder
+Aicardi syndrome	34269179	Okumura A	Pervasive developmental disorder
+Aicardi syndrome	34269179	Saito A	Pervasive developmental disorder
+Aicardi syndrome	34269179	Shiraishi H	Pervasive developmental disorder
+Aicardi syndrome	34269179	Shirozu H	Pervasive developmental disorder
+Aicardi syndrome	34269179	Saito T	Pervasive developmental disorder
+Aicardi syndrome	34269179	Sugano H	Pervasive developmental disorder
+Aicardi syndrome	34269179	Takahashi Y	Pervasive developmental disorder
+Aicardi syndrome	34269179	Yamamoto H	Pervasive developmental disorder
+Aicardi syndrome	34269179	Fukuyama T	Pervasive developmental disorder
+Aicardi syndrome	34269179	Kuki I	Pervasive developmental disorder
+Aicardi syndrome	34269179	Inoue Y	Pervasive developmental disorder
+neuroligin 3	34262438	Lai ESK	Pervasive developmental disorder
+neuroligin 3	34262438	Nakayama H	Pervasive developmental disorder
+neuroligin 3	34262438	Miyazaki T	Pervasive developmental disorder
+neuroligin 3	34262438	Nakazawa T	Pervasive developmental disorder
+neuroligin 3	34262438	Tabuchi K	Pervasive developmental disorder
+neuroligin 3	34262438	Hashimoto K	Pervasive developmental disorder
+neuroligin 3	34262438	Watanabe M	Pervasive developmental disorder
+neuroligin 3	34262438	Kano M	Pervasive developmental disorder
+chromodomain helicase DNA binding protein 8	34259569	Modafferi S	Pervasive developmental disorder
+chromodomain helicase DNA binding protein 8	34259569	Zhong X	Pervasive developmental disorder
+chromodomain helicase DNA binding protein 8	34259569	Kleensang A	Pervasive developmental disorder
+chromodomain helicase DNA binding protein 8	34259569	Murata Y	Pervasive developmental disorder
+chromodomain helicase DNA binding protein 8	34259569	Fagiani F	Pervasive developmental disorder
+chromodomain helicase DNA binding protein 8	34259569	Pamies D	Pervasive developmental disorder
+chromodomain helicase DNA binding protein 8	34259569	Hogberg HT	Pervasive developmental disorder
+chromodomain helicase DNA binding protein 8	34259569	Calabrese V	Pervasive developmental disorder
+chromodomain helicase DNA binding protein 8	34259569	Lachman H	Pervasive developmental disorder
+chromodomain helicase DNA binding protein 8	34259569	Hartung T	Pervasive developmental disorder
+chromodomain helicase DNA binding protein 8	34259569	Smirnova L	Pervasive developmental disorder
+arginine vasopressin	34238350	Oztan O	Pervasive developmental disorder
+arginine vasopressin	34238350	Talbot CF	Pervasive developmental disorder
+arginine vasopressin	34238350	Argilli E	Pervasive developmental disorder
+arginine vasopressin	34238350	Maness AC	Pervasive developmental disorder
+arginine vasopressin	34238350	Simmons SM	Pervasive developmental disorder
+arginine vasopressin	34238350	Mohsin N	Pervasive developmental disorder
+arginine vasopressin	34238350	Del Rosso LA	Pervasive developmental disorder
+arginine vasopressin	34238350	Garner JP	Pervasive developmental disorder
+arginine vasopressin	34238350	Sherr EH	Pervasive developmental disorder
+arginine vasopressin	34238350	Capitanio JP	Pervasive developmental disorder
+arginine vasopressin	34238350	Parker KJ	Pervasive developmental disorder
+nerve growth factor	34214954	Mostafa GA	Pervasive developmental disorder
+nerve growth factor	34214954	Meguid NA	Pervasive developmental disorder
+nerve growth factor	34214954	Shehab AAS	Pervasive developmental disorder
+nerve growth factor	34214954	Elsaeid A	Pervasive developmental disorder
+nerve growth factor	34214954	Maher M	Pervasive developmental disorder
+myelin basic protein	34214954	Mostafa GA	Pervasive developmental disorder
+myelin basic protein	34214954	Meguid NA	Pervasive developmental disorder
+myelin basic protein	34214954	Shehab AAS	Pervasive developmental disorder
+myelin basic protein	34214954	Elsaeid A	Pervasive developmental disorder
+myelin basic protein	34214954	Maher M	Pervasive developmental disorder
+multiple sclerosis	34196695	Hurley MJ	Pervasive developmental disorder
+multiple sclerosis	34196695	Deacon RMJ	Pervasive developmental disorder
+multiple sclerosis	34196695	Chan AWE	Pervasive developmental disorder
+multiple sclerosis	34196695	Baker D	Pervasive developmental disorder
+multiple sclerosis	34196695	Selwood DL	Pervasive developmental disorder
+multiple sclerosis	34196695	Cogram P	Pervasive developmental disorder
+aquaporin 4	34196408	Deckmann I	Pervasive developmental disorder
+aquaporin 4	34196408	Santos-Terra J	Pervasive developmental disorder
+aquaporin 4	34196408	Fontes-Dutra M	Pervasive developmental disorder
+aquaporin 4	34196408	Korbes-Rockenbach M	Pervasive developmental disorder
+aquaporin 4	34196408	Bauer-Negrini G	Pervasive developmental disorder
+aquaporin 4	34196408	Schwingel GB	Pervasive developmental disorder
+aquaporin 4	34196408	Riesgo R	Pervasive developmental disorder
+aquaporin 4	34196408	Bambini-Junior V	Pervasive developmental disorder
+aquaporin 4	34196408	Gottfried C	Pervasive developmental disorder
+glutamate decarboxylase 2	34145239	Miyoshi G	Pervasive developmental disorder
+glutamate decarboxylase 2	34145239	Ueta Y	Pervasive developmental disorder
+glutamate decarboxylase 2	34145239	Natsubori A	Pervasive developmental disorder
+glutamate decarboxylase 2	34145239	Hiraga K	Pervasive developmental disorder
+glutamate decarboxylase 2	34145239	Osaki H	Pervasive developmental disorder
+glutamate decarboxylase 2	34145239	Yagasaki Y	Pervasive developmental disorder
+glutamate decarboxylase 2	34145239	Kishi Y	Pervasive developmental disorder
+glutamate decarboxylase 2	34145239	Yanagawa Y	Pervasive developmental disorder
+glutamate decarboxylase 2	34145239	Fishell G	Pervasive developmental disorder
+glutamate decarboxylase 2	34145239	Machold RP	Pervasive developmental disorder
+glutamate decarboxylase 2	34145239	Miyata M	Pervasive developmental disorder
+beclin 1	34130600	Deneubourg C	Pervasive developmental disorder
+beclin 1	34130600	Ramm M	Pervasive developmental disorder
+beclin 1	34130600	Smith LJ	Pervasive developmental disorder
+beclin 1	34130600	Baron O	Pervasive developmental disorder
+beclin 1	34130600	Singh K	Pervasive developmental disorder
+beclin 1	34130600	Byrne SC	Pervasive developmental disorder
+beclin 1	34130600	Duchen MR	Pervasive developmental disorder
+beclin 1	34130600	Gautel M	Pervasive developmental disorder
+beclin 1	34130600	Eskelinen EL	Pervasive developmental disorder
+beclin 1	34130600	Fanto M	Pervasive developmental disorder
+beclin 1	34130600	Jungbluth H	Pervasive developmental disorder
+bridging integrator 1	34130600	Deneubourg C	Pervasive developmental disorder
+bridging integrator 1	34130600	Ramm M	Pervasive developmental disorder
+bridging integrator 1	34130600	Smith LJ	Pervasive developmental disorder
+bridging integrator 1	34130600	Baron O	Pervasive developmental disorder
+bridging integrator 1	34130600	Singh K	Pervasive developmental disorder
+bridging integrator 1	34130600	Byrne SC	Pervasive developmental disorder
+bridging integrator 1	34130600	Duchen MR	Pervasive developmental disorder
+bridging integrator 1	34130600	Gautel M	Pervasive developmental disorder
+bridging integrator 1	34130600	Eskelinen EL	Pervasive developmental disorder
+bridging integrator 1	34130600	Fanto M	Pervasive developmental disorder
+bridging integrator 1	34130600	Jungbluth H	Pervasive developmental disorder
+dynamin 2	34130600	Deneubourg C	Pervasive developmental disorder
+dynamin 2	34130600	Ramm M	Pervasive developmental disorder
+dynamin 2	34130600	Smith LJ	Pervasive developmental disorder
+dynamin 2	34130600	Baron O	Pervasive developmental disorder
+dynamin 2	34130600	Singh K	Pervasive developmental disorder
+dynamin 2	34130600	Byrne SC	Pervasive developmental disorder
+dynamin 2	34130600	Duchen MR	Pervasive developmental disorder
+dynamin 2	34130600	Gautel M	Pervasive developmental disorder
+dynamin 2	34130600	Eskelinen EL	Pervasive developmental disorder
+dynamin 2	34130600	Fanto M	Pervasive developmental disorder
+dynamin 2	34130600	Jungbluth H	Pervasive developmental disorder
+FIG4 phosphoinositide 5-phosphatase	34130600	Deneubourg C	Pervasive developmental disorder
+FIG4 phosphoinositide 5-phosphatase	34130600	Ramm M	Pervasive developmental disorder
+FIG4 phosphoinositide 5-phosphatase	34130600	Smith LJ	Pervasive developmental disorder
+FIG4 phosphoinositide 5-phosphatase	34130600	Baron O	Pervasive developmental disorder
+FIG4 phosphoinositide 5-phosphatase	34130600	Singh K	Pervasive developmental disorder
+FIG4 phosphoinositide 5-phosphatase	34130600	Byrne SC	Pervasive developmental disorder
+FIG4 phosphoinositide 5-phosphatase	34130600	Duchen MR	Pervasive developmental disorder
+FIG4 phosphoinositide 5-phosphatase	34130600	Gautel M	Pervasive developmental disorder
+FIG4 phosphoinositide 5-phosphatase	34130600	Eskelinen EL	Pervasive developmental disorder
+FIG4 phosphoinositide 5-phosphatase	34130600	Fanto M	Pervasive developmental disorder
+FIG4 phosphoinositide 5-phosphatase	34130600	Jungbluth H	Pervasive developmental disorder
+huntingtin	34130600	Deneubourg C	Pervasive developmental disorder
+huntingtin	34130600	Ramm M	Pervasive developmental disorder
+huntingtin	34130600	Smith LJ	Pervasive developmental disorder
+huntingtin	34130600	Baron O	Pervasive developmental disorder
+huntingtin	34130600	Singh K	Pervasive developmental disorder
+huntingtin	34130600	Byrne SC	Pervasive developmental disorder
+huntingtin	34130600	Duchen MR	Pervasive developmental disorder
+huntingtin	34130600	Gautel M	Pervasive developmental disorder
+huntingtin	34130600	Eskelinen EL	Pervasive developmental disorder
+huntingtin	34130600	Fanto M	Pervasive developmental disorder
+huntingtin	34130600	Jungbluth H	Pervasive developmental disorder
+myotubularin 1	34130600	Deneubourg C	Pervasive developmental disorder
+myotubularin 1	34130600	Ramm M	Pervasive developmental disorder
+myotubularin 1	34130600	Smith LJ	Pervasive developmental disorder
+myotubularin 1	34130600	Baron O	Pervasive developmental disorder
+myotubularin 1	34130600	Singh K	Pervasive developmental disorder
+myotubularin 1	34130600	Byrne SC	Pervasive developmental disorder
+myotubularin 1	34130600	Duchen MR	Pervasive developmental disorder
+myotubularin 1	34130600	Gautel M	Pervasive developmental disorder
+myotubularin 1	34130600	Eskelinen EL	Pervasive developmental disorder
+myotubularin 1	34130600	Fanto M	Pervasive developmental disorder
+myotubularin 1	34130600	Jungbluth H	Pervasive developmental disorder
+SPG11 vesicle trafficking associated, spatacsin	34130600	Deneubourg C	Pervasive developmental disorder
+SPG11 vesicle trafficking associated, spatacsin	34130600	Ramm M	Pervasive developmental disorder
+SPG11 vesicle trafficking associated, spatacsin	34130600	Smith LJ	Pervasive developmental disorder
+SPG11 vesicle trafficking associated, spatacsin	34130600	Baron O	Pervasive developmental disorder
+SPG11 vesicle trafficking associated, spatacsin	34130600	Singh K	Pervasive developmental disorder
+SPG11 vesicle trafficking associated, spatacsin	34130600	Byrne SC	Pervasive developmental disorder
+SPG11 vesicle trafficking associated, spatacsin	34130600	Duchen MR	Pervasive developmental disorder
+SPG11 vesicle trafficking associated, spatacsin	34130600	Gautel M	Pervasive developmental disorder
+SPG11 vesicle trafficking associated, spatacsin	34130600	Eskelinen EL	Pervasive developmental disorder
+SPG11 vesicle trafficking associated, spatacsin	34130600	Fanto M	Pervasive developmental disorder
+SPG11 vesicle trafficking associated, spatacsin	34130600	Jungbluth H	Pervasive developmental disorder
+sequestosome 1	34130600	Deneubourg C	Pervasive developmental disorder
+sequestosome 1	34130600	Ramm M	Pervasive developmental disorder
+sequestosome 1	34130600	Smith LJ	Pervasive developmental disorder
+sequestosome 1	34130600	Baron O	Pervasive developmental disorder
+sequestosome 1	34130600	Singh K	Pervasive developmental disorder
+sequestosome 1	34130600	Byrne SC	Pervasive developmental disorder
+sequestosome 1	34130600	Duchen MR	Pervasive developmental disorder
+sequestosome 1	34130600	Gautel M	Pervasive developmental disorder
+sequestosome 1	34130600	Eskelinen EL	Pervasive developmental disorder
+sequestosome 1	34130600	Fanto M	Pervasive developmental disorder
+sequestosome 1	34130600	Jungbluth H	Pervasive developmental disorder
+TBC1 domain family member 20	34130600	Deneubourg C	Pervasive developmental disorder
+TBC1 domain family member 20	34130600	Ramm M	Pervasive developmental disorder
+TBC1 domain family member 20	34130600	Smith LJ	Pervasive developmental disorder
+TBC1 domain family member 20	34130600	Baron O	Pervasive developmental disorder
+TBC1 domain family member 20	34130600	Singh K	Pervasive developmental disorder
+TBC1 domain family member 20	34130600	Byrne SC	Pervasive developmental disorder
+TBC1 domain family member 20	34130600	Duchen MR	Pervasive developmental disorder
+TBC1 domain family member 20	34130600	Gautel M	Pervasive developmental disorder
+TBC1 domain family member 20	34130600	Eskelinen EL	Pervasive developmental disorder
+TBC1 domain family member 20	34130600	Fanto M	Pervasive developmental disorder
+TBC1 domain family member 20	34130600	Jungbluth H	Pervasive developmental disorder
+TSC complex subunit 1	34130600	Deneubourg C	Pervasive developmental disorder
+TSC complex subunit 1	34130600	Ramm M	Pervasive developmental disorder
+TSC complex subunit 1	34130600	Smith LJ	Pervasive developmental disorder
+TSC complex subunit 1	34130600	Baron O	Pervasive developmental disorder
+TSC complex subunit 1	34130600	Singh K	Pervasive developmental disorder
+TSC complex subunit 1	34130600	Byrne SC	Pervasive developmental disorder
+TSC complex subunit 1	34130600	Duchen MR	Pervasive developmental disorder
+TSC complex subunit 1	34130600	Gautel M	Pervasive developmental disorder
+TSC complex subunit 1	34130600	Eskelinen EL	Pervasive developmental disorder
+TSC complex subunit 1	34130600	Fanto M	Pervasive developmental disorder
+TSC complex subunit 1	34130600	Jungbluth H	Pervasive developmental disorder
+ubiquilin 2	34130600	Deneubourg C	Pervasive developmental disorder
+ubiquilin 2	34130600	Ramm M	Pervasive developmental disorder
+ubiquilin 2	34130600	Smith LJ	Pervasive developmental disorder
+ubiquilin 2	34130600	Baron O	Pervasive developmental disorder
+ubiquilin 2	34130600	Singh K	Pervasive developmental disorder
+ubiquilin 2	34130600	Byrne SC	Pervasive developmental disorder
+ubiquilin 2	34130600	Duchen MR	Pervasive developmental disorder
+ubiquilin 2	34130600	Gautel M	Pervasive developmental disorder
+ubiquilin 2	34130600	Eskelinen EL	Pervasive developmental disorder
+ubiquilin 2	34130600	Fanto M	Pervasive developmental disorder
+ubiquilin 2	34130600	Jungbluth H	Pervasive developmental disorder
+vacuolar ATPase assembly factor VMA21	34130600	Deneubourg C	Pervasive developmental disorder
+vacuolar ATPase assembly factor VMA21	34130600	Ramm M	Pervasive developmental disorder
+vacuolar ATPase assembly factor VMA21	34130600	Smith LJ	Pervasive developmental disorder
+vacuolar ATPase assembly factor VMA21	34130600	Baron O	Pervasive developmental disorder
+vacuolar ATPase assembly factor VMA21	34130600	Singh K	Pervasive developmental disorder
+vacuolar ATPase assembly factor VMA21	34130600	Byrne SC	Pervasive developmental disorder
+vacuolar ATPase assembly factor VMA21	34130600	Duchen MR	Pervasive developmental disorder
+vacuolar ATPase assembly factor VMA21	34130600	Gautel M	Pervasive developmental disorder
+vacuolar ATPase assembly factor VMA21	34130600	Eskelinen EL	Pervasive developmental disorder
+vacuolar ATPase assembly factor VMA21	34130600	Fanto M	Pervasive developmental disorder
+vacuolar ATPase assembly factor VMA21	34130600	Jungbluth H	Pervasive developmental disorder
+WD repeat domain 45	34130600	Deneubourg C	Pervasive developmental disorder
+WD repeat domain 45	34130600	Ramm M	Pervasive developmental disorder
+WD repeat domain 45	34130600	Smith LJ	Pervasive developmental disorder
+WD repeat domain 45	34130600	Baron O	Pervasive developmental disorder
+WD repeat domain 45	34130600	Singh K	Pervasive developmental disorder
+WD repeat domain 45	34130600	Byrne SC	Pervasive developmental disorder
+WD repeat domain 45	34130600	Duchen MR	Pervasive developmental disorder
+WD repeat domain 45	34130600	Gautel M	Pervasive developmental disorder
+WD repeat domain 45	34130600	Eskelinen EL	Pervasive developmental disorder
+WD repeat domain 45	34130600	Fanto M	Pervasive developmental disorder
+WD repeat domain 45	34130600	Jungbluth H	Pervasive developmental disorder
+WD repeat domain 47	34130600	Deneubourg C	Pervasive developmental disorder
+WD repeat domain 47	34130600	Ramm M	Pervasive developmental disorder
+WD repeat domain 47	34130600	Smith LJ	Pervasive developmental disorder
+WD repeat domain 47	34130600	Baron O	Pervasive developmental disorder
+WD repeat domain 47	34130600	Singh K	Pervasive developmental disorder
+WD repeat domain 47	34130600	Byrne SC	Pervasive developmental disorder
+WD repeat domain 47	34130600	Duchen MR	Pervasive developmental disorder
+WD repeat domain 47	34130600	Gautel M	Pervasive developmental disorder
+WD repeat domain 47	34130600	Eskelinen EL	Pervasive developmental disorder
+WD repeat domain 47	34130600	Fanto M	Pervasive developmental disorder
+WD repeat domain 47	34130600	Jungbluth H	Pervasive developmental disorder
+sex hormone binding globulin	34108004	McKenna BG	Pervasive developmental disorder
+sex hormone binding globulin	34108004	Huang Y	Pervasive developmental disorder
+sex hormone binding globulin	34108004	Vervier K	Pervasive developmental disorder
+sex hormone binding globulin	34108004	Hofammann D	Pervasive developmental disorder
+sex hormone binding globulin	34108004	Cafferata M	Pervasive developmental disorder
+sex hormone binding globulin	34108004	Al-Momani S	Pervasive developmental disorder
+sex hormone binding globulin	34108004	Lowenthal F	Pervasive developmental disorder
+sex hormone binding globulin	34108004	Zhang A	Pervasive developmental disorder
+sex hormone binding globulin	34108004	Koh JY	Pervasive developmental disorder
+sex hormone binding globulin	34108004	Thenuwara S	Pervasive developmental disorder
+sex hormone binding globulin	34108004	Brueggeman L	Pervasive developmental disorder
+sex hormone binding globulin	34108004	Bahl E	Pervasive developmental disorder
+sex hormone binding globulin	34108004	Koomar T	Pervasive developmental disorder
+sex hormone binding globulin	34108004	Pottschmidt N	Pervasive developmental disorder
+sex hormone binding globulin	34108004	Kalmus T	Pervasive developmental disorder
+sex hormone binding globulin	34108004	Casten L	Pervasive developmental disorder
+sex hormone binding globulin	34108004	Thomas TR	Pervasive developmental disorder
+sex hormone binding globulin	34108004	Michaelson JJ	Pervasive developmental disorder
+FAT atypical cadherin 1	34100899	Frei JA	Pervasive developmental disorder
+FAT atypical cadherin 1	34100899	Brandenburg C	Pervasive developmental disorder
+FAT atypical cadherin 1	34100899	Nestor JE	Pervasive developmental disorder
+FAT atypical cadherin 1	34100899	Hodzic DM	Pervasive developmental disorder
+FAT atypical cadherin 1	34100899	Plachez C	Pervasive developmental disorder
+FAT atypical cadherin 1	34100899	McNeill H	Pervasive developmental disorder
+FAT atypical cadherin 1	34100899	Dykxhoorn DM	Pervasive developmental disorder
+FAT atypical cadherin 1	34100899	Nestor MW	Pervasive developmental disorder
+FAT atypical cadherin 1	34100899	Blatt GJ	Pervasive developmental disorder
+FAT atypical cadherin 1	34100899	Lin YC	Pervasive developmental disorder
+arginine vasopressin	34089305	Weiss A	Pervasive developmental disorder
+arginine vasopressin	34089305	Wilson VAD	Pervasive developmental disorder
+arginine vasopressin	34089305	Hopkins WD	Pervasive developmental disorder
+lysine demethylase 5C	34089235	Hatch HAM	Pervasive developmental disorder
+lysine demethylase 5C	34089235	O'Neil MH	Pervasive developmental disorder
+lysine demethylase 5C	34089235	Marion RW	Pervasive developmental disorder
+lysine demethylase 5C	34089235	Secombe J	Pervasive developmental disorder
+lysine demethylase 5C	34089235	Shulman LH	Pervasive developmental disorder
+neuroligin 3	34085373	Burrows EL	Pervasive developmental disorder
+neuroligin 3	34085373	May C	Pervasive developmental disorder
+neuroligin 3	34085373	Hill T	Pervasive developmental disorder
+neuroligin 3	34085373	Churliov L	Pervasive developmental disorder
+neuroligin 3	34085373	Johnson KA	Pervasive developmental disorder
+neuroligin 3	34085373	Hannan AJ	Pervasive developmental disorder
+epidermal growth factor	34062079	Tonhajzerova I	Pervasive developmental disorder
+epidermal growth factor	34062079	Ondrejka I	Pervasive developmental disorder
+epidermal growth factor	34062079	Ferencova N	Pervasive developmental disorder
+epidermal growth factor	34062079	Bujnakova I	Pervasive developmental disorder
+epidermal growth factor	34062079	Grendar M	Pervasive developmental disorder
+epidermal growth factor	34062079	Olexova LB	Pervasive developmental disorder
+epidermal growth factor	34062079	Hrtanek I	Pervasive developmental disorder
+epidermal growth factor	34062079	Visnovcova Z	Pervasive developmental disorder
+leptin	34050756	Joung KE	Pervasive developmental disorder
+leptin	34050756	Rifas-Shiman SL	Pervasive developmental disorder
+leptin	34050756	Oken E	Pervasive developmental disorder
+leptin	34050756	Mantzoros CS	Pervasive developmental disorder
+ezrin	34049799	Cheng C	Pervasive developmental disorder
+ezrin	34049799	Hou Y	Pervasive developmental disorder
+ezrin	34049799	Zhang Z	Pervasive developmental disorder
+ezrin	34049799	Wang Y	Pervasive developmental disorder
+ezrin	34049799	Lu L	Pervasive developmental disorder
+ezrin	34049799	Zhang L	Pervasive developmental disorder
+ezrin	34049799	Jiang P	Pervasive developmental disorder
+ezrin	34049799	Gao S	Pervasive developmental disorder
+ezrin	34049799	Fang Q	Pervasive developmental disorder
+ezrin	34049799	Zhu C	Pervasive developmental disorder
+ezrin	34049799	Gao J	Pervasive developmental disorder
+ezrin	34049799	Liu X	Pervasive developmental disorder
+ezrin	34049799	Xie W	Pervasive developmental disorder
+ezrin	34049799	Jia Z	Pervasive developmental disorder
+ezrin	34049799	Xu Z	Pervasive developmental disorder
+ezrin	34049799	Gao X	Pervasive developmental disorder
+ezrin	34049799	Chai R	Pervasive developmental disorder
+radixin	34049799	Cheng C	Pervasive developmental disorder
+radixin	34049799	Hou Y	Pervasive developmental disorder
+radixin	34049799	Zhang Z	Pervasive developmental disorder
+radixin	34049799	Wang Y	Pervasive developmental disorder
+radixin	34049799	Lu L	Pervasive developmental disorder
+radixin	34049799	Zhang L	Pervasive developmental disorder
+radixin	34049799	Jiang P	Pervasive developmental disorder
+radixin	34049799	Gao S	Pervasive developmental disorder
+radixin	34049799	Fang Q	Pervasive developmental disorder
+radixin	34049799	Zhu C	Pervasive developmental disorder
+radixin	34049799	Gao J	Pervasive developmental disorder
+radixin	34049799	Liu X	Pervasive developmental disorder
+radixin	34049799	Xie W	Pervasive developmental disorder
+radixin	34049799	Jia Z	Pervasive developmental disorder
+radixin	34049799	Xu Z	Pervasive developmental disorder
+radixin	34049799	Gao X	Pervasive developmental disorder
+radixin	34049799	Chai R	Pervasive developmental disorder
+moesin	34049799	Cheng C	Pervasive developmental disorder
+moesin	34049799	Hou Y	Pervasive developmental disorder
+moesin	34049799	Zhang Z	Pervasive developmental disorder
+moesin	34049799	Wang Y	Pervasive developmental disorder
+moesin	34049799	Lu L	Pervasive developmental disorder
+moesin	34049799	Zhang L	Pervasive developmental disorder
+moesin	34049799	Jiang P	Pervasive developmental disorder
+moesin	34049799	Gao S	Pervasive developmental disorder
+moesin	34049799	Fang Q	Pervasive developmental disorder
+moesin	34049799	Zhu C	Pervasive developmental disorder
+moesin	34049799	Gao J	Pervasive developmental disorder
+moesin	34049799	Liu X	Pervasive developmental disorder
+moesin	34049799	Xie W	Pervasive developmental disorder
+moesin	34049799	Jia Z	Pervasive developmental disorder
+moesin	34049799	Xu Z	Pervasive developmental disorder
+moesin	34049799	Gao X	Pervasive developmental disorder
+moesin	34049799	Chai R	Pervasive developmental disorder
+phosphatase and tensin homolog	34048873	Wang W	Pervasive developmental disorder
+phosphatase and tensin homolog	34048873	Tang J	Pervasive developmental disorder
+phosphatase and tensin homolog	34048873	Zhong M	Pervasive developmental disorder
+phosphatase and tensin homolog	34048873	Chen J	Pervasive developmental disorder
+phosphatase and tensin homolog	34048873	Li T	Pervasive developmental disorder
+phosphatase and tensin homolog	34048873	Dai Y	Pervasive developmental disorder
+glutamate ionotropic receptor AMPA type subunit 2	34048873	Wang W	Pervasive developmental disorder
+glutamate ionotropic receptor AMPA type subunit 2	34048873	Tang J	Pervasive developmental disorder
+glutamate ionotropic receptor AMPA type subunit 2	34048873	Zhong M	Pervasive developmental disorder
+glutamate ionotropic receptor AMPA type subunit 2	34048873	Chen J	Pervasive developmental disorder
+glutamate ionotropic receptor AMPA type subunit 2	34048873	Li T	Pervasive developmental disorder
+glutamate ionotropic receptor AMPA type subunit 2	34048873	Dai Y	Pervasive developmental disorder
+alpha-2-macroglobulin	34044209	Teskey G	Pervasive developmental disorder
+alpha-2-macroglobulin	34044209	Anagnostou E	Pervasive developmental disorder
+alpha-2-macroglobulin	34044209	Mankad D	Pervasive developmental disorder
+alpha-2-macroglobulin	34044209	Smile S	Pervasive developmental disorder
+alpha-2-macroglobulin	34044209	Roberts W	Pervasive developmental disorder
+alpha-2-macroglobulin	34044209	Brian J	Pervasive developmental disorder
+alpha-2-macroglobulin	34044209	Bowdish DME	Pervasive developmental disorder
+alpha-2-macroglobulin	34044209	Foster JA	Pervasive developmental disorder
+C-reactive protein	34044209	Teskey G	Pervasive developmental disorder
+C-reactive protein	34044209	Anagnostou E	Pervasive developmental disorder
+C-reactive protein	34044209	Mankad D	Pervasive developmental disorder
+C-reactive protein	34044209	Smile S	Pervasive developmental disorder
+C-reactive protein	34044209	Roberts W	Pervasive developmental disorder
+C-reactive protein	34044209	Brian J	Pervasive developmental disorder
+C-reactive protein	34044209	Bowdish DME	Pervasive developmental disorder
+C-reactive protein	34044209	Foster JA	Pervasive developmental disorder
+haptoglobin	34044209	Teskey G	Pervasive developmental disorder
+haptoglobin	34044209	Anagnostou E	Pervasive developmental disorder
+haptoglobin	34044209	Mankad D	Pervasive developmental disorder
+haptoglobin	34044209	Smile S	Pervasive developmental disorder
+haptoglobin	34044209	Roberts W	Pervasive developmental disorder
+haptoglobin	34044209	Brian J	Pervasive developmental disorder
+haptoglobin	34044209	Bowdish DME	Pervasive developmental disorder
+haptoglobin	34044209	Foster JA	Pervasive developmental disorder
+plasminogen	34044209	Teskey G	Pervasive developmental disorder
+plasminogen	34044209	Anagnostou E	Pervasive developmental disorder
+plasminogen	34044209	Mankad D	Pervasive developmental disorder
+plasminogen	34044209	Smile S	Pervasive developmental disorder
+plasminogen	34044209	Roberts W	Pervasive developmental disorder
+plasminogen	34044209	Brian J	Pervasive developmental disorder
+plasminogen	34044209	Bowdish DME	Pervasive developmental disorder
+plasminogen	34044209	Foster JA	Pervasive developmental disorder
+apolipoprotein E	34030059	Jannati A	Pervasive developmental disorder
+apolipoprotein E	34030059	Ryan MA	Pervasive developmental disorder
+apolipoprotein E	34030059	Block G	Pervasive developmental disorder
+apolipoprotein E	34030059	Kayarian FB	Pervasive developmental disorder
+apolipoprotein E	34030059	Oberman LM	Pervasive developmental disorder
+apolipoprotein E	34030059	Rotenberg A	Pervasive developmental disorder
+apolipoprotein E	34030059	Pascual-Leone A	Pervasive developmental disorder
+retinoic acid receptor alpha	33991534	Wang S	Pervasive developmental disorder
+retinoic acid receptor alpha	33991534	Liu H	Pervasive developmental disorder
+retinoic acid receptor alpha	33991534	Cheng B	Pervasive developmental disorder
+retinoic acid receptor alpha	33991534	Wu Q	Pervasive developmental disorder
+retinoic acid receptor alpha	33991534	Li L	Pervasive developmental disorder
+retinoic acid receptor alpha	33991534	Yang T	Pervasive developmental disorder
+retinoic acid receptor alpha	33991534	Hou N	Pervasive developmental disorder
+retinoic acid receptor alpha	33991534	Li T	Pervasive developmental disorder

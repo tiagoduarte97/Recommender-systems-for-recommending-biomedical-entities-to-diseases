@@ -1,0 +1,2052 @@
+Scott SR	Pervasive developmental disorder	leptin	3
+Millwood SN	Pervasive developmental disorder	leptin	3
+Manczak EM	Pervasive developmental disorder	leptin	3
+Scott SR	Pervasive developmental disorder	resistin	3
+Millwood SN	Pervasive developmental disorder	resistin	3
+Manczak EM	Pervasive developmental disorder	resistin	3
+Scott SR	Pervasive developmental disorder	apelin	3
+Millwood SN	Pervasive developmental disorder	apelin	3
+Manczak EM	Pervasive developmental disorder	apelin	3
+Zhang X	Pervasive developmental disorder	glutaminase	6
+Liu S	Pervasive developmental disorder	glutaminase	2
+Liu X	Pervasive developmental disorder	glutaminase	9
+Wang J	Pervasive developmental disorder	glutaminase	4
+Skorzynska-Dziduszko KE	Pervasive developmental disorder	leptin	1
+Makarewicz A	Pervasive developmental disorder	leptin	1
+Blazewicz A	Pervasive developmental disorder	leptin	1
+Zhang H	Pervasive developmental disorder	biotinidase	4
+Tang X	Pervasive developmental disorder	biotinidase	2
+Feng C	Pervasive developmental disorder	biotinidase	2
+Gao Y	Pervasive developmental disorder	biotinidase	3
+Hong Q	Pervasive developmental disorder	biotinidase	2
+Zhang J	Pervasive developmental disorder	biotinidase	6
+Zhang X	Pervasive developmental disorder	biotinidase	6
+Zheng Q	Pervasive developmental disorder	biotinidase	2
+Lin J	Pervasive developmental disorder	biotinidase	3
+Liu X	Pervasive developmental disorder	biotinidase	9
+Shen L	Pervasive developmental disorder	biotinidase	2
+Zhang H	Pervasive developmental disorder	insulin	4
+Tang X	Pervasive developmental disorder	insulin	2
+Feng C	Pervasive developmental disorder	insulin	2
+Gao Y	Pervasive developmental disorder	insulin	3
+Hong Q	Pervasive developmental disorder	insulin	2
+Zhang J	Pervasive developmental disorder	insulin	6
+Zhang X	Pervasive developmental disorder	insulin	6
+Zheng Q	Pervasive developmental disorder	insulin	2
+Lin J	Pervasive developmental disorder	insulin	3
+Liu X	Pervasive developmental disorder	insulin	9
+Shen L	Pervasive developmental disorder	insulin	2
+Morel C	Pervasive developmental disorder	oxytocin receptor	1
+Martinez Sanchez I	Pervasive developmental disorder	oxytocin receptor	1
+Cherifi Y	Pervasive developmental disorder	oxytocin receptor	1
+Chartrel N	Pervasive developmental disorder	oxytocin receptor	1
+Diaz Heijtz R	Pervasive developmental disorder	oxytocin receptor	1
+Backstrom F	Pervasive developmental disorder	interleukin 6	1
+Ahl M	Pervasive developmental disorder	interleukin 6	1
+Wickham J	Pervasive developmental disorder	interleukin 6	1
+Ekdahl CT	Pervasive developmental disorder	interleukin 6	1
+Zhang P	Pervasive developmental disorder	insulin	2
+Omanska A	Pervasive developmental disorder	insulin	1
+Ander BP	Pervasive developmental disorder	insulin	1
+Gandal MJ	Pervasive developmental disorder	insulin	1
+Stamova B	Pervasive developmental disorder	insulin	1
+Schumann CM	Pervasive developmental disorder	insulin	1
+de Oliveira Ferreira E	Pervasive developmental disorder	synaptophysin	1
+Pessoa Gomes JM	Pervasive developmental disorder	synaptophysin	1
+Neves KRT	Pervasive developmental disorder	synaptophysin	1
+Lima FAV	Pervasive developmental disorder	synaptophysin	1
+de Barros Viana GS	Pervasive developmental disorder	synaptophysin	1
+de Andrade GM	Pervasive developmental disorder	synaptophysin	1
+Thomas SD	Pervasive developmental disorder	phosphatase and tensin homolog	2
+Jha NK	Pervasive developmental disorder	phosphatase and tensin homolog	1
+Ojha S	Pervasive developmental disorder	phosphatase and tensin homolog	1
+Sadek B	Pervasive developmental disorder	phosphatase and tensin homolog	5
+Papuc SM	Pervasive developmental disorder	primary cilia formation	1
+Erbescu A	Pervasive developmental disorder	primary cilia formation	1
+Glangher A	Pervasive developmental disorder	primary cilia formation	1
+Streata I	Pervasive developmental disorder	primary cilia formation	1
+Riza AL	Pervasive developmental disorder	primary cilia formation	1
+Budisteanu M	Pervasive developmental disorder	primary cilia formation	1
+Arghir A	Pervasive developmental disorder	primary cilia formation	1
+Zang Y	Pervasive developmental disorder	multiple sclerosis	1
+Lai X	Pervasive developmental disorder	multiple sclerosis	1
+Li C	Pervasive developmental disorder	multiple sclerosis	3
+Ding D	Pervasive developmental disorder	multiple sclerosis	1
+Wang Y	Pervasive developmental disorder	multiple sclerosis	8
+Zhu Y	Pervasive developmental disorder	multiple sclerosis	2
+Thongkorn S	Pervasive developmental disorder	androgen receptor	1
+Kanlayaprasit S	Pervasive developmental disorder	androgen receptor	1
+Kasitipradit K	Pervasive developmental disorder	androgen receptor	1
+Lertpeerapan P	Pervasive developmental disorder	androgen receptor	1
+Panjabud P	Pervasive developmental disorder	androgen receptor	1
+Hu VW	Pervasive developmental disorder	androgen receptor	1
+Jindatip D	Pervasive developmental disorder	androgen receptor	1
+Sarachana T	Pervasive developmental disorder	androgen receptor	1
+Nascimento A	Pervasive developmental disorder	dystrophin	2
+Bruels CC	Pervasive developmental disorder	dystrophin	2
+Donkervoort S	Pervasive developmental disorder	dystrophin	2
+Foley AR	Pervasive developmental disorder	dystrophin	2
+Codina A	Pervasive developmental disorder	dystrophin	2
+Milisenda JC	Pervasive developmental disorder	dystrophin	2
+Estrella EA	Pervasive developmental disorder	dystrophin	2
+Li C	Pervasive developmental disorder	dystrophin	3
+Pijuan J	Pervasive developmental disorder	dystrophin	2
+Draper I	Pervasive developmental disorder	dystrophin	2
+Hu Y	Pervasive developmental disorder	dystrophin	3
+Stafki SA	Pervasive developmental disorder	dystrophin	2
+Pais LS	Pervasive developmental disorder	dystrophin	2
+Ganesh VS	Pervasive developmental disorder	dystrophin	2
+O'Donnell-Luria A	Pervasive developmental disorder	dystrophin	2
+Syeda SB	Pervasive developmental disorder	dystrophin	2
+Carrera-Garcia L	Pervasive developmental disorder	dystrophin	2
+Exposito-Escudero J	Pervasive developmental disorder	dystrophin	2
+Yubero D	Pervasive developmental disorder	dystrophin	2
+Martorell L	Pervasive developmental disorder	dystrophin	2
+Pinal-Fernandez I	Pervasive developmental disorder	dystrophin	2
+Lidov HGW	Pervasive developmental disorder	dystrophin	2
+Mammen AL	Pervasive developmental disorder	dystrophin	2
+Grau-Junyent JM	Pervasive developmental disorder	dystrophin	2
+Ortez C	Pervasive developmental disorder	dystrophin	2
+Palau F	Pervasive developmental disorder	dystrophin	2
+Ghosh PS	Pervasive developmental disorder	dystrophin	2
+Darras BT	Pervasive developmental disorder	dystrophin	2
+Jou C	Pervasive developmental disorder	dystrophin	2
+Kunkel LM	Pervasive developmental disorder	dystrophin	2
+Hoenicka J	Pervasive developmental disorder	dystrophin	2
+Bonnemann CG	Pervasive developmental disorder	dystrophin	2
+Kang PB	Pervasive developmental disorder	dystrophin	2
+Natera-de Benito D	Pervasive developmental disorder	dystrophin	2
+Nascimento A	Pervasive developmental disorder	utrophin	2
+Bruels CC	Pervasive developmental disorder	utrophin	2
+Donkervoort S	Pervasive developmental disorder	utrophin	2
+Foley AR	Pervasive developmental disorder	utrophin	2
+Codina A	Pervasive developmental disorder	utrophin	2
+Milisenda JC	Pervasive developmental disorder	utrophin	2
+Estrella EA	Pervasive developmental disorder	utrophin	2
+Li C	Pervasive developmental disorder	utrophin	3
+Pijuan J	Pervasive developmental disorder	utrophin	2
+Draper I	Pervasive developmental disorder	utrophin	2
+Hu Y	Pervasive developmental disorder	utrophin	3
+Stafki SA	Pervasive developmental disorder	utrophin	2
+Pais LS	Pervasive developmental disorder	utrophin	2
+Ganesh VS	Pervasive developmental disorder	utrophin	2
+O'Donnell-Luria A	Pervasive developmental disorder	utrophin	2
+Syeda SB	Pervasive developmental disorder	utrophin	2
+Carrera-Garcia L	Pervasive developmental disorder	utrophin	2
+Exposito-Escudero J	Pervasive developmental disorder	utrophin	2
+Yubero D	Pervasive developmental disorder	utrophin	2
+Martorell L	Pervasive developmental disorder	utrophin	2
+Pinal-Fernandez I	Pervasive developmental disorder	utrophin	2
+Lidov HGW	Pervasive developmental disorder	utrophin	2
+Mammen AL	Pervasive developmental disorder	utrophin	2
+Grau-Junyent JM	Pervasive developmental disorder	utrophin	2
+Ortez C	Pervasive developmental disorder	utrophin	2
+Palau F	Pervasive developmental disorder	utrophin	2
+Ghosh PS	Pervasive developmental disorder	utrophin	2
+Darras BT	Pervasive developmental disorder	utrophin	2
+Jou C	Pervasive developmental disorder	utrophin	2
+Kunkel LM	Pervasive developmental disorder	utrophin	2
+Hoenicka J	Pervasive developmental disorder	utrophin	2
+Bonnemann CG	Pervasive developmental disorder	utrophin	2
+Kang PB	Pervasive developmental disorder	utrophin	2
+Natera-de Benito D	Pervasive developmental disorder	utrophin	2
+Simone M	Pervasive developmental disorder	glial fibrillary acidic protein	2
+De Giacomo A	Pervasive developmental disorder	glial fibrillary acidic protein	2
+Palumbi R	Pervasive developmental disorder	glial fibrillary acidic protein	1
+Palazzo C	Pervasive developmental disorder	glial fibrillary acidic protein	1
+Lucisano G	Pervasive developmental disorder	glial fibrillary acidic protein	1
+Pompamea F	Pervasive developmental disorder	glial fibrillary acidic protein	1
+Micella S	Pervasive developmental disorder	glial fibrillary acidic protein	1
+Pascali M	Pervasive developmental disorder	glial fibrillary acidic protein	1
+Gabellone A	Pervasive developmental disorder	glial fibrillary acidic protein	1
+Marzulli L	Pervasive developmental disorder	glial fibrillary acidic protein	2
+Giordano P	Pervasive developmental disorder	glial fibrillary acidic protein	1
+Gargano CD	Pervasive developmental disorder	glial fibrillary acidic protein	1
+Margari L	Pervasive developmental disorder	glial fibrillary acidic protein	1
+Frigeri A	Pervasive developmental disorder	glial fibrillary acidic protein	1
+Ruggieri M	Pervasive developmental disorder	glial fibrillary acidic protein	1
+Ding H	Pervasive developmental disorder	insulin	1
+Xie M	Pervasive developmental disorder	insulin	1
+Wang J	Pervasive developmental disorder	insulin	4
+Ouyang M	Pervasive developmental disorder	insulin	1
+Huang Y	Pervasive developmental disorder	insulin	2
+Yuan F	Pervasive developmental disorder	insulin	1
+Jia Y	Pervasive developmental disorder	insulin	1
+Zhang X	Pervasive developmental disorder	insulin	6
+Liu N	Pervasive developmental disorder	insulin	1
+Zhang N	Pervasive developmental disorder	insulin	1
+Kashii H	Pervasive developmental disorder	signal transducer and activator of transcription 3	2
+Kasai S	Pervasive developmental disorder	signal transducer and activator of transcription 3	2
+Sato A	Pervasive developmental disorder	signal transducer and activator of transcription 3	2
+Hagino Y	Pervasive developmental disorder	signal transducer and activator of transcription 3	2
+Nishito Y	Pervasive developmental disorder	signal transducer and activator of transcription 3	2
+Kobayashi T	Pervasive developmental disorder	signal transducer and activator of transcription 3	2
+Hino O	Pervasive developmental disorder	signal transducer and activator of transcription 3	2
+Mizuguchi M	Pervasive developmental disorder	signal transducer and activator of transcription 3	2
+Ikeda K	Pervasive developmental disorder	signal transducer and activator of transcription 3	2
+Kashii H	Pervasive developmental disorder	interferon regulatory factor 4	2
+Kasai S	Pervasive developmental disorder	interferon regulatory factor 4	2
+Sato A	Pervasive developmental disorder	interferon regulatory factor 4	2
+Hagino Y	Pervasive developmental disorder	interferon regulatory factor 4	2
+Nishito Y	Pervasive developmental disorder	interferon regulatory factor 4	2
+Kobayashi T	Pervasive developmental disorder	interferon regulatory factor 4	2
+Hino O	Pervasive developmental disorder	interferon regulatory factor 4	2
+Mizuguchi M	Pervasive developmental disorder	interferon regulatory factor 4	2
+Ikeda K	Pervasive developmental disorder	interferon regulatory factor 4	2
+Gzielo K	Pervasive developmental disorder	parvalbumin	1
+Piotrowska D	Pervasive developmental disorder	parvalbumin	1
+Litwa E	Pervasive developmental disorder	parvalbumin	1
+Popik P	Pervasive developmental disorder	parvalbumin	1
+Nikiforuk A	Pervasive developmental disorder	parvalbumin	1
+Rawlings-Mortimer F	Pervasive developmental disorder	myelin regulatory factor	1
+Gullino LS	Pervasive developmental disorder	myelin regulatory factor	1
+Ruhling S	Pervasive developmental disorder	myelin regulatory factor	1
+Ashton A	Pervasive developmental disorder	myelin regulatory factor	1
+Barkus C	Pervasive developmental disorder	myelin regulatory factor	1
+Johansen-Berg H	Pervasive developmental disorder	myelin regulatory factor	1
+Moghaddam AH	Pervasive developmental disorder	catalase	1
+Eslami A	Pervasive developmental disorder	catalase	1
+Jelodar SK	Pervasive developmental disorder	catalase	1
+Ranjbar M	Pervasive developmental disorder	catalase	3
+Hasantabar V	Pervasive developmental disorder	catalase	1
+Smith IN	Pervasive developmental disorder	phosphatase and tensin homolog	1
+Dawson JE	Pervasive developmental disorder	phosphatase and tensin homolog	1
+Eng C	Pervasive developmental disorder	phosphatase and tensin homolog	1
+Colijn MA	Pervasive developmental disorder	euchromatic histone lysine methyltransferase 1	1
+Lakusta CM	Pervasive developmental disorder	euchromatic histone lysine methyltransferase 1	1
+Marcadier JL	Pervasive developmental disorder	euchromatic histone lysine methyltransferase 1	1
+Panchal SK	Pervasive developmental disorder	insulin	1
+Brown L	Pervasive developmental disorder	insulin	1
+Eissa N	Pervasive developmental disorder	tumor necrosis factor	1
+Awad MA	Pervasive developmental disorder	tumor necrosis factor	1
+Thomas SD	Pervasive developmental disorder	tumor necrosis factor	2
+Venkatachalam K	Pervasive developmental disorder	tumor necrosis factor	1
+Jayaprakash P	Pervasive developmental disorder	tumor necrosis factor	3
+Zhong S	Pervasive developmental disorder	tumor necrosis factor	1
+Stark H	Pervasive developmental disorder	tumor necrosis factor	1
+Sadek B	Pervasive developmental disorder	tumor necrosis factor	5
+Haratizadeh S	Pervasive developmental disorder	erythropoietin	1
+Ranjbar M	Pervasive developmental disorder	erythropoietin	3
+Darvishzadeh-Mahani F	Pervasive developmental disorder	erythropoietin	1
+Basiri M	Pervasive developmental disorder	erythropoietin	1
+Nozari M	Pervasive developmental disorder	erythropoietin	1
+Luppe J	Pervasive developmental disorder	syntaxin 1A	1
+Sticht H	Pervasive developmental disorder	syntaxin 1A	1
+Lecoquierre F	Pervasive developmental disorder	syntaxin 1A	1
+Goldenberg A	Pervasive developmental disorder	syntaxin 1A	1
+Gorman KM	Pervasive developmental disorder	syntaxin 1A	1
+Molloy B	Pervasive developmental disorder	syntaxin 1A	1
+Agolini E	Pervasive developmental disorder	syntaxin 1A	1
+Novelli A	Pervasive developmental disorder	syntaxin 1A	1
+Briuglia S	Pervasive developmental disorder	syntaxin 1A	1
+Kuismin O	Pervasive developmental disorder	syntaxin 1A	1
+Marcelis C	Pervasive developmental disorder	syntaxin 1A	1
+Vitobello A	Pervasive developmental disorder	syntaxin 1A	1
+Denomme-Pichon AS	Pervasive developmental disorder	syntaxin 1A	1
+Julia S	Pervasive developmental disorder	syntaxin 1A	1
+Lemke JR	Pervasive developmental disorder	syntaxin 1A	1
+Abou Jamra R	Pervasive developmental disorder	syntaxin 1A	1
+Platzer K	Pervasive developmental disorder	syntaxin 1A	1
+Aishworiya R	Pervasive developmental disorder	fragile X messenger ribonucleoprotein 1	1
+Protic D	Pervasive developmental disorder	fragile X messenger ribonucleoprotein 1	1
+Tang SJ	Pervasive developmental disorder	fragile X messenger ribonucleoprotein 1	1
+Schneider A	Pervasive developmental disorder	fragile X messenger ribonucleoprotein 1	1
+Tassone F	Pervasive developmental disorder	fragile X messenger ribonucleoprotein 1	1
+Hagerman R	Pervasive developmental disorder	fragile X messenger ribonucleoprotein 1	1
+Kerschbamer E	Pervasive developmental disorder	heterogeneous nuclear ribonucleoprotein L	1
+Arnoldi M	Pervasive developmental disorder	heterogeneous nuclear ribonucleoprotein L	1
+Tripathi T	Pervasive developmental disorder	heterogeneous nuclear ribonucleoprotein L	1
+Pellegrini M	Pervasive developmental disorder	heterogeneous nuclear ribonucleoprotein L	1
+Maturi S	Pervasive developmental disorder	heterogeneous nuclear ribonucleoprotein L	1
+Erdin S	Pervasive developmental disorder	heterogeneous nuclear ribonucleoprotein L	1
+Salviato E	Pervasive developmental disorder	heterogeneous nuclear ribonucleoprotein L	1
+Di Leva F	Pervasive developmental disorder	heterogeneous nuclear ribonucleoprotein L	1
+Sebestyen E	Pervasive developmental disorder	heterogeneous nuclear ribonucleoprotein L	1
+Dassi E	Pervasive developmental disorder	heterogeneous nuclear ribonucleoprotein L	1
+Zarantonello G	Pervasive developmental disorder	heterogeneous nuclear ribonucleoprotein L	1
+Benelli M	Pervasive developmental disorder	heterogeneous nuclear ribonucleoprotein L	1
+Campos E	Pervasive developmental disorder	heterogeneous nuclear ribonucleoprotein L	1
+Basson MA	Pervasive developmental disorder	heterogeneous nuclear ribonucleoprotein L	1
+Gusella JF	Pervasive developmental disorder	heterogeneous nuclear ribonucleoprotein L	1
+Gustincich S	Pervasive developmental disorder	heterogeneous nuclear ribonucleoprotein L	1
+Piazza S	Pervasive developmental disorder	heterogeneous nuclear ribonucleoprotein L	1
+Demichelis F	Pervasive developmental disorder	heterogeneous nuclear ribonucleoprotein L	1
+Talkowski ME	Pervasive developmental disorder	heterogeneous nuclear ribonucleoprotein L	1
+Ferrari F	Pervasive developmental disorder	heterogeneous nuclear ribonucleoprotein L	1
+Biagioli M	Pervasive developmental disorder	heterogeneous nuclear ribonucleoprotein L	1
+Zhang Z	Pervasive developmental disorder	neuroligin 2	6
+Hou M	Pervasive developmental disorder	neuroligin 2	2
+Ou H	Pervasive developmental disorder	neuroligin 2	2
+Wang D	Pervasive developmental disorder	neuroligin 2	2
+Li Z	Pervasive developmental disorder	neuroligin 2	4
+Zhang H	Pervasive developmental disorder	neuroligin 2	4
+Lu J	Pervasive developmental disorder	neuroligin 2	3
+Zhang Z	Pervasive developmental disorder	neuroligin 3	6
+Hou M	Pervasive developmental disorder	neuroligin 3	2
+Ou H	Pervasive developmental disorder	neuroligin 3	2
+Wang D	Pervasive developmental disorder	neuroligin 3	2
+Li Z	Pervasive developmental disorder	neuroligin 3	4
+Zhang H	Pervasive developmental disorder	neuroligin 3	4
+Lu J	Pervasive developmental disorder	neuroligin 3	3
+Cao W	Pervasive developmental disorder	parvalbumin	2
+Li JH	Pervasive developmental disorder	parvalbumin	2
+Lin S	Pervasive developmental disorder	parvalbumin	2
+Xia QQ	Pervasive developmental disorder	parvalbumin	2
+Du YL	Pervasive developmental disorder	parvalbumin	2
+Yang Q	Pervasive developmental disorder	parvalbumin	4
+Ye YZ	Pervasive developmental disorder	parvalbumin	2
+Zeng LH	Pervasive developmental disorder	parvalbumin	2
+Li XY	Pervasive developmental disorder	parvalbumin	2
+Xu J	Pervasive developmental disorder	parvalbumin	2
+Luo JH	Pervasive developmental disorder	parvalbumin	2
+Cao W	Pervasive developmental disorder	neuroligin 3	2
+Li JH	Pervasive developmental disorder	neuroligin 3	2
+Lin S	Pervasive developmental disorder	neuroligin 3	2
+Xia QQ	Pervasive developmental disorder	neuroligin 3	2
+Du YL	Pervasive developmental disorder	neuroligin 3	2
+Yang Q	Pervasive developmental disorder	neuroligin 3	4
+Ye YZ	Pervasive developmental disorder	neuroligin 3	2
+Zeng LH	Pervasive developmental disorder	neuroligin 3	2
+Li XY	Pervasive developmental disorder	neuroligin 3	2
+Xu J	Pervasive developmental disorder	neuroligin 3	2
+Luo JH	Pervasive developmental disorder	neuroligin 3	2
+Maisterrena A	Pervasive developmental disorder	tyrosine hydroxylase	2
+Matas E	Pervasive developmental disorder	tyrosine hydroxylase	2
+Mirfendereski H	Pervasive developmental disorder	tyrosine hydroxylase	2
+Balbous A	Pervasive developmental disorder	tyrosine hydroxylase	2
+Marchand S	Pervasive developmental disorder	tyrosine hydroxylase	2
+Jaber M	Pervasive developmental disorder	tyrosine hydroxylase	2
+Maisterrena A	Pervasive developmental disorder	parvalbumin	2
+Matas E	Pervasive developmental disorder	parvalbumin	2
+Mirfendereski H	Pervasive developmental disorder	parvalbumin	2
+Balbous A	Pervasive developmental disorder	parvalbumin	2
+Marchand S	Pervasive developmental disorder	parvalbumin	2
+Jaber M	Pervasive developmental disorder	parvalbumin	2
+Dutra ML	Pervasive developmental disorder	interleukin 17A	1
+Dias P	Pervasive developmental disorder	interleukin 17A	1
+Freiberger V	Pervasive developmental disorder	interleukin 17A	1
+Ventura L	Pervasive developmental disorder	interleukin 17A	1
+Comim CM	Pervasive developmental disorder	interleukin 17A	1
+Martins DF	Pervasive developmental disorder	interleukin 17A	1
+Bobinski F	Pervasive developmental disorder	interleukin 17A	1
+Gai J	Pervasive developmental disorder	prolactin	1
+Xing J	Pervasive developmental disorder	prolactin	1
+Wang Y	Pervasive developmental disorder	prolactin	8
+Lei J	Pervasive developmental disorder	prolactin	1
+Zhang C	Pervasive developmental disorder	prolactin	1
+Zhang J	Pervasive developmental disorder	prolactin	6
+Tang J	Pervasive developmental disorder	prolactin	3
+Filippova YY	Pervasive developmental disorder	nerve growth factor	1
+Devyatova EV	Pervasive developmental disorder	nerve growth factor	1
+Alekseeva AS	Pervasive developmental disorder	nerve growth factor	1
+Burmistrova AL	Pervasive developmental disorder	nerve growth factor	1
+Cumberland A	Pervasive developmental disorder	somatostatin	1
+Hale N	Pervasive developmental disorder	somatostatin	1
+Azhan A	Pervasive developmental disorder	somatostatin	1
+Gilchrist CP	Pervasive developmental disorder	somatostatin	1
+Chincarini G	Pervasive developmental disorder	somatostatin	1
+Tolcos M	Pervasive developmental disorder	somatostatin	1
+Nakhal MM	Pervasive developmental disorder	C-reactive protein	2
+Aburuz S	Pervasive developmental disorder	C-reactive protein	2
+Sadek B	Pervasive developmental disorder	C-reactive protein	5
+Akour A	Pervasive developmental disorder	C-reactive protein	2
+Nakhal MM	Pervasive developmental disorder	tumor necrosis factor	2
+Aburuz S	Pervasive developmental disorder	tumor necrosis factor	2
+Sadek B	Pervasive developmental disorder	tumor necrosis factor	5
+Akour A	Pervasive developmental disorder	tumor necrosis factor	2
+Pellegrini C	Pervasive developmental disorder	multiple sclerosis	1
+Fornai M	Pervasive developmental disorder	multiple sclerosis	1
+D'Antongiovanni V	Pervasive developmental disorder	multiple sclerosis	1
+Antonioli L	Pervasive developmental disorder	multiple sclerosis	1
+Bernardini N	Pervasive developmental disorder	multiple sclerosis	1
+Derkinderen P	Pervasive developmental disorder	multiple sclerosis	1
+Paketci C	Pervasive developmental disorder	neurofilament light chain	1
+Ermis C	Pervasive developmental disorder	neurofilament light chain	1
+Sisman AR	Pervasive developmental disorder	neurofilament light chain	1
+Hiz S	Pervasive developmental disorder	neurofilament light chain	1
+Baykara B	Pervasive developmental disorder	neurofilament light chain	1
+Yis U	Pervasive developmental disorder	neurofilament light chain	1
+Iskandar K	Pervasive developmental disorder	dystrophin	1
+Triono A	Pervasive developmental disorder	dystrophin	1
+Sunartini	Pervasive developmental disorder	dystrophin	1
+Dwianingsih EK	Pervasive developmental disorder	dystrophin	1
+Indraswari BW	Pervasive developmental disorder	dystrophin	1
+Kirana IR	Pervasive developmental disorder	dystrophin	1
+Ivana G	Pervasive developmental disorder	dystrophin	1
+Sutomo R	Pervasive developmental disorder	dystrophin	1
+Patria SY	Pervasive developmental disorder	dystrophin	1
+Herini ES	Pervasive developmental disorder	dystrophin	1
+Gunadi	Pervasive developmental disorder	dystrophin	1
+Zaki JK	Pervasive developmental disorder	insulin	1
+Lago SG	Pervasive developmental disorder	insulin	1
+Rustogi N	Pervasive developmental disorder	insulin	1
+Gangadin SS	Pervasive developmental disorder	insulin	1
+Benacek J	Pervasive developmental disorder	insulin	1
+van Rees GF	Pervasive developmental disorder	insulin	1
+Haenisch F	Pervasive developmental disorder	insulin	1
+Broek JA	Pervasive developmental disorder	insulin	1
+Suarez-Pinilla P	Pervasive developmental disorder	insulin	1
+Ruland T	Pervasive developmental disorder	insulin	1
+Auyeung B	Pervasive developmental disorder	insulin	1
+Mikova O	Pervasive developmental disorder	insulin	1
+Kabacs N	Pervasive developmental disorder	insulin	1
+Arolt V	Pervasive developmental disorder	insulin	1
+Baron-Cohen S	Pervasive developmental disorder	insulin	1
+Crespo-Facorro B	Pervasive developmental disorder	insulin	1
+Drexhage HA	Pervasive developmental disorder	insulin	1
+de Witte LD	Pervasive developmental disorder	insulin	1
+Kahn RS	Pervasive developmental disorder	insulin	1
+Sommer IE	Pervasive developmental disorder	insulin	1
+Bahn S	Pervasive developmental disorder	insulin	1
+Tomasik J	Pervasive developmental disorder	insulin	1
+Bhalla S	Pervasive developmental disorder	glucagon	3
+Mehan S	Pervasive developmental disorder	glucagon	3
+Bhalla S	Pervasive developmental disorder	insulin	3
+Mehan S	Pervasive developmental disorder	insulin	3
+Majerczyk D	Pervasive developmental disorder	interferon gamma	2
+Ayad EG	Pervasive developmental disorder	interferon gamma	2
+Brewton KL	Pervasive developmental disorder	interferon gamma	2
+Saing P	Pervasive developmental disorder	interferon gamma	2
+Hart PC	Pervasive developmental disorder	interferon gamma	2
+Majerczyk D	Pervasive developmental disorder	interleukin 6	2
+Ayad EG	Pervasive developmental disorder	interleukin 6	2
+Brewton KL	Pervasive developmental disorder	interleukin 6	2
+Saing P	Pervasive developmental disorder	interleukin 6	2
+Hart PC	Pervasive developmental disorder	interleukin 6	2
+Svirin E	Pervasive developmental disorder	insulin receptor	1
+de Munter J	Pervasive developmental disorder	insulin receptor	1
+Umriukhin A	Pervasive developmental disorder	insulin receptor	1
+Sheveleva E	Pervasive developmental disorder	insulin receptor	1
+Kalueff AV	Pervasive developmental disorder	insulin receptor	1
+Svistunov A	Pervasive developmental disorder	insulin receptor	1
+Morozov S	Pervasive developmental disorder	insulin receptor	1
+Walitza S	Pervasive developmental disorder	insulin receptor	1
+Strekalova T	Pervasive developmental disorder	insulin receptor	1
+Sitaram S	Pervasive developmental disorder	adenylosuccinate lyase	1
+Banka HC	Pervasive developmental disorder	adenylosuccinate lyase	1
+Vassallo G	Pervasive developmental disorder	adenylosuccinate lyase	1
+Pavaine J	Pervasive developmental disorder	adenylosuccinate lyase	1
+Fairclough A	Pervasive developmental disorder	adenylosuccinate lyase	1
+Wright R	Pervasive developmental disorder	adenylosuccinate lyase	1
+Fairbanks L	Pervasive developmental disorder	adenylosuccinate lyase	1
+Bierau J	Pervasive developmental disorder	adenylosuccinate lyase	1
+Bowden L	Pervasive developmental disorder	adenylosuccinate lyase	1
+Schwahn B	Pervasive developmental disorder	adenylosuccinate lyase	1
+Horman A	Pervasive developmental disorder	adenylosuccinate lyase	1
+Banka S	Pervasive developmental disorder	adenylosuccinate lyase	1
+Wei RQ	Pervasive developmental disorder	Janus kinase 2	1
+Guo WL	Pervasive developmental disorder	Janus kinase 2	1
+Wu YT	Pervasive developmental disorder	Janus kinase 2	1
+Alarcon Rodriguez R	Pervasive developmental disorder	Janus kinase 2	1
+Requena Mullor MDM	Pervasive developmental disorder	Janus kinase 2	1
+Gui YC	Pervasive developmental disorder	Janus kinase 2	1
+Xu JW	Pervasive developmental disorder	Janus kinase 2	1
+DelRosso LM	Pervasive developmental disorder	transferrin	1
+Reuter-Yuill LM	Pervasive developmental disorder	transferrin	1
+Cho Y	Pervasive developmental disorder	transferrin	1
+Ferri R	Pervasive developmental disorder	transferrin	1
+Mogavero MP	Pervasive developmental disorder	transferrin	1
+Picchietti DL	Pervasive developmental disorder	transferrin	1
+Iannone LF	Pervasive developmental disorder	multiple sclerosis	1
+Gomez-Eguilaz M	Pervasive developmental disorder	multiple sclerosis	1
+De Caro C	Pervasive developmental disorder	multiple sclerosis	1
+Syu GD	Pervasive developmental disorder	monoamine oxidase A	1
+Sutandy FXR	Pervasive developmental disorder	monoamine oxidase A	1
+Chen K	Pervasive developmental disorder	monoamine oxidase A	1
+Cheng Y	Pervasive developmental disorder	monoamine oxidase A	2
+Chen CS	Pervasive developmental disorder	monoamine oxidase A	1
+Shih JC	Pervasive developmental disorder	monoamine oxidase A	1
+Zhou B	Pervasive developmental disorder	arginine vasopressin	1
+Yan X	Pervasive developmental disorder	arginine vasopressin	1
+Yang L	Pervasive developmental disorder	arginine vasopressin	1
+Zheng X	Pervasive developmental disorder	arginine vasopressin	2
+Chen Y	Pervasive developmental disorder	arginine vasopressin	1
+Liu Y	Pervasive developmental disorder	arginine vasopressin	1
+Ren Y	Pervasive developmental disorder	arginine vasopressin	1
+Peng J	Pervasive developmental disorder	arginine vasopressin	1
+Zhang Y	Pervasive developmental disorder	arginine vasopressin	5
+Huang J	Pervasive developmental disorder	arginine vasopressin	1
+Tang L	Pervasive developmental disorder	arginine vasopressin	1
+Wen M	Pervasive developmental disorder	arginine vasopressin	1
+Song X	Pervasive developmental disorder	protein kinase C beta	2
+Hu Q	Pervasive developmental disorder	protein kinase C beta	2
+Xu X	Pervasive developmental disorder	protein kinase C beta	5
+Pan W	Pervasive developmental disorder	protein kinase C beta	2
+Song X	Pervasive developmental disorder	uncoupling protein 1	2
+Hu Q	Pervasive developmental disorder	uncoupling protein 1	2
+Xu X	Pervasive developmental disorder	uncoupling protein 1	5
+Pan W	Pervasive developmental disorder	uncoupling protein 1	2
+Coakley-Youngs E	Pervasive developmental disorder	chromodomain helicase DNA binding protein 8	1
+Ranatunga M	Pervasive developmental disorder	chromodomain helicase DNA binding protein 8	1
+Richardson S	Pervasive developmental disorder	chromodomain helicase DNA binding protein 8	1
+Getti G	Pervasive developmental disorder	chromodomain helicase DNA binding protein 8	1
+Shorter S	Pervasive developmental disorder	chromodomain helicase DNA binding protein 8	1
+Fivaz M	Pervasive developmental disorder	chromodomain helicase DNA binding protein 8	1
+Brusov OS	Pervasive developmental disorder	myelin basic protein	1
+Klyushnik TP	Pervasive developmental disorder	myelin basic protein	1
+Zozulya SA	Pervasive developmental disorder	myelin basic protein	1
+Karpova NS	Pervasive developmental disorder	myelin basic protein	1
+Shilov YE	Pervasive developmental disorder	myelin basic protein	1
+Nikitina SG	Pervasive developmental disorder	myelin basic protein	1
+Simashkova NV	Pervasive developmental disorder	myelin basic protein	1
+Anne A	Pervasive developmental disorder	catalase	1
+Saxena S	Pervasive developmental disorder	catalase	1
+Mohan KN	Pervasive developmental disorder	catalase	1
+Wongpaiboonwattana W	Pervasive developmental disorder	dopamine beta-hydroxylase	1
+Hnoonual A	Pervasive developmental disorder	dopamine beta-hydroxylase	1
+Limprasert P	Pervasive developmental disorder	dopamine beta-hydroxylase	1
+Carey C	Pervasive developmental disorder	parvalbumin	1
+Singh N	Pervasive developmental disorder	parvalbumin	1
+Dunn JT	Pervasive developmental disorder	parvalbumin	1
+Sementa T	Pervasive developmental disorder	parvalbumin	1
+Mendez MA	Pervasive developmental disorder	parvalbumin	1
+Velthuis H	Pervasive developmental disorder	parvalbumin	1
+Pereira AC	Pervasive developmental disorder	parvalbumin	1
+Pretzsch CM	Pervasive developmental disorder	parvalbumin	1
+Horder J	Pervasive developmental disorder	parvalbumin	1
+Hader S	Pervasive developmental disorder	parvalbumin	1
+Lythgoe DJ	Pervasive developmental disorder	parvalbumin	1
+Rotaru DG	Pervasive developmental disorder	parvalbumin	1
+Gee A	Pervasive developmental disorder	parvalbumin	1
+Cash D	Pervasive developmental disorder	parvalbumin	1
+Veronese M	Pervasive developmental disorder	parvalbumin	1
+Murphy D	Pervasive developmental disorder	parvalbumin	1
+McAlonan G	Pervasive developmental disorder	parvalbumin	1
+Singla R	Pervasive developmental disorder	glutamate decarboxylase 1	1
+Mishra A	Pervasive developmental disorder	glutamate decarboxylase 1	1
+Joshi R	Pervasive developmental disorder	glutamate decarboxylase 1	1
+Sarma P	Pervasive developmental disorder	glutamate decarboxylase 1	1
+Kumar R	Pervasive developmental disorder	glutamate decarboxylase 1	1
+Kaur G	Pervasive developmental disorder	glutamate decarboxylase 1	1
+Sharma AR	Pervasive developmental disorder	glutamate decarboxylase 1	1
+Jain A	Pervasive developmental disorder	glutamate decarboxylase 1	1
+Prakash A	Pervasive developmental disorder	glutamate decarboxylase 1	1
+Bhatia A	Pervasive developmental disorder	glutamate decarboxylase 1	1
+Medhi B	Pervasive developmental disorder	glutamate decarboxylase 1	1
+Phunsawat P	Pervasive developmental disorder	folate receptor alpha	1
+Chiangjong W	Pervasive developmental disorder	folate receptor alpha	1
+Chutipongtanate S	Pervasive developmental disorder	folate receptor alpha	1
+Dumrongwongsiri O	Pervasive developmental disorder	folate receptor alpha	1
+Thommachot P	Pervasive developmental disorder	folate receptor alpha	1
+Butdawong W	Pervasive developmental disorder	folate receptor alpha	1
+Chuthapisith J	Pervasive developmental disorder	folate receptor alpha	1
+Takashima K	Pervasive developmental disorder	reelin	1
+Okano H	Pervasive developmental disorder	reelin	1
+Ojiro R	Pervasive developmental disorder	reelin	1
+Tang Q	Pervasive developmental disorder	reelin	2
+Takahashi Y	Pervasive developmental disorder	reelin	2
+Ozawa S	Pervasive developmental disorder	reelin	1
+Zou X	Pervasive developmental disorder	reelin	1
+Koyanagi M	Pervasive developmental disorder	reelin	1
+Maronpot RR	Pervasive developmental disorder	reelin	1
+Yoshida T	Pervasive developmental disorder	reelin	1
+Shibutani M	Pervasive developmental disorder	reelin	1
+Zhang Y	Pervasive developmental disorder	nuclear receptor subfamily 4 group A member 1	5
+Pang Y	Pervasive developmental disorder	nuclear receptor subfamily 4 group A member 1	1
+Feng W	Pervasive developmental disorder	nuclear receptor subfamily 4 group A member 1	1
+Jin Y	Pervasive developmental disorder	nuclear receptor subfamily 4 group A member 1	1
+Chen S	Pervasive developmental disorder	nuclear receptor subfamily 4 group A member 1	1
+Ding S	Pervasive developmental disorder	nuclear receptor subfamily 4 group A member 1	1
+Wang Z	Pervasive developmental disorder	nuclear receptor subfamily 4 group A member 1	3
+Zou Y	Pervasive developmental disorder	nuclear receptor subfamily 4 group A member 1	1
+Li Y	Pervasive developmental disorder	nuclear receptor subfamily 4 group A member 1	2
+Wang T	Pervasive developmental disorder	nuclear receptor subfamily 4 group A member 1	1
+Sun P	Pervasive developmental disorder	nuclear receptor subfamily 4 group A member 1	1
+Gao J	Pervasive developmental disorder	nuclear receptor subfamily 4 group A member 1	4
+Zhu Y	Pervasive developmental disorder	nuclear receptor subfamily 4 group A member 1	2
+Ke X	Pervasive developmental disorder	nuclear receptor subfamily 4 group A member 1	1
+Marshall C	Pervasive developmental disorder	nuclear receptor subfamily 4 group A member 1	1
+Huang H	Pervasive developmental disorder	nuclear receptor subfamily 4 group A member 1	1
+Sheng C	Pervasive developmental disorder	nuclear receptor subfamily 4 group A member 1	1
+Xiao M	Pervasive developmental disorder	nuclear receptor subfamily 4 group A member 1	1
+Niehaus AD	Pervasive developmental disorder	arginine-glutamic acid dipeptide repeats	1
+Kim J	Pervasive developmental disorder	arginine-glutamic acid dipeptide repeats	1
+Manning MA	Pervasive developmental disorder	arginine-glutamic acid dipeptide repeats	1
+Li LS	Pervasive developmental disorder	retinoic acid receptor alpha	2
+Zhang Q	Pervasive developmental disorder	retinoic acid receptor alpha	2
+Liu H	Pervasive developmental disorder	retinoic acid receptor alpha	4
+Wu QH	Pervasive developmental disorder	retinoic acid receptor alpha	2
+Yang T	Pervasive developmental disorder	retinoic acid receptor alpha	4
+Chen J	Pervasive developmental disorder	retinoic acid receptor alpha	7
+Li TY	Pervasive developmental disorder	retinoic acid receptor alpha	2
+Li LS	Pervasive developmental disorder	neurexin 1	2
+Zhang Q	Pervasive developmental disorder	neurexin 1	2
+Liu H	Pervasive developmental disorder	neurexin 1	4
+Wu QH	Pervasive developmental disorder	neurexin 1	2
+Yang T	Pervasive developmental disorder	neurexin 1	4
+Chen J	Pervasive developmental disorder	neurexin 1	7
+Li TY	Pervasive developmental disorder	neurexin 1	2
+Sen P	Pervasive developmental disorder	arginine vasopressin	1
+Sherwin E	Pervasive developmental disorder	arginine vasopressin	1
+Sandhu K	Pervasive developmental disorder	arginine vasopressin	1
+Bastiaanssen TFS	Pervasive developmental disorder	arginine vasopressin	1
+Moloney GM	Pervasive developmental disorder	arginine vasopressin	1
+Golubeva A	Pervasive developmental disorder	arginine vasopressin	1
+Fitzgerald P	Pervasive developmental disorder	arginine vasopressin	1
+Paula Ventura Da Silva A	Pervasive developmental disorder	arginine vasopressin	1
+Chruscicka-Smaga B	Pervasive developmental disorder	arginine vasopressin	1
+Olavarria-Ramirez L	Pervasive developmental disorder	arginine vasopressin	1
+Druelle C	Pervasive developmental disorder	arginine vasopressin	1
+Campos D	Pervasive developmental disorder	arginine vasopressin	1
+Jayaprakash P	Pervasive developmental disorder	arginine vasopressin	3
+Rea K	Pervasive developmental disorder	arginine vasopressin	1
+Jeffery IB	Pervasive developmental disorder	arginine vasopressin	1
+Savignac H	Pervasive developmental disorder	arginine vasopressin	1
+Chetal S	Pervasive developmental disorder	arginine vasopressin	1
+Mulder I	Pervasive developmental disorder	arginine vasopressin	1
+Schellekens H	Pervasive developmental disorder	arginine vasopressin	1
+Dinan TG	Pervasive developmental disorder	arginine vasopressin	1
+Cryan JF	Pervasive developmental disorder	arginine vasopressin	1
+Robinson-Agramonte MLA	Pervasive developmental disorder	insulin	1
+Michalski B	Pervasive developmental disorder	insulin	1
+Vidal-Martinez B	Pervasive developmental disorder	insulin	1
+Hernandez LR	Pervasive developmental disorder	insulin	1
+Santiesteban MW	Pervasive developmental disorder	insulin	1
+Fahnestock M	Pervasive developmental disorder	insulin	1
+Zhang Z	Pervasive developmental disorder	vitamin D receptor	6
+Liu J	Pervasive developmental disorder	vitamin D receptor	1
+Jiang G	Pervasive developmental disorder	vitamin D receptor	1
+Yu H	Pervasive developmental disorder	vitamin D receptor	2
+Kattner AA	Pervasive developmental disorder	multiple sclerosis	1
+Sherman HT	Pervasive developmental disorder	dopamine receptor D1	1
+Liu K	Pervasive developmental disorder	dopamine receptor D1	1
+Kwong K	Pervasive developmental disorder	dopamine receptor D1	1
+Chan ST	Pervasive developmental disorder	dopamine receptor D1	1
+Li AC	Pervasive developmental disorder	dopamine receptor D1	1
+Kong XJ	Pervasive developmental disorder	dopamine receptor D1	1
+Xu S	Pervasive developmental disorder	methylenetetrahydrofolate reductase	1
+Men S	Pervasive developmental disorder	methylenetetrahydrofolate reductase	1
+Wang X	Pervasive developmental disorder	methylenetetrahydrofolate reductase	2
+Zhan F	Pervasive developmental disorder	methylenetetrahydrofolate reductase	1
+Yuan X	Pervasive developmental disorder	methylenetetrahydrofolate reductase	1
+Lombardo B	Pervasive developmental disorder	D-aspartate oxidase	1
+Pagani M	Pervasive developmental disorder	D-aspartate oxidase	1
+De Rosa A	Pervasive developmental disorder	D-aspartate oxidase	1
+Nunziato M	Pervasive developmental disorder	D-aspartate oxidase	1
+Migliarini S	Pervasive developmental disorder	D-aspartate oxidase	1
+Garofalo M	Pervasive developmental disorder	D-aspartate oxidase	1
+Terrile M	Pervasive developmental disorder	D-aspartate oxidase	1
+D'Argenio V	Pervasive developmental disorder	D-aspartate oxidase	1
+Galbusera A	Pervasive developmental disorder	D-aspartate oxidase	1
+Nuzzo T	Pervasive developmental disorder	D-aspartate oxidase	1
+Ranieri A	Pervasive developmental disorder	D-aspartate oxidase	1
+Vitale A	Pervasive developmental disorder	D-aspartate oxidase	1
+Leggiero E	Pervasive developmental disorder	D-aspartate oxidase	1
+Di Maio A	Pervasive developmental disorder	D-aspartate oxidase	1
+Barsotti N	Pervasive developmental disorder	D-aspartate oxidase	1
+Borello U	Pervasive developmental disorder	D-aspartate oxidase	1
+Napolitano F	Pervasive developmental disorder	D-aspartate oxidase	1
+Mandarino A	Pervasive developmental disorder	D-aspartate oxidase	1
+Carotenuto M	Pervasive developmental disorder	D-aspartate oxidase	1
+Heresco-Levy U	Pervasive developmental disorder	D-aspartate oxidase	1
+Pasqualetti M	Pervasive developmental disorder	D-aspartate oxidase	1
+Malatesta P	Pervasive developmental disorder	D-aspartate oxidase	1
+Gozzi A	Pervasive developmental disorder	D-aspartate oxidase	1
+Errico F	Pervasive developmental disorder	D-aspartate oxidase	1
+Salvatore F	Pervasive developmental disorder	D-aspartate oxidase	1
+Pastore L	Pervasive developmental disorder	D-aspartate oxidase	1
+Usiello A	Pervasive developmental disorder	D-aspartate oxidase	1
+Takayama K	Pervasive developmental disorder	oxytocin receptor	1
+Tobori S	Pervasive developmental disorder	oxytocin receptor	1
+Andoh C	Pervasive developmental disorder	oxytocin receptor	1
+Kakae M	Pervasive developmental disorder	oxytocin receptor	1
+Hagiwara M	Pervasive developmental disorder	oxytocin receptor	1
+Nagayasu K	Pervasive developmental disorder	oxytocin receptor	1
+Shirakawa H	Pervasive developmental disorder	oxytocin receptor	1
+Ago Y	Pervasive developmental disorder	oxytocin receptor	1
+Kaneko S	Pervasive developmental disorder	oxytocin receptor	1
+Mueller FS	Pervasive developmental disorder	parvalbumin	1
+Amport R	Pervasive developmental disorder	parvalbumin	1
+Notter T	Pervasive developmental disorder	parvalbumin	1
+Schalbetter SM	Pervasive developmental disorder	parvalbumin	1
+Lin HY	Pervasive developmental disorder	parvalbumin	1
+Garajova Z	Pervasive developmental disorder	parvalbumin	1
+Amini P	Pervasive developmental disorder	parvalbumin	1
+Weber-Stadlbauer U	Pervasive developmental disorder	parvalbumin	1
+Markkanen E	Pervasive developmental disorder	parvalbumin	1
+Ishihara Y	Pervasive developmental disorder	C-C motif chemokine ligand 3	1
+Honda T	Pervasive developmental disorder	C-C motif chemokine ligand 3	1
+Ishihara N	Pervasive developmental disorder	C-C motif chemokine ligand 3	1
+Namba K	Pervasive developmental disorder	C-C motif chemokine ligand 3	1
+Taketoshi M	Pervasive developmental disorder	C-C motif chemokine ligand 3	1
+Tominaga Y	Pervasive developmental disorder	C-C motif chemokine ligand 3	1
+Tsuji M	Pervasive developmental disorder	C-C motif chemokine ligand 3	1
+Vogel CFA	Pervasive developmental disorder	C-C motif chemokine ligand 3	1
+Yamazaki T	Pervasive developmental disorder	C-C motif chemokine ligand 3	1
+Itoh K	Pervasive developmental disorder	C-C motif chemokine ligand 3	1
+Tominaga T	Pervasive developmental disorder	C-C motif chemokine ligand 3	1
+Durankus F	Pervasive developmental disorder	nerve growth factor	1
+Albayrak Y	Pervasive developmental disorder	nerve growth factor	1
+Erdogan F	Pervasive developmental disorder	nerve growth factor	1
+Albayrak N	Pervasive developmental disorder	nerve growth factor	1
+Erdogan MA	Pervasive developmental disorder	nerve growth factor	3
+Erbas O	Pervasive developmental disorder	nerve growth factor	3
+Kummer S	Pervasive developmental disorder	insulin	1
+Rinne S	Pervasive developmental disorder	insulin	1
+Seemann G	Pervasive developmental disorder	insulin	1
+Bachmann N	Pervasive developmental disorder	insulin	1
+Timothy K	Pervasive developmental disorder	insulin	1
+Thornton PS	Pervasive developmental disorder	insulin	1
+Pillekamp F	Pervasive developmental disorder	insulin	1
+Mayatepek E	Pervasive developmental disorder	insulin	1
+Bergmann C	Pervasive developmental disorder	insulin	1
+Meissner T	Pervasive developmental disorder	insulin	1
+Decher N	Pervasive developmental disorder	insulin	1
+Florea T	Pervasive developmental disorder	oxytocin receptor	1
+Palimariciuc M	Pervasive developmental disorder	oxytocin receptor	1
+Cristofor AC	Pervasive developmental disorder	oxytocin receptor	1
+Dobrin I	Pervasive developmental disorder	oxytocin receptor	1
+Chirita R	Pervasive developmental disorder	oxytocin receptor	1
+Birsan M	Pervasive developmental disorder	oxytocin receptor	1
+Dobrin RP	Pervasive developmental disorder	oxytocin receptor	1
+Padurariu M	Pervasive developmental disorder	oxytocin receptor	1
+Jagadapillai R	Pervasive developmental disorder	albumin	1
+Qiu X	Pervasive developmental disorder	albumin	1
+Ojha K	Pervasive developmental disorder	albumin	1
+Li Z	Pervasive developmental disorder	albumin	4
+El-Baz A	Pervasive developmental disorder	albumin	1
+Zou S	Pervasive developmental disorder	albumin	1
+Gozal E	Pervasive developmental disorder	albumin	1
+Barnes GN	Pervasive developmental disorder	albumin	1
+Esnafoglu E	Pervasive developmental disorder	C-reactive protein	1
+Subasi B	Pervasive developmental disorder	C-reactive protein	1
+Xiang L	Pervasive developmental disorder	parvalbumin	1
+Wu Q	Pervasive developmental disorder	parvalbumin	2
+Sun H	Pervasive developmental disorder	parvalbumin	2
+Miao X	Pervasive developmental disorder	parvalbumin	1
+Lv Z	Pervasive developmental disorder	parvalbumin	1
+Liu H	Pervasive developmental disorder	parvalbumin	4
+Chen L	Pervasive developmental disorder	parvalbumin	1
+Gu Y	Pervasive developmental disorder	parvalbumin	1
+Chen J	Pervasive developmental disorder	parvalbumin	7
+Zhou S	Pervasive developmental disorder	parvalbumin	1
+Jiang H	Pervasive developmental disorder	parvalbumin	1
+Du S	Pervasive developmental disorder	parvalbumin	1
+Zhou Y	Pervasive developmental disorder	parvalbumin	1
+Dong H	Pervasive developmental disorder	parvalbumin	1
+Fan Y	Pervasive developmental disorder	parvalbumin	1
+Miao S	Pervasive developmental disorder	parvalbumin	1
+Lu Q	Pervasive developmental disorder	parvalbumin	1
+Chang L	Pervasive developmental disorder	parvalbumin	1
+Wang H	Pervasive developmental disorder	parvalbumin	2
+Lu Y	Pervasive developmental disorder	parvalbumin	1
+Xu X	Pervasive developmental disorder	parvalbumin	5
+Wang W	Pervasive developmental disorder	parvalbumin	3
+Huang Z	Pervasive developmental disorder	parvalbumin	1
+AU não encontrado	Pervasive developmental disorder	parvalbumin	1
+Frehner SS	Pervasive developmental disorder	oxytocin receptor	2
+Dooley KT	Pervasive developmental disorder	oxytocin receptor	2
+Palumbo MC	Pervasive developmental disorder	oxytocin receptor	2
+Smith AL	Pervasive developmental disorder	oxytocin receptor	2
+Goodman MM	Pervasive developmental disorder	oxytocin receptor	2
+Bales KL	Pervasive developmental disorder	oxytocin receptor	2
+Freeman SM	Pervasive developmental disorder	oxytocin receptor	2
+Frehner SS	Pervasive developmental disorder	tyrosine hydroxylase	2
+Dooley KT	Pervasive developmental disorder	tyrosine hydroxylase	2
+Palumbo MC	Pervasive developmental disorder	tyrosine hydroxylase	2
+Smith AL	Pervasive developmental disorder	tyrosine hydroxylase	2
+Goodman MM	Pervasive developmental disorder	tyrosine hydroxylase	2
+Bales KL	Pervasive developmental disorder	tyrosine hydroxylase	2
+Freeman SM	Pervasive developmental disorder	tyrosine hydroxylase	2
+Chu MC	Pervasive developmental disorder	gephyrin	1
+Wu HF	Pervasive developmental disorder	gephyrin	1
+Lee CW	Pervasive developmental disorder	gephyrin	1
+Chung YJ	Pervasive developmental disorder	gephyrin	1
+Chi H	Pervasive developmental disorder	gephyrin	1
+Chen PS	Pervasive developmental disorder	gephyrin	1
+Lin HC	Pervasive developmental disorder	gephyrin	1
+Mitchell AJ	Pervasive developmental disorder	leptin	1
+Khambadkone SG	Pervasive developmental disorder	leptin	1
+Dunn G	Pervasive developmental disorder	leptin	1
+Bagley J	Pervasive developmental disorder	leptin	1
+Tamashiro KLK	Pervasive developmental disorder	leptin	1
+Fair D	Pervasive developmental disorder	leptin	1
+Gustafsson H	Pervasive developmental disorder	leptin	1
+Sullivan EL	Pervasive developmental disorder	leptin	1
+Zorn S	Pervasive developmental disorder	leptin receptor	1
+von Schnurbein J	Pervasive developmental disorder	leptin receptor	1
+Schirmer M	Pervasive developmental disorder	leptin receptor	1
+Brandt S	Pervasive developmental disorder	leptin receptor	1
+Wabitsch M	Pervasive developmental disorder	leptin receptor	1
+Kalinowska M	Pervasive developmental disorder	parvalbumin	2
+van der Lei MB	Pervasive developmental disorder	parvalbumin	2
+Kitiashvili M	Pervasive developmental disorder	parvalbumin	2
+Mamcarz M	Pervasive developmental disorder	parvalbumin	2
+Oliveira MM	Pervasive developmental disorder	parvalbumin	2
+Longo F	Pervasive developmental disorder	parvalbumin	2
+Klann E	Pervasive developmental disorder	parvalbumin	2
+Kalinowska M	Pervasive developmental disorder	somatostatin	2
+van der Lei MB	Pervasive developmental disorder	somatostatin	2
+Kitiashvili M	Pervasive developmental disorder	somatostatin	2
+Mamcarz M	Pervasive developmental disorder	somatostatin	2
+Oliveira MM	Pervasive developmental disorder	somatostatin	2
+Longo F	Pervasive developmental disorder	somatostatin	2
+Klann E	Pervasive developmental disorder	somatostatin	2
+Liu X	Pervasive developmental disorder	E1A binding protein p300	9
+Wang Z	Pervasive developmental disorder	E1A binding protein p300	3
+Zhang X	Pervasive developmental disorder	E1A binding protein p300	6
+Zhang D	Pervasive developmental disorder	E1A binding protein p300	2
+Yang Q	Pervasive developmental disorder	E1A binding protein p300	4
+Hu P	Pervasive developmental disorder	E1A binding protein p300	2
+Li F	Pervasive developmental disorder	E1A binding protein p300	2
+Liu X	Pervasive developmental disorder	cadherin 2	9
+Wang Z	Pervasive developmental disorder	cadherin 2	3
+Zhang X	Pervasive developmental disorder	cadherin 2	6
+Zhang D	Pervasive developmental disorder	cadherin 2	2
+Yang Q	Pervasive developmental disorder	cadherin 2	4
+Hu P	Pervasive developmental disorder	cadherin 2	2
+Li F	Pervasive developmental disorder	cadherin 2	2
+Sharma A	Pervasive developmental disorder	myelin basic protein	1
+Bhalla S	Pervasive developmental disorder	myelin basic protein	3
+Mehan S	Pervasive developmental disorder	myelin basic protein	3
+Tovo PA	Pervasive developmental disorder	multiple sclerosis	1
+Davico C	Pervasive developmental disorder	multiple sclerosis	1
+Marcotulli D	Pervasive developmental disorder	multiple sclerosis	1
+Vitiello B	Pervasive developmental disorder	multiple sclerosis	1
+Dapra V	Pervasive developmental disorder	multiple sclerosis	1
+Calvi C	Pervasive developmental disorder	multiple sclerosis	1
+Montanari P	Pervasive developmental disorder	multiple sclerosis	1
+Carpino A	Pervasive developmental disorder	multiple sclerosis	1
+Galliano I	Pervasive developmental disorder	multiple sclerosis	1
+Bergallo M	Pervasive developmental disorder	multiple sclerosis	1
+Sivasangari K	Pervasive developmental disorder	nerve growth factor	3
+Rajan KE	Pervasive developmental disorder	nerve growth factor	3
+Sivasangari K	Pervasive developmental disorder	glial fibrillary acidic protein	3
+Rajan KE	Pervasive developmental disorder	glial fibrillary acidic protein	3
+Sivasangari K	Pervasive developmental disorder	proliferating cell nuclear antigen	3
+Rajan KE	Pervasive developmental disorder	proliferating cell nuclear antigen	3
+He Z	Pervasive developmental disorder	doublecortin	1
+Ozkul B	Pervasive developmental disorder	tumor necrosis factor	2
+Urfali FE	Pervasive developmental disorder	tumor necrosis factor	2
+Sever IH	Pervasive developmental disorder	tumor necrosis factor	2
+Bozkurt MF	Pervasive developmental disorder	tumor necrosis factor	2
+Sogut I	Pervasive developmental disorder	tumor necrosis factor	2
+Elgormus CS	Pervasive developmental disorder	tumor necrosis factor	2
+Erdogan MA	Pervasive developmental disorder	tumor necrosis factor	3
+Erbas O	Pervasive developmental disorder	tumor necrosis factor	3
+Ozkul B	Pervasive developmental disorder	glial fibrillary acidic protein	2
+Urfali FE	Pervasive developmental disorder	glial fibrillary acidic protein	2
+Sever IH	Pervasive developmental disorder	glial fibrillary acidic protein	2
+Bozkurt MF	Pervasive developmental disorder	glial fibrillary acidic protein	2
+Sogut I	Pervasive developmental disorder	glial fibrillary acidic protein	2
+Elgormus CS	Pervasive developmental disorder	glial fibrillary acidic protein	2
+Erdogan MA	Pervasive developmental disorder	glial fibrillary acidic protein	3
+Erbas O	Pervasive developmental disorder	glial fibrillary acidic protein	3
+Shih PY	Pervasive developmental disorder	cortactin	1
+Fang YL	Pervasive developmental disorder	cortactin	1
+Shankar S	Pervasive developmental disorder	cortactin	1
+Lee SP	Pervasive developmental disorder	cortactin	1
+Hu HT	Pervasive developmental disorder	cortactin	1
+Chen H	Pervasive developmental disorder	cortactin	1
+Wang TF	Pervasive developmental disorder	cortactin	1
+Hsia KC	Pervasive developmental disorder	cortactin	1
+Hsueh YP	Pervasive developmental disorder	cortactin	1
+Yu D	Pervasive developmental disorder	parvalbumin	2
+Li T	Pervasive developmental disorder	parvalbumin	6
+Delpech JC	Pervasive developmental disorder	parvalbumin	2
+Zhu B	Pervasive developmental disorder	parvalbumin	2
+Kishore P	Pervasive developmental disorder	parvalbumin	2
+Koshi T	Pervasive developmental disorder	parvalbumin	2
+Luo R	Pervasive developmental disorder	parvalbumin	2
+Pratt KJB	Pervasive developmental disorder	parvalbumin	2
+Popova G	Pervasive developmental disorder	parvalbumin	2
+Nowakowski TJ	Pervasive developmental disorder	parvalbumin	2
+Villeda SA	Pervasive developmental disorder	parvalbumin	2
+Piao X	Pervasive developmental disorder	parvalbumin	2
+Yu D	Pervasive developmental disorder	tumor necrosis factor	2
+Li T	Pervasive developmental disorder	tumor necrosis factor	6
+Delpech JC	Pervasive developmental disorder	tumor necrosis factor	2
+Zhu B	Pervasive developmental disorder	tumor necrosis factor	2
+Kishore P	Pervasive developmental disorder	tumor necrosis factor	2
+Koshi T	Pervasive developmental disorder	tumor necrosis factor	2
+Luo R	Pervasive developmental disorder	tumor necrosis factor	2
+Pratt KJB	Pervasive developmental disorder	tumor necrosis factor	2
+Popova G	Pervasive developmental disorder	tumor necrosis factor	2
+Nowakowski TJ	Pervasive developmental disorder	tumor necrosis factor	2
+Villeda SA	Pervasive developmental disorder	tumor necrosis factor	2
+Piao X	Pervasive developmental disorder	tumor necrosis factor	2
+Perea V	Pervasive developmental disorder	insulin	1
+Urquizu X	Pervasive developmental disorder	insulin	1
+Valverde M	Pervasive developmental disorder	insulin	1
+Macias M	Pervasive developmental disorder	insulin	1
+Carmona A	Pervasive developmental disorder	insulin	1
+Esteve E	Pervasive developmental disorder	insulin	1
+Escribano G	Pervasive developmental disorder	insulin	1
+Pons N	Pervasive developmental disorder	insulin	1
+Gimenez O	Pervasive developmental disorder	insulin	1
+Girones T	Pervasive developmental disorder	insulin	1
+Simo-Servat A	Pervasive developmental disorder	insulin	1
+Domenech A	Pervasive developmental disorder	insulin	1
+Alonso-Carril N	Pervasive developmental disorder	insulin	1
+Quiros C	Pervasive developmental disorder	insulin	1
+Amor AJ	Pervasive developmental disorder	insulin	1
+Lopez E	Pervasive developmental disorder	insulin	1
+Barahona MJ	Pervasive developmental disorder	insulin	1
+Biswas M	Pervasive developmental disorder	prolactin	1
+Vanwong N	Pervasive developmental disorder	prolactin	1
+Sukasem C	Pervasive developmental disorder	prolactin	1
+Santos-Terra J	Pervasive developmental disorder	parvalbumin	4
+Deckmann I	Pervasive developmental disorder	parvalbumin	4
+Carello-Collar G	Pervasive developmental disorder	parvalbumin	2
+Nunes GD	Pervasive developmental disorder	parvalbumin	2
+Bauer-Negrini G	Pervasive developmental disorder	parvalbumin	3
+Schwingel GB	Pervasive developmental disorder	parvalbumin	4
+Fontes-Dutra M	Pervasive developmental disorder	parvalbumin	4
+Riesgo R	Pervasive developmental disorder	parvalbumin	3
+Gottfried C	Pervasive developmental disorder	parvalbumin	4
+Santos-Terra J	Pervasive developmental disorder	somatostatin	4
+Deckmann I	Pervasive developmental disorder	somatostatin	4
+Carello-Collar G	Pervasive developmental disorder	somatostatin	2
+Nunes GD	Pervasive developmental disorder	somatostatin	2
+Bauer-Negrini G	Pervasive developmental disorder	somatostatin	3
+Schwingel GB	Pervasive developmental disorder	somatostatin	4
+Fontes-Dutra M	Pervasive developmental disorder	somatostatin	4
+Riesgo R	Pervasive developmental disorder	somatostatin	3
+Gottfried C	Pervasive developmental disorder	somatostatin	4
+D'haenens E	Pervasive developmental disorder	beta-1,3-N-acetylgalactosaminyltransferase 2	1
+Vergult S	Pervasive developmental disorder	beta-1,3-N-acetylgalactosaminyltransferase 2	1
+Menten B	Pervasive developmental disorder	beta-1,3-N-acetylgalactosaminyltransferase 2	1
+Dheedene A	Pervasive developmental disorder	beta-1,3-N-acetylgalactosaminyltransferase 2	1
+Kooy RF	Pervasive developmental disorder	beta-1,3-N-acetylgalactosaminyltransferase 2	1
+Callewaert B	Pervasive developmental disorder	beta-1,3-N-acetylgalactosaminyltransferase 2	1
+Westmark CJ	Pervasive developmental disorder	leptin	1
+Filon MJ	Pervasive developmental disorder	leptin	1
+Maina P	Pervasive developmental disorder	leptin	1
+Steinberg LI	Pervasive developmental disorder	leptin	1
+Ikonomidou C	Pervasive developmental disorder	leptin	1
+Westmark PR	Pervasive developmental disorder	leptin	1
+Luhach K	Pervasive developmental disorder	brain derived neurotrophic factor	3
+Kulkarni GT	Pervasive developmental disorder	brain derived neurotrophic factor	3
+Singh VP	Pervasive developmental disorder	brain derived neurotrophic factor	3
+Sharma B	Pervasive developmental disorder	brain derived neurotrophic factor	3
+Luhach K	Pervasive developmental disorder	tumor necrosis factor	3
+Kulkarni GT	Pervasive developmental disorder	tumor necrosis factor	3
+Singh VP	Pervasive developmental disorder	tumor necrosis factor	3
+Sharma B	Pervasive developmental disorder	tumor necrosis factor	3
+Vazifekhah S	Pervasive developmental disorder	glutamate decarboxylase 2	1
+Barfi S	Pervasive developmental disorder	glutamate decarboxylase 2	1
+Soleimany F	Pervasive developmental disorder	glutamate decarboxylase 2	1
+Aliakbar A	Pervasive developmental disorder	glutamate decarboxylase 2	1
+Zavvari F	Pervasive developmental disorder	glutamate decarboxylase 2	1
+Karimzadeh F	Pervasive developmental disorder	glutamate decarboxylase 2	1
+De Giacomo A	Pervasive developmental disorder	transferrin	2
+Medicamento S	Pervasive developmental disorder	transferrin	1
+Pedaci C	Pervasive developmental disorder	transferrin	1
+Giambersio D	Pervasive developmental disorder	transferrin	1
+Giannico OV	Pervasive developmental disorder	transferrin	1
+Petruzzelli MG	Pervasive developmental disorder	transferrin	1
+Simone M	Pervasive developmental disorder	transferrin	2
+Corsalini M	Pervasive developmental disorder	transferrin	1
+Marzulli L	Pervasive developmental disorder	transferrin	2
+Matera E	Pervasive developmental disorder	transferrin	1
+Brynge M	Pervasive developmental disorder	C-reactive protein	1
+Gardner R	Pervasive developmental disorder	C-reactive protein	1
+Sjoqvist H	Pervasive developmental disorder	C-reactive protein	1
+Karlsson H	Pervasive developmental disorder	C-reactive protein	1
+Dalman C	Pervasive developmental disorder	C-reactive protein	1
+Imam B	Pervasive developmental disorder	oxytocin receptor	3
+Rahmatinia M	Pervasive developmental disorder	oxytocin receptor	3
+Shahsavani A	Pervasive developmental disorder	oxytocin receptor	3
+Khodagholi F	Pervasive developmental disorder	oxytocin receptor	3
+Hopke PK	Pervasive developmental disorder	oxytocin receptor	3
+Bazazzpour S	Pervasive developmental disorder	oxytocin receptor	3
+Hadei M	Pervasive developmental disorder	oxytocin receptor	3
+Yarahmadi M	Pervasive developmental disorder	oxytocin receptor	3
+Abdollahifar MA	Pervasive developmental disorder	oxytocin receptor	3
+Torkmahalleh MA	Pervasive developmental disorder	oxytocin receptor	3
+Kermani M	Pervasive developmental disorder	oxytocin receptor	3
+Ilkhani S	Pervasive developmental disorder	oxytocin receptor	3
+MirBehbahani SH	Pervasive developmental disorder	oxytocin receptor	3
+Imam B	Pervasive developmental disorder	interleukin 6	3
+Rahmatinia M	Pervasive developmental disorder	interleukin 6	3
+Shahsavani A	Pervasive developmental disorder	interleukin 6	3
+Khodagholi F	Pervasive developmental disorder	interleukin 6	3
+Hopke PK	Pervasive developmental disorder	interleukin 6	3
+Bazazzpour S	Pervasive developmental disorder	interleukin 6	3
+Hadei M	Pervasive developmental disorder	interleukin 6	3
+Yarahmadi M	Pervasive developmental disorder	interleukin 6	3
+Abdollahifar MA	Pervasive developmental disorder	interleukin 6	3
+Torkmahalleh MA	Pervasive developmental disorder	interleukin 6	3
+Kermani M	Pervasive developmental disorder	interleukin 6	3
+Ilkhani S	Pervasive developmental disorder	interleukin 6	3
+MirBehbahani SH	Pervasive developmental disorder	interleukin 6	3
+Imam B	Pervasive developmental disorder	tumor necrosis factor	3
+Rahmatinia M	Pervasive developmental disorder	tumor necrosis factor	3
+Shahsavani A	Pervasive developmental disorder	tumor necrosis factor	3
+Khodagholi F	Pervasive developmental disorder	tumor necrosis factor	3
+Hopke PK	Pervasive developmental disorder	tumor necrosis factor	3
+Bazazzpour S	Pervasive developmental disorder	tumor necrosis factor	3
+Hadei M	Pervasive developmental disorder	tumor necrosis factor	3
+Yarahmadi M	Pervasive developmental disorder	tumor necrosis factor	3
+Abdollahifar MA	Pervasive developmental disorder	tumor necrosis factor	3
+Torkmahalleh MA	Pervasive developmental disorder	tumor necrosis factor	3
+Kermani M	Pervasive developmental disorder	tumor necrosis factor	3
+Ilkhani S	Pervasive developmental disorder	tumor necrosis factor	3
+MirBehbahani SH	Pervasive developmental disorder	tumor necrosis factor	3
+Simpson D	Pervasive developmental disorder	translocator protein	2
+Gharehgazlou A	Pervasive developmental disorder	translocator protein	2
+Da Silva T	Pervasive developmental disorder	translocator protein	2
+Labrie-Cleary C	Pervasive developmental disorder	translocator protein	2
+Wilson AA	Pervasive developmental disorder	translocator protein	2
+Meyer JH	Pervasive developmental disorder	translocator protein	2
+Mizrahi R	Pervasive developmental disorder	translocator protein	2
+Rusjan PM	Pervasive developmental disorder	translocator protein	2
+Simpson D	Pervasive developmental disorder	multiple sclerosis	2
+Gharehgazlou A	Pervasive developmental disorder	multiple sclerosis	2
+Da Silva T	Pervasive developmental disorder	multiple sclerosis	2
+Labrie-Cleary C	Pervasive developmental disorder	multiple sclerosis	2
+Wilson AA	Pervasive developmental disorder	multiple sclerosis	2
+Meyer JH	Pervasive developmental disorder	multiple sclerosis	2
+Mizrahi R	Pervasive developmental disorder	multiple sclerosis	2
+Rusjan PM	Pervasive developmental disorder	multiple sclerosis	2
+Mpoulimari I	Pervasive developmental disorder	adenosine deaminase	6
+Zintzaras E	Pervasive developmental disorder	adenosine deaminase	6
+Mpoulimari I	Pervasive developmental disorder	solute carrier family 6 member 4	6
+Zintzaras E	Pervasive developmental disorder	solute carrier family 6 member 4	6
+Mpoulimari I	Pervasive developmental disorder	vitamin D receptor	6
+Zintzaras E	Pervasive developmental disorder	vitamin D receptor	6
+Mpoulimari I	Pervasive developmental disorder	dopamine receptor D3	6
+Zintzaras E	Pervasive developmental disorder	dopamine receptor D3	6
+Mpoulimari I	Pervasive developmental disorder	neurexin 1	6
+Zintzaras E	Pervasive developmental disorder	neurexin 1	6
+Mpoulimari I	Pervasive developmental disorder	oxytocin receptor	6
+Zintzaras E	Pervasive developmental disorder	oxytocin receptor	6
+Abhishek M	Pervasive developmental disorder	catalase	1
+Rubal S	Pervasive developmental disorder	catalase	1
+Rohit K	Pervasive developmental disorder	catalase	1
+Rupa J	Pervasive developmental disorder	catalase	1
+Phulen S	Pervasive developmental disorder	catalase	1
+Gurjeet K	Pervasive developmental disorder	catalase	1
+Raj SA	Pervasive developmental disorder	catalase	1
+Manisha P	Pervasive developmental disorder	catalase	1
+Alka B	Pervasive developmental disorder	catalase	1
+Ramprasad P	Pervasive developmental disorder	catalase	1
+Bikash M	Pervasive developmental disorder	catalase	1
+Schiavi S	Pervasive developmental disorder	phosphodiesterase 2A	1
+Carbone E	Pervasive developmental disorder	phosphodiesterase 2A	1
+Melancia F	Pervasive developmental disorder	phosphodiesterase 2A	1
+di Masi A	Pervasive developmental disorder	phosphodiesterase 2A	1
+Jarjat M	Pervasive developmental disorder	phosphodiesterase 2A	1
+Brau F	Pervasive developmental disorder	phosphodiesterase 2A	1
+Cardarelli S	Pervasive developmental disorder	phosphodiesterase 2A	1
+Giorgi M	Pervasive developmental disorder	phosphodiesterase 2A	1
+Bardoni B	Pervasive developmental disorder	phosphodiesterase 2A	1
+Trezza V	Pervasive developmental disorder	phosphodiesterase 2A	1
+Cammarata-Scalisi F	Pervasive developmental disorder	insulin	1
+Callea M	Pervasive developmental disorder	insulin	1
+Martinelli D	Pervasive developmental disorder	insulin	1
+Willoughby CE	Pervasive developmental disorder	insulin	1
+Tadich AC	Pervasive developmental disorder	insulin	1
+Araya Castillo M	Pervasive developmental disorder	insulin	1
+Lacruz-Rengel MA	Pervasive developmental disorder	insulin	1
+Medina M	Pervasive developmental disorder	insulin	1
+Grimaldi P	Pervasive developmental disorder	insulin	1
+Bertini E	Pervasive developmental disorder	insulin	1
+Nevado J	Pervasive developmental disorder	insulin	1
+Wang L	Pervasive developmental disorder	prosaposin	1
+Chen J	Pervasive developmental disorder	prosaposin	7
+Hu Y	Pervasive developmental disorder	prosaposin	3
+Liao A	Pervasive developmental disorder	prosaposin	1
+Zheng W	Pervasive developmental disorder	prosaposin	1
+Wang X	Pervasive developmental disorder	prosaposin	2
+Lan J	Pervasive developmental disorder	prosaposin	1
+Shen J	Pervasive developmental disorder	prosaposin	1
+Wang S	Pervasive developmental disorder	prosaposin	2
+Yang F	Pervasive developmental disorder	prosaposin	1
+Wang Y	Pervasive developmental disorder	prosaposin	8
+Li Y	Pervasive developmental disorder	prosaposin	2
+Chen D	Pervasive developmental disorder	prosaposin	1
+Al-Ali Z	Pervasive developmental disorder	oxytocin receptor	1
+Yasseen AA	Pervasive developmental disorder	oxytocin receptor	1
+Al-Dujailli A	Pervasive developmental disorder	oxytocin receptor	1
+Al-Karaqully AJ	Pervasive developmental disorder	oxytocin receptor	1
+McAllister KA	Pervasive developmental disorder	oxytocin receptor	1
+Jumaah AS	Pervasive developmental disorder	oxytocin receptor	1
+Abbasalipour H	Pervasive developmental disorder	catalase	1
+Hajizadeh Moghaddam A	Pervasive developmental disorder	catalase	1
+Ranjbar M	Pervasive developmental disorder	catalase	3
+Cristino LMF	Pervasive developmental disorder	parvalbumin	1
+Chaves Filho AJM	Pervasive developmental disorder	parvalbumin	1
+Custodio CS	Pervasive developmental disorder	parvalbumin	1
+Vasconcelos SMM	Pervasive developmental disorder	parvalbumin	1
+de Sousa FCF	Pervasive developmental disorder	parvalbumin	1
+Sanders LLO	Pervasive developmental disorder	parvalbumin	1
+de Lucena DF	Pervasive developmental disorder	parvalbumin	1
+Macedo DS	Pervasive developmental disorder	parvalbumin	1
+Ejlersen M	Pervasive developmental disorder	superoxide dismutase 1	2
+Ilieva M	Pervasive developmental disorder	superoxide dismutase 1	2
+Michel TM	Pervasive developmental disorder	superoxide dismutase 1	2
+Ejlersen M	Pervasive developmental disorder	superoxide dismutase 2	2
+Ilieva M	Pervasive developmental disorder	superoxide dismutase 2	2
+Michel TM	Pervasive developmental disorder	superoxide dismutase 2	2
+Zhang Y	Pervasive developmental disorder	tumor necrosis factor	5
+Yin HY	Pervasive developmental disorder	tumor necrosis factor	2
+Rubini P	Pervasive developmental disorder	tumor necrosis factor	2
+Tang Y	Pervasive developmental disorder	tumor necrosis factor	2
+Illes P	Pervasive developmental disorder	tumor necrosis factor	2
+Zhang Y	Pervasive developmental disorder	multiple sclerosis	5
+Yin HY	Pervasive developmental disorder	multiple sclerosis	2
+Rubini P	Pervasive developmental disorder	multiple sclerosis	2
+Tang Y	Pervasive developmental disorder	multiple sclerosis	2
+Illes P	Pervasive developmental disorder	multiple sclerosis	2
+Wu H	Pervasive developmental disorder	glutathione peroxidase 4	1
+Luan Y	Pervasive developmental disorder	glutathione peroxidase 4	1
+Wang H	Pervasive developmental disorder	glutathione peroxidase 4	2
+Zhang P	Pervasive developmental disorder	glutathione peroxidase 4	2
+Liu S	Pervasive developmental disorder	glutathione peroxidase 4	2
+Wang P	Pervasive developmental disorder	glutathione peroxidase 4	1
+Cao Y	Pervasive developmental disorder	glutathione peroxidase 4	1
+Sun H	Pervasive developmental disorder	glutathione peroxidase 4	2
+Wu L	Pervasive developmental disorder	glutathione peroxidase 4	1
+Hausman-Cohen S	Pervasive developmental disorder	SH3 and multiple ankyrin repeat domains 3	1
+LaValley W	Pervasive developmental disorder	SH3 and multiple ankyrin repeat domains 3	1
+Way H	Pervasive developmental disorder	SH3 and multiple ankyrin repeat domains 3	1
+Gutierrez E	Pervasive developmental disorder	SH3 and multiple ankyrin repeat domains 3	1
+Reeder J	Pervasive developmental disorder	SH3 and multiple ankyrin repeat domains 3	1
+Mattis J	Pervasive developmental disorder	parvalbumin	1
+Somarowthu A	Pervasive developmental disorder	parvalbumin	1
+Goff KM	Pervasive developmental disorder	parvalbumin	1
+Jiang E	Pervasive developmental disorder	parvalbumin	1
+Yom J	Pervasive developmental disorder	parvalbumin	1
+Sotuyo N	Pervasive developmental disorder	parvalbumin	1
+Mcgarry LM	Pervasive developmental disorder	parvalbumin	1
+Feng H	Pervasive developmental disorder	parvalbumin	1
+Kaneko K	Pervasive developmental disorder	parvalbumin	1
+Goldberg EM	Pervasive developmental disorder	parvalbumin	1
+Li Z	Pervasive developmental disorder	insulin	4
+Xiao GY	Pervasive developmental disorder	insulin	1
+He CY	Pervasive developmental disorder	insulin	1
+Liu X	Pervasive developmental disorder	insulin	9
+Fan X	Pervasive developmental disorder	insulin	1
+Zhao Y	Pervasive developmental disorder	insulin	1
+Wang NR	Pervasive developmental disorder	insulin	1
+Cheng Y	Pervasive developmental disorder	somatostatin	2
+Tang B	Pervasive developmental disorder	somatostatin	1
+Zhang G	Pervasive developmental disorder	somatostatin	1
+An P	Pervasive developmental disorder	somatostatin	1
+Sun Y	Pervasive developmental disorder	somatostatin	1
+Gao M	Pervasive developmental disorder	somatostatin	1
+Zhang Y	Pervasive developmental disorder	somatostatin	5
+Shan Y	Pervasive developmental disorder	somatostatin	1
+Zhang J	Pervasive developmental disorder	somatostatin	6
+Liu Q	Pervasive developmental disorder	somatostatin	1
+Lai CSW	Pervasive developmental disorder	somatostatin	1
+de Villers-Sidani E	Pervasive developmental disorder	somatostatin	1
+Wang Y	Pervasive developmental disorder	somatostatin	8
+Zhou X	Pervasive developmental disorder	somatostatin	1
+Kutna V	Pervasive developmental disorder	synaptophysin	1
+O'Leary VB	Pervasive developmental disorder	synaptophysin	1
+Hoschl C	Pervasive developmental disorder	synaptophysin	1
+Ovsepian SV	Pervasive developmental disorder	synaptophysin	1
+Fanelli G	Pervasive developmental disorder	insulin	2
+Franke B	Pervasive developmental disorder	insulin	2
+De Witte W	Pervasive developmental disorder	insulin	2
+Ruisch IH	Pervasive developmental disorder	insulin	2
+Haavik J	Pervasive developmental disorder	insulin	2
+van Gils V	Pervasive developmental disorder	insulin	2
+Jansen WJ	Pervasive developmental disorder	insulin	2
+Vos SJB	Pervasive developmental disorder	insulin	2
+Lind L	Pervasive developmental disorder	insulin	2
+Buitelaar JK	Pervasive developmental disorder	insulin	2
+Banaschewski T	Pervasive developmental disorder	insulin	2
+Dalsgaard S	Pervasive developmental disorder	insulin	2
+Serretti A	Pervasive developmental disorder	insulin	2
+Mota NR	Pervasive developmental disorder	insulin	2
+Poelmans G	Pervasive developmental disorder	insulin	2
+Bralten J	Pervasive developmental disorder	insulin	2
+Fanelli G	Pervasive developmental disorder	insulin receptor	2
+Franke B	Pervasive developmental disorder	insulin receptor	2
+De Witte W	Pervasive developmental disorder	insulin receptor	2
+Ruisch IH	Pervasive developmental disorder	insulin receptor	2
+Haavik J	Pervasive developmental disorder	insulin receptor	2
+van Gils V	Pervasive developmental disorder	insulin receptor	2
+Jansen WJ	Pervasive developmental disorder	insulin receptor	2
+Vos SJB	Pervasive developmental disorder	insulin receptor	2
+Lind L	Pervasive developmental disorder	insulin receptor	2
+Buitelaar JK	Pervasive developmental disorder	insulin receptor	2
+Banaschewski T	Pervasive developmental disorder	insulin receptor	2
+Dalsgaard S	Pervasive developmental disorder	insulin receptor	2
+Serretti A	Pervasive developmental disorder	insulin receptor	2
+Mota NR	Pervasive developmental disorder	insulin receptor	2
+Poelmans G	Pervasive developmental disorder	insulin receptor	2
+Bralten J	Pervasive developmental disorder	insulin receptor	2
+Wang J	Pervasive developmental disorder	superoxide dismutase 2	4
+Frohlich H	Pervasive developmental disorder	superoxide dismutase 2	1
+Torres FB	Pervasive developmental disorder	superoxide dismutase 2	1
+Silva RL	Pervasive developmental disorder	superoxide dismutase 2	1
+Poschet G	Pervasive developmental disorder	superoxide dismutase 2	1
+Agarwal A	Pervasive developmental disorder	superoxide dismutase 2	1
+Rappold GA	Pervasive developmental disorder	superoxide dismutase 2	1
+Kohlhoff J	Pervasive developmental disorder	oxytocin receptor	1
+Cibralic S	Pervasive developmental disorder	oxytocin receptor	1
+Hawes DJ	Pervasive developmental disorder	oxytocin receptor	1
+Eapen V	Pervasive developmental disorder	oxytocin receptor	1
+Hughes RB	Pervasive developmental disorder	insulin receptor	1
+Whittingham-Dowd J	Pervasive developmental disorder	insulin receptor	1
+Clapcote SJ	Pervasive developmental disorder	insulin receptor	1
+Broughton SJ	Pervasive developmental disorder	insulin receptor	1
+Dawson N	Pervasive developmental disorder	insulin receptor	1
+Okazaki S	Pervasive developmental disorder	plasminogen	1
+Kimura R	Pervasive developmental disorder	plasminogen	1
+Otsuka I	Pervasive developmental disorder	plasminogen	1
+Funabiki Y	Pervasive developmental disorder	plasminogen	1
+Murai T	Pervasive developmental disorder	plasminogen	1
+Hishimoto A	Pervasive developmental disorder	plasminogen	1
+Sethuram S	Pervasive developmental disorder	insulin	1
+Levy T	Pervasive developmental disorder	insulin	1
+Foss-Feig J	Pervasive developmental disorder	insulin	1
+Halpern D	Pervasive developmental disorder	insulin	1
+Sandin S	Pervasive developmental disorder	insulin	1
+Siper PM	Pervasive developmental disorder	insulin	1
+Walker H	Pervasive developmental disorder	insulin	1
+Buxbaum JD	Pervasive developmental disorder	insulin	1
+Rapaport R	Pervasive developmental disorder	insulin	1
+Kolevzon A	Pervasive developmental disorder	insulin	1
+Knipper M	Pervasive developmental disorder	parvalbumin	1
+Singer W	Pervasive developmental disorder	parvalbumin	1
+Schwabe K	Pervasive developmental disorder	parvalbumin	1
+Hagberg GE	Pervasive developmental disorder	parvalbumin	1
+Li Hegner Y	Pervasive developmental disorder	parvalbumin	1
+Ruttiger L	Pervasive developmental disorder	parvalbumin	1
+Braun C	Pervasive developmental disorder	parvalbumin	1
+Land R	Pervasive developmental disorder	parvalbumin	1
+Knoedler JR	Pervasive developmental disorder	estrogen receptor 1	1
+Inoue S	Pervasive developmental disorder	estrogen receptor 1	1
+Bayless DW	Pervasive developmental disorder	estrogen receptor 1	1
+Yang T	Pervasive developmental disorder	estrogen receptor 1	4
+Tantry A	Pervasive developmental disorder	estrogen receptor 1	1
+Davis CH	Pervasive developmental disorder	estrogen receptor 1	1
+Leung NY	Pervasive developmental disorder	estrogen receptor 1	1
+Parthasarathy S	Pervasive developmental disorder	estrogen receptor 1	1
+Wang G	Pervasive developmental disorder	estrogen receptor 1	1
+Alvarado M	Pervasive developmental disorder	estrogen receptor 1	1
+Rizvi AH	Pervasive developmental disorder	estrogen receptor 1	1
+Fenno LE	Pervasive developmental disorder	estrogen receptor 1	1
+Ramakrishnan C	Pervasive developmental disorder	estrogen receptor 1	1
+Deisseroth K	Pervasive developmental disorder	estrogen receptor 1	1
+Shah NM	Pervasive developmental disorder	estrogen receptor 1	1
+Sheikh TI	Pervasive developmental disorder	nucleolin	1
+Harripaul R	Pervasive developmental disorder	nucleolin	1
+Vasli N	Pervasive developmental disorder	nucleolin	1
+Ghadami M	Pervasive developmental disorder	nucleolin	1
+Santangelo SL	Pervasive developmental disorder	nucleolin	1
+Ayub M	Pervasive developmental disorder	nucleolin	1
+Sasanfar R	Pervasive developmental disorder	nucleolin	1
+Vincent JB	Pervasive developmental disorder	nucleolin	1
+Alhakbany M	Pervasive developmental disorder	tumor necrosis factor	1
+Al-Ayadhi L	Pervasive developmental disorder	tumor necrosis factor	1
+El-Ansary A	Pervasive developmental disorder	tumor necrosis factor	2
+Lin WD	Pervasive developmental disorder	Gilles de la Tourette syndrome	2
+Tsai FJ	Pervasive developmental disorder	Gilles de la Tourette syndrome	2
+Chou IC	Pervasive developmental disorder	Gilles de la Tourette syndrome	2
+Lin WD	Pervasive developmental disorder	histidine decarboxylase	2
+Tsai FJ	Pervasive developmental disorder	histidine decarboxylase	2
+Chou IC	Pervasive developmental disorder	histidine decarboxylase	2
+Yu H	Pervasive developmental disorder	superoxide dismutase 2	2
+Niu Y	Pervasive developmental disorder	superoxide dismutase 2	1
+Jia G	Pervasive developmental disorder	superoxide dismutase 2	1
+Liang Y	Pervasive developmental disorder	superoxide dismutase 2	2
+Chen B	Pervasive developmental disorder	superoxide dismutase 2	1
+Sun R	Pervasive developmental disorder	superoxide dismutase 2	1
+Wang M	Pervasive developmental disorder	superoxide dismutase 2	1
+Huang S	Pervasive developmental disorder	superoxide dismutase 2	1
+Zeng J	Pervasive developmental disorder	superoxide dismutase 2	1
+Lu J	Pervasive developmental disorder	superoxide dismutase 2	3
+Li L	Pervasive developmental disorder	superoxide dismutase 2	4
+Guo X	Pervasive developmental disorder	superoxide dismutase 2	1
+Yao P	Pervasive developmental disorder	superoxide dismutase 2	1
+Zhao P	Pervasive developmental disorder	thioredoxin	2
+Fu H	Pervasive developmental disorder	thioredoxin	2
+Cheng H	Pervasive developmental disorder	thioredoxin	2
+Zheng R	Pervasive developmental disorder	thioredoxin	2
+Yuan D	Pervasive developmental disorder	thioredoxin	2
+Yang J	Pervasive developmental disorder	thioredoxin	2
+Li S	Pervasive developmental disorder	thioredoxin	2
+Li E	Pervasive developmental disorder	thioredoxin	2
+Li L	Pervasive developmental disorder	thioredoxin	4
+Zhao P	Pervasive developmental disorder	caspase 1	2
+Fu H	Pervasive developmental disorder	caspase 1	2
+Cheng H	Pervasive developmental disorder	caspase 1	2
+Zheng R	Pervasive developmental disorder	caspase 1	2
+Yuan D	Pervasive developmental disorder	caspase 1	2
+Yang J	Pervasive developmental disorder	caspase 1	2
+Li S	Pervasive developmental disorder	caspase 1	2
+Li E	Pervasive developmental disorder	caspase 1	2
+Li L	Pervasive developmental disorder	caspase 1	4
+Dewulf JP	Pervasive developmental disorder	adenylosuccinate lyase	1
+Marie S	Pervasive developmental disorder	adenylosuccinate lyase	1
+Nassogne MC	Pervasive developmental disorder	adenylosuccinate lyase	1
+Carducci F	Pervasive developmental disorder	glutathione peroxidase 1	1
+Ardiccioni C	Pervasive developmental disorder	glutathione peroxidase 1	1
+Fiorini R	Pervasive developmental disorder	glutathione peroxidase 1	1
+Vignini A	Pervasive developmental disorder	glutathione peroxidase 1	1
+Di Paolo A	Pervasive developmental disorder	glutathione peroxidase 1	1
+Alia S	Pervasive developmental disorder	glutathione peroxidase 1	1
+Barucca M	Pervasive developmental disorder	glutathione peroxidase 1	1
+Biscotti MA	Pervasive developmental disorder	glutathione peroxidase 1	1
+Nalbant K	Pervasive developmental disorder	occludin	1
+Erden S	Pervasive developmental disorder	occludin	1
+Yazar A	Pervasive developmental disorder	occludin	1
+Kilinc I	Pervasive developmental disorder	occludin	1
+Meyer M	Pervasive developmental disorder	oxytocin receptor	1
+Jurek B	Pervasive developmental disorder	oxytocin receptor	1
+Alfonso-Prieto M	Pervasive developmental disorder	oxytocin receptor	1
+Ribeiro R	Pervasive developmental disorder	oxytocin receptor	1
+Milenkovic VM	Pervasive developmental disorder	oxytocin receptor	1
+Winter J	Pervasive developmental disorder	oxytocin receptor	1
+Hoffmann P	Pervasive developmental disorder	oxytocin receptor	1
+Wetzel CH	Pervasive developmental disorder	oxytocin receptor	1
+Giorgetti A	Pervasive developmental disorder	oxytocin receptor	1
+Carloni P	Pervasive developmental disorder	oxytocin receptor	1
+Neumann ID	Pervasive developmental disorder	oxytocin receptor	1
+Caliskan E	Pervasive developmental disorder	oxytocin receptor	1
+Sahin MN	Pervasive developmental disorder	oxytocin receptor	1
+Guldag MA	Pervasive developmental disorder	oxytocin receptor	1
+Ali A	Pervasive developmental disorder	renin	1
+Alexander S	Pervasive developmental disorder	renin	1
+Ko P	Pervasive developmental disorder	renin	1
+Cuffe JSM	Pervasive developmental disorder	renin	1
+Whitehouse AJO	Pervasive developmental disorder	renin	1
+McGrath JJ	Pervasive developmental disorder	renin	1
+Eyles D	Pervasive developmental disorder	renin	1
+Qiu T	Pervasive developmental disorder	gephyrin	1
+Dai Q	Pervasive developmental disorder	gephyrin	1
+Wang Q	Pervasive developmental disorder	gephyrin	1
+Contractor A	Pervasive developmental disorder	parvalbumin	1
+Ethell IM	Pervasive developmental disorder	parvalbumin	1
+Portera-Cailliau C	Pervasive developmental disorder	parvalbumin	1
+Muellerleile J	Pervasive developmental disorder	neuroligin 3	1
+Vnencak M	Pervasive developmental disorder	neuroligin 3	1
+Ippolito A	Pervasive developmental disorder	neuroligin 3	1
+Krueger-Burg D	Pervasive developmental disorder	neuroligin 3	3
+Jungenitz T	Pervasive developmental disorder	neuroligin 3	1
+Schwarzacher SW	Pervasive developmental disorder	neuroligin 3	1
+Jedlicka P	Pervasive developmental disorder	neuroligin 3	1
+Tang Q	Pervasive developmental disorder	multiple sclerosis	2
+Cao L	Pervasive developmental disorder	multiple sclerosis	1
+Kang J	Pervasive developmental disorder	caspase 3	1
+Bishayee K	Pervasive developmental disorder	caspase 3	1
+Huh SO	Pervasive developmental disorder	caspase 3	1
+Rein B	Pervasive developmental disorder	histone deacetylase 5	1
+Conrow-Graham M	Pervasive developmental disorder	histone deacetylase 5	1
+Frazier A	Pervasive developmental disorder	histone deacetylase 5	1
+Cao Q	Pervasive developmental disorder	histone deacetylase 5	1
+Yan Z	Pervasive developmental disorder	histone deacetylase 5	1
+Pedersen JH	Pervasive developmental disorder	Gilles de la Tourette syndrome	1
+Skytthe A	Pervasive developmental disorder	Gilles de la Tourette syndrome	1
+Bybjerg-Grauholm J	Pervasive developmental disorder	Gilles de la Tourette syndrome	1
+Kucukyildiz AS	Pervasive developmental disorder	Gilles de la Tourette syndrome	1
+Skov L	Pervasive developmental disorder	Gilles de la Tourette syndrome	1
+Debes NM	Pervasive developmental disorder	Gilles de la Tourette syndrome	1
+Tumer Z	Pervasive developmental disorder	Gilles de la Tourette syndrome	1
+Saha S	Pervasive developmental disorder	methylenetetrahydrofolate reductase	1
+Saha T	Pervasive developmental disorder	methylenetetrahydrofolate reductase	1
+Rajamma U	Pervasive developmental disorder	methylenetetrahydrofolate reductase	1
+Sinha S	Pervasive developmental disorder	methylenetetrahydrofolate reductase	1
+Mukhopadhyay K	Pervasive developmental disorder	methylenetetrahydrofolate reductase	1
+De Pol M	Pervasive developmental disorder	fatty acid amide hydrolase	1
+Kolla NJ	Pervasive developmental disorder	fatty acid amide hydrolase	1
+Paterno R	Pervasive developmental disorder	parvalbumin	1
+Marafiga JR	Pervasive developmental disorder	parvalbumin	1
+Ramsay H	Pervasive developmental disorder	parvalbumin	1
+Li T	Pervasive developmental disorder	parvalbumin	6
+Salvati KA	Pervasive developmental disorder	parvalbumin	1
+Baraban SC	Pervasive developmental disorder	parvalbumin	1
+Aslan C	Pervasive developmental disorder	leucine rich glioma inactivated 1	1
+Konuskan B	Pervasive developmental disorder	leucine rich glioma inactivated 1	1
+Sener B	Pervasive developmental disorder	leucine rich glioma inactivated 1	1
+Unal F	Pervasive developmental disorder	leucine rich glioma inactivated 1	1
+Koganezawa N	Pervasive developmental disorder	gephyrin	2
+Hanamura K	Pervasive developmental disorder	gephyrin	2
+Schwark M	Pervasive developmental disorder	gephyrin	2
+Krueger-Burg D	Pervasive developmental disorder	gephyrin	3
+Kawabe H	Pervasive developmental disorder	gephyrin	2
+Koganezawa N	Pervasive developmental disorder	neuroligin 3	2
+Hanamura K	Pervasive developmental disorder	neuroligin 3	2
+Schwark M	Pervasive developmental disorder	neuroligin 3	2
+Krueger-Burg D	Pervasive developmental disorder	neuroligin 3	3
+Kawabe H	Pervasive developmental disorder	neuroligin 3	2
+Bilgen Ulgar S	Pervasive developmental disorder	amphiphysin	1
+Ayaydin H	Pervasive developmental disorder	amphiphysin	1
+Celik H	Pervasive developmental disorder	amphiphysin	1
+Koyuncu I	Pervasive developmental disorder	amphiphysin	1
+Kirmit A	Pervasive developmental disorder	amphiphysin	1
+Bellato A	Pervasive developmental disorder	Gilles de la Tourette syndrome	1
+Norman L	Pervasive developmental disorder	Gilles de la Tourette syndrome	1
+Idrees I	Pervasive developmental disorder	Gilles de la Tourette syndrome	1
+Ogawa CY	Pervasive developmental disorder	Gilles de la Tourette syndrome	1
+Waitt A	Pervasive developmental disorder	Gilles de la Tourette syndrome	1
+Zuccolo PF	Pervasive developmental disorder	Gilles de la Tourette syndrome	1
+Tye C	Pervasive developmental disorder	Gilles de la Tourette syndrome	1
+Radua J	Pervasive developmental disorder	Gilles de la Tourette syndrome	1
+Groom MJ	Pervasive developmental disorder	Gilles de la Tourette syndrome	1
+Shephard E	Pervasive developmental disorder	Gilles de la Tourette syndrome	1
+Lin X	Pervasive developmental disorder	neuroplastin	1
+Liang Y	Pervasive developmental disorder	neuroplastin	2
+Herrera-Molina R	Pervasive developmental disorder	neuroplastin	1
+Montag D	Pervasive developmental disorder	neuroplastin	1
+Eisenberg C	Pervasive developmental disorder	neuropilin 2	4
+Subramanian D	Pervasive developmental disorder	neuropilin 2	4
+Afrasiabi M	Pervasive developmental disorder	neuropilin 2	4
+Ziobro P	Pervasive developmental disorder	neuropilin 2	4
+DeLucia J	Pervasive developmental disorder	neuropilin 2	4
+Hirschberg PR	Pervasive developmental disorder	neuropilin 2	4
+Shiflett MW	Pervasive developmental disorder	neuropilin 2	4
+Santhakumar V	Pervasive developmental disorder	neuropilin 2	4
+Tran TS	Pervasive developmental disorder	neuropilin 2	4
+Eisenberg C	Pervasive developmental disorder	parvalbumin	4
+Subramanian D	Pervasive developmental disorder	parvalbumin	4
+Afrasiabi M	Pervasive developmental disorder	parvalbumin	4
+Ziobro P	Pervasive developmental disorder	parvalbumin	4
+DeLucia J	Pervasive developmental disorder	parvalbumin	4
+Hirschberg PR	Pervasive developmental disorder	parvalbumin	4
+Shiflett MW	Pervasive developmental disorder	parvalbumin	4
+Santhakumar V	Pervasive developmental disorder	parvalbumin	4
+Tran TS	Pervasive developmental disorder	parvalbumin	4
+Eisenberg C	Pervasive developmental disorder	somatostatin	4
+Subramanian D	Pervasive developmental disorder	somatostatin	4
+Afrasiabi M	Pervasive developmental disorder	somatostatin	4
+Ziobro P	Pervasive developmental disorder	somatostatin	4
+DeLucia J	Pervasive developmental disorder	somatostatin	4
+Hirschberg PR	Pervasive developmental disorder	somatostatin	4
+Shiflett MW	Pervasive developmental disorder	somatostatin	4
+Santhakumar V	Pervasive developmental disorder	somatostatin	4
+Tran TS	Pervasive developmental disorder	somatostatin	4
+Eisenberg C	Pervasive developmental disorder	neuropeptide Y	4
+Subramanian D	Pervasive developmental disorder	neuropeptide Y	4
+Afrasiabi M	Pervasive developmental disorder	neuropeptide Y	4
+Ziobro P	Pervasive developmental disorder	neuropeptide Y	4
+DeLucia J	Pervasive developmental disorder	neuropeptide Y	4
+Hirschberg PR	Pervasive developmental disorder	neuropeptide Y	4
+Shiflett MW	Pervasive developmental disorder	neuropeptide Y	4
+Santhakumar V	Pervasive developmental disorder	neuropeptide Y	4
+Tran TS	Pervasive developmental disorder	neuropeptide Y	4
+Huang L	Pervasive developmental disorder	parvalbumin	1
+Wang J	Pervasive developmental disorder	parvalbumin	4
+Liang G	Pervasive developmental disorder	parvalbumin	1
+Gao Y	Pervasive developmental disorder	parvalbumin	3
+Jin SY	Pervasive developmental disorder	parvalbumin	1
+Hu J	Pervasive developmental disorder	parvalbumin	1
+Yang X	Pervasive developmental disorder	parvalbumin	1
+Lao J	Pervasive developmental disorder	parvalbumin	1
+Chen J	Pervasive developmental disorder	parvalbumin	7
+Luo ZC	Pervasive developmental disorder	parvalbumin	1
+Fan C	Pervasive developmental disorder	parvalbumin	1
+Xiong L	Pervasive developmental disorder	parvalbumin	1
+Zhu X	Pervasive developmental disorder	parvalbumin	1
+Gao TM	Pervasive developmental disorder	parvalbumin	1
+Zhong M	Pervasive developmental disorder	parvalbumin	3
+Liu C	Pervasive developmental disorder	glutamate metabotropic receptor 5	1
+Wang Y	Pervasive developmental disorder	glutamate metabotropic receptor 5	8
+Deng J	Pervasive developmental disorder	glutamate metabotropic receptor 5	1
+Lin J	Pervasive developmental disorder	glutamate metabotropic receptor 5	3
+Hu C	Pervasive developmental disorder	glutamate metabotropic receptor 5	1
+Li Q	Pervasive developmental disorder	glutamate metabotropic receptor 5	1
+Xu X	Pervasive developmental disorder	glutamate metabotropic receptor 5	5
+Aljumaiah MM	Pervasive developmental disorder	insulin	1
+Alonazi MA	Pervasive developmental disorder	insulin	1
+Al-Dbass AM	Pervasive developmental disorder	insulin	1
+Almnaizel AT	Pervasive developmental disorder	insulin	1
+Alahmed M	Pervasive developmental disorder	insulin	1
+Soliman DA	Pervasive developmental disorder	insulin	1
+El-Ansary A	Pervasive developmental disorder	insulin	2
+Gatford NJF	Pervasive developmental disorder	neuroligin 3	1
+Deans PJM	Pervasive developmental disorder	neuroligin 3	1
+Duarte RRR	Pervasive developmental disorder	neuroligin 3	1
+Chennell G	Pervasive developmental disorder	neuroligin 3	1
+Sellers KJ	Pervasive developmental disorder	neuroligin 3	1
+Raval P	Pervasive developmental disorder	neuroligin 3	1
+Srivastava DP	Pervasive developmental disorder	neuroligin 3	1
+Zhuang Q	Pervasive developmental disorder	arginine vasopressin	1
+Zheng X	Pervasive developmental disorder	arginine vasopressin	2
+Becker B	Pervasive developmental disorder	arginine vasopressin	1
+Lei W	Pervasive developmental disorder	arginine vasopressin	1
+Xu X	Pervasive developmental disorder	arginine vasopressin	5
+Kendrick KM	Pervasive developmental disorder	arginine vasopressin	1
+Shilpa O	Pervasive developmental disorder	catalase	1
+Anupama KP	Pervasive developmental disorder	catalase	1
+Antony A	Pervasive developmental disorder	catalase	1
+Gurushankara HP	Pervasive developmental disorder	catalase	1
+Tierney E	Pervasive developmental disorder	apolipoprotein A1	2
+Remaley AT	Pervasive developmental disorder	apolipoprotein A1	2
+Thurm A	Pervasive developmental disorder	apolipoprotein A1	2
+Jager LR	Pervasive developmental disorder	apolipoprotein A1	2
+Wassif CA	Pervasive developmental disorder	apolipoprotein A1	2
+Kratz LE	Pervasive developmental disorder	apolipoprotein A1	2
+Bailey-Wilson JE	Pervasive developmental disorder	apolipoprotein A1	2
+Bukelis I	Pervasive developmental disorder	apolipoprotein A1	2
+Sarphare G	Pervasive developmental disorder	apolipoprotein A1	2
+Jung ES	Pervasive developmental disorder	apolipoprotein A1	2
+Brand B	Pervasive developmental disorder	apolipoprotein A1	2
+Noah KK	Pervasive developmental disorder	apolipoprotein A1	2
+Porter FD	Pervasive developmental disorder	apolipoprotein A1	2
+Tierney E	Pervasive developmental disorder	apolipoprotein B	2
+Remaley AT	Pervasive developmental disorder	apolipoprotein B	2
+Thurm A	Pervasive developmental disorder	apolipoprotein B	2
+Jager LR	Pervasive developmental disorder	apolipoprotein B	2
+Wassif CA	Pervasive developmental disorder	apolipoprotein B	2
+Kratz LE	Pervasive developmental disorder	apolipoprotein B	2
+Bailey-Wilson JE	Pervasive developmental disorder	apolipoprotein B	2
+Bukelis I	Pervasive developmental disorder	apolipoprotein B	2
+Sarphare G	Pervasive developmental disorder	apolipoprotein B	2
+Jung ES	Pervasive developmental disorder	apolipoprotein B	2
+Brand B	Pervasive developmental disorder	apolipoprotein B	2
+Noah KK	Pervasive developmental disorder	apolipoprotein B	2
+Porter FD	Pervasive developmental disorder	apolipoprotein B	2
+Dhulkifle H	Pervasive developmental disorder	aryl hydrocarbon receptor	1
+Agouni A	Pervasive developmental disorder	aryl hydrocarbon receptor	1
+Zeidan A	Pervasive developmental disorder	aryl hydrocarbon receptor	1
+Al-Kuwari MS	Pervasive developmental disorder	aryl hydrocarbon receptor	1
+Parray A	Pervasive developmental disorder	aryl hydrocarbon receptor	1
+Tolefat M	Pervasive developmental disorder	aryl hydrocarbon receptor	1
+Korashy HM	Pervasive developmental disorder	aryl hydrocarbon receptor	1
+Takanezawa Y	Pervasive developmental disorder	insulin	1
+Tanabe S	Pervasive developmental disorder	insulin	1
+Kato D	Pervasive developmental disorder	insulin	1
+Ozeki R	Pervasive developmental disorder	insulin	1
+Komoda M	Pervasive developmental disorder	insulin	1
+Suzuki T	Pervasive developmental disorder	insulin	1
+Baba H	Pervasive developmental disorder	insulin	1
+Muramatsu R	Pervasive developmental disorder	insulin	1
+Rancken EJ	Pervasive developmental disorder	erythropoietin	1
+Metsaranta MPH	Pervasive developmental disorder	erythropoietin	1
+Gissler M	Pervasive developmental disorder	erythropoietin	1
+Rahkonen LK	Pervasive developmental disorder	erythropoietin	1
+Haataja LM	Pervasive developmental disorder	erythropoietin	1
+Hoxha B	Pervasive developmental disorder	folate receptor alpha	1
+Hoxha M	Pervasive developmental disorder	folate receptor alpha	1
+Domi E	Pervasive developmental disorder	folate receptor alpha	1
+Gervasoni J	Pervasive developmental disorder	folate receptor alpha	1
+Persichilli S	Pervasive developmental disorder	folate receptor alpha	1
+Malaj V	Pervasive developmental disorder	folate receptor alpha	1
+Zappacosta B	Pervasive developmental disorder	folate receptor alpha	1
+Burket JA	Pervasive developmental disorder	parvalbumin	1
+Webb JD	Pervasive developmental disorder	parvalbumin	1
+Deutsch SI	Pervasive developmental disorder	parvalbumin	1
+Peteri UK	Pervasive developmental disorder	plasminogen	1
+Pitkonen J	Pervasive developmental disorder	plasminogen	1
+de Toma I	Pervasive developmental disorder	plasminogen	1
+Nieminen O	Pervasive developmental disorder	plasminogen	1
+Utami KH	Pervasive developmental disorder	plasminogen	1
+Strandin TM	Pervasive developmental disorder	plasminogen	1
+Corcoran P	Pervasive developmental disorder	plasminogen	1
+Roybon L	Pervasive developmental disorder	plasminogen	1
+Vaheri A	Pervasive developmental disorder	plasminogen	1
+Ethell I	Pervasive developmental disorder	plasminogen	1
+Casarotto P	Pervasive developmental disorder	plasminogen	1
+Pouladi MA	Pervasive developmental disorder	plasminogen	1
+Castren ML	Pervasive developmental disorder	plasminogen	1
+Luhach K	Pervasive developmental disorder	doublecortin	3
+Kulkarni GT	Pervasive developmental disorder	doublecortin	3
+Singh VP	Pervasive developmental disorder	doublecortin	3
+Sharma B	Pervasive developmental disorder	doublecortin	3
+Gonzalez-Cano SI	Pervasive developmental disorder	synaptophysin	2
+Camacho-Abrego I	Pervasive developmental disorder	synaptophysin	2
+Diaz A	Pervasive developmental disorder	synaptophysin	2
+de la Cruz F	Pervasive developmental disorder	synaptophysin	2
+Morales-Medina JC	Pervasive developmental disorder	synaptophysin	2
+Flores G	Pervasive developmental disorder	synaptophysin	2
+Gonzalez-Cano SI	Pervasive developmental disorder	metallothionein 3	2
+Camacho-Abrego I	Pervasive developmental disorder	metallothionein 3	2
+Diaz A	Pervasive developmental disorder	metallothionein 3	2
+de la Cruz F	Pervasive developmental disorder	metallothionein 3	2
+Morales-Medina JC	Pervasive developmental disorder	metallothionein 3	2
+Flores G	Pervasive developmental disorder	metallothionein 3	2
+Yamauchi T	Pervasive developmental disorder	tumor necrosis factor	1
+Makinodan M	Pervasive developmental disorder	tumor necrosis factor	1
+Toritsuka M	Pervasive developmental disorder	tumor necrosis factor	1
+Okumura K	Pervasive developmental disorder	tumor necrosis factor	1
+Kayashima Y	Pervasive developmental disorder	tumor necrosis factor	1
+Ishida R	Pervasive developmental disorder	tumor necrosis factor	1
+Kishimoto N	Pervasive developmental disorder	tumor necrosis factor	1
+Takahashi M	Pervasive developmental disorder	tumor necrosis factor	1
+Komori T	Pervasive developmental disorder	tumor necrosis factor	1
+Yamaguchi Y	Pervasive developmental disorder	tumor necrosis factor	1
+Takada R	Pervasive developmental disorder	tumor necrosis factor	1
+Yamamuro K	Pervasive developmental disorder	tumor necrosis factor	1
+Kimoto S	Pervasive developmental disorder	tumor necrosis factor	1
+Yasuda Y	Pervasive developmental disorder	tumor necrosis factor	1
+Hashimoto R	Pervasive developmental disorder	tumor necrosis factor	1
+Kishimoto T	Pervasive developmental disorder	tumor necrosis factor	1
+Crosswell AD	Pervasive developmental disorder	insulin	1
+Sagui-Henson S	Pervasive developmental disorder	insulin	1
+Prather AA	Pervasive developmental disorder	insulin	1
+Coccia M	Pervasive developmental disorder	insulin	1
+Irwin MR	Pervasive developmental disorder	insulin	1
+Epel ES	Pervasive developmental disorder	insulin	1
+Tian C	Pervasive developmental disorder	neuroligin 1	1
+Paskus JD	Pervasive developmental disorder	neuroligin 1	1
+Fingleton E	Pervasive developmental disorder	neuroligin 1	1
+Roche KW	Pervasive developmental disorder	neuroligin 1	1
+Herring BE	Pervasive developmental disorder	neuroligin 1	1
+Deemyad T	Pervasive developmental disorder	parvalbumin	1
+Puig S	Pervasive developmental disorder	parvalbumin	1
+Papale AE	Pervasive developmental disorder	parvalbumin	1
+Qi H	Pervasive developmental disorder	parvalbumin	1
+LaRocca GM	Pervasive developmental disorder	parvalbumin	1
+Aravind D	Pervasive developmental disorder	parvalbumin	1
+LaNoce E	Pervasive developmental disorder	parvalbumin	1
+Urban NN	Pervasive developmental disorder	parvalbumin	1
+Santos-Terra J	Pervasive developmental disorder	somatostatin	4
+Deckmann I	Pervasive developmental disorder	somatostatin	4
+Schwingel GB	Pervasive developmental disorder	somatostatin	4
+Paz AVC	Pervasive developmental disorder	somatostatin	1
+Gama CS	Pervasive developmental disorder	somatostatin	1
+Bambini-Junior V	Pervasive developmental disorder	somatostatin	2
+Fontes-Dutra M	Pervasive developmental disorder	somatostatin	4
+Gottfried C	Pervasive developmental disorder	somatostatin	4
+Jayaprakash P	Pervasive developmental disorder	catalase	3
+Isaev D	Pervasive developmental disorder	catalase	1
+Shabbir W	Pervasive developmental disorder	catalase	1
+Lorke DE	Pervasive developmental disorder	catalase	1
+Sadek B	Pervasive developmental disorder	catalase	5
+Oz M	Pervasive developmental disorder	catalase	1
+Bozkurt H	Pervasive developmental disorder	plasminogen	1
+Simsek S	Pervasive developmental disorder	plasminogen	1
+Sahin S	Pervasive developmental disorder	plasminogen	1
+Bertoni A	Pervasive developmental disorder	oxytocin receptor	2
+Schaller F	Pervasive developmental disorder	oxytocin receptor	2
+Tyzio R	Pervasive developmental disorder	oxytocin receptor	2
+Gaillard S	Pervasive developmental disorder	oxytocin receptor	2
+Santini F	Pervasive developmental disorder	oxytocin receptor	2
+Xolin M	Pervasive developmental disorder	oxytocin receptor	2
+Diabira D	Pervasive developmental disorder	oxytocin receptor	2
+Vaidyanathan R	Pervasive developmental disorder	oxytocin receptor	2
+Matarazzo V	Pervasive developmental disorder	oxytocin receptor	2
+Medina I	Pervasive developmental disorder	oxytocin receptor	2
+Hammock E	Pervasive developmental disorder	oxytocin receptor	2
+Zhang J	Pervasive developmental disorder	oxytocin receptor	6
+Chini B	Pervasive developmental disorder	oxytocin receptor	2
+Gaiarsa JL	Pervasive developmental disorder	oxytocin receptor	2
+Muscatelli F	Pervasive developmental disorder	oxytocin receptor	2
+Bertoni A	Pervasive developmental disorder	somatostatin	2
+Schaller F	Pervasive developmental disorder	somatostatin	2
+Tyzio R	Pervasive developmental disorder	somatostatin	2
+Gaillard S	Pervasive developmental disorder	somatostatin	2
+Santini F	Pervasive developmental disorder	somatostatin	2
+Xolin M	Pervasive developmental disorder	somatostatin	2
+Diabira D	Pervasive developmental disorder	somatostatin	2
+Vaidyanathan R	Pervasive developmental disorder	somatostatin	2
+Matarazzo V	Pervasive developmental disorder	somatostatin	2
+Medina I	Pervasive developmental disorder	somatostatin	2
+Hammock E	Pervasive developmental disorder	somatostatin	2
+Zhang J	Pervasive developmental disorder	somatostatin	6
+Chini B	Pervasive developmental disorder	somatostatin	2
+Gaiarsa JL	Pervasive developmental disorder	somatostatin	2
+Muscatelli F	Pervasive developmental disorder	somatostatin	2
+Yoshitomi S	Pervasive developmental disorder	Aicardi syndrome	1
+Hamano SI	Pervasive developmental disorder	Aicardi syndrome	1
+Hayashi M	Pervasive developmental disorder	Aicardi syndrome	1
+Sakuma H	Pervasive developmental disorder	Aicardi syndrome	1
+Hirose S	Pervasive developmental disorder	Aicardi syndrome	1
+Ishii A	Pervasive developmental disorder	Aicardi syndrome	1
+Honda R	Pervasive developmental disorder	Aicardi syndrome	1
+Ikeda A	Pervasive developmental disorder	Aicardi syndrome	1
+Imai K	Pervasive developmental disorder	Aicardi syndrome	1
+Jin K	Pervasive developmental disorder	Aicardi syndrome	1
+Kada A	Pervasive developmental disorder	Aicardi syndrome	1
+Kakita A	Pervasive developmental disorder	Aicardi syndrome	1
+Kato M	Pervasive developmental disorder	Aicardi syndrome	1
+Kawai K	Pervasive developmental disorder	Aicardi syndrome	1
+Kawakami T	Pervasive developmental disorder	Aicardi syndrome	1
+Kobayashi K	Pervasive developmental disorder	Aicardi syndrome	1
+Matsuishi T	Pervasive developmental disorder	Aicardi syndrome	1
+Matsuo T	Pervasive developmental disorder	Aicardi syndrome	1
+Nabatame S	Pervasive developmental disorder	Aicardi syndrome	1
+Okamoto N	Pervasive developmental disorder	Aicardi syndrome	1
+Ito S	Pervasive developmental disorder	Aicardi syndrome	1
+Okumura A	Pervasive developmental disorder	Aicardi syndrome	1
+Saito A	Pervasive developmental disorder	Aicardi syndrome	1
+Shiraishi H	Pervasive developmental disorder	Aicardi syndrome	1
+Shirozu H	Pervasive developmental disorder	Aicardi syndrome	1
+Saito T	Pervasive developmental disorder	Aicardi syndrome	1
+Sugano H	Pervasive developmental disorder	Aicardi syndrome	1
+Takahashi Y	Pervasive developmental disorder	Aicardi syndrome	2
+Yamamoto H	Pervasive developmental disorder	Aicardi syndrome	1
+Fukuyama T	Pervasive developmental disorder	Aicardi syndrome	1
+Kuki I	Pervasive developmental disorder	Aicardi syndrome	1
+Inoue Y	Pervasive developmental disorder	Aicardi syndrome	1
+Lai ESK	Pervasive developmental disorder	neuroligin 3	1
+Nakayama H	Pervasive developmental disorder	neuroligin 3	1
+Miyazaki T	Pervasive developmental disorder	neuroligin 3	1
+Nakazawa T	Pervasive developmental disorder	neuroligin 3	1
+Tabuchi K	Pervasive developmental disorder	neuroligin 3	1
+Hashimoto K	Pervasive developmental disorder	neuroligin 3	1
+Watanabe M	Pervasive developmental disorder	neuroligin 3	1
+Kano M	Pervasive developmental disorder	neuroligin 3	1
+Modafferi S	Pervasive developmental disorder	chromodomain helicase DNA binding protein 8	1
+Zhong X	Pervasive developmental disorder	chromodomain helicase DNA binding protein 8	1
+Kleensang A	Pervasive developmental disorder	chromodomain helicase DNA binding protein 8	1
+Murata Y	Pervasive developmental disorder	chromodomain helicase DNA binding protein 8	1
+Fagiani F	Pervasive developmental disorder	chromodomain helicase DNA binding protein 8	1
+Pamies D	Pervasive developmental disorder	chromodomain helicase DNA binding protein 8	1
+Hogberg HT	Pervasive developmental disorder	chromodomain helicase DNA binding protein 8	1
+Calabrese V	Pervasive developmental disorder	chromodomain helicase DNA binding protein 8	1
+Lachman H	Pervasive developmental disorder	chromodomain helicase DNA binding protein 8	1
+Hartung T	Pervasive developmental disorder	chromodomain helicase DNA binding protein 8	1
+Smirnova L	Pervasive developmental disorder	chromodomain helicase DNA binding protein 8	1
+Oztan O	Pervasive developmental disorder	arginine vasopressin	1
+Talbot CF	Pervasive developmental disorder	arginine vasopressin	1
+Argilli E	Pervasive developmental disorder	arginine vasopressin	1
+Maness AC	Pervasive developmental disorder	arginine vasopressin	1
+Simmons SM	Pervasive developmental disorder	arginine vasopressin	1
+Mohsin N	Pervasive developmental disorder	arginine vasopressin	1
+Del Rosso LA	Pervasive developmental disorder	arginine vasopressin	1
+Garner JP	Pervasive developmental disorder	arginine vasopressin	1
+Sherr EH	Pervasive developmental disorder	arginine vasopressin	1
+Capitanio JP	Pervasive developmental disorder	arginine vasopressin	1
+Parker KJ	Pervasive developmental disorder	arginine vasopressin	1
+Mostafa GA	Pervasive developmental disorder	nerve growth factor	2
+Meguid NA	Pervasive developmental disorder	nerve growth factor	2
+Shehab AAS	Pervasive developmental disorder	nerve growth factor	2
+Elsaeid A	Pervasive developmental disorder	nerve growth factor	2
+Maher M	Pervasive developmental disorder	nerve growth factor	2
+Mostafa GA	Pervasive developmental disorder	myelin basic protein	2
+Meguid NA	Pervasive developmental disorder	myelin basic protein	2
+Shehab AAS	Pervasive developmental disorder	myelin basic protein	2
+Elsaeid A	Pervasive developmental disorder	myelin basic protein	2
+Maher M	Pervasive developmental disorder	myelin basic protein	2
+Hurley MJ	Pervasive developmental disorder	multiple sclerosis	1
+Deacon RMJ	Pervasive developmental disorder	multiple sclerosis	1
+Chan AWE	Pervasive developmental disorder	multiple sclerosis	1
+Baker D	Pervasive developmental disorder	multiple sclerosis	1
+Selwood DL	Pervasive developmental disorder	multiple sclerosis	1
+Cogram P	Pervasive developmental disorder	multiple sclerosis	1
+Deckmann I	Pervasive developmental disorder	aquaporin 4	4
+Santos-Terra J	Pervasive developmental disorder	aquaporin 4	4
+Fontes-Dutra M	Pervasive developmental disorder	aquaporin 4	4
+Korbes-Rockenbach M	Pervasive developmental disorder	aquaporin 4	1
+Bauer-Negrini G	Pervasive developmental disorder	aquaporin 4	3
+Schwingel GB	Pervasive developmental disorder	aquaporin 4	4
+Riesgo R	Pervasive developmental disorder	aquaporin 4	3
+Bambini-Junior V	Pervasive developmental disorder	aquaporin 4	2
+Gottfried C	Pervasive developmental disorder	aquaporin 4	4
+Miyoshi G	Pervasive developmental disorder	glutamate decarboxylase 2	1
+Ueta Y	Pervasive developmental disorder	glutamate decarboxylase 2	1
+Natsubori A	Pervasive developmental disorder	glutamate decarboxylase 2	1
+Hiraga K	Pervasive developmental disorder	glutamate decarboxylase 2	1
+Osaki H	Pervasive developmental disorder	glutamate decarboxylase 2	1
+Yagasaki Y	Pervasive developmental disorder	glutamate decarboxylase 2	1
+Kishi Y	Pervasive developmental disorder	glutamate decarboxylase 2	1
+Yanagawa Y	Pervasive developmental disorder	glutamate decarboxylase 2	1
+Fishell G	Pervasive developmental disorder	glutamate decarboxylase 2	1
+Machold RP	Pervasive developmental disorder	glutamate decarboxylase 2	1
+Miyata M	Pervasive developmental disorder	glutamate decarboxylase 2	1
+Deneubourg C	Pervasive developmental disorder	beclin 1	14
+Ramm M	Pervasive developmental disorder	beclin 1	14
+Smith LJ	Pervasive developmental disorder	beclin 1	14
+Baron O	Pervasive developmental disorder	beclin 1	14
+Singh K	Pervasive developmental disorder	beclin 1	14
+Byrne SC	Pervasive developmental disorder	beclin 1	14
+Duchen MR	Pervasive developmental disorder	beclin 1	14
+Gautel M	Pervasive developmental disorder	beclin 1	14
+Eskelinen EL	Pervasive developmental disorder	beclin 1	14
+Fanto M	Pervasive developmental disorder	beclin 1	14
+Jungbluth H	Pervasive developmental disorder	beclin 1	14
+Deneubourg C	Pervasive developmental disorder	bridging integrator 1	14
+Ramm M	Pervasive developmental disorder	bridging integrator 1	14
+Smith LJ	Pervasive developmental disorder	bridging integrator 1	14
+Baron O	Pervasive developmental disorder	bridging integrator 1	14
+Singh K	Pervasive developmental disorder	bridging integrator 1	14
+Byrne SC	Pervasive developmental disorder	bridging integrator 1	14
+Duchen MR	Pervasive developmental disorder	bridging integrator 1	14
+Gautel M	Pervasive developmental disorder	bridging integrator 1	14
+Eskelinen EL	Pervasive developmental disorder	bridging integrator 1	14
+Fanto M	Pervasive developmental disorder	bridging integrator 1	14
+Jungbluth H	Pervasive developmental disorder	bridging integrator 1	14
+Deneubourg C	Pervasive developmental disorder	dynamin 2	14
+Ramm M	Pervasive developmental disorder	dynamin 2	14
+Smith LJ	Pervasive developmental disorder	dynamin 2	14
+Baron O	Pervasive developmental disorder	dynamin 2	14
+Singh K	Pervasive developmental disorder	dynamin 2	14
+Byrne SC	Pervasive developmental disorder	dynamin 2	14
+Duchen MR	Pervasive developmental disorder	dynamin 2	14
+Gautel M	Pervasive developmental disorder	dynamin 2	14
+Eskelinen EL	Pervasive developmental disorder	dynamin 2	14
+Fanto M	Pervasive developmental disorder	dynamin 2	14
+Jungbluth H	Pervasive developmental disorder	dynamin 2	14
+Deneubourg C	Pervasive developmental disorder	FIG4 phosphoinositide 5-phosphatase	14
+Ramm M	Pervasive developmental disorder	FIG4 phosphoinositide 5-phosphatase	14
+Smith LJ	Pervasive developmental disorder	FIG4 phosphoinositide 5-phosphatase	14
+Baron O	Pervasive developmental disorder	FIG4 phosphoinositide 5-phosphatase	14
+Singh K	Pervasive developmental disorder	FIG4 phosphoinositide 5-phosphatase	14
+Byrne SC	Pervasive developmental disorder	FIG4 phosphoinositide 5-phosphatase	14
+Duchen MR	Pervasive developmental disorder	FIG4 phosphoinositide 5-phosphatase	14
+Gautel M	Pervasive developmental disorder	FIG4 phosphoinositide 5-phosphatase	14
+Eskelinen EL	Pervasive developmental disorder	FIG4 phosphoinositide 5-phosphatase	14
+Fanto M	Pervasive developmental disorder	FIG4 phosphoinositide 5-phosphatase	14
+Jungbluth H	Pervasive developmental disorder	FIG4 phosphoinositide 5-phosphatase	14
+Deneubourg C	Pervasive developmental disorder	huntingtin	14
+Ramm M	Pervasive developmental disorder	huntingtin	14
+Smith LJ	Pervasive developmental disorder	huntingtin	14
+Baron O	Pervasive developmental disorder	huntingtin	14
+Singh K	Pervasive developmental disorder	huntingtin	14
+Byrne SC	Pervasive developmental disorder	huntingtin	14
+Duchen MR	Pervasive developmental disorder	huntingtin	14
+Gautel M	Pervasive developmental disorder	huntingtin	14
+Eskelinen EL	Pervasive developmental disorder	huntingtin	14
+Fanto M	Pervasive developmental disorder	huntingtin	14
+Jungbluth H	Pervasive developmental disorder	huntingtin	14
+Deneubourg C	Pervasive developmental disorder	myotubularin 1	14
+Ramm M	Pervasive developmental disorder	myotubularin 1	14
+Smith LJ	Pervasive developmental disorder	myotubularin 1	14
+Baron O	Pervasive developmental disorder	myotubularin 1	14
+Singh K	Pervasive developmental disorder	myotubularin 1	14
+Byrne SC	Pervasive developmental disorder	myotubularin 1	14
+Duchen MR	Pervasive developmental disorder	myotubularin 1	14
+Gautel M	Pervasive developmental disorder	myotubularin 1	14
+Eskelinen EL	Pervasive developmental disorder	myotubularin 1	14
+Fanto M	Pervasive developmental disorder	myotubularin 1	14
+Jungbluth H	Pervasive developmental disorder	myotubularin 1	14
+Deneubourg C	Pervasive developmental disorder	SPG11 vesicle trafficking associated, spatacsin	14
+Ramm M	Pervasive developmental disorder	SPG11 vesicle trafficking associated, spatacsin	14
+Smith LJ	Pervasive developmental disorder	SPG11 vesicle trafficking associated, spatacsin	14
+Baron O	Pervasive developmental disorder	SPG11 vesicle trafficking associated, spatacsin	14
+Singh K	Pervasive developmental disorder	SPG11 vesicle trafficking associated, spatacsin	14
+Byrne SC	Pervasive developmental disorder	SPG11 vesicle trafficking associated, spatacsin	14
+Duchen MR	Pervasive developmental disorder	SPG11 vesicle trafficking associated, spatacsin	14
+Gautel M	Pervasive developmental disorder	SPG11 vesicle trafficking associated, spatacsin	14
+Eskelinen EL	Pervasive developmental disorder	SPG11 vesicle trafficking associated, spatacsin	14
+Fanto M	Pervasive developmental disorder	SPG11 vesicle trafficking associated, spatacsin	14
+Jungbluth H	Pervasive developmental disorder	SPG11 vesicle trafficking associated, spatacsin	14
+Deneubourg C	Pervasive developmental disorder	sequestosome 1	14
+Ramm M	Pervasive developmental disorder	sequestosome 1	14
+Smith LJ	Pervasive developmental disorder	sequestosome 1	14
+Baron O	Pervasive developmental disorder	sequestosome 1	14
+Singh K	Pervasive developmental disorder	sequestosome 1	14
+Byrne SC	Pervasive developmental disorder	sequestosome 1	14
+Duchen MR	Pervasive developmental disorder	sequestosome 1	14
+Gautel M	Pervasive developmental disorder	sequestosome 1	14
+Eskelinen EL	Pervasive developmental disorder	sequestosome 1	14
+Fanto M	Pervasive developmental disorder	sequestosome 1	14
+Jungbluth H	Pervasive developmental disorder	sequestosome 1	14
+Deneubourg C	Pervasive developmental disorder	TBC1 domain family member 20	14
+Ramm M	Pervasive developmental disorder	TBC1 domain family member 20	14
+Smith LJ	Pervasive developmental disorder	TBC1 domain family member 20	14
+Baron O	Pervasive developmental disorder	TBC1 domain family member 20	14
+Singh K	Pervasive developmental disorder	TBC1 domain family member 20	14
+Byrne SC	Pervasive developmental disorder	TBC1 domain family member 20	14
+Duchen MR	Pervasive developmental disorder	TBC1 domain family member 20	14
+Gautel M	Pervasive developmental disorder	TBC1 domain family member 20	14
+Eskelinen EL	Pervasive developmental disorder	TBC1 domain family member 20	14
+Fanto M	Pervasive developmental disorder	TBC1 domain family member 20	14
+Jungbluth H	Pervasive developmental disorder	TBC1 domain family member 20	14
+Deneubourg C	Pervasive developmental disorder	TSC complex subunit 1	14
+Ramm M	Pervasive developmental disorder	TSC complex subunit 1	14
+Smith LJ	Pervasive developmental disorder	TSC complex subunit 1	14
+Baron O	Pervasive developmental disorder	TSC complex subunit 1	14
+Singh K	Pervasive developmental disorder	TSC complex subunit 1	14
+Byrne SC	Pervasive developmental disorder	TSC complex subunit 1	14
+Duchen MR	Pervasive developmental disorder	TSC complex subunit 1	14
+Gautel M	Pervasive developmental disorder	TSC complex subunit 1	14
+Eskelinen EL	Pervasive developmental disorder	TSC complex subunit 1	14
+Fanto M	Pervasive developmental disorder	TSC complex subunit 1	14
+Jungbluth H	Pervasive developmental disorder	TSC complex subunit 1	14
+Deneubourg C	Pervasive developmental disorder	ubiquilin 2	14
+Ramm M	Pervasive developmental disorder	ubiquilin 2	14
+Smith LJ	Pervasive developmental disorder	ubiquilin 2	14
+Baron O	Pervasive developmental disorder	ubiquilin 2	14
+Singh K	Pervasive developmental disorder	ubiquilin 2	14
+Byrne SC	Pervasive developmental disorder	ubiquilin 2	14
+Duchen MR	Pervasive developmental disorder	ubiquilin 2	14
+Gautel M	Pervasive developmental disorder	ubiquilin 2	14
+Eskelinen EL	Pervasive developmental disorder	ubiquilin 2	14
+Fanto M	Pervasive developmental disorder	ubiquilin 2	14
+Jungbluth H	Pervasive developmental disorder	ubiquilin 2	14
+Deneubourg C	Pervasive developmental disorder	vacuolar ATPase assembly factor VMA21	14
+Ramm M	Pervasive developmental disorder	vacuolar ATPase assembly factor VMA21	14
+Smith LJ	Pervasive developmental disorder	vacuolar ATPase assembly factor VMA21	14
+Baron O	Pervasive developmental disorder	vacuolar ATPase assembly factor VMA21	14
+Singh K	Pervasive developmental disorder	vacuolar ATPase assembly factor VMA21	14
+Byrne SC	Pervasive developmental disorder	vacuolar ATPase assembly factor VMA21	14
+Duchen MR	Pervasive developmental disorder	vacuolar ATPase assembly factor VMA21	14
+Gautel M	Pervasive developmental disorder	vacuolar ATPase assembly factor VMA21	14
+Eskelinen EL	Pervasive developmental disorder	vacuolar ATPase assembly factor VMA21	14
+Fanto M	Pervasive developmental disorder	vacuolar ATPase assembly factor VMA21	14
+Jungbluth H	Pervasive developmental disorder	vacuolar ATPase assembly factor VMA21	14
+Deneubourg C	Pervasive developmental disorder	WD repeat domain 45	14
+Ramm M	Pervasive developmental disorder	WD repeat domain 45	14
+Smith LJ	Pervasive developmental disorder	WD repeat domain 45	14
+Baron O	Pervasive developmental disorder	WD repeat domain 45	14
+Singh K	Pervasive developmental disorder	WD repeat domain 45	14
+Byrne SC	Pervasive developmental disorder	WD repeat domain 45	14
+Duchen MR	Pervasive developmental disorder	WD repeat domain 45	14
+Gautel M	Pervasive developmental disorder	WD repeat domain 45	14
+Eskelinen EL	Pervasive developmental disorder	WD repeat domain 45	14
+Fanto M	Pervasive developmental disorder	WD repeat domain 45	14
+Jungbluth H	Pervasive developmental disorder	WD repeat domain 45	14
+Deneubourg C	Pervasive developmental disorder	WD repeat domain 47	14
+Ramm M	Pervasive developmental disorder	WD repeat domain 47	14
+Smith LJ	Pervasive developmental disorder	WD repeat domain 47	14
+Baron O	Pervasive developmental disorder	WD repeat domain 47	14
+Singh K	Pervasive developmental disorder	WD repeat domain 47	14
+Byrne SC	Pervasive developmental disorder	WD repeat domain 47	14
+Duchen MR	Pervasive developmental disorder	WD repeat domain 47	14
+Gautel M	Pervasive developmental disorder	WD repeat domain 47	14
+Eskelinen EL	Pervasive developmental disorder	WD repeat domain 47	14
+Fanto M	Pervasive developmental disorder	WD repeat domain 47	14
+Jungbluth H	Pervasive developmental disorder	WD repeat domain 47	14
+McKenna BG	Pervasive developmental disorder	sex hormone binding globulin	1
+Huang Y	Pervasive developmental disorder	sex hormone binding globulin	2
+Vervier K	Pervasive developmental disorder	sex hormone binding globulin	1
+Hofammann D	Pervasive developmental disorder	sex hormone binding globulin	1
+Cafferata M	Pervasive developmental disorder	sex hormone binding globulin	1
+Al-Momani S	Pervasive developmental disorder	sex hormone binding globulin	1
+Lowenthal F	Pervasive developmental disorder	sex hormone binding globulin	1
+Zhang A	Pervasive developmental disorder	sex hormone binding globulin	1
+Koh JY	Pervasive developmental disorder	sex hormone binding globulin	1
+Thenuwara S	Pervasive developmental disorder	sex hormone binding globulin	1
+Brueggeman L	Pervasive developmental disorder	sex hormone binding globulin	1
+Bahl E	Pervasive developmental disorder	sex hormone binding globulin	1
+Koomar T	Pervasive developmental disorder	sex hormone binding globulin	1
+Pottschmidt N	Pervasive developmental disorder	sex hormone binding globulin	1
+Kalmus T	Pervasive developmental disorder	sex hormone binding globulin	1
+Casten L	Pervasive developmental disorder	sex hormone binding globulin	1
+Thomas TR	Pervasive developmental disorder	sex hormone binding globulin	1
+Michaelson JJ	Pervasive developmental disorder	sex hormone binding globulin	1
+Frei JA	Pervasive developmental disorder	FAT atypical cadherin 1	1
+Brandenburg C	Pervasive developmental disorder	FAT atypical cadherin 1	1
+Nestor JE	Pervasive developmental disorder	FAT atypical cadherin 1	1
+Hodzic DM	Pervasive developmental disorder	FAT atypical cadherin 1	1
+Plachez C	Pervasive developmental disorder	FAT atypical cadherin 1	1
+McNeill H	Pervasive developmental disorder	FAT atypical cadherin 1	1
+Dykxhoorn DM	Pervasive developmental disorder	FAT atypical cadherin 1	1
+Nestor MW	Pervasive developmental disorder	FAT atypical cadherin 1	1
+Blatt GJ	Pervasive developmental disorder	FAT atypical cadherin 1	1
+Lin YC	Pervasive developmental disorder	FAT atypical cadherin 1	1
+Weiss A	Pervasive developmental disorder	arginine vasopressin	1
+Wilson VAD	Pervasive developmental disorder	arginine vasopressin	1
+Hopkins WD	Pervasive developmental disorder	arginine vasopressin	1
+Hatch HAM	Pervasive developmental disorder	lysine demethylase 5C	1
+O'Neil MH	Pervasive developmental disorder	lysine demethylase 5C	1
+Marion RW	Pervasive developmental disorder	lysine demethylase 5C	1
+Secombe J	Pervasive developmental disorder	lysine demethylase 5C	1
+Shulman LH	Pervasive developmental disorder	lysine demethylase 5C	1
+Burrows EL	Pervasive developmental disorder	neuroligin 3	1
+May C	Pervasive developmental disorder	neuroligin 3	1
+Hill T	Pervasive developmental disorder	neuroligin 3	1
+Churliov L	Pervasive developmental disorder	neuroligin 3	1
+Johnson KA	Pervasive developmental disorder	neuroligin 3	1
+Hannan AJ	Pervasive developmental disorder	neuroligin 3	1
+Tonhajzerova I	Pervasive developmental disorder	epidermal growth factor	1
+Ondrejka I	Pervasive developmental disorder	epidermal growth factor	1
+Ferencova N	Pervasive developmental disorder	epidermal growth factor	1
+Bujnakova I	Pervasive developmental disorder	epidermal growth factor	1
+Grendar M	Pervasive developmental disorder	epidermal growth factor	1
+Olexova LB	Pervasive developmental disorder	epidermal growth factor	1
+Hrtanek I	Pervasive developmental disorder	epidermal growth factor	1
+Visnovcova Z	Pervasive developmental disorder	epidermal growth factor	1
+Joung KE	Pervasive developmental disorder	leptin	1
+Rifas-Shiman SL	Pervasive developmental disorder	leptin	1
+Oken E	Pervasive developmental disorder	leptin	1
+Mantzoros CS	Pervasive developmental disorder	leptin	1
+Cheng C	Pervasive developmental disorder	ezrin	3
+Hou Y	Pervasive developmental disorder	ezrin	3
+Zhang Z	Pervasive developmental disorder	ezrin	6
+Wang Y	Pervasive developmental disorder	ezrin	8
+Lu L	Pervasive developmental disorder	ezrin	3
+Zhang L	Pervasive developmental disorder	ezrin	3
+Jiang P	Pervasive developmental disorder	ezrin	3
+Gao S	Pervasive developmental disorder	ezrin	3
+Fang Q	Pervasive developmental disorder	ezrin	3
+Zhu C	Pervasive developmental disorder	ezrin	3
+Gao J	Pervasive developmental disorder	ezrin	4
+Liu X	Pervasive developmental disorder	ezrin	9
+Xie W	Pervasive developmental disorder	ezrin	3
+Jia Z	Pervasive developmental disorder	ezrin	3
+Xu Z	Pervasive developmental disorder	ezrin	3
+Gao X	Pervasive developmental disorder	ezrin	3
+Chai R	Pervasive developmental disorder	ezrin	3
+Cheng C	Pervasive developmental disorder	radixin	3
+Hou Y	Pervasive developmental disorder	radixin	3
+Zhang Z	Pervasive developmental disorder	radixin	6
+Wang Y	Pervasive developmental disorder	radixin	8
+Lu L	Pervasive developmental disorder	radixin	3
+Zhang L	Pervasive developmental disorder	radixin	3
+Jiang P	Pervasive developmental disorder	radixin	3
+Gao S	Pervasive developmental disorder	radixin	3
+Fang Q	Pervasive developmental disorder	radixin	3
+Zhu C	Pervasive developmental disorder	radixin	3
+Gao J	Pervasive developmental disorder	radixin	4
+Liu X	Pervasive developmental disorder	radixin	9
+Xie W	Pervasive developmental disorder	radixin	3
+Jia Z	Pervasive developmental disorder	radixin	3
+Xu Z	Pervasive developmental disorder	radixin	3
+Gao X	Pervasive developmental disorder	radixin	3
+Chai R	Pervasive developmental disorder	radixin	3
+Cheng C	Pervasive developmental disorder	moesin	3
+Hou Y	Pervasive developmental disorder	moesin	3
+Zhang Z	Pervasive developmental disorder	moesin	6
+Wang Y	Pervasive developmental disorder	moesin	8
+Lu L	Pervasive developmental disorder	moesin	3
+Zhang L	Pervasive developmental disorder	moesin	3
+Jiang P	Pervasive developmental disorder	moesin	3
+Gao S	Pervasive developmental disorder	moesin	3
+Fang Q	Pervasive developmental disorder	moesin	3
+Zhu C	Pervasive developmental disorder	moesin	3
+Gao J	Pervasive developmental disorder	moesin	4
+Liu X	Pervasive developmental disorder	moesin	9
+Xie W	Pervasive developmental disorder	moesin	3
+Jia Z	Pervasive developmental disorder	moesin	3
+Xu Z	Pervasive developmental disorder	moesin	3
+Gao X	Pervasive developmental disorder	moesin	3
+Chai R	Pervasive developmental disorder	moesin	3
+Wang W	Pervasive developmental disorder	phosphatase and tensin homolog	3
+Tang J	Pervasive developmental disorder	phosphatase and tensin homolog	3
+Zhong M	Pervasive developmental disorder	phosphatase and tensin homolog	3
+Chen J	Pervasive developmental disorder	phosphatase and tensin homolog	7
+Li T	Pervasive developmental disorder	phosphatase and tensin homolog	6
+Dai Y	Pervasive developmental disorder	phosphatase and tensin homolog	2
+Wang W	Pervasive developmental disorder	glutamate ionotropic receptor AMPA type subunit 2	3
+Tang J	Pervasive developmental disorder	glutamate ionotropic receptor AMPA type subunit 2	3
+Zhong M	Pervasive developmental disorder	glutamate ionotropic receptor AMPA type subunit 2	3
+Chen J	Pervasive developmental disorder	glutamate ionotropic receptor AMPA type subunit 2	7
+Li T	Pervasive developmental disorder	glutamate ionotropic receptor AMPA type subunit 2	6
+Dai Y	Pervasive developmental disorder	glutamate ionotropic receptor AMPA type subunit 2	2
+Teskey G	Pervasive developmental disorder	alpha-2-macroglobulin	4
+Anagnostou E	Pervasive developmental disorder	alpha-2-macroglobulin	4
+Mankad D	Pervasive developmental disorder	alpha-2-macroglobulin	4
+Smile S	Pervasive developmental disorder	alpha-2-macroglobulin	4
+Roberts W	Pervasive developmental disorder	alpha-2-macroglobulin	4
+Brian J	Pervasive developmental disorder	alpha-2-macroglobulin	4
+Bowdish DME	Pervasive developmental disorder	alpha-2-macroglobulin	4
+Foster JA	Pervasive developmental disorder	alpha-2-macroglobulin	4
+Teskey G	Pervasive developmental disorder	C-reactive protein	4
+Anagnostou E	Pervasive developmental disorder	C-reactive protein	4
+Mankad D	Pervasive developmental disorder	C-reactive protein	4
+Smile S	Pervasive developmental disorder	C-reactive protein	4
+Roberts W	Pervasive developmental disorder	C-reactive protein	4
+Brian J	Pervasive developmental disorder	C-reactive protein	4
+Bowdish DME	Pervasive developmental disorder	C-reactive protein	4
+Foster JA	Pervasive developmental disorder	C-reactive protein	4
+Teskey G	Pervasive developmental disorder	haptoglobin	4
+Anagnostou E	Pervasive developmental disorder	haptoglobin	4
+Mankad D	Pervasive developmental disorder	haptoglobin	4
+Smile S	Pervasive developmental disorder	haptoglobin	4
+Roberts W	Pervasive developmental disorder	haptoglobin	4
+Brian J	Pervasive developmental disorder	haptoglobin	4
+Bowdish DME	Pervasive developmental disorder	haptoglobin	4
+Foster JA	Pervasive developmental disorder	haptoglobin	4
+Teskey G	Pervasive developmental disorder	plasminogen	4
+Anagnostou E	Pervasive developmental disorder	plasminogen	4
+Mankad D	Pervasive developmental disorder	plasminogen	4
+Smile S	Pervasive developmental disorder	plasminogen	4
+Roberts W	Pervasive developmental disorder	plasminogen	4
+Brian J	Pervasive developmental disorder	plasminogen	4
+Bowdish DME	Pervasive developmental disorder	plasminogen	4
+Foster JA	Pervasive developmental disorder	plasminogen	4
+Jannati A	Pervasive developmental disorder	apolipoprotein E	1
+Ryan MA	Pervasive developmental disorder	apolipoprotein E	1
+Block G	Pervasive developmental disorder	apolipoprotein E	1
+Kayarian FB	Pervasive developmental disorder	apolipoprotein E	1
+Oberman LM	Pervasive developmental disorder	apolipoprotein E	1
+Rotenberg A	Pervasive developmental disorder	apolipoprotein E	1
+Pascual-Leone A	Pervasive developmental disorder	apolipoprotein E	1
+Wang S	Pervasive developmental disorder	retinoic acid receptor alpha	2
+Liu H	Pervasive developmental disorder	retinoic acid receptor alpha	4
+Cheng B	Pervasive developmental disorder	retinoic acid receptor alpha	1
+Wu Q	Pervasive developmental disorder	retinoic acid receptor alpha	2
+Li L	Pervasive developmental disorder	retinoic acid receptor alpha	4
+Yang T	Pervasive developmental disorder	retinoic acid receptor alpha	4
+Hou N	Pervasive developmental disorder	retinoic acid receptor alpha	1
+Li T	Pervasive developmental disorder	retinoic acid receptor alpha	6

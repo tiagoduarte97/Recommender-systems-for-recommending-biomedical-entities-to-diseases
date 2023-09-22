@@ -1,0 +1,928 @@
+Zhang X	Autistic disorder	glutaminase	4
+Liu S	Autistic disorder	glutaminase	3
+Liu X	Autistic disorder	glutaminase	4
+Wang J	Autistic disorder	glutaminase	3
+Zhang H	Autistic disorder	biotinidase	3
+Tang X	Autistic disorder	biotinidase	2
+Feng C	Autistic disorder	biotinidase	2
+Gao Y	Autistic disorder	biotinidase	4
+Hong Q	Autistic disorder	biotinidase	2
+Zhang J	Autistic disorder	biotinidase	5
+Zhang X	Autistic disorder	biotinidase	4
+Zheng Q	Autistic disorder	biotinidase	2
+Lin J	Autistic disorder	biotinidase	2
+Liu X	Autistic disorder	biotinidase	4
+Shen L	Autistic disorder	biotinidase	2
+Zhang H	Autistic disorder	insulin	3
+Tang X	Autistic disorder	insulin	2
+Feng C	Autistic disorder	insulin	2
+Gao Y	Autistic disorder	insulin	4
+Hong Q	Autistic disorder	insulin	2
+Zhang J	Autistic disorder	insulin	5
+Zhang X	Autistic disorder	insulin	4
+Zheng Q	Autistic disorder	insulin	2
+Lin J	Autistic disorder	insulin	2
+Liu X	Autistic disorder	insulin	4
+Shen L	Autistic disorder	insulin	2
+Ghirardini E	Autistic disorder	parvalbumin	1
+Sagona G	Autistic disorder	parvalbumin	1
+Marquez-Galera A	Autistic disorder	parvalbumin	1
+Calugi F	Autistic disorder	parvalbumin	1
+Navarron CM	Autistic disorder	parvalbumin	1
+Cacciante F	Autistic disorder	parvalbumin	1
+Chen S	Autistic disorder	parvalbumin	1
+Di Vetta F	Autistic disorder	parvalbumin	1
+Dada L	Autistic disorder	parvalbumin	1
+Mazziotti R	Autistic disorder	parvalbumin	1
+Lupori L	Autistic disorder	parvalbumin	1
+Putignano E	Autistic disorder	parvalbumin	1
+Baldi P	Autistic disorder	parvalbumin	1
+Lopez-Atalaya JP	Autistic disorder	parvalbumin	1
+Pizzorusso T	Autistic disorder	parvalbumin	1
+Baroncelli L	Autistic disorder	parvalbumin	1
+Backstrom F	Autistic disorder	interleukin 6	1
+Ahl M	Autistic disorder	interleukin 6	1
+Wickham J	Autistic disorder	interleukin 6	1
+Ekdahl CT	Autistic disorder	interleukin 6	1
+de Oliveira Ferreira E	Autistic disorder	synaptophysin	1
+Pessoa Gomes JM	Autistic disorder	synaptophysin	1
+Neves KRT	Autistic disorder	synaptophysin	1
+Lima FAV	Autistic disorder	synaptophysin	1
+de Barros Viana GS	Autistic disorder	synaptophysin	1
+de Andrade GM	Autistic disorder	synaptophysin	1
+Thomas SD	Autistic disorder	phosphatase and tensin homolog	2
+Jha NK	Autistic disorder	phosphatase and tensin homolog	1
+Ojha S	Autistic disorder	phosphatase and tensin homolog	1
+Sadek B	Autistic disorder	phosphatase and tensin homolog	3
+Papuc SM	Autistic disorder	primary cilia formation	1
+Erbescu A	Autistic disorder	primary cilia formation	1
+Glangher A	Autistic disorder	primary cilia formation	1
+Streata I	Autistic disorder	primary cilia formation	1
+Riza AL	Autistic disorder	primary cilia formation	1
+Budisteanu M	Autistic disorder	primary cilia formation	1
+Arghir A	Autistic disorder	primary cilia formation	1
+Esvap E	Autistic disorder	glutathione-disulfide reductase	1
+Ulgen KO	Autistic disorder	glutathione-disulfide reductase	1
+Cardo LF	Autistic disorder	SET binding protein 1	1
+de la Fuente DC	Autistic disorder	SET binding protein 1	1
+Li M	Autistic disorder	SET binding protein 1	1
+Thongkorn S	Autistic disorder	androgen receptor	1
+Kanlayaprasit S	Autistic disorder	androgen receptor	1
+Kasitipradit K	Autistic disorder	androgen receptor	1
+Lertpeerapan P	Autistic disorder	androgen receptor	1
+Panjabud P	Autistic disorder	androgen receptor	1
+Hu VW	Autistic disorder	androgen receptor	1
+Jindatip D	Autistic disorder	androgen receptor	1
+Sarachana T	Autistic disorder	androgen receptor	1
+Kashii H	Autistic disorder	signal transducer and activator of transcription 3	2
+Kasai S	Autistic disorder	signal transducer and activator of transcription 3	2
+Sato A	Autistic disorder	signal transducer and activator of transcription 3	2
+Hagino Y	Autistic disorder	signal transducer and activator of transcription 3	2
+Nishito Y	Autistic disorder	signal transducer and activator of transcription 3	2
+Kobayashi T	Autistic disorder	signal transducer and activator of transcription 3	2
+Hino O	Autistic disorder	signal transducer and activator of transcription 3	2
+Mizuguchi M	Autistic disorder	signal transducer and activator of transcription 3	2
+Ikeda K	Autistic disorder	signal transducer and activator of transcription 3	2
+Kashii H	Autistic disorder	interferon regulatory factor 4	2
+Kasai S	Autistic disorder	interferon regulatory factor 4	2
+Sato A	Autistic disorder	interferon regulatory factor 4	2
+Hagino Y	Autistic disorder	interferon regulatory factor 4	2
+Nishito Y	Autistic disorder	interferon regulatory factor 4	2
+Kobayashi T	Autistic disorder	interferon regulatory factor 4	2
+Hino O	Autistic disorder	interferon regulatory factor 4	2
+Mizuguchi M	Autistic disorder	interferon regulatory factor 4	2
+Ikeda K	Autistic disorder	interferon regulatory factor 4	2
+Alsubaiei SRM	Autistic disorder	tumor necrosis factor	1
+Alfawaz HA	Autistic disorder	tumor necrosis factor	1
+Almubarak AY	Autistic disorder	tumor necrosis factor	1
+Alabdali NA	Autistic disorder	tumor necrosis factor	1
+Ben Bacha A	Autistic disorder	tumor necrosis factor	1
+El-Ansary A	Autistic disorder	tumor necrosis factor	4
+Xie Y	Autistic disorder	cortactin	1
+Wang H	Autistic disorder	cortactin	4
+Hu B	Autistic disorder	cortactin	1
+Zhang X	Autistic disorder	cortactin	4
+Liu A	Autistic disorder	cortactin	1
+Cai C	Autistic disorder	cortactin	1
+Li S	Autistic disorder	cortactin	3
+Chen C	Autistic disorder	cortactin	1
+Wang Z	Autistic disorder	cortactin	2
+Yin Z	Autistic disorder	cortactin	1
+Wang M	Autistic disorder	cortactin	1
+Moghaddam AH	Autistic disorder	catalase	1
+Eslami A	Autistic disorder	catalase	1
+Jelodar SK	Autistic disorder	catalase	1
+Ranjbar M	Autistic disorder	catalase	3
+Hasantabar V	Autistic disorder	catalase	1
+Smith IN	Autistic disorder	phosphatase and tensin homolog	1
+Dawson JE	Autistic disorder	phosphatase and tensin homolog	1
+Eng C	Autistic disorder	phosphatase and tensin homolog	1
+Colijn MA	Autistic disorder	euchromatic histone lysine methyltransferase 1	1
+Lakusta CM	Autistic disorder	euchromatic histone lysine methyltransferase 1	1
+Marcadier JL	Autistic disorder	euchromatic histone lysine methyltransferase 1	1
+Eissa N	Autistic disorder	tumor necrosis factor	1
+Awad MA	Autistic disorder	tumor necrosis factor	1
+Thomas SD	Autistic disorder	tumor necrosis factor	2
+Venkatachalam K	Autistic disorder	tumor necrosis factor	1
+Jayaprakash P	Autistic disorder	tumor necrosis factor	3
+Zhong S	Autistic disorder	tumor necrosis factor	1
+Stark H	Autistic disorder	tumor necrosis factor	1
+Sadek B	Autistic disorder	tumor necrosis factor	3
+Erdogan MA	Autistic disorder	insulin	2
+Bozkurt MF	Autistic disorder	insulin	1
+Erbas O	Autistic disorder	insulin	2
+Haratizadeh S	Autistic disorder	erythropoietin	1
+Ranjbar M	Autistic disorder	erythropoietin	3
+Darvishzadeh-Mahani F	Autistic disorder	erythropoietin	1
+Basiri M	Autistic disorder	erythropoietin	1
+Nozari M	Autistic disorder	erythropoietin	1
+Pascual-Morena C	Autistic disorder	dystrophin	1
+Cavero-Redondo I	Autistic disorder	dystrophin	1
+Martinez-Vizcaino V	Autistic disorder	dystrophin	1
+Sequi-Dominguez I	Autistic disorder	dystrophin	1
+Fernandez-Bravo-Rodrigo J	Autistic disorder	dystrophin	1
+Jimenez-Lopez E	Autistic disorder	dystrophin	1
+Luppe J	Autistic disorder	syntaxin 1A	1
+Sticht H	Autistic disorder	syntaxin 1A	1
+Lecoquierre F	Autistic disorder	syntaxin 1A	1
+Goldenberg A	Autistic disorder	syntaxin 1A	1
+Gorman KM	Autistic disorder	syntaxin 1A	1
+Molloy B	Autistic disorder	syntaxin 1A	1
+Agolini E	Autistic disorder	syntaxin 1A	1
+Novelli A	Autistic disorder	syntaxin 1A	1
+Briuglia S	Autistic disorder	syntaxin 1A	1
+Kuismin O	Autistic disorder	syntaxin 1A	1
+Marcelis C	Autistic disorder	syntaxin 1A	1
+Vitobello A	Autistic disorder	syntaxin 1A	2
+Denomme-Pichon AS	Autistic disorder	syntaxin 1A	1
+Julia S	Autistic disorder	syntaxin 1A	1
+Lemke JR	Autistic disorder	syntaxin 1A	1
+Abou Jamra R	Autistic disorder	syntaxin 1A	1
+Platzer K	Autistic disorder	syntaxin 1A	1
+Elhefnawei DM	Autistic disorder	glial fibrillary acidic protein	1
+Mahmoud AH	Autistic disorder	glial fibrillary acidic protein	1
+Kadry MO	Autistic disorder	glial fibrillary acidic protein	1
+Al-Mokaddem AK	Autistic disorder	glial fibrillary acidic protein	1
+Badawy MA	Autistic disorder	glial fibrillary acidic protein	1
+El-Desouky MA	Autistic disorder	glial fibrillary acidic protein	1
+Dutra ML	Autistic disorder	interleukin 17A	1
+Dias P	Autistic disorder	interleukin 17A	1
+Freiberger V	Autistic disorder	interleukin 17A	1
+Ventura L	Autistic disorder	interleukin 17A	1
+Comim CM	Autistic disorder	interleukin 17A	1
+Martins DF	Autistic disorder	interleukin 17A	1
+Bobinski F	Autistic disorder	interleukin 17A	1
+Filippova YY	Autistic disorder	nerve growth factor	1
+Devyatova EV	Autistic disorder	nerve growth factor	1
+Alekseeva AS	Autistic disorder	nerve growth factor	1
+Burmistrova AL	Autistic disorder	nerve growth factor	1
+Cumberland A	Autistic disorder	somatostatin	1
+Hale N	Autistic disorder	somatostatin	1
+Azhan A	Autistic disorder	somatostatin	1
+Gilchrist CP	Autistic disorder	somatostatin	1
+Chincarini G	Autistic disorder	somatostatin	1
+Tolcos M	Autistic disorder	somatostatin	1
+Paketci C	Autistic disorder	neurofilament light chain	1
+Ermis C	Autistic disorder	neurofilament light chain	1
+Sisman AR	Autistic disorder	neurofilament light chain	1
+Hiz S	Autistic disorder	neurofilament light chain	1
+Baykara B	Autistic disorder	neurofilament light chain	1
+Yis U	Autistic disorder	neurofilament light chain	1
+Bhalla S	Autistic disorder	glucagon	3
+Mehan S	Autistic disorder	glucagon	3
+Bhalla S	Autistic disorder	insulin	3
+Mehan S	Autistic disorder	insulin	3
+Sitaram S	Autistic disorder	adenylosuccinate lyase	1
+Banka HC	Autistic disorder	adenylosuccinate lyase	1
+Vassallo G	Autistic disorder	adenylosuccinate lyase	1
+Pavaine J	Autistic disorder	adenylosuccinate lyase	1
+Fairclough A	Autistic disorder	adenylosuccinate lyase	1
+Wright R	Autistic disorder	adenylosuccinate lyase	1
+Fairbanks L	Autistic disorder	adenylosuccinate lyase	1
+Bierau J	Autistic disorder	adenylosuccinate lyase	1
+Bowden L	Autistic disorder	adenylosuccinate lyase	1
+Schwahn B	Autistic disorder	adenylosuccinate lyase	1
+Horman A	Autistic disorder	adenylosuccinate lyase	1
+Banka S	Autistic disorder	adenylosuccinate lyase	1
+Stolar O	Autistic disorder	prolactin	1
+Hazan A	Autistic disorder	prolactin	1
+Vissoker RE	Autistic disorder	prolactin	1
+Kishk IA	Autistic disorder	prolactin	1
+Barchel D	Autistic disorder	prolactin	1
+Lezinger M	Autistic disorder	prolactin	1
+Dagan A	Autistic disorder	prolactin	1
+Treves N	Autistic disorder	prolactin	1
+Meiri D	Autistic disorder	prolactin	1
+Berkovitch M	Autistic disorder	prolactin	1
+Kohn E	Autistic disorder	prolactin	1
+Heyman E	Autistic disorder	prolactin	1
+Zhou B	Autistic disorder	arginine vasopressin	2
+Yan X	Autistic disorder	arginine vasopressin	1
+Yang L	Autistic disorder	arginine vasopressin	1
+Zheng X	Autistic disorder	arginine vasopressin	1
+Chen Y	Autistic disorder	arginine vasopressin	1
+Liu Y	Autistic disorder	arginine vasopressin	1
+Ren Y	Autistic disorder	arginine vasopressin	1
+Peng J	Autistic disorder	arginine vasopressin	1
+Zhang Y	Autistic disorder	arginine vasopressin	3
+Huang J	Autistic disorder	arginine vasopressin	1
+Tang L	Autistic disorder	arginine vasopressin	1
+Wen M	Autistic disorder	arginine vasopressin	1
+Song X	Autistic disorder	protein kinase C beta	2
+Hu Q	Autistic disorder	protein kinase C beta	2
+Xu X	Autistic disorder	protein kinase C beta	3
+Pan W	Autistic disorder	protein kinase C beta	2
+Song X	Autistic disorder	uncoupling protein 1	2
+Hu Q	Autistic disorder	uncoupling protein 1	2
+Xu X	Autistic disorder	uncoupling protein 1	3
+Pan W	Autistic disorder	uncoupling protein 1	2
+Coakley-Youngs E	Autistic disorder	chromodomain helicase DNA binding protein 8	1
+Ranatunga M	Autistic disorder	chromodomain helicase DNA binding protein 8	1
+Richardson S	Autistic disorder	chromodomain helicase DNA binding protein 8	1
+Getti G	Autistic disorder	chromodomain helicase DNA binding protein 8	1
+Shorter S	Autistic disorder	chromodomain helicase DNA binding protein 8	1
+Fivaz M	Autistic disorder	chromodomain helicase DNA binding protein 8	1
+Brusov OS	Autistic disorder	myelin basic protein	1
+Klyushnik TP	Autistic disorder	myelin basic protein	1
+Zozulya SA	Autistic disorder	myelin basic protein	1
+Karpova NS	Autistic disorder	myelin basic protein	1
+Shilov YE	Autistic disorder	myelin basic protein	1
+Nikitina SG	Autistic disorder	myelin basic protein	1
+Simashkova NV	Autistic disorder	myelin basic protein	1
+Pappas J	Autistic disorder	Coats disease	1
+Rabin R	Autistic disorder	Coats disease	1
+Carey C	Autistic disorder	parvalbumin	1
+Singh N	Autistic disorder	parvalbumin	1
+Dunn JT	Autistic disorder	parvalbumin	1
+Sementa T	Autistic disorder	parvalbumin	1
+Mendez MA	Autistic disorder	parvalbumin	1
+Velthuis H	Autistic disorder	parvalbumin	1
+Pereira AC	Autistic disorder	parvalbumin	1
+Pretzsch CM	Autistic disorder	parvalbumin	1
+Horder J	Autistic disorder	parvalbumin	1
+Hader S	Autistic disorder	parvalbumin	1
+Lythgoe DJ	Autistic disorder	parvalbumin	1
+Rotaru DG	Autistic disorder	parvalbumin	1
+Gee A	Autistic disorder	parvalbumin	1
+Cash D	Autistic disorder	parvalbumin	1
+Veronese M	Autistic disorder	parvalbumin	1
+Murphy D	Autistic disorder	parvalbumin	1
+McAlonan G	Autistic disorder	parvalbumin	1
+Choi J	Autistic disorder	monoamine oxidase B	1
+Kim YS	Autistic disorder	monoamine oxidase B	1
+Kim MH	Autistic disorder	monoamine oxidase B	1
+Kim HJ	Autistic disorder	monoamine oxidase B	1
+Yoon BE	Autistic disorder	monoamine oxidase B	1
+Li LS	Autistic disorder	retinoic acid receptor alpha	2
+Zhang Q	Autistic disorder	retinoic acid receptor alpha	3
+Liu H	Autistic disorder	retinoic acid receptor alpha	3
+Wu QH	Autistic disorder	retinoic acid receptor alpha	2
+Yang T	Autistic disorder	retinoic acid receptor alpha	3
+Chen J	Autistic disorder	retinoic acid receptor alpha	5
+Li TY	Autistic disorder	retinoic acid receptor alpha	2
+Li LS	Autistic disorder	neurexin 1	2
+Zhang Q	Autistic disorder	neurexin 1	3
+Liu H	Autistic disorder	neurexin 1	3
+Wu QH	Autistic disorder	neurexin 1	2
+Yang T	Autistic disorder	neurexin 1	3
+Chen J	Autistic disorder	neurexin 1	5
+Li TY	Autistic disorder	neurexin 1	2
+Sen P	Autistic disorder	arginine vasopressin	1
+Sherwin E	Autistic disorder	arginine vasopressin	1
+Sandhu K	Autistic disorder	arginine vasopressin	1
+Bastiaanssen TFS	Autistic disorder	arginine vasopressin	1
+Moloney GM	Autistic disorder	arginine vasopressin	1
+Golubeva A	Autistic disorder	arginine vasopressin	1
+Fitzgerald P	Autistic disorder	arginine vasopressin	1
+Paula Ventura Da Silva A	Autistic disorder	arginine vasopressin	1
+Chruscicka-Smaga B	Autistic disorder	arginine vasopressin	1
+Olavarria-Ramirez L	Autistic disorder	arginine vasopressin	1
+Druelle C	Autistic disorder	arginine vasopressin	1
+Campos D	Autistic disorder	arginine vasopressin	1
+Jayaprakash P	Autistic disorder	arginine vasopressin	3
+Rea K	Autistic disorder	arginine vasopressin	1
+Jeffery IB	Autistic disorder	arginine vasopressin	1
+Savignac H	Autistic disorder	arginine vasopressin	1
+Chetal S	Autistic disorder	arginine vasopressin	1
+Mulder I	Autistic disorder	arginine vasopressin	1
+Schellekens H	Autistic disorder	arginine vasopressin	1
+Dinan TG	Autistic disorder	arginine vasopressin	1
+Cryan JF	Autistic disorder	arginine vasopressin	1
+Rozhkova IN	Autistic disorder	doublecortin	1
+Okotrub SV	Autistic disorder	doublecortin	1
+Brusentsev EY	Autistic disorder	doublecortin	1
+Uldanova EE	Autistic disorder	doublecortin	1
+Chuyko Ecapital A, Cyrillic	Autistic disorder	doublecortin	1
+Lipina TV	Autistic disorder	doublecortin	1
+Amstislavskaya TG	Autistic disorder	doublecortin	1
+Amstislavsky SY	Autistic disorder	doublecortin	1
+Robinson-Agramonte MLA	Autistic disorder	insulin	1
+Michalski B	Autistic disorder	insulin	1
+Vidal-Martinez B	Autistic disorder	insulin	1
+Hernandez LR	Autistic disorder	insulin	1
+Santiesteban MW	Autistic disorder	insulin	1
+Fahnestock M	Autistic disorder	insulin	1
+Yang X	Autistic disorder	ST8 alpha-N-acetyl-neuraminide alpha-2,8-sialyltransferase 2	2
+Li L	Autistic disorder	ST8 alpha-N-acetyl-neuraminide alpha-2,8-sialyltransferase 2	3
+Chai X	Autistic disorder	ST8 alpha-N-acetyl-neuraminide alpha-2,8-sialyltransferase 2	1
+Liu J	Autistic disorder	ST8 alpha-N-acetyl-neuraminide alpha-2,8-sialyltransferase 2	2
+Xu S	Autistic disorder	methylenetetrahydrofolate reductase	1
+Men S	Autistic disorder	methylenetetrahydrofolate reductase	1
+Wang X	Autistic disorder	methylenetetrahydrofolate reductase	2
+Zhan F	Autistic disorder	methylenetetrahydrofolate reductase	1
+Yuan X	Autistic disorder	methylenetetrahydrofolate reductase	1
+Durankus F	Autistic disorder	nerve growth factor	1
+Albayrak Y	Autistic disorder	nerve growth factor	1
+Erdogan F	Autistic disorder	nerve growth factor	1
+Albayrak N	Autistic disorder	nerve growth factor	1
+Erdogan MA	Autistic disorder	nerve growth factor	2
+Erbas O	Autistic disorder	nerve growth factor	2
+Kummer S	Autistic disorder	insulin	1
+Rinne S	Autistic disorder	insulin	1
+Seemann G	Autistic disorder	insulin	1
+Bachmann N	Autistic disorder	insulin	1
+Timothy K	Autistic disorder	insulin	1
+Thornton PS	Autistic disorder	insulin	1
+Pillekamp F	Autistic disorder	insulin	1
+Mayatepek E	Autistic disorder	insulin	1
+Bergmann C	Autistic disorder	insulin	1
+Meissner T	Autistic disorder	insulin	1
+Decher N	Autistic disorder	insulin	1
+Florea T	Autistic disorder	oxytocin receptor	1
+Palimariciuc M	Autistic disorder	oxytocin receptor	1
+Cristofor AC	Autistic disorder	oxytocin receptor	1
+Dobrin I	Autistic disorder	oxytocin receptor	1
+Chirita R	Autistic disorder	oxytocin receptor	1
+Birsan M	Autistic disorder	oxytocin receptor	1
+Dobrin RP	Autistic disorder	oxytocin receptor	1
+Padurariu M	Autistic disorder	oxytocin receptor	1
+Jagadapillai R	Autistic disorder	albumin	1
+Qiu X	Autistic disorder	albumin	1
+Ojha K	Autistic disorder	albumin	1
+Li Z	Autistic disorder	albumin	2
+El-Baz A	Autistic disorder	albumin	1
+Zou S	Autistic disorder	albumin	1
+Gozal E	Autistic disorder	albumin	1
+Barnes GN	Autistic disorder	albumin	1
+Esnafoglu E	Autistic disorder	C-reactive protein	1
+Subasi B	Autistic disorder	C-reactive protein	1
+Xiang L	Autistic disorder	parvalbumin	1
+Wu Q	Autistic disorder	parvalbumin	1
+Sun H	Autistic disorder	parvalbumin	2
+Miao X	Autistic disorder	parvalbumin	1
+Lv Z	Autistic disorder	parvalbumin	1
+Liu H	Autistic disorder	parvalbumin	3
+Chen L	Autistic disorder	parvalbumin	1
+Gu Y	Autistic disorder	parvalbumin	1
+Chen J	Autistic disorder	parvalbumin	5
+Zhou S	Autistic disorder	parvalbumin	1
+Jiang H	Autistic disorder	parvalbumin	1
+Du S	Autistic disorder	parvalbumin	1
+Zhou Y	Autistic disorder	parvalbumin	1
+Dong H	Autistic disorder	parvalbumin	1
+Fan Y	Autistic disorder	parvalbumin	1
+Miao S	Autistic disorder	parvalbumin	1
+Lu Q	Autistic disorder	parvalbumin	1
+Chang L	Autistic disorder	parvalbumin	1
+Wang H	Autistic disorder	parvalbumin	4
+Lu Y	Autistic disorder	parvalbumin	1
+Xu X	Autistic disorder	parvalbumin	3
+Wang W	Autistic disorder	parvalbumin	1
+Huang Z	Autistic disorder	parvalbumin	1
+Chu MC	Autistic disorder	gephyrin	1
+Wu HF	Autistic disorder	gephyrin	1
+Lee CW	Autistic disorder	gephyrin	1
+Chung YJ	Autistic disorder	gephyrin	1
+Chi H	Autistic disorder	gephyrin	1
+Chen PS	Autistic disorder	gephyrin	1
+Lin HC	Autistic disorder	gephyrin	1
+Zorn S	Autistic disorder	leptin receptor	1
+von Schnurbein J	Autistic disorder	leptin receptor	1
+Schirmer M	Autistic disorder	leptin receptor	1
+Brandt S	Autistic disorder	leptin receptor	1
+Wabitsch M	Autistic disorder	leptin receptor	1
+Kalinowska M	Autistic disorder	parvalbumin	2
+van der Lei MB	Autistic disorder	parvalbumin	2
+Kitiashvili M	Autistic disorder	parvalbumin	2
+Mamcarz M	Autistic disorder	parvalbumin	2
+Oliveira MM	Autistic disorder	parvalbumin	2
+Longo F	Autistic disorder	parvalbumin	2
+Klann E	Autistic disorder	parvalbumin	2
+Kalinowska M	Autistic disorder	somatostatin	2
+van der Lei MB	Autistic disorder	somatostatin	2
+Kitiashvili M	Autistic disorder	somatostatin	2
+Mamcarz M	Autistic disorder	somatostatin	2
+Oliveira MM	Autistic disorder	somatostatin	2
+Longo F	Autistic disorder	somatostatin	2
+Klann E	Autistic disorder	somatostatin	2
+Sharma A	Autistic disorder	myelin basic protein	1
+Bhalla S	Autistic disorder	myelin basic protein	3
+Mehan S	Autistic disorder	myelin basic protein	3
+Sivasangari K	Autistic disorder	nerve growth factor	3
+Rajan KE	Autistic disorder	nerve growth factor	3
+Sivasangari K	Autistic disorder	glial fibrillary acidic protein	3
+Rajan KE	Autistic disorder	glial fibrillary acidic protein	3
+Sivasangari K	Autistic disorder	proliferating cell nuclear antigen	3
+Rajan KE	Autistic disorder	proliferating cell nuclear antigen	3
+Shih PY	Autistic disorder	cortactin	1
+Fang YL	Autistic disorder	cortactin	1
+Shankar S	Autistic disorder	cortactin	1
+Lee SP	Autistic disorder	cortactin	1
+Hu HT	Autistic disorder	cortactin	1
+Chen H	Autistic disorder	cortactin	1
+Wang TF	Autistic disorder	cortactin	1
+Hsia KC	Autistic disorder	cortactin	1
+Hsueh YP	Autistic disorder	cortactin	1
+Yu D	Autistic disorder	parvalbumin	2
+Li T	Autistic disorder	parvalbumin	2
+Delpech JC	Autistic disorder	parvalbumin	2
+Zhu B	Autistic disorder	parvalbumin	2
+Kishore P	Autistic disorder	parvalbumin	2
+Koshi T	Autistic disorder	parvalbumin	2
+Luo R	Autistic disorder	parvalbumin	2
+Pratt KJB	Autistic disorder	parvalbumin	2
+Popova G	Autistic disorder	parvalbumin	2
+Nowakowski TJ	Autistic disorder	parvalbumin	2
+Villeda SA	Autistic disorder	parvalbumin	2
+Piao X	Autistic disorder	parvalbumin	2
+Yu D	Autistic disorder	tumor necrosis factor	2
+Li T	Autistic disorder	tumor necrosis factor	2
+Delpech JC	Autistic disorder	tumor necrosis factor	2
+Zhu B	Autistic disorder	tumor necrosis factor	2
+Kishore P	Autistic disorder	tumor necrosis factor	2
+Koshi T	Autistic disorder	tumor necrosis factor	2
+Luo R	Autistic disorder	tumor necrosis factor	2
+Pratt KJB	Autistic disorder	tumor necrosis factor	2
+Popova G	Autistic disorder	tumor necrosis factor	2
+Nowakowski TJ	Autistic disorder	tumor necrosis factor	2
+Villeda SA	Autistic disorder	tumor necrosis factor	2
+Piao X	Autistic disorder	tumor necrosis factor	2
+Santos-Terra J	Autistic disorder	parvalbumin	2
+Deckmann I	Autistic disorder	parvalbumin	2
+Carello-Collar G	Autistic disorder	parvalbumin	2
+Nunes GD	Autistic disorder	parvalbumin	2
+Bauer-Negrini G	Autistic disorder	parvalbumin	2
+Schwingel GB	Autistic disorder	parvalbumin	2
+Fontes-Dutra M	Autistic disorder	parvalbumin	2
+Riesgo R	Autistic disorder	parvalbumin	2
+Gottfried C	Autistic disorder	parvalbumin	2
+Santos-Terra J	Autistic disorder	somatostatin	2
+Deckmann I	Autistic disorder	somatostatin	2
+Carello-Collar G	Autistic disorder	somatostatin	2
+Nunes GD	Autistic disorder	somatostatin	2
+Bauer-Negrini G	Autistic disorder	somatostatin	2
+Schwingel GB	Autistic disorder	somatostatin	2
+Fontes-Dutra M	Autistic disorder	somatostatin	2
+Riesgo R	Autistic disorder	somatostatin	2
+Gottfried C	Autistic disorder	somatostatin	2
+Westmark CJ	Autistic disorder	leptin	1
+Filon MJ	Autistic disorder	leptin	1
+Maina P	Autistic disorder	leptin	1
+Steinberg LI	Autistic disorder	leptin	1
+Ikonomidou C	Autistic disorder	leptin	1
+Westmark PR	Autistic disorder	leptin	1
+Vazifekhah S	Autistic disorder	glutamate decarboxylase 2	1
+Barfi S	Autistic disorder	glutamate decarboxylase 2	1
+Soleimany F	Autistic disorder	glutamate decarboxylase 2	1
+Aliakbar A	Autistic disorder	glutamate decarboxylase 2	1
+Zavvari F	Autistic disorder	glutamate decarboxylase 2	1
+Karimzadeh F	Autistic disorder	glutamate decarboxylase 2	1
+Imam B	Autistic disorder	oxytocin receptor	3
+Rahmatinia M	Autistic disorder	oxytocin receptor	3
+Shahsavani A	Autistic disorder	oxytocin receptor	3
+Khodagholi F	Autistic disorder	oxytocin receptor	3
+Hopke PK	Autistic disorder	oxytocin receptor	3
+Bazazzpour S	Autistic disorder	oxytocin receptor	3
+Hadei M	Autistic disorder	oxytocin receptor	3
+Yarahmadi M	Autistic disorder	oxytocin receptor	3
+Abdollahifar MA	Autistic disorder	oxytocin receptor	3
+Torkmahalleh MA	Autistic disorder	oxytocin receptor	3
+Kermani M	Autistic disorder	oxytocin receptor	3
+Ilkhani S	Autistic disorder	oxytocin receptor	3
+MirBehbahani SH	Autistic disorder	oxytocin receptor	3
+Imam B	Autistic disorder	interleukin 6	3
+Rahmatinia M	Autistic disorder	interleukin 6	3
+Shahsavani A	Autistic disorder	interleukin 6	3
+Khodagholi F	Autistic disorder	interleukin 6	3
+Hopke PK	Autistic disorder	interleukin 6	3
+Bazazzpour S	Autistic disorder	interleukin 6	3
+Hadei M	Autistic disorder	interleukin 6	3
+Yarahmadi M	Autistic disorder	interleukin 6	3
+Abdollahifar MA	Autistic disorder	interleukin 6	3
+Torkmahalleh MA	Autistic disorder	interleukin 6	3
+Kermani M	Autistic disorder	interleukin 6	3
+Ilkhani S	Autistic disorder	interleukin 6	3
+MirBehbahani SH	Autistic disorder	interleukin 6	3
+Imam B	Autistic disorder	tumor necrosis factor	3
+Rahmatinia M	Autistic disorder	tumor necrosis factor	3
+Shahsavani A	Autistic disorder	tumor necrosis factor	3
+Khodagholi F	Autistic disorder	tumor necrosis factor	3
+Hopke PK	Autistic disorder	tumor necrosis factor	3
+Bazazzpour S	Autistic disorder	tumor necrosis factor	3
+Hadei M	Autistic disorder	tumor necrosis factor	3
+Yarahmadi M	Autistic disorder	tumor necrosis factor	3
+Abdollahifar MA	Autistic disorder	tumor necrosis factor	3
+Torkmahalleh MA	Autistic disorder	tumor necrosis factor	3
+Kermani M	Autistic disorder	tumor necrosis factor	3
+Ilkhani S	Autistic disorder	tumor necrosis factor	3
+MirBehbahani SH	Autistic disorder	tumor necrosis factor	3
+Wang L	Autistic disorder	prosaposin	1
+Chen J	Autistic disorder	prosaposin	5
+Hu Y	Autistic disorder	prosaposin	1
+Liao A	Autistic disorder	prosaposin	1
+Zheng W	Autistic disorder	prosaposin	1
+Wang X	Autistic disorder	prosaposin	2
+Lan J	Autistic disorder	prosaposin	1
+Shen J	Autistic disorder	prosaposin	1
+Wang S	Autistic disorder	prosaposin	1
+Yang F	Autistic disorder	prosaposin	1
+Wang Y	Autistic disorder	prosaposin	2
+Li Y	Autistic disorder	prosaposin	1
+Chen D	Autistic disorder	prosaposin	1
+Al-Ali Z	Autistic disorder	oxytocin receptor	1
+Yasseen AA	Autistic disorder	oxytocin receptor	1
+Al-Dujailli A	Autistic disorder	oxytocin receptor	1
+Al-Karaqully AJ	Autistic disorder	oxytocin receptor	1
+McAllister KA	Autistic disorder	oxytocin receptor	1
+Jumaah AS	Autistic disorder	oxytocin receptor	1
+Abbasalipour H	Autistic disorder	catalase	1
+Hajizadeh Moghaddam A	Autistic disorder	catalase	1
+Ranjbar M	Autistic disorder	catalase	3
+Cristino LMF	Autistic disorder	parvalbumin	1
+Chaves Filho AJM	Autistic disorder	parvalbumin	1
+Custodio CS	Autistic disorder	parvalbumin	1
+Vasconcelos SMM	Autistic disorder	parvalbumin	1
+de Sousa FCF	Autistic disorder	parvalbumin	1
+Sanders LLO	Autistic disorder	parvalbumin	1
+de Lucena DF	Autistic disorder	parvalbumin	1
+Macedo DS	Autistic disorder	parvalbumin	1
+Ejlersen M	Autistic disorder	superoxide dismutase 1	2
+Ilieva M	Autistic disorder	superoxide dismutase 1	2
+Michel TM	Autistic disorder	superoxide dismutase 1	2
+Ejlersen M	Autistic disorder	superoxide dismutase 2	2
+Ilieva M	Autistic disorder	superoxide dismutase 2	2
+Michel TM	Autistic disorder	superoxide dismutase 2	2
+Wu H	Autistic disorder	glutathione peroxidase 4	1
+Luan Y	Autistic disorder	glutathione peroxidase 4	1
+Wang H	Autistic disorder	glutathione peroxidase 4	4
+Zhang P	Autistic disorder	glutathione peroxidase 4	1
+Liu S	Autistic disorder	glutathione peroxidase 4	3
+Wang P	Autistic disorder	glutathione peroxidase 4	2
+Cao Y	Autistic disorder	glutathione peroxidase 4	1
+Sun H	Autistic disorder	glutathione peroxidase 4	2
+Wu L	Autistic disorder	glutathione peroxidase 4	1
+Hausman-Cohen S	Autistic disorder	SH3 and multiple ankyrin repeat domains 3	1
+LaValley W	Autistic disorder	SH3 and multiple ankyrin repeat domains 3	1
+Way H	Autistic disorder	SH3 and multiple ankyrin repeat domains 3	1
+Gutierrez E	Autistic disorder	SH3 and multiple ankyrin repeat domains 3	1
+Reeder J	Autistic disorder	SH3 and multiple ankyrin repeat domains 3	1
+Li Z	Autistic disorder	insulin	2
+Xiao GY	Autistic disorder	insulin	1
+He CY	Autistic disorder	insulin	1
+Liu X	Autistic disorder	insulin	4
+Fan X	Autistic disorder	insulin	1
+Zhao Y	Autistic disorder	insulin	1
+Wang NR	Autistic disorder	insulin	1
+Iwabuchi T	Autistic disorder	leptin	1
+Takahashi N	Autistic disorder	leptin	1
+Nishimura T	Autistic disorder	leptin	1
+Rahman MS	Autistic disorder	leptin	1
+Harada T	Autistic disorder	leptin	1
+Okumura A	Autistic disorder	leptin	1
+Kuwabara H	Autistic disorder	leptin	1
+Takagai S	Autistic disorder	leptin	1
+Nomura Y	Autistic disorder	leptin	1
+Matsuzaki H	Autistic disorder	leptin	1
+Ozaki N	Autistic disorder	leptin	1
+Tsuchiya KJ	Autistic disorder	leptin	1
+Cheng Y	Autistic disorder	somatostatin	1
+Tang B	Autistic disorder	somatostatin	1
+Zhang G	Autistic disorder	somatostatin	1
+An P	Autistic disorder	somatostatin	1
+Sun Y	Autistic disorder	somatostatin	1
+Gao M	Autistic disorder	somatostatin	1
+Zhang Y	Autistic disorder	somatostatin	3
+Shan Y	Autistic disorder	somatostatin	1
+Zhang J	Autistic disorder	somatostatin	5
+Liu Q	Autistic disorder	somatostatin	1
+Lai CSW	Autistic disorder	somatostatin	1
+de Villers-Sidani E	Autistic disorder	somatostatin	1
+Wang Y	Autistic disorder	somatostatin	2
+Zhou X	Autistic disorder	somatostatin	1
+Kutna V	Autistic disorder	synaptophysin	1
+O'Leary VB	Autistic disorder	synaptophysin	1
+Hoschl C	Autistic disorder	synaptophysin	1
+Ovsepian SV	Autistic disorder	synaptophysin	1
+Wang J	Autistic disorder	superoxide dismutase 2	3
+Frohlich H	Autistic disorder	superoxide dismutase 2	1
+Torres FB	Autistic disorder	superoxide dismutase 2	1
+Silva RL	Autistic disorder	superoxide dismutase 2	1
+Poschet G	Autistic disorder	superoxide dismutase 2	1
+Agarwal A	Autistic disorder	superoxide dismutase 2	1
+Rappold GA	Autistic disorder	superoxide dismutase 2	1
+Hughes RB	Autistic disorder	insulin receptor	1
+Whittingham-Dowd J	Autistic disorder	insulin receptor	1
+Clapcote SJ	Autistic disorder	insulin receptor	1
+Broughton SJ	Autistic disorder	insulin receptor	1
+Dawson N	Autistic disorder	insulin receptor	1
+Taylor J	Autistic disorder	heterogeneous nuclear ribonucleoprotein U	1
+Spiller M	Autistic disorder	heterogeneous nuclear ribonucleoprotein U	1
+Ranguin K	Autistic disorder	heterogeneous nuclear ribonucleoprotein U	1
+Vitobello A	Autistic disorder	heterogeneous nuclear ribonucleoprotein U	2
+Philippe C	Autistic disorder	heterogeneous nuclear ribonucleoprotein U	1
+Bruel AL	Autistic disorder	heterogeneous nuclear ribonucleoprotein U	1
+Cappuccio G	Autistic disorder	heterogeneous nuclear ribonucleoprotein U	1
+Brunetti-Pierri N	Autistic disorder	heterogeneous nuclear ribonucleoprotein U	1
+Willems M	Autistic disorder	heterogeneous nuclear ribonucleoprotein U	1
+Isidor B	Autistic disorder	heterogeneous nuclear ribonucleoprotein U	1
+Park K	Autistic disorder	heterogeneous nuclear ribonucleoprotein U	1
+Balasubramanian M	Autistic disorder	heterogeneous nuclear ribonucleoprotein U	1
+Mercimek-Andrews S	Autistic disorder	glycine amidinotransferase	1
+Salomons GS	Autistic disorder	glycine amidinotransferase	1
+Shu L	Autistic disorder	microtubule associated serine/threonine kinase 3	1
+Xiao N	Autistic disorder	microtubule associated serine/threonine kinase 3	1
+Qin J	Autistic disorder	microtubule associated serine/threonine kinase 3	1
+Tian Q	Autistic disorder	microtubule associated serine/threonine kinase 3	1
+Zhang Y	Autistic disorder	microtubule associated serine/threonine kinase 3	3
+Li H	Autistic disorder	microtubule associated serine/threonine kinase 3	1
+Liu J	Autistic disorder	microtubule associated serine/threonine kinase 3	2
+Li Q	Autistic disorder	microtubule associated serine/threonine kinase 3	1
+Gu W	Autistic disorder	microtubule associated serine/threonine kinase 3	2
+Wang P	Autistic disorder	microtubule associated serine/threonine kinase 3	2
+Wang H	Autistic disorder	microtubule associated serine/threonine kinase 3	4
+Mao X	Autistic disorder	microtubule associated serine/threonine kinase 3	1
+Knoedler JR	Autistic disorder	estrogen receptor 1	1
+Inoue S	Autistic disorder	estrogen receptor 1	1
+Bayless DW	Autistic disorder	estrogen receptor 1	1
+Yang T	Autistic disorder	estrogen receptor 1	3
+Tantry A	Autistic disorder	estrogen receptor 1	1
+Davis CH	Autistic disorder	estrogen receptor 1	1
+Leung NY	Autistic disorder	estrogen receptor 1	1
+Parthasarathy S	Autistic disorder	estrogen receptor 1	1
+Wang G	Autistic disorder	estrogen receptor 1	1
+Alvarado M	Autistic disorder	estrogen receptor 1	1
+Rizvi AH	Autistic disorder	estrogen receptor 1	1
+Fenno LE	Autistic disorder	estrogen receptor 1	1
+Ramakrishnan C	Autistic disorder	estrogen receptor 1	1
+Deisseroth K	Autistic disorder	estrogen receptor 1	1
+Shah NM	Autistic disorder	estrogen receptor 1	1
+Alhakbany M	Autistic disorder	tumor necrosis factor	1
+Al-Ayadhi L	Autistic disorder	tumor necrosis factor	2
+El-Ansary A	Autistic disorder	tumor necrosis factor	4
+Zhao P	Autistic disorder	thioredoxin	2
+Fu H	Autistic disorder	thioredoxin	2
+Cheng H	Autistic disorder	thioredoxin	2
+Zheng R	Autistic disorder	thioredoxin	2
+Yuan D	Autistic disorder	thioredoxin	2
+Yang J	Autistic disorder	thioredoxin	2
+Li S	Autistic disorder	thioredoxin	3
+Li E	Autistic disorder	thioredoxin	2
+Li L	Autistic disorder	thioredoxin	3
+Zhao P	Autistic disorder	caspase 1	2
+Fu H	Autistic disorder	caspase 1	2
+Cheng H	Autistic disorder	caspase 1	2
+Zheng R	Autistic disorder	caspase 1	2
+Yuan D	Autistic disorder	caspase 1	2
+Yang J	Autistic disorder	caspase 1	2
+Li S	Autistic disorder	caspase 1	3
+Li E	Autistic disorder	caspase 1	2
+Li L	Autistic disorder	caspase 1	3
+Hegde R	Autistic disorder	neuroligin 3	1
+Hegde S	Autistic disorder	neuroligin 3	1
+Kulkarni SS	Autistic disorder	neuroligin 3	1
+Pandurangi A	Autistic disorder	neuroligin 3	1
+Gai PB	Autistic disorder	neuroligin 3	1
+Das KK	Autistic disorder	neuroligin 3	1
+Dewulf JP	Autistic disorder	adenylosuccinate lyase	1
+Marie S	Autistic disorder	adenylosuccinate lyase	1
+Nassogne MC	Autistic disorder	adenylosuccinate lyase	1
+Nalbant K	Autistic disorder	occludin	1
+Erden S	Autistic disorder	occludin	1
+Yazar A	Autistic disorder	occludin	1
+Kilinc I	Autistic disorder	occludin	1
+AU não encontrado	Autistic disorder	renin	1
+Zhou B	Autistic disorder	glutamate ionotropic receptor AMPA type subunit 2	2
+Zhang C	Autistic disorder	glutamate ionotropic receptor AMPA type subunit 2	1
+Zheng L	Autistic disorder	glutamate ionotropic receptor AMPA type subunit 2	1
+Wang Z	Autistic disorder	glutamate ionotropic receptor AMPA type subunit 2	2
+Chen X	Autistic disorder	glutamate ionotropic receptor AMPA type subunit 2	1
+Feng X	Autistic disorder	glutamate ionotropic receptor AMPA type subunit 2	1
+Zhang Q	Autistic disorder	glutamate ionotropic receptor AMPA type subunit 2	3
+Hao S	Autistic disorder	glutamate ionotropic receptor AMPA type subunit 2	1
+Wei L	Autistic disorder	glutamate ionotropic receptor AMPA type subunit 2	1
+Gu W	Autistic disorder	glutamate ionotropic receptor AMPA type subunit 2	2
+Hui L	Autistic disorder	glutamate ionotropic receptor AMPA type subunit 2	1
+Contractor A	Autistic disorder	parvalbumin	1
+Ethell IM	Autistic disorder	parvalbumin	1
+Portera-Cailliau C	Autistic disorder	parvalbumin	1
+Kang J	Autistic disorder	caspase 3	1
+Bishayee K	Autistic disorder	caspase 3	1
+Huh SO	Autistic disorder	caspase 3	1
+Rein B	Autistic disorder	histone deacetylase 5	1
+Conrow-Graham M	Autistic disorder	histone deacetylase 5	1
+Frazier A	Autistic disorder	histone deacetylase 5	1
+Cao Q	Autistic disorder	histone deacetylase 5	1
+Yan Z	Autistic disorder	histone deacetylase 5	1
+Aslan C	Autistic disorder	leucine rich glioma inactivated 1	1
+Konuskan B	Autistic disorder	leucine rich glioma inactivated 1	1
+Sener B	Autistic disorder	leucine rich glioma inactivated 1	1
+Unal F	Autistic disorder	leucine rich glioma inactivated 1	1
+Bellato A	Autistic disorder	Gilles de la Tourette syndrome	1
+Norman L	Autistic disorder	Gilles de la Tourette syndrome	1
+Idrees I	Autistic disorder	Gilles de la Tourette syndrome	1
+Ogawa CY	Autistic disorder	Gilles de la Tourette syndrome	1
+Waitt A	Autistic disorder	Gilles de la Tourette syndrome	1
+Zuccolo PF	Autistic disorder	Gilles de la Tourette syndrome	1
+Tye C	Autistic disorder	Gilles de la Tourette syndrome	1
+Radua J	Autistic disorder	Gilles de la Tourette syndrome	1
+Groom MJ	Autistic disorder	Gilles de la Tourette syndrome	1
+Shephard E	Autistic disorder	Gilles de la Tourette syndrome	1
+Lin X	Autistic disorder	neuroplastin	1
+Liang Y	Autistic disorder	neuroplastin	1
+Herrera-Molina R	Autistic disorder	neuroplastin	1
+Montag D	Autistic disorder	neuroplastin	1
+Eisenberg C	Autistic disorder	neuropilin 2	4
+Subramanian D	Autistic disorder	neuropilin 2	4
+Afrasiabi M	Autistic disorder	neuropilin 2	4
+Ziobro P	Autistic disorder	neuropilin 2	4
+DeLucia J	Autistic disorder	neuropilin 2	4
+Hirschberg PR	Autistic disorder	neuropilin 2	4
+Shiflett MW	Autistic disorder	neuropilin 2	4
+Santhakumar V	Autistic disorder	neuropilin 2	4
+Tran TS	Autistic disorder	neuropilin 2	4
+Eisenberg C	Autistic disorder	parvalbumin	4
+Subramanian D	Autistic disorder	parvalbumin	4
+Afrasiabi M	Autistic disorder	parvalbumin	4
+Ziobro P	Autistic disorder	parvalbumin	4
+DeLucia J	Autistic disorder	parvalbumin	4
+Hirschberg PR	Autistic disorder	parvalbumin	4
+Shiflett MW	Autistic disorder	parvalbumin	4
+Santhakumar V	Autistic disorder	parvalbumin	4
+Tran TS	Autistic disorder	parvalbumin	4
+Eisenberg C	Autistic disorder	somatostatin	4
+Subramanian D	Autistic disorder	somatostatin	4
+Afrasiabi M	Autistic disorder	somatostatin	4
+Ziobro P	Autistic disorder	somatostatin	4
+DeLucia J	Autistic disorder	somatostatin	4
+Hirschberg PR	Autistic disorder	somatostatin	4
+Shiflett MW	Autistic disorder	somatostatin	4
+Santhakumar V	Autistic disorder	somatostatin	4
+Tran TS	Autistic disorder	somatostatin	4
+Eisenberg C	Autistic disorder	neuropeptide Y	4
+Subramanian D	Autistic disorder	neuropeptide Y	4
+Afrasiabi M	Autistic disorder	neuropeptide Y	4
+Ziobro P	Autistic disorder	neuropeptide Y	4
+DeLucia J	Autistic disorder	neuropeptide Y	4
+Hirschberg PR	Autistic disorder	neuropeptide Y	4
+Shiflett MW	Autistic disorder	neuropeptide Y	4
+Santhakumar V	Autistic disorder	neuropeptide Y	4
+Tran TS	Autistic disorder	neuropeptide Y	4
+Nishi E	Autistic disorder	CREB binding protein	1
+Takenouchi T	Autistic disorder	CREB binding protein	1
+Miya F	Autistic disorder	CREB binding protein	1
+Uehara T	Autistic disorder	CREB binding protein	1
+Yanagi K	Autistic disorder	CREB binding protein	1
+Hasegawa Y	Autistic disorder	CREB binding protein	1
+Ueda K	Autistic disorder	CREB binding protein	1
+Mizuno S	Autistic disorder	CREB binding protein	1
+Kaname T	Autistic disorder	CREB binding protein	1
+Kosaki K	Autistic disorder	CREB binding protein	1
+Okamoto N	Autistic disorder	CREB binding protein	1
+Huang L	Autistic disorder	parvalbumin	1
+Wang J	Autistic disorder	parvalbumin	3
+Liang G	Autistic disorder	parvalbumin	1
+Gao Y	Autistic disorder	parvalbumin	4
+Jin SY	Autistic disorder	parvalbumin	1
+Hu J	Autistic disorder	parvalbumin	1
+Yang X	Autistic disorder	parvalbumin	2
+Lao J	Autistic disorder	parvalbumin	1
+Chen J	Autistic disorder	parvalbumin	5
+Luo ZC	Autistic disorder	parvalbumin	1
+Fan C	Autistic disorder	parvalbumin	1
+Xiong L	Autistic disorder	parvalbumin	1
+Zhu X	Autistic disorder	parvalbumin	1
+Gao TM	Autistic disorder	parvalbumin	1
+Zhong M	Autistic disorder	parvalbumin	1
+Schiavoni S	Autistic disorder	neurobeachin	1
+Spagnoli C	Autistic disorder	neurobeachin	1
+Rizzi S	Autistic disorder	neurobeachin	1
+Salerno GG	Autistic disorder	neurobeachin	1
+Frattini D	Autistic disorder	neurobeachin	1
+Pisani F	Autistic disorder	neurobeachin	1
+Fusco C	Autistic disorder	neurobeachin	1
+Aljumaiah MM	Autistic disorder	insulin	1
+Alonazi MA	Autistic disorder	insulin	1
+Al-Dbass AM	Autistic disorder	insulin	1
+Almnaizel AT	Autistic disorder	insulin	1
+Alahmed M	Autistic disorder	insulin	1
+Soliman DA	Autistic disorder	insulin	1
+El-Ansary A	Autistic disorder	insulin	4
+Imataka G	Autistic disorder	transferrin	2
+Yui K	Autistic disorder	transferrin	2
+Shiko Y	Autistic disorder	transferrin	2
+Kawasaki Y	Autistic disorder	transferrin	2
+Sasaki H	Autistic disorder	transferrin	2
+Shiroki R	Autistic disorder	transferrin	2
+Yoshihara S	Autistic disorder	transferrin	2
+Imataka G	Autistic disorder	ceruloplasmin	2
+Yui K	Autistic disorder	ceruloplasmin	2
+Shiko Y	Autistic disorder	ceruloplasmin	2
+Kawasaki Y	Autistic disorder	ceruloplasmin	2
+Sasaki H	Autistic disorder	ceruloplasmin	2
+Shiroki R	Autistic disorder	ceruloplasmin	2
+Yoshihara S	Autistic disorder	ceruloplasmin	2
+Shilpa O	Autistic disorder	catalase	1
+Anupama KP	Autistic disorder	catalase	1
+Antony A	Autistic disorder	catalase	1
+Gurushankara HP	Autistic disorder	catalase	1
+Al-Ayadhi L	Autistic disorder	lysozyme	2
+Zayed N	Autistic disorder	lysozyme	1
+Bhat RS	Autistic disorder	lysozyme	1
+Moubayed NMS	Autistic disorder	lysozyme	1
+Al-Muammar MN	Autistic disorder	lysozyme	1
+El-Ansary A	Autistic disorder	lysozyme	4
+Tierney E	Autistic disorder	apolipoprotein A1	2
+Remaley AT	Autistic disorder	apolipoprotein A1	2
+Thurm A	Autistic disorder	apolipoprotein A1	2
+Jager LR	Autistic disorder	apolipoprotein A1	2
+Wassif CA	Autistic disorder	apolipoprotein A1	2
+Kratz LE	Autistic disorder	apolipoprotein A1	2
+Bailey-Wilson JE	Autistic disorder	apolipoprotein A1	2
+Bukelis I	Autistic disorder	apolipoprotein A1	2
+Sarphare G	Autistic disorder	apolipoprotein A1	2
+Jung ES	Autistic disorder	apolipoprotein A1	2
+Brand B	Autistic disorder	apolipoprotein A1	2
+Noah KK	Autistic disorder	apolipoprotein A1	2
+Porter FD	Autistic disorder	apolipoprotein A1	2
+Tierney E	Autistic disorder	apolipoprotein B	2
+Remaley AT	Autistic disorder	apolipoprotein B	2
+Thurm A	Autistic disorder	apolipoprotein B	2
+Jager LR	Autistic disorder	apolipoprotein B	2
+Wassif CA	Autistic disorder	apolipoprotein B	2
+Kratz LE	Autistic disorder	apolipoprotein B	2
+Bailey-Wilson JE	Autistic disorder	apolipoprotein B	2
+Bukelis I	Autistic disorder	apolipoprotein B	2
+Sarphare G	Autistic disorder	apolipoprotein B	2
+Jung ES	Autistic disorder	apolipoprotein B	2
+Brand B	Autistic disorder	apolipoprotein B	2
+Noah KK	Autistic disorder	apolipoprotein B	2
+Porter FD	Autistic disorder	apolipoprotein B	2
+Dyar B	Autistic disorder	insulin	1
+Meaddough E	Autistic disorder	insulin	1
+Sarasua SM	Autistic disorder	insulin	1
+Rogers C	Autistic disorder	insulin	1
+Phelan K	Autistic disorder	insulin	1
+Boccuto L	Autistic disorder	insulin	1
+Meng W	Autistic disorder	agrin	1
+Huan Y	Autistic disorder	agrin	1
+Gao Y	Autistic disorder	agrin	4
+Jayaprakash P	Autistic disorder	catalase	3
+Isaev D	Autistic disorder	catalase	1
+Shabbir W	Autistic disorder	catalase	1
+Lorke DE	Autistic disorder	catalase	1
+Sadek B	Autistic disorder	catalase	3
+Oz M	Autistic disorder	catalase	1
+Bertoni A	Autistic disorder	oxytocin receptor	2
+Schaller F	Autistic disorder	oxytocin receptor	2
+Tyzio R	Autistic disorder	oxytocin receptor	2
+Gaillard S	Autistic disorder	oxytocin receptor	2
+Santini F	Autistic disorder	oxytocin receptor	2
+Xolin M	Autistic disorder	oxytocin receptor	2
+Diabira D	Autistic disorder	oxytocin receptor	2
+Vaidyanathan R	Autistic disorder	oxytocin receptor	2
+Matarazzo V	Autistic disorder	oxytocin receptor	2
+Medina I	Autistic disorder	oxytocin receptor	2
+Hammock E	Autistic disorder	oxytocin receptor	2
+Zhang J	Autistic disorder	oxytocin receptor	5
+Chini B	Autistic disorder	oxytocin receptor	2
+Gaiarsa JL	Autistic disorder	oxytocin receptor	2
+Muscatelli F	Autistic disorder	oxytocin receptor	2
+Bertoni A	Autistic disorder	somatostatin	2
+Schaller F	Autistic disorder	somatostatin	2
+Tyzio R	Autistic disorder	somatostatin	2
+Gaillard S	Autistic disorder	somatostatin	2
+Santini F	Autistic disorder	somatostatin	2
+Xolin M	Autistic disorder	somatostatin	2
+Diabira D	Autistic disorder	somatostatin	2
+Vaidyanathan R	Autistic disorder	somatostatin	2
+Matarazzo V	Autistic disorder	somatostatin	2
+Medina I	Autistic disorder	somatostatin	2
+Hammock E	Autistic disorder	somatostatin	2
+Zhang J	Autistic disorder	somatostatin	5
+Chini B	Autistic disorder	somatostatin	2
+Gaiarsa JL	Autistic disorder	somatostatin	2
+Muscatelli F	Autistic disorder	somatostatin	2
+Zhao H	Autistic disorder	tumor necrosis factor	1
+Zhang H	Autistic disorder	tumor necrosis factor	3
+Liu S	Autistic disorder	tumor necrosis factor	3
+Luo W	Autistic disorder	tumor necrosis factor	1
+Jiang Y	Autistic disorder	tumor necrosis factor	1
+Gao J	Autistic disorder	tumor necrosis factor	1
+Lai ESK	Autistic disorder	neuroligin 3	1
+Nakayama H	Autistic disorder	neuroligin 3	1
+Miyazaki T	Autistic disorder	neuroligin 3	1
+Nakazawa T	Autistic disorder	neuroligin 3	1
+Tabuchi K	Autistic disorder	neuroligin 3	1
+Hashimoto K	Autistic disorder	neuroligin 3	1
+Watanabe M	Autistic disorder	neuroligin 3	1
+Kano M	Autistic disorder	neuroligin 3	1

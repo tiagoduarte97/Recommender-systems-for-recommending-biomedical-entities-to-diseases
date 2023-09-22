@@ -1,0 +1,1962 @@
+leptin	36946681	Scott SR	Autism spectrum disorder	3
+leptin	36946681	Millwood SN	Autism spectrum disorder	3
+leptin	36946681	Manczak EM	Autism spectrum disorder	3
+resistin	36946681	Scott SR	Autism spectrum disorder	3
+resistin	36946681	Millwood SN	Autism spectrum disorder	3
+resistin	36946681	Manczak EM	Autism spectrum disorder	3
+apelin	36946681	Scott SR	Autism spectrum disorder	3
+apelin	36946681	Millwood SN	Autism spectrum disorder	3
+apelin	36946681	Manczak EM	Autism spectrum disorder	3
+C-reactive protein	36930855	Morimoto M	Autism spectrum disorder	3
+C-reactive protein	36930855	Hashimoto T	Autism spectrum disorder	3
+C-reactive protein	36930855	Tsuda Y	Autism spectrum disorder	3
+C-reactive protein	36930855	Suenaga M	Autism spectrum disorder	3
+C-reactive protein	36930855	Nakamura T	Autism spectrum disorder	3
+C-reactive protein	36930855	Katoh S	Autism spectrum disorder	3
+prolactin	36930855	Morimoto M	Autism spectrum disorder	3
+prolactin	36930855	Hashimoto T	Autism spectrum disorder	3
+prolactin	36930855	Tsuda Y	Autism spectrum disorder	3
+prolactin	36930855	Suenaga M	Autism spectrum disorder	3
+prolactin	36930855	Nakamura T	Autism spectrum disorder	3
+prolactin	36930855	Katoh S	Autism spectrum disorder	3
+albumin	36930855	Morimoto M	Autism spectrum disorder	3
+albumin	36930855	Hashimoto T	Autism spectrum disorder	3
+albumin	36930855	Tsuda Y	Autism spectrum disorder	3
+albumin	36930855	Suenaga M	Autism spectrum disorder	3
+albumin	36930855	Nakamura T	Autism spectrum disorder	3
+albumin	36930855	Katoh S	Autism spectrum disorder	3
+catalase	36930427	Vellingiri B	Autism spectrum disorder	1
+catalase	36930427	Venkatesan D	Autism spectrum disorder	1
+catalase	36930427	Iyer M	Autism spectrum disorder	1
+catalase	36930427	Mohan G	Autism spectrum disorder	1
+catalase	36930427	Krishnan P	Autism spectrum disorder	1
+catalase	36930427	Sai Krishna K	Autism spectrum disorder	1
+catalase	36930427	R S	Autism spectrum disorder	1
+catalase	36930427	Narayanasamy A	Autism spectrum disorder	1
+catalase	36930427	Gopalakrishnan AV	Autism spectrum disorder	1
+catalase	36930427	Kumar NS	Autism spectrum disorder	1
+catalase	36930427	Subramaniam MD	Autism spectrum disorder	1
+C-reactive protein	36926653	Dumitriu D	Autism spectrum disorder	1
+C-reactive protein	36926653	Baldwin E	Autism spectrum disorder	1
+C-reactive protein	36926653	Coenen RJJ	Autism spectrum disorder	1
+C-reactive protein	36926653	Hammond LA	Autism spectrum disorder	1
+C-reactive protein	36926653	Peterka DS	Autism spectrum disorder	1
+C-reactive protein	36926653	Heilbrun L	Autism spectrum disorder	1
+C-reactive protein	36926653	Frye RE	Autism spectrum disorder	1
+C-reactive protein	36926653	Palmer R	Autism spectrum disorder	1
+C-reactive protein	36926653	Norrman HN	Autism spectrum disorder	1
+C-reactive protein	36926653	Fridell A	Autism spectrum disorder	1
+C-reactive protein	36926653	Remnelius KL	Autism spectrum disorder	1
+C-reactive protein	36926653	Isaksson J	Autism spectrum disorder	1
+C-reactive protein	36926653	Austin C	Autism spectrum disorder	1
+C-reactive protein	36926653	Curtin P	Autism spectrum disorder	1
+C-reactive protein	36926653	Bolte S	Autism spectrum disorder	1
+C-reactive protein	36926653	Arora M	Autism spectrum disorder	1
+glutaminase	36915976	Zhang X	Autism spectrum disorder	7
+glutaminase	36915976	Liu S	Autism spectrum disorder	2
+glutaminase	36915976	Liu X	Autism spectrum disorder	7
+glutaminase	36915976	Wang J	Autism spectrum disorder	3
+folate receptor alpha	36904166	Bobrowski-Khoury N	Autism spectrum disorder	1
+folate receptor alpha	36904166	Sequeira JM	Autism spectrum disorder	1
+folate receptor alpha	36904166	Quadros EV	Autism spectrum disorder	1
+leptin	36902307	Skorzynska-Dziduszko KE	Autism spectrum disorder	1
+leptin	36902307	Makarewicz A	Autism spectrum disorder	1
+leptin	36902307	Blazewicz A	Autism spectrum disorder	1
+diabetic nephropathy	36900123	Chaaba R	Autism spectrum disorder	1
+diabetic nephropathy	36900123	Bouaziz A	Autism spectrum disorder	1
+diabetic nephropathy	36900123	Ben Amor A	Autism spectrum disorder	1
+diabetic nephropathy	36900123	Mnif W	Autism spectrum disorder	1
+diabetic nephropathy	36900123	Hammami M	Autism spectrum disorder	1
+diabetic nephropathy	36900123	Mehri S	Autism spectrum disorder	1
+biotinidase	36898611	Zhang H	Autism spectrum disorder	6
+biotinidase	36898611	Tang X	Autism spectrum disorder	2
+biotinidase	36898611	Feng C	Autism spectrum disorder	2
+biotinidase	36898611	Gao Y	Autism spectrum disorder	2
+biotinidase	36898611	Hong Q	Autism spectrum disorder	2
+biotinidase	36898611	Zhang J	Autism spectrum disorder	4
+biotinidase	36898611	Zhang X	Autism spectrum disorder	7
+biotinidase	36898611	Zheng Q	Autism spectrum disorder	2
+biotinidase	36898611	Lin J	Autism spectrum disorder	5
+biotinidase	36898611	Liu X	Autism spectrum disorder	7
+biotinidase	36898611	Shen L	Autism spectrum disorder	2
+insulin	36898611	Zhang H	Autism spectrum disorder	6
+insulin	36898611	Tang X	Autism spectrum disorder	2
+insulin	36898611	Feng C	Autism spectrum disorder	2
+insulin	36898611	Gao Y	Autism spectrum disorder	2
+insulin	36898611	Hong Q	Autism spectrum disorder	2
+insulin	36898611	Zhang J	Autism spectrum disorder	4
+insulin	36898611	Zhang X	Autism spectrum disorder	7
+insulin	36898611	Zheng Q	Autism spectrum disorder	2
+insulin	36898611	Lin J	Autism spectrum disorder	5
+insulin	36898611	Liu X	Autism spectrum disorder	7
+insulin	36898611	Shen L	Autism spectrum disorder	2
+tumor necrosis factor	36879996	Dogan M	Autism spectrum disorder	1
+tumor necrosis factor	36879996	Albayrak Y	Autism spectrum disorder	2
+tumor necrosis factor	36879996	Erbas O	Autism spectrum disorder	5
+parvalbumin	36875674	Klocke B	Autism spectrum disorder	1
+parvalbumin	36875674	Krone K	Autism spectrum disorder	1
+parvalbumin	36875674	Tornes J	Autism spectrum disorder	1
+parvalbumin	36875674	Moore C	Autism spectrum disorder	1
+parvalbumin	36875674	Ott H	Autism spectrum disorder	1
+parvalbumin	36875674	Pitychoutis PM	Autism spectrum disorder	1
+SH3 and multiple ankyrin repeat domains 3	36871873	Okuzono S	Autism spectrum disorder	2
+SH3 and multiple ankyrin repeat domains 3	36871873	Fujii F	Autism spectrum disorder	2
+SH3 and multiple ankyrin repeat domains 3	36871873	Matsushita Y	Autism spectrum disorder	2
+SH3 and multiple ankyrin repeat domains 3	36871873	Setoyama D	Autism spectrum disorder	2
+SH3 and multiple ankyrin repeat domains 3	36871873	Shinmyo Y	Autism spectrum disorder	2
+SH3 and multiple ankyrin repeat domains 3	36871873	Taira R	Autism spectrum disorder	2
+SH3 and multiple ankyrin repeat domains 3	36871873	Yonemoto K	Autism spectrum disorder	2
+SH3 and multiple ankyrin repeat domains 3	36871873	Akamine S	Autism spectrum disorder	2
+SH3 and multiple ankyrin repeat domains 3	36871873	Motomura Y	Autism spectrum disorder	2
+SH3 and multiple ankyrin repeat domains 3	36871873	Sanefuji M	Autism spectrum disorder	2
+SH3 and multiple ankyrin repeat domains 3	36871873	Sakurai T	Autism spectrum disorder	2
+SH3 and multiple ankyrin repeat domains 3	36871873	Kawasaki H	Autism spectrum disorder	2
+SH3 and multiple ankyrin repeat domains 3	36871873	Han K	Autism spectrum disorder	2
+SH3 and multiple ankyrin repeat domains 3	36871873	Kato TA	Autism spectrum disorder	2
+SH3 and multiple ankyrin repeat domains 3	36871873	Torisu H	Autism spectrum disorder	2
+SH3 and multiple ankyrin repeat domains 3	36871873	Kang D	Autism spectrum disorder	2
+SH3 and multiple ankyrin repeat domains 3	36871873	Nakabeppu Y	Autism spectrum disorder	2
+SH3 and multiple ankyrin repeat domains 3	36871873	Sakai Y	Autism spectrum disorder	2
+SH3 and multiple ankyrin repeat domains 3	36871873	Ohga S	Autism spectrum disorder	2
+parvalbumin	36871873	Okuzono S	Autism spectrum disorder	2
+parvalbumin	36871873	Fujii F	Autism spectrum disorder	2
+parvalbumin	36871873	Matsushita Y	Autism spectrum disorder	2
+parvalbumin	36871873	Setoyama D	Autism spectrum disorder	2
+parvalbumin	36871873	Shinmyo Y	Autism spectrum disorder	2
+parvalbumin	36871873	Taira R	Autism spectrum disorder	2
+parvalbumin	36871873	Yonemoto K	Autism spectrum disorder	2
+parvalbumin	36871873	Akamine S	Autism spectrum disorder	2
+parvalbumin	36871873	Motomura Y	Autism spectrum disorder	2
+parvalbumin	36871873	Sanefuji M	Autism spectrum disorder	2
+parvalbumin	36871873	Sakurai T	Autism spectrum disorder	2
+parvalbumin	36871873	Kawasaki H	Autism spectrum disorder	2
+parvalbumin	36871873	Han K	Autism spectrum disorder	2
+parvalbumin	36871873	Kato TA	Autism spectrum disorder	2
+parvalbumin	36871873	Torisu H	Autism spectrum disorder	2
+parvalbumin	36871873	Kang D	Autism spectrum disorder	2
+parvalbumin	36871873	Nakabeppu Y	Autism spectrum disorder	2
+parvalbumin	36871873	Sakai Y	Autism spectrum disorder	2
+parvalbumin	36871873	Ohga S	Autism spectrum disorder	2
+oxytocin receptor	36870672	Morel C	Autism spectrum disorder	1
+oxytocin receptor	36870672	Martinez Sanchez I	Autism spectrum disorder	1
+oxytocin receptor	36870672	Cherifi Y	Autism spectrum disorder	1
+oxytocin receptor	36870672	Chartrel N	Autism spectrum disorder	1
+oxytocin receptor	36870672	Diaz Heijtz R	Autism spectrum disorder	1
+interleukin 6	36870094	Backstrom F	Autism spectrum disorder	1
+interleukin 6	36870094	Ahl M	Autism spectrum disorder	1
+interleukin 6	36870094	Wickham J	Autism spectrum disorder	1
+interleukin 6	36870094	Ekdahl CT	Autism spectrum disorder	1
+insulin	36862688	Zhang P	Autism spectrum disorder	3
+insulin	36862688	Omanska A	Autism spectrum disorder	1
+insulin	36862688	Ander BP	Autism spectrum disorder	1
+insulin	36862688	Gandal MJ	Autism spectrum disorder	1
+insulin	36862688	Stamova B	Autism spectrum disorder	1
+insulin	36862688	Schumann CM	Autism spectrum disorder	1
+synaptophysin	36853856	de Oliveira Ferreira E	Autism spectrum disorder	1
+synaptophysin	36853856	Pessoa Gomes JM	Autism spectrum disorder	1
+synaptophysin	36853856	Neves KRT	Autism spectrum disorder	1
+synaptophysin	36853856	Lima FAV	Autism spectrum disorder	1
+synaptophysin	36853856	de Barros Viana GS	Autism spectrum disorder	1
+synaptophysin	36853856	de Andrade GM	Autism spectrum disorder	1
+dopamine receptor D4	36847977	Saha S	Autism spectrum disorder	1
+dopamine receptor D4	36847977	Chatterjee M	Autism spectrum disorder	1
+dopamine receptor D4	36847977	Dutta N	Autism spectrum disorder	1
+dopamine receptor D4	36847977	Sinha S	Autism spectrum disorder	1
+dopamine receptor D4	36847977	Mukhopadhyay K	Autism spectrum disorder	1
+secretin	36845323	Wei JA	Autism spectrum disorder	1
+secretin	36845323	Han Q	Autism spectrum disorder	1
+secretin	36845323	Luo Z	Autism spectrum disorder	1
+secretin	36845323	Liu L	Autism spectrum disorder	1
+secretin	36845323	Cui J	Autism spectrum disorder	1
+secretin	36845323	Tan J	Autism spectrum disorder	1
+secretin	36845323	Chow BKC	Autism spectrum disorder	1
+secretin	36845323	So KF	Autism spectrum disorder	1
+secretin	36845323	Zhang L	Autism spectrum disorder	2
+synaptophysin	36842231	Xiong Y	Autism spectrum disorder	1
+synaptophysin	36842231	Chen J	Autism spectrum disorder	5
+synaptophysin	36842231	Lv M	Autism spectrum disorder	1
+synaptophysin	36842231	Wang F	Autism spectrum disorder	1
+synaptophysin	36842231	Zhang H	Autism spectrum disorder	6
+synaptophysin	36842231	Tang B	Autism spectrum disorder	2
+synaptophysin	36842231	Li Y	Autism spectrum disorder	3
+phosphatase and tensin homolog	36838876	Thomas SD	Autism spectrum disorder	2
+phosphatase and tensin homolog	36838876	Jha NK	Autism spectrum disorder	1
+phosphatase and tensin homolog	36838876	Ojha S	Autism spectrum disorder	1
+phosphatase and tensin homolog	36838876	Sadek B	Autism spectrum disorder	4
+hypoparathyroidism	36835652	Menghi M	Autism spectrum disorder	1
+hypoparathyroidism	36835652	Micangeli G	Autism spectrum disorder	1
+hypoparathyroidism	36835652	Tarani F	Autism spectrum disorder	1
+hypoparathyroidism	36835652	Putotto C	Autism spectrum disorder	1
+hypoparathyroidism	36835652	Pirro F	Autism spectrum disorder	1
+hypoparathyroidism	36835652	Mariani A	Autism spectrum disorder	1
+hypoparathyroidism	36835652	Petrella C	Autism spectrum disorder	1
+hypoparathyroidism	36835652	Pulvirenti F	Autism spectrum disorder	1
+hypoparathyroidism	36835652	Cinicola B	Autism spectrum disorder	1
+hypoparathyroidism	36835652	Colloridi F	Autism spectrum disorder	1
+hypoparathyroidism	36835652	Tarani L	Autism spectrum disorder	1
+hypoparathyroidism	36835652	Fiore M	Autism spectrum disorder	1
+primary cilia formation	36833254	Papuc SM	Autism spectrum disorder	1
+primary cilia formation	36833254	Erbescu A	Autism spectrum disorder	1
+primary cilia formation	36833254	Glangher A	Autism spectrum disorder	1
+primary cilia formation	36833254	Streata I	Autism spectrum disorder	1
+primary cilia formation	36833254	Riza AL	Autism spectrum disorder	1
+primary cilia formation	36833254	Budisteanu M	Autism spectrum disorder	1
+primary cilia formation	36833254	Arghir A	Autism spectrum disorder	1
+glutathione-disulfide reductase	36831124	Esvap E	Autism spectrum disorder	1
+glutathione-disulfide reductase	36831124	Ulgen KO	Autism spectrum disorder	1
+adenosine deaminase	36818658	Dai S	Autism spectrum disorder	2
+adenosine deaminase	36818658	Lin J	Autism spectrum disorder	5
+adenosine deaminase	36818658	Hou Y	Autism spectrum disorder	2
+adenosine deaminase	36818658	Luo X	Autism spectrum disorder	2
+adenosine deaminase	36818658	Shen Y	Autism spectrum disorder	2
+adenosine deaminase	36818658	Ou J	Autism spectrum disorder	2
+adenylosuccinate lyase	36818658	Dai S	Autism spectrum disorder	2
+adenylosuccinate lyase	36818658	Lin J	Autism spectrum disorder	5
+adenylosuccinate lyase	36818658	Hou Y	Autism spectrum disorder	2
+adenylosuccinate lyase	36818658	Luo X	Autism spectrum disorder	2
+adenylosuccinate lyase	36818658	Shen Y	Autism spectrum disorder	2
+adenylosuccinate lyase	36818658	Ou J	Autism spectrum disorder	2
+oxytocin receptor	36817409	Osada K	Autism spectrum disorder	1
+oxytocin receptor	36817409	Kujirai R	Autism spectrum disorder	1
+oxytocin receptor	36817409	Hosono A	Autism spectrum disorder	1
+oxytocin receptor	36817409	Tsuda M	Autism spectrum disorder	1
+oxytocin receptor	36817409	Ohata M	Autism spectrum disorder	1
+oxytocin receptor	36817409	Ohta T	Autism spectrum disorder	1
+oxytocin receptor	36817409	Nishimori K	Autism spectrum disorder	1
+multiple sclerosis	36816743	Zang Y	Autism spectrum disorder	1
+multiple sclerosis	36816743	Lai X	Autism spectrum disorder	1
+multiple sclerosis	36816743	Li C	Autism spectrum disorder	3
+multiple sclerosis	36816743	Ding D	Autism spectrum disorder	1
+multiple sclerosis	36816743	Wang Y	Autism spectrum disorder	7
+multiple sclerosis	36816743	Zhu Y	Autism spectrum disorder	2
+ribosomal protein L23	36816132	Mazon-Cabrera R	Autism spectrum disorder	2
+ribosomal protein L23	36816132	Liesenborgs J	Autism spectrum disorder	2
+ribosomal protein L23	36816132	Brone B	Autism spectrum disorder	2
+ribosomal protein L23	36816132	Vandormael P	Autism spectrum disorder	2
+ribosomal protein L23	36816132	Somers V	Autism spectrum disorder	2
+glyceraldehyde-3-phosphate dehydrogenase	36816132	Mazon-Cabrera R	Autism spectrum disorder	2
+glyceraldehyde-3-phosphate dehydrogenase	36816132	Liesenborgs J	Autism spectrum disorder	2
+glyceraldehyde-3-phosphate dehydrogenase	36816132	Brone B	Autism spectrum disorder	2
+glyceraldehyde-3-phosphate dehydrogenase	36816132	Vandormael P	Autism spectrum disorder	2
+glyceraldehyde-3-phosphate dehydrogenase	36816132	Somers V	Autism spectrum disorder	2
+androgen receptor	36803626	Thongkorn S	Autism spectrum disorder	1
+androgen receptor	36803626	Kanlayaprasit S	Autism spectrum disorder	1
+androgen receptor	36803626	Kasitipradit K	Autism spectrum disorder	1
+androgen receptor	36803626	Lertpeerapan P	Autism spectrum disorder	1
+androgen receptor	36803626	Panjabud P	Autism spectrum disorder	1
+androgen receptor	36803626	Hu VW	Autism spectrum disorder	1
+androgen receptor	36803626	Jindatip D	Autism spectrum disorder	1
+androgen receptor	36803626	Sarachana T	Autism spectrum disorder	1
+dystrophin	36799992	Nascimento A	Autism spectrum disorder	2
+dystrophin	36799992	Bruels CC	Autism spectrum disorder	2
+dystrophin	36799992	Donkervoort S	Autism spectrum disorder	2
+dystrophin	36799992	Foley AR	Autism spectrum disorder	2
+dystrophin	36799992	Codina A	Autism spectrum disorder	2
+dystrophin	36799992	Milisenda JC	Autism spectrum disorder	2
+dystrophin	36799992	Estrella EA	Autism spectrum disorder	2
+dystrophin	36799992	Li C	Autism spectrum disorder	3
+dystrophin	36799992	Pijuan J	Autism spectrum disorder	2
+dystrophin	36799992	Draper I	Autism spectrum disorder	2
+dystrophin	36799992	Hu Y	Autism spectrum disorder	3
+dystrophin	36799992	Stafki SA	Autism spectrum disorder	2
+dystrophin	36799992	Pais LS	Autism spectrum disorder	2
+dystrophin	36799992	Ganesh VS	Autism spectrum disorder	2
+dystrophin	36799992	O'Donnell-Luria A	Autism spectrum disorder	2
+dystrophin	36799992	Syeda SB	Autism spectrum disorder	2
+dystrophin	36799992	Carrera-Garcia L	Autism spectrum disorder	2
+dystrophin	36799992	Exposito-Escudero J	Autism spectrum disorder	2
+dystrophin	36799992	Yubero D	Autism spectrum disorder	2
+dystrophin	36799992	Martorell L	Autism spectrum disorder	2
+dystrophin	36799992	Pinal-Fernandez I	Autism spectrum disorder	2
+dystrophin	36799992	Lidov HGW	Autism spectrum disorder	2
+dystrophin	36799992	Mammen AL	Autism spectrum disorder	2
+dystrophin	36799992	Grau-Junyent JM	Autism spectrum disorder	2
+dystrophin	36799992	Ortez C	Autism spectrum disorder	2
+dystrophin	36799992	Palau F	Autism spectrum disorder	2
+dystrophin	36799992	Ghosh PS	Autism spectrum disorder	2
+dystrophin	36799992	Darras BT	Autism spectrum disorder	2
+dystrophin	36799992	Jou C	Autism spectrum disorder	2
+dystrophin	36799992	Kunkel LM	Autism spectrum disorder	2
+dystrophin	36799992	Hoenicka J	Autism spectrum disorder	2
+dystrophin	36799992	Bonnemann CG	Autism spectrum disorder	2
+dystrophin	36799992	Kang PB	Autism spectrum disorder	2
+dystrophin	36799992	Natera-de Benito D	Autism spectrum disorder	2
+utrophin	36799992	Nascimento A	Autism spectrum disorder	2
+utrophin	36799992	Bruels CC	Autism spectrum disorder	2
+utrophin	36799992	Donkervoort S	Autism spectrum disorder	2
+utrophin	36799992	Foley AR	Autism spectrum disorder	2
+utrophin	36799992	Codina A	Autism spectrum disorder	2
+utrophin	36799992	Milisenda JC	Autism spectrum disorder	2
+utrophin	36799992	Estrella EA	Autism spectrum disorder	2
+utrophin	36799992	Li C	Autism spectrum disorder	3
+utrophin	36799992	Pijuan J	Autism spectrum disorder	2
+utrophin	36799992	Draper I	Autism spectrum disorder	2
+utrophin	36799992	Hu Y	Autism spectrum disorder	3
+utrophin	36799992	Stafki SA	Autism spectrum disorder	2
+utrophin	36799992	Pais LS	Autism spectrum disorder	2
+utrophin	36799992	Ganesh VS	Autism spectrum disorder	2
+utrophin	36799992	O'Donnell-Luria A	Autism spectrum disorder	2
+utrophin	36799992	Syeda SB	Autism spectrum disorder	2
+utrophin	36799992	Carrera-Garcia L	Autism spectrum disorder	2
+utrophin	36799992	Exposito-Escudero J	Autism spectrum disorder	2
+utrophin	36799992	Yubero D	Autism spectrum disorder	2
+utrophin	36799992	Martorell L	Autism spectrum disorder	2
+utrophin	36799992	Pinal-Fernandez I	Autism spectrum disorder	2
+utrophin	36799992	Lidov HGW	Autism spectrum disorder	2
+utrophin	36799992	Mammen AL	Autism spectrum disorder	2
+utrophin	36799992	Grau-Junyent JM	Autism spectrum disorder	2
+utrophin	36799992	Ortez C	Autism spectrum disorder	2
+utrophin	36799992	Palau F	Autism spectrum disorder	2
+utrophin	36799992	Ghosh PS	Autism spectrum disorder	2
+utrophin	36799992	Darras BT	Autism spectrum disorder	2
+utrophin	36799992	Jou C	Autism spectrum disorder	2
+utrophin	36799992	Kunkel LM	Autism spectrum disorder	2
+utrophin	36799992	Hoenicka J	Autism spectrum disorder	2
+utrophin	36799992	Bonnemann CG	Autism spectrum disorder	2
+utrophin	36799992	Kang PB	Autism spectrum disorder	2
+utrophin	36799992	Natera-de Benito D	Autism spectrum disorder	2
+NSF attachment protein beta	36780047	AbdelAleem A	Autism spectrum disorder	1
+NSF attachment protein beta	36780047	Haddad N	Autism spectrum disorder	1
+NSF attachment protein beta	36780047	Al-Ettribi G	Autism spectrum disorder	1
+NSF attachment protein beta	36780047	Crunk A	Autism spectrum disorder	1
+NSF attachment protein beta	36780047	Elsotouhy A	Autism spectrum disorder	1
+parvalbumin	36778241	Shih YT	Autism spectrum disorder	1
+parvalbumin	36778241	Alipio JB	Autism spectrum disorder	1
+parvalbumin	36778241	Sahay A	Autism spectrum disorder	1
+glial fibrillary acidic protein	36769380	Simone M	Autism spectrum disorder	2
+glial fibrillary acidic protein	36769380	De Giacomo A	Autism spectrum disorder	2
+glial fibrillary acidic protein	36769380	Palumbi R	Autism spectrum disorder	1
+glial fibrillary acidic protein	36769380	Palazzo C	Autism spectrum disorder	1
+glial fibrillary acidic protein	36769380	Lucisano G	Autism spectrum disorder	1
+glial fibrillary acidic protein	36769380	Pompamea F	Autism spectrum disorder	1
+glial fibrillary acidic protein	36769380	Micella S	Autism spectrum disorder	1
+glial fibrillary acidic protein	36769380	Pascali M	Autism spectrum disorder	1
+glial fibrillary acidic protein	36769380	Gabellone A	Autism spectrum disorder	1
+glial fibrillary acidic protein	36769380	Marzulli L	Autism spectrum disorder	2
+glial fibrillary acidic protein	36769380	Giordano P	Autism spectrum disorder	1
+glial fibrillary acidic protein	36769380	Gargano CD	Autism spectrum disorder	1
+glial fibrillary acidic protein	36769380	Margari L	Autism spectrum disorder	1
+glial fibrillary acidic protein	36769380	Frigeri A	Autism spectrum disorder	1
+glial fibrillary acidic protein	36769380	Ruggieri M	Autism spectrum disorder	1
+insulin	36738649	Ding H	Autism spectrum disorder	1
+insulin	36738649	Xie M	Autism spectrum disorder	1
+insulin	36738649	Wang J	Autism spectrum disorder	3
+insulin	36738649	Ouyang M	Autism spectrum disorder	1
+insulin	36738649	Huang Y	Autism spectrum disorder	1
+insulin	36738649	Yuan F	Autism spectrum disorder	1
+insulin	36738649	Jia Y	Autism spectrum disorder	1
+insulin	36738649	Zhang X	Autism spectrum disorder	7
+insulin	36738649	Liu N	Autism spectrum disorder	1
+insulin	36738649	Zhang N	Autism spectrum disorder	2
+signal transducer and activator of transcription 3	36732866	Kashii H	Autism spectrum disorder	2
+signal transducer and activator of transcription 3	36732866	Kasai S	Autism spectrum disorder	2
+signal transducer and activator of transcription 3	36732866	Sato A	Autism spectrum disorder	2
+signal transducer and activator of transcription 3	36732866	Hagino Y	Autism spectrum disorder	2
+signal transducer and activator of transcription 3	36732866	Nishito Y	Autism spectrum disorder	2
+signal transducer and activator of transcription 3	36732866	Kobayashi T	Autism spectrum disorder	2
+signal transducer and activator of transcription 3	36732866	Hino O	Autism spectrum disorder	2
+signal transducer and activator of transcription 3	36732866	Mizuguchi M	Autism spectrum disorder	2
+signal transducer and activator of transcription 3	36732866	Ikeda K	Autism spectrum disorder	2
+interferon regulatory factor 4	36732866	Kashii H	Autism spectrum disorder	2
+interferon regulatory factor 4	36732866	Kasai S	Autism spectrum disorder	2
+interferon regulatory factor 4	36732866	Sato A	Autism spectrum disorder	2
+interferon regulatory factor 4	36732866	Hagino Y	Autism spectrum disorder	2
+interferon regulatory factor 4	36732866	Nishito Y	Autism spectrum disorder	2
+interferon regulatory factor 4	36732866	Kobayashi T	Autism spectrum disorder	2
+interferon regulatory factor 4	36732866	Hino O	Autism spectrum disorder	2
+interferon regulatory factor 4	36732866	Mizuguchi M	Autism spectrum disorder	2
+interferon regulatory factor 4	36732866	Ikeda K	Autism spectrum disorder	2
+parvalbumin	36732579	Gzielo K	Autism spectrum disorder	1
+parvalbumin	36732579	Piotrowska D	Autism spectrum disorder	1
+parvalbumin	36732579	Litwa E	Autism spectrum disorder	1
+parvalbumin	36732579	Popik P	Autism spectrum disorder	1
+parvalbumin	36732579	Nikiforuk A	Autism spectrum disorder	1
+myelin regulatory factor	36730342	Rawlings-Mortimer F	Autism spectrum disorder	1
+myelin regulatory factor	36730342	Gullino LS	Autism spectrum disorder	1
+myelin regulatory factor	36730342	Ruhling S	Autism spectrum disorder	1
+myelin regulatory factor	36730342	Ashton A	Autism spectrum disorder	1
+myelin regulatory factor	36730342	Barkus C	Autism spectrum disorder	1
+myelin regulatory factor	36730342	Johansen-Berg H	Autism spectrum disorder	1
+plasminogen	36697271	Krishnan RP	Autism spectrum disorder	1
+plasminogen	36697271	Ramani P	Autism spectrum disorder	1
+plasminogen	36697271	Pandiar D	Autism spectrum disorder	1
+plasminogen	36697271	Y D	Autism spectrum disorder	1
+tumor necrosis factor	36676975	Alsubaiei SRM	Autism spectrum disorder	1
+tumor necrosis factor	36676975	Alfawaz HA	Autism spectrum disorder	1
+tumor necrosis factor	36676975	Almubarak AY	Autism spectrum disorder	1
+tumor necrosis factor	36676975	Alabdali NA	Autism spectrum disorder	1
+tumor necrosis factor	36676975	Ben Bacha A	Autism spectrum disorder	1
+tumor necrosis factor	36676975	El-Ansary A	Autism spectrum disorder	2
+cortactin	36670631	Xie Y	Autism spectrum disorder	1
+cortactin	36670631	Wang H	Autism spectrum disorder	4
+cortactin	36670631	Hu B	Autism spectrum disorder	1
+cortactin	36670631	Zhang X	Autism spectrum disorder	7
+cortactin	36670631	Liu A	Autism spectrum disorder	1
+cortactin	36670631	Cai C	Autism spectrum disorder	1
+cortactin	36670631	Li S	Autism spectrum disorder	3
+cortactin	36670631	Chen C	Autism spectrum disorder	2
+cortactin	36670631	Wang Z	Autism spectrum disorder	4
+cortactin	36670631	Yin Z	Autism spectrum disorder	1
+cortactin	36670631	Wang M	Autism spectrum disorder	2
+occludin	36662163	Bilgic A	Autism spectrum disorder	3
+occludin	36662163	Ferahkaya H	Autism spectrum disorder	3
+occludin	36662163	Karagoz H	Autism spectrum disorder	3
+occludin	36662163	Kilinc I	Autism spectrum disorder	4
+occludin	36662163	Energin VM	Autism spectrum disorder	3
+vinculin	36662163	Bilgic A	Autism spectrum disorder	3
+vinculin	36662163	Ferahkaya H	Autism spectrum disorder	3
+vinculin	36662163	Karagoz H	Autism spectrum disorder	3
+vinculin	36662163	Kilinc I	Autism spectrum disorder	4
+vinculin	36662163	Energin VM	Autism spectrum disorder	3
+paxillin	36662163	Bilgic A	Autism spectrum disorder	3
+paxillin	36662163	Ferahkaya H	Autism spectrum disorder	3
+paxillin	36662163	Karagoz H	Autism spectrum disorder	3
+paxillin	36662163	Kilinc I	Autism spectrum disorder	4
+paxillin	36662163	Energin VM	Autism spectrum disorder	3
+neuronal hypoxia inducible, placenta associated	36650278	LaSalle JM	Autism spectrum disorder	1
+catalase	36642103	Moghaddam AH	Autism spectrum disorder	1
+catalase	36642103	Eslami A	Autism spectrum disorder	1
+catalase	36642103	Jelodar SK	Autism spectrum disorder	1
+catalase	36642103	Ranjbar M	Autism spectrum disorder	3
+catalase	36642103	Hasantabar V	Autism spectrum disorder	1
+phosphatase and tensin homolog	36626331	Smith IN	Autism spectrum disorder	1
+phosphatase and tensin homolog	36626331	Dawson JE	Autism spectrum disorder	1
+phosphatase and tensin homolog	36626331	Eng C	Autism spectrum disorder	2
+multiple sclerosis	36624837	Fumagalli MR	Autism spectrum disorder	1
+multiple sclerosis	36624837	Saro SM	Autism spectrum disorder	1
+multiple sclerosis	36624837	Tajana M	Autism spectrum disorder	1
+multiple sclerosis	36624837	Zapperi S	Autism spectrum disorder	1
+multiple sclerosis	36624837	La Porta CAM	Autism spectrum disorder	1
+euchromatic histone lysine methyltransferase 1	36617745	Colijn MA	Autism spectrum disorder	1
+euchromatic histone lysine methyltransferase 1	36617745	Lakusta CM	Autism spectrum disorder	1
+euchromatic histone lysine methyltransferase 1	36617745	Marcadier JL	Autism spectrum disorder	1
+insulin	36615279	Panchal SK	Autism spectrum disorder	1
+insulin	36615279	Brown L	Autism spectrum disorder	1
+tumor necrosis factor	36613969	Eissa N	Autism spectrum disorder	1
+tumor necrosis factor	36613969	Awad MA	Autism spectrum disorder	1
+tumor necrosis factor	36613969	Thomas SD	Autism spectrum disorder	2
+tumor necrosis factor	36613969	Venkatachalam K	Autism spectrum disorder	1
+tumor necrosis factor	36613969	Jayaprakash P	Autism spectrum disorder	2
+tumor necrosis factor	36613969	Zhong S	Autism spectrum disorder	1
+tumor necrosis factor	36613969	Stark H	Autism spectrum disorder	1
+tumor necrosis factor	36613969	Sadek B	Autism spectrum disorder	4
+insulin	36573444	Erdogan MA	Autism spectrum disorder	4
+insulin	36573444	Bozkurt MF	Autism spectrum disorder	3
+insulin	36573444	Erbas O	Autism spectrum disorder	5
+WD repeat domain 62	36571716	Xu D	Autism spectrum disorder	1
+WD repeat domain 62	36571716	Zhi Y	Autism spectrum disorder	1
+WD repeat domain 62	36571716	Liu X	Autism spectrum disorder	7
+WD repeat domain 62	36571716	Guan L	Autism spectrum disorder	1
+WD repeat domain 62	36571716	Yu J	Autism spectrum disorder	1
+WD repeat domain 62	36571716	Zhang D	Autism spectrum disorder	3
+WD repeat domain 62	36571716	Zhang W	Autism spectrum disorder	1
+WD repeat domain 62	36571716	Wang Y	Autism spectrum disorder	7
+WD repeat domain 62	36571716	Tao W	Autism spectrum disorder	1
+WD repeat domain 62	36571716	Xu Z	Autism spectrum disorder	1
+erythropoietin	36567653	Haratizadeh S	Autism spectrum disorder	1
+erythropoietin	36567653	Ranjbar M	Autism spectrum disorder	3
+erythropoietin	36567653	Darvishzadeh-Mahani F	Autism spectrum disorder	1
+erythropoietin	36567653	Basiri M	Autism spectrum disorder	1
+erythropoietin	36567653	Nozari M	Autism spectrum disorder	1
+dystrophin	36565132	Pascual-Morena C	Autism spectrum disorder	1
+dystrophin	36565132	Cavero-Redondo I	Autism spectrum disorder	1
+dystrophin	36565132	Martinez-Vizcaino V	Autism spectrum disorder	1
+dystrophin	36565132	Sequi-Dominguez I	Autism spectrum disorder	1
+dystrophin	36565132	Fernandez-Bravo-Rodrigo J	Autism spectrum disorder	1
+dystrophin	36565132	Jimenez-Lopez E	Autism spectrum disorder	1
+syntaxin 1A	36564538	Luppe J	Autism spectrum disorder	1
+syntaxin 1A	36564538	Sticht H	Autism spectrum disorder	1
+syntaxin 1A	36564538	Lecoquierre F	Autism spectrum disorder	1
+syntaxin 1A	36564538	Goldenberg A	Autism spectrum disorder	1
+syntaxin 1A	36564538	Gorman KM	Autism spectrum disorder	1
+syntaxin 1A	36564538	Molloy B	Autism spectrum disorder	1
+syntaxin 1A	36564538	Agolini E	Autism spectrum disorder	1
+syntaxin 1A	36564538	Novelli A	Autism spectrum disorder	1
+syntaxin 1A	36564538	Briuglia S	Autism spectrum disorder	1
+syntaxin 1A	36564538	Kuismin O	Autism spectrum disorder	1
+syntaxin 1A	36564538	Marcelis C	Autism spectrum disorder	1
+syntaxin 1A	36564538	Vitobello A	Autism spectrum disorder	1
+syntaxin 1A	36564538	Denomme-Pichon AS	Autism spectrum disorder	1
+syntaxin 1A	36564538	Julia S	Autism spectrum disorder	1
+syntaxin 1A	36564538	Lemke JR	Autism spectrum disorder	1
+syntaxin 1A	36564538	Abou Jamra R	Autism spectrum disorder	1
+syntaxin 1A	36564538	Platzer K	Autism spectrum disorder	1
+glial fibrillary acidic protein	36561125	Elhefnawei DM	Autism spectrum disorder	1
+glial fibrillary acidic protein	36561125	Mahmoud AH	Autism spectrum disorder	1
+glial fibrillary acidic protein	36561125	Kadry MO	Autism spectrum disorder	1
+glial fibrillary acidic protein	36561125	Al-Mokaddem AK	Autism spectrum disorder	1
+glial fibrillary acidic protein	36561125	Badawy MA	Autism spectrum disorder	1
+glial fibrillary acidic protein	36561125	El-Desouky MA	Autism spectrum disorder	1
+fragile X messenger ribonucleoprotein 1	36553666	Aishworiya R	Autism spectrum disorder	1
+fragile X messenger ribonucleoprotein 1	36553666	Protic D	Autism spectrum disorder	1
+fragile X messenger ribonucleoprotein 1	36553666	Tang SJ	Autism spectrum disorder	1
+fragile X messenger ribonucleoprotein 1	36553666	Schneider A	Autism spectrum disorder	1
+fragile X messenger ribonucleoprotein 1	36553666	Tassone F	Autism spectrum disorder	1
+fragile X messenger ribonucleoprotein 1	36553666	Hagerman R	Autism spectrum disorder	1
+prolactin	36539734	Hermans RA	Autism spectrum disorder	2
+prolactin	36539734	Ringeling LT	Autism spectrum disorder	2
+prolactin	36539734	Liang K	Autism spectrum disorder	2
+prolactin	36539734	Kloosterboer SM	Autism spectrum disorder	2
+prolactin	36539734	de Winter BCM	Autism spectrum disorder	2
+prolactin	36539734	Hillegers MHJ	Autism spectrum disorder	2
+prolactin	36539734	Koch BCP	Autism spectrum disorder	2
+prolactin	36539734	Dierckx B	Autism spectrum disorder	2
+leptin	36539734	Hermans RA	Autism spectrum disorder	2
+leptin	36539734	Ringeling LT	Autism spectrum disorder	2
+leptin	36539734	Liang K	Autism spectrum disorder	2
+leptin	36539734	Kloosterboer SM	Autism spectrum disorder	2
+leptin	36539734	de Winter BCM	Autism spectrum disorder	2
+leptin	36539734	Hillegers MHJ	Autism spectrum disorder	2
+leptin	36539734	Koch BCP	Autism spectrum disorder	2
+leptin	36539734	Dierckx B	Autism spectrum disorder	2
+heterogeneous nuclear ribonucleoprotein L	36537238	Kerschbamer E	Autism spectrum disorder	1
+heterogeneous nuclear ribonucleoprotein L	36537238	Arnoldi M	Autism spectrum disorder	1
+heterogeneous nuclear ribonucleoprotein L	36537238	Tripathi T	Autism spectrum disorder	1
+heterogeneous nuclear ribonucleoprotein L	36537238	Pellegrini M	Autism spectrum disorder	1
+heterogeneous nuclear ribonucleoprotein L	36537238	Maturi S	Autism spectrum disorder	1
+heterogeneous nuclear ribonucleoprotein L	36537238	Erdin S	Autism spectrum disorder	1
+heterogeneous nuclear ribonucleoprotein L	36537238	Salviato E	Autism spectrum disorder	1
+heterogeneous nuclear ribonucleoprotein L	36537238	Di Leva F	Autism spectrum disorder	1
+heterogeneous nuclear ribonucleoprotein L	36537238	Sebestyen E	Autism spectrum disorder	1
+heterogeneous nuclear ribonucleoprotein L	36537238	Dassi E	Autism spectrum disorder	1
+heterogeneous nuclear ribonucleoprotein L	36537238	Zarantonello G	Autism spectrum disorder	1
+heterogeneous nuclear ribonucleoprotein L	36537238	Benelli M	Autism spectrum disorder	1
+heterogeneous nuclear ribonucleoprotein L	36537238	Campos E	Autism spectrum disorder	1
+heterogeneous nuclear ribonucleoprotein L	36537238	Basson MA	Autism spectrum disorder	1
+heterogeneous nuclear ribonucleoprotein L	36537238	Gusella JF	Autism spectrum disorder	1
+heterogeneous nuclear ribonucleoprotein L	36537238	Gustincich S	Autism spectrum disorder	1
+heterogeneous nuclear ribonucleoprotein L	36537238	Piazza S	Autism spectrum disorder	1
+heterogeneous nuclear ribonucleoprotein L	36537238	Demichelis F	Autism spectrum disorder	1
+heterogeneous nuclear ribonucleoprotein L	36537238	Talkowski ME	Autism spectrum disorder	1
+heterogeneous nuclear ribonucleoprotein L	36537238	Ferrari F	Autism spectrum disorder	1
+heterogeneous nuclear ribonucleoprotein L	36537238	Biagioli M	Autism spectrum disorder	1
+insulin	36530472	Ermakova G	Autism spectrum disorder	1
+insulin	36530472	Hou C	Autism spectrum disorder	1
+insulin	36530472	Boudreau J	Autism spectrum disorder	1
+insulin	36530472	Bendena WG	Autism spectrum disorder	1
+insulin	36530472	Chin-Sang ID	Autism spectrum disorder	1
+neuroligin 2	36479216	Zhang Z	Autism spectrum disorder	3
+neuroligin 2	36479216	Hou M	Autism spectrum disorder	2
+neuroligin 2	36479216	Ou H	Autism spectrum disorder	2
+neuroligin 2	36479216	Wang D	Autism spectrum disorder	3
+neuroligin 2	36479216	Li Z	Autism spectrum disorder	4
+neuroligin 2	36479216	Zhang H	Autism spectrum disorder	6
+neuroligin 2	36479216	Lu J	Autism spectrum disorder	3
+neuroligin 3	36479216	Zhang Z	Autism spectrum disorder	3
+neuroligin 3	36479216	Hou M	Autism spectrum disorder	2
+neuroligin 3	36479216	Ou H	Autism spectrum disorder	2
+neuroligin 3	36479216	Wang D	Autism spectrum disorder	3
+neuroligin 3	36479216	Li Z	Autism spectrum disorder	4
+neuroligin 3	36479216	Zhang H	Autism spectrum disorder	6
+neuroligin 3	36479216	Lu J	Autism spectrum disorder	3
+parvalbumin	36476879	Cao W	Autism spectrum disorder	2
+parvalbumin	36476879	Li JH	Autism spectrum disorder	2
+parvalbumin	36476879	Lin S	Autism spectrum disorder	2
+parvalbumin	36476879	Xia QQ	Autism spectrum disorder	2
+parvalbumin	36476879	Du YL	Autism spectrum disorder	2
+parvalbumin	36476879	Yang Q	Autism spectrum disorder	5
+parvalbumin	36476879	Ye YZ	Autism spectrum disorder	2
+parvalbumin	36476879	Zeng LH	Autism spectrum disorder	2
+parvalbumin	36476879	Li XY	Autism spectrum disorder	2
+parvalbumin	36476879	Xu J	Autism spectrum disorder	2
+parvalbumin	36476879	Luo JH	Autism spectrum disorder	2
+neuroligin 3	36476879	Cao W	Autism spectrum disorder	2
+neuroligin 3	36476879	Li JH	Autism spectrum disorder	2
+neuroligin 3	36476879	Lin S	Autism spectrum disorder	2
+neuroligin 3	36476879	Xia QQ	Autism spectrum disorder	2
+neuroligin 3	36476879	Du YL	Autism spectrum disorder	2
+neuroligin 3	36476879	Yang Q	Autism spectrum disorder	5
+neuroligin 3	36476879	Ye YZ	Autism spectrum disorder	2
+neuroligin 3	36476879	Zeng LH	Autism spectrum disorder	2
+neuroligin 3	36476879	Li XY	Autism spectrum disorder	2
+neuroligin 3	36476879	Xu J	Autism spectrum disorder	2
+neuroligin 3	36476879	Luo JH	Autism spectrum disorder	2
+glutaredoxin	36468003	Sun JJ	Autism spectrum disorder	1
+glutaredoxin	36468003	Chen B	Autism spectrum disorder	2
+glutaredoxin	36468003	Yu T	Autism spectrum disorder	1
+tyrosine hydroxylase	36421705	Maisterrena A	Autism spectrum disorder	2
+tyrosine hydroxylase	36421705	Matas E	Autism spectrum disorder	2
+tyrosine hydroxylase	36421705	Mirfendereski H	Autism spectrum disorder	2
+tyrosine hydroxylase	36421705	Balbous A	Autism spectrum disorder	2
+tyrosine hydroxylase	36421705	Marchand S	Autism spectrum disorder	2
+tyrosine hydroxylase	36421705	Jaber M	Autism spectrum disorder	2
+parvalbumin	36421705	Maisterrena A	Autism spectrum disorder	2
+parvalbumin	36421705	Matas E	Autism spectrum disorder	2
+parvalbumin	36421705	Mirfendereski H	Autism spectrum disorder	2
+parvalbumin	36421705	Balbous A	Autism spectrum disorder	2
+parvalbumin	36421705	Marchand S	Autism spectrum disorder	2
+parvalbumin	36421705	Jaber M	Autism spectrum disorder	2
+interleukin 17A	36414133	Dutra ML	Autism spectrum disorder	1
+interleukin 17A	36414133	Dias P	Autism spectrum disorder	1
+interleukin 17A	36414133	Freiberger V	Autism spectrum disorder	1
+interleukin 17A	36414133	Ventura L	Autism spectrum disorder	1
+interleukin 17A	36414133	Comim CM	Autism spectrum disorder	1
+interleukin 17A	36414133	Martins DF	Autism spectrum disorder	1
+interleukin 17A	36414133	Bobinski F	Autism spectrum disorder	1
+transcription factor 4	36407762	Sirp A	Autism spectrum disorder	1
+transcription factor 4	36407762	Shubina A	Autism spectrum disorder	1
+transcription factor 4	36407762	Tuvikene J	Autism spectrum disorder	1
+transcription factor 4	36407762	Tamberg L	Autism spectrum disorder	1
+transcription factor 4	36407762	Kiir CS	Autism spectrum disorder	1
+transcription factor 4	36407762	Kranich L	Autism spectrum disorder	1
+transcription factor 4	36407762	Timmusk T	Autism spectrum disorder	1
+renin	36406395	Yang X	Autism spectrum disorder	2
+renin	36406395	Li J	Autism spectrum disorder	1
+renin	36406395	Zhou Y	Autism spectrum disorder	2
+renin	36406395	Zhang N	Autism spectrum disorder	2
+renin	36406395	Liu J	Autism spectrum disorder	3
+prolactin	36401485	Gai J	Autism spectrum disorder	1
+prolactin	36401485	Xing J	Autism spectrum disorder	1
+prolactin	36401485	Wang Y	Autism spectrum disorder	7
+prolactin	36401485	Lei J	Autism spectrum disorder	1
+prolactin	36401485	Zhang C	Autism spectrum disorder	1
+prolactin	36401485	Zhang J	Autism spectrum disorder	4
+prolactin	36401485	Tang J	Autism spectrum disorder	1
+nerve growth factor	36398773	Filippova YY	Autism spectrum disorder	1
+nerve growth factor	36398773	Devyatova EV	Autism spectrum disorder	1
+nerve growth factor	36398773	Alekseeva AS	Autism spectrum disorder	1
+nerve growth factor	36398773	Burmistrova AL	Autism spectrum disorder	1
+multiple sclerosis	36389228	Bashir Y	Autism spectrum disorder	1
+multiple sclerosis	36389228	Khan AU	Autism spectrum disorder	1
+fibroblast growth factor 3	36376059	Gracia-Darder I	Autism spectrum disorder	1
+fibroblast growth factor 3	36376059	Llull Ramos A	Autism spectrum disorder	1
+fibroblast growth factor 3	36376059	Giacaman A	Autism spectrum disorder	1
+fibroblast growth factor 3	36376059	Gomez Bellvert C	Autism spectrum disorder	1
+fibroblast growth factor 3	36376059	Obrador-Hevia A	Autism spectrum disorder	1
+fibroblast growth factor 3	36376059	Jubert Esteve E	Autism spectrum disorder	1
+fibroblast growth factor 3	36376059	Martin-Santiago A	Autism spectrum disorder	1
+somatostatin	36373424	Cumberland A	Autism spectrum disorder	1
+somatostatin	36373424	Hale N	Autism spectrum disorder	1
+somatostatin	36373424	Azhan A	Autism spectrum disorder	1
+somatostatin	36373424	Gilchrist CP	Autism spectrum disorder	1
+somatostatin	36373424	Chincarini G	Autism spectrum disorder	1
+somatostatin	36373424	Tolcos M	Autism spectrum disorder	1
+C-reactive protein	36364000	Nakhal MM	Autism spectrum disorder	2
+C-reactive protein	36364000	Aburuz S	Autism spectrum disorder	2
+C-reactive protein	36364000	Sadek B	Autism spectrum disorder	4
+C-reactive protein	36364000	Akour A	Autism spectrum disorder	2
+tumor necrosis factor	36364000	Nakhal MM	Autism spectrum disorder	2
+tumor necrosis factor	36364000	Aburuz S	Autism spectrum disorder	2
+tumor necrosis factor	36364000	Sadek B	Autism spectrum disorder	4
+tumor necrosis factor	36364000	Akour A	Autism spectrum disorder	2
+multiple sclerosis	36334596	Pellegrini C	Autism spectrum disorder	1
+multiple sclerosis	36334596	Fornai M	Autism spectrum disorder	1
+multiple sclerosis	36334596	D'Antongiovanni V	Autism spectrum disorder	1
+multiple sclerosis	36334596	Antonioli L	Autism spectrum disorder	1
+multiple sclerosis	36334596	Bernardini N	Autism spectrum disorder	1
+multiple sclerosis	36334596	Derkinderen P	Autism spectrum disorder	1
+neurofilament light chain	36326357	Paketci C	Autism spectrum disorder	1
+neurofilament light chain	36326357	Ermis C	Autism spectrum disorder	1
+neurofilament light chain	36326357	Sisman AR	Autism spectrum disorder	1
+neurofilament light chain	36326357	Hiz S	Autism spectrum disorder	1
+neurofilament light chain	36326357	Baykara B	Autism spectrum disorder	1
+neurofilament light chain	36326357	Yis U	Autism spectrum disorder	1
+dystrophin	36315559	Iskandar K	Autism spectrum disorder	1
+dystrophin	36315559	Triono A	Autism spectrum disorder	1
+dystrophin	36315559	Sunartini	Autism spectrum disorder	1
+dystrophin	36315559	Dwianingsih EK	Autism spectrum disorder	1
+dystrophin	36315559	Indraswari BW	Autism spectrum disorder	1
+dystrophin	36315559	Kirana IR	Autism spectrum disorder	1
+dystrophin	36315559	Ivana G	Autism spectrum disorder	1
+dystrophin	36315559	Sutomo R	Autism spectrum disorder	1
+dystrophin	36315559	Patria SY	Autism spectrum disorder	1
+dystrophin	36315559	Herini ES	Autism spectrum disorder	1
+dystrophin	36315559	Gunadi	Autism spectrum disorder	1
+insulin	36310155	Zaki JK	Autism spectrum disorder	1
+insulin	36310155	Lago SG	Autism spectrum disorder	1
+insulin	36310155	Rustogi N	Autism spectrum disorder	1
+insulin	36310155	Gangadin SS	Autism spectrum disorder	1
+insulin	36310155	Benacek J	Autism spectrum disorder	1
+insulin	36310155	van Rees GF	Autism spectrum disorder	1
+insulin	36310155	Haenisch F	Autism spectrum disorder	1
+insulin	36310155	Broek JA	Autism spectrum disorder	1
+insulin	36310155	Suarez-Pinilla P	Autism spectrum disorder	1
+insulin	36310155	Ruland T	Autism spectrum disorder	1
+insulin	36310155	Auyeung B	Autism spectrum disorder	1
+insulin	36310155	Mikova O	Autism spectrum disorder	1
+insulin	36310155	Kabacs N	Autism spectrum disorder	1
+insulin	36310155	Arolt V	Autism spectrum disorder	1
+insulin	36310155	Baron-Cohen S	Autism spectrum disorder	1
+insulin	36310155	Crespo-Facorro B	Autism spectrum disorder	1
+insulin	36310155	Drexhage HA	Autism spectrum disorder	1
+insulin	36310155	de Witte LD	Autism spectrum disorder	1
+insulin	36310155	Kahn RS	Autism spectrum disorder	1
+insulin	36310155	Sommer IE	Autism spectrum disorder	1
+insulin	36310155	Bahn S	Autism spectrum disorder	1
+insulin	36310155	Tomasik J	Autism spectrum disorder	1
+glucagon	36307249	Bhalla S	Autism spectrum disorder	3
+glucagon	36307249	Mehan S	Autism spectrum disorder	3
+insulin	36307249	Bhalla S	Autism spectrum disorder	3
+insulin	36307249	Mehan S	Autism spectrum disorder	3
+interferon gamma	36300375	Majerczyk D	Autism spectrum disorder	2
+interferon gamma	36300375	Ayad EG	Autism spectrum disorder	2
+interferon gamma	36300375	Brewton KL	Autism spectrum disorder	2
+interferon gamma	36300375	Saing P	Autism spectrum disorder	2
+interferon gamma	36300375	Hart PC	Autism spectrum disorder	2
+interleukin 6	36300375	Majerczyk D	Autism spectrum disorder	2
+interleukin 6	36300375	Ayad EG	Autism spectrum disorder	2
+interleukin 6	36300375	Brewton KL	Autism spectrum disorder	2
+interleukin 6	36300375	Saing P	Autism spectrum disorder	2
+interleukin 6	36300375	Hart PC	Autism spectrum disorder	2
+insulin receptor	36291644	Svirin E	Autism spectrum disorder	1
+insulin receptor	36291644	de Munter J	Autism spectrum disorder	1
+insulin receptor	36291644	Umriukhin A	Autism spectrum disorder	1
+insulin receptor	36291644	Sheveleva E	Autism spectrum disorder	1
+insulin receptor	36291644	Kalueff AV	Autism spectrum disorder	1
+insulin receptor	36291644	Svistunov A	Autism spectrum disorder	1
+insulin receptor	36291644	Morozov S	Autism spectrum disorder	1
+insulin receptor	36291644	Walitza S	Autism spectrum disorder	1
+insulin receptor	36291644	Strekalova T	Autism spectrum disorder	1
+thyroid hormone receptor interactor 12	36275919	Yi S	Autism spectrum disorder	1
+thyroid hormone receptor interactor 12	36275919	Chen F	Autism spectrum disorder	1
+thyroid hormone receptor interactor 12	36275919	Qin Z	Autism spectrum disorder	1
+thyroid hormone receptor interactor 12	36275919	Huang L	Autism spectrum disorder	1
+thyroid hormone receptor interactor 12	36275919	Feng Y	Autism spectrum disorder	1
+thyroid hormone receptor interactor 12	36275919	Wei H	Autism spectrum disorder	1
+thyroid hormone receptor interactor 12	36275919	Yang Q	Autism spectrum disorder	5
+thyroid hormone receptor interactor 12	36275919	Zhang Q	Autism spectrum disorder	3
+thyroid hormone receptor interactor 12	36275919	Luo J	Autism spectrum disorder	1
+adenylosuccinate lyase	36271826	Sitaram S	Autism spectrum disorder	1
+adenylosuccinate lyase	36271826	Banka HC	Autism spectrum disorder	1
+adenylosuccinate lyase	36271826	Vassallo G	Autism spectrum disorder	1
+adenylosuccinate lyase	36271826	Pavaine J	Autism spectrum disorder	1
+adenylosuccinate lyase	36271826	Fairclough A	Autism spectrum disorder	1
+adenylosuccinate lyase	36271826	Wright R	Autism spectrum disorder	1
+adenylosuccinate lyase	36271826	Fairbanks L	Autism spectrum disorder	1
+adenylosuccinate lyase	36271826	Bierau J	Autism spectrum disorder	1
+adenylosuccinate lyase	36271826	Bowden L	Autism spectrum disorder	1
+adenylosuccinate lyase	36271826	Schwahn B	Autism spectrum disorder	1
+adenylosuccinate lyase	36271826	Horman A	Autism spectrum disorder	1
+adenylosuccinate lyase	36271826	Banka S	Autism spectrum disorder	1
+Janus kinase 2	36267781	Wei RQ	Autism spectrum disorder	1
+Janus kinase 2	36267781	Guo WL	Autism spectrum disorder	1
+Janus kinase 2	36267781	Wu YT	Autism spectrum disorder	1
+Janus kinase 2	36267781	Alarcon Rodriguez R	Autism spectrum disorder	1
+Janus kinase 2	36267781	Requena Mullor MDM	Autism spectrum disorder	1
+Janus kinase 2	36267781	Gui YC	Autism spectrum disorder	1
+Janus kinase 2	36267781	Xu JW	Autism spectrum disorder	1
+transferrin	36265207	DelRosso LM	Autism spectrum disorder	1
+transferrin	36265207	Reuter-Yuill LM	Autism spectrum disorder	1
+transferrin	36265207	Cho Y	Autism spectrum disorder	1
+transferrin	36265207	Ferri R	Autism spectrum disorder	1
+transferrin	36265207	Mogavero MP	Autism spectrum disorder	1
+transferrin	36265207	Picchietti DL	Autism spectrum disorder	1
+multiple sclerosis	36257595	Iannone LF	Autism spectrum disorder	1
+multiple sclerosis	36257595	Gomez-Eguilaz M	Autism spectrum disorder	1
+multiple sclerosis	36257595	De Caro C	Autism spectrum disorder	1
+prolactin	36249785	Stolar O	Autism spectrum disorder	1
+prolactin	36249785	Hazan A	Autism spectrum disorder	1
+prolactin	36249785	Vissoker RE	Autism spectrum disorder	1
+prolactin	36249785	Kishk IA	Autism spectrum disorder	1
+prolactin	36249785	Barchel D	Autism spectrum disorder	1
+prolactin	36249785	Lezinger M	Autism spectrum disorder	1
+prolactin	36249785	Dagan A	Autism spectrum disorder	1
+prolactin	36249785	Treves N	Autism spectrum disorder	1
+prolactin	36249785	Meiri D	Autism spectrum disorder	1
+prolactin	36249785	Berkovitch M	Autism spectrum disorder	1
+prolactin	36249785	Kohn E	Autism spectrum disorder	1
+prolactin	36249785	Heyman E	Autism spectrum disorder	1
+caspase 8	36247010	Frontiers Production Office	Autism spectrum disorder	1
+monoamine oxidase A	36243286	Syu GD	Autism spectrum disorder	1
+monoamine oxidase A	36243286	Sutandy FXR	Autism spectrum disorder	1
+monoamine oxidase A	36243286	Chen K	Autism spectrum disorder	1
+monoamine oxidase A	36243286	Cheng Y	Autism spectrum disorder	2
+monoamine oxidase A	36243286	Chen CS	Autism spectrum disorder	1
+monoamine oxidase A	36243286	Shih JC	Autism spectrum disorder	1
+arginine vasopressin	36239083	Zhou B	Autism spectrum disorder	2
+arginine vasopressin	36239083	Yan X	Autism spectrum disorder	2
+arginine vasopressin	36239083	Yang L	Autism spectrum disorder	1
+arginine vasopressin	36239083	Zheng X	Autism spectrum disorder	2
+arginine vasopressin	36239083	Chen Y	Autism spectrum disorder	3
+arginine vasopressin	36239083	Liu Y	Autism spectrum disorder	2
+arginine vasopressin	36239083	Ren Y	Autism spectrum disorder	1
+arginine vasopressin	36239083	Peng J	Autism spectrum disorder	2
+arginine vasopressin	36239083	Zhang Y	Autism spectrum disorder	7
+arginine vasopressin	36239083	Huang J	Autism spectrum disorder	1
+arginine vasopressin	36239083	Tang L	Autism spectrum disorder	2
+arginine vasopressin	36239083	Wen M	Autism spectrum disorder	2
+protein kinase C beta	36239013	Song X	Autism spectrum disorder	2
+protein kinase C beta	36239013	Hu Q	Autism spectrum disorder	2
+protein kinase C beta	36239013	Xu X	Autism spectrum disorder	4
+protein kinase C beta	36239013	Pan W	Autism spectrum disorder	2
+uncoupling protein 1	36239013	Song X	Autism spectrum disorder	2
+uncoupling protein 1	36239013	Hu Q	Autism spectrum disorder	2
+uncoupling protein 1	36239013	Xu X	Autism spectrum disorder	4
+uncoupling protein 1	36239013	Pan W	Autism spectrum disorder	2
+C-reactive protein	36226108	Silvestri R	Autism spectrum disorder	2
+C-reactive protein	36226108	Ipsiroglu OS	Autism spectrum disorder	2
+transferrin	36226108	Silvestri R	Autism spectrum disorder	2
+transferrin	36226108	Ipsiroglu OS	Autism spectrum disorder	2
+chromodomain helicase DNA binding protein 8	36222238	Coakley-Youngs E	Autism spectrum disorder	1
+chromodomain helicase DNA binding protein 8	36222238	Ranatunga M	Autism spectrum disorder	1
+chromodomain helicase DNA binding protein 8	36222238	Richardson S	Autism spectrum disorder	1
+chromodomain helicase DNA binding protein 8	36222238	Getti G	Autism spectrum disorder	1
+chromodomain helicase DNA binding protein 8	36222238	Shorter S	Autism spectrum disorder	1
+chromodomain helicase DNA binding protein 8	36222238	Fivaz M	Autism spectrum disorder	1
+myelin basic protein	36170102	Brusov OS	Autism spectrum disorder	1
+myelin basic protein	36170102	Klyushnik TP	Autism spectrum disorder	1
+myelin basic protein	36170102	Zozulya SA	Autism spectrum disorder	1
+myelin basic protein	36170102	Karpova NS	Autism spectrum disorder	1
+myelin basic protein	36170102	Shilov YE	Autism spectrum disorder	1
+myelin basic protein	36170102	Nikitina SG	Autism spectrum disorder	1
+myelin basic protein	36170102	Simashkova NV	Autism spectrum disorder	1
+catalase	36154275	Anne A	Autism spectrum disorder	1
+catalase	36154275	Saxena S	Autism spectrum disorder	1
+catalase	36154275	Mohan KN	Autism spectrum disorder	1
+dopamine beta-hydroxylase	36143905	Wongpaiboonwattana W	Autism spectrum disorder	1
+dopamine beta-hydroxylase	36143905	Hnoonual A	Autism spectrum disorder	1
+dopamine beta-hydroxylase	36143905	Limprasert P	Autism spectrum disorder	1
+Coats disease	34978780	Pappas J	Autism spectrum disorder	1
+Coats disease	34978780	Rabin R	Autism spectrum disorder	1
+parvalbumin	36127322	Carey C	Autism spectrum disorder	1
+parvalbumin	36127322	Singh N	Autism spectrum disorder	1
+parvalbumin	36127322	Dunn JT	Autism spectrum disorder	1
+parvalbumin	36127322	Sementa T	Autism spectrum disorder	1
+parvalbumin	36127322	Mendez MA	Autism spectrum disorder	1
+parvalbumin	36127322	Velthuis H	Autism spectrum disorder	1
+parvalbumin	36127322	Pereira AC	Autism spectrum disorder	1
+parvalbumin	36127322	Pretzsch CM	Autism spectrum disorder	1
+parvalbumin	36127322	Horder J	Autism spectrum disorder	1
+parvalbumin	36127322	Hader S	Autism spectrum disorder	1
+parvalbumin	36127322	Lythgoe DJ	Autism spectrum disorder	1
+parvalbumin	36127322	Rotaru DG	Autism spectrum disorder	1
+parvalbumin	36127322	Gee A	Autism spectrum disorder	1
+parvalbumin	36127322	Cash D	Autism spectrum disorder	1
+parvalbumin	36127322	Veronese M	Autism spectrum disorder	1
+parvalbumin	36127322	Murphy D	Autism spectrum disorder	1
+parvalbumin	36127322	McAlonan G	Autism spectrum disorder	1
+glutamate decarboxylase 1	36113682	Singla R	Autism spectrum disorder	1
+glutamate decarboxylase 1	36113682	Mishra A	Autism spectrum disorder	1
+glutamate decarboxylase 1	36113682	Joshi R	Autism spectrum disorder	1
+glutamate decarboxylase 1	36113682	Sarma P	Autism spectrum disorder	1
+glutamate decarboxylase 1	36113682	Kumar R	Autism spectrum disorder	1
+glutamate decarboxylase 1	36113682	Kaur G	Autism spectrum disorder	1
+glutamate decarboxylase 1	36113682	Sharma AR	Autism spectrum disorder	1
+glutamate decarboxylase 1	36113682	Jain A	Autism spectrum disorder	1
+glutamate decarboxylase 1	36113682	Prakash A	Autism spectrum disorder	1
+glutamate decarboxylase 1	36113682	Bhatia A	Autism spectrum disorder	1
+glutamate decarboxylase 1	36113682	Medhi B	Autism spectrum disorder	1
+folate receptor alpha	36112150	Phunsawat P	Autism spectrum disorder	1
+folate receptor alpha	36112150	Chiangjong W	Autism spectrum disorder	1
+folate receptor alpha	36112150	Chutipongtanate S	Autism spectrum disorder	1
+folate receptor alpha	36112150	Dumrongwongsiri O	Autism spectrum disorder	1
+folate receptor alpha	36112150	Thommachot P	Autism spectrum disorder	1
+folate receptor alpha	36112150	Butdawong W	Autism spectrum disorder	1
+folate receptor alpha	36112150	Chuthapisith J	Autism spectrum disorder	1
+reelin	36094739	Takashima K	Autism spectrum disorder	1
+reelin	36094739	Okano H	Autism spectrum disorder	1
+reelin	36094739	Ojiro R	Autism spectrum disorder	1
+reelin	36094739	Tang Q	Autism spectrum disorder	1
+reelin	36094739	Takahashi Y	Autism spectrum disorder	1
+reelin	36094739	Ozawa S	Autism spectrum disorder	1
+reelin	36094739	Zou X	Autism spectrum disorder	1
+reelin	36094739	Koyanagi M	Autism spectrum disorder	1
+reelin	36094739	Maronpot RR	Autism spectrum disorder	1
+reelin	36094739	Yoshida T	Autism spectrum disorder	1
+reelin	36094739	Shibutani M	Autism spectrum disorder	1
+adhesion G protein-coupled receptor L3	36082049	Maurer MH	Autism spectrum disorder	1
+adhesion G protein-coupled receptor L3	36082049	Kohler A	Autism spectrum disorder	1
+adhesion G protein-coupled receptor L3	36082049	Hudemann M	Autism spectrum disorder	1
+adhesion G protein-coupled receptor L3	36082049	Jungling J	Autism spectrum disorder	1
+adhesion G protein-coupled receptor L3	36082049	Biskup S	Autism spectrum disorder	1
+adhesion G protein-coupled receptor L3	36082049	Menzel M	Autism spectrum disorder	1
+monoamine oxidase B	36072563	Choi J	Autism spectrum disorder	1
+monoamine oxidase B	36072563	Kim YS	Autism spectrum disorder	1
+monoamine oxidase B	36072563	Kim MH	Autism spectrum disorder	1
+monoamine oxidase B	36072563	Kim HJ	Autism spectrum disorder	1
+monoamine oxidase B	36072563	Yoon BE	Autism spectrum disorder	1
+nuclear receptor subfamily 4 group A member 1	36059036	Zhang Y	Autism spectrum disorder	7
+nuclear receptor subfamily 4 group A member 1	36059036	Pang Y	Autism spectrum disorder	1
+nuclear receptor subfamily 4 group A member 1	36059036	Feng W	Autism spectrum disorder	1
+nuclear receptor subfamily 4 group A member 1	36059036	Jin Y	Autism spectrum disorder	1
+nuclear receptor subfamily 4 group A member 1	36059036	Chen S	Autism spectrum disorder	1
+nuclear receptor subfamily 4 group A member 1	36059036	Ding S	Autism spectrum disorder	1
+nuclear receptor subfamily 4 group A member 1	36059036	Wang Z	Autism spectrum disorder	4
+nuclear receptor subfamily 4 group A member 1	36059036	Zou Y	Autism spectrum disorder	1
+nuclear receptor subfamily 4 group A member 1	36059036	Li Y	Autism spectrum disorder	3
+nuclear receptor subfamily 4 group A member 1	36059036	Wang T	Autism spectrum disorder	1
+nuclear receptor subfamily 4 group A member 1	36059036	Sun P	Autism spectrum disorder	1
+nuclear receptor subfamily 4 group A member 1	36059036	Gao J	Autism spectrum disorder	1
+nuclear receptor subfamily 4 group A member 1	36059036	Zhu Y	Autism spectrum disorder	2
+nuclear receptor subfamily 4 group A member 1	36059036	Ke X	Autism spectrum disorder	1
+nuclear receptor subfamily 4 group A member 1	36059036	Marshall C	Autism spectrum disorder	1
+nuclear receptor subfamily 4 group A member 1	36059036	Huang H	Autism spectrum disorder	1
+nuclear receptor subfamily 4 group A member 1	36059036	Sheng C	Autism spectrum disorder	1
+nuclear receptor subfamily 4 group A member 1	36059036	Xiao M	Autism spectrum disorder	1
+arginine-glutamic acid dipeptide repeats	36053530	Niehaus AD	Autism spectrum disorder	1
+arginine-glutamic acid dipeptide repeats	36053530	Kim J	Autism spectrum disorder	1
+arginine-glutamic acid dipeptide repeats	36053530	Manning MA	Autism spectrum disorder	1
+retinoic acid receptor alpha	36036133	Li LS	Autism spectrum disorder	2
+retinoic acid receptor alpha	36036133	Zhang Q	Autism spectrum disorder	3
+retinoic acid receptor alpha	36036133	Liu H	Autism spectrum disorder	3
+retinoic acid receptor alpha	36036133	Wu QH	Autism spectrum disorder	2
+retinoic acid receptor alpha	36036133	Yang T	Autism spectrum disorder	3
+retinoic acid receptor alpha	36036133	Chen J	Autism spectrum disorder	5
+retinoic acid receptor alpha	36036133	Li TY	Autism spectrum disorder	2
+neurexin 1	36036133	Li LS	Autism spectrum disorder	2
+neurexin 1	36036133	Zhang Q	Autism spectrum disorder	3
+neurexin 1	36036133	Liu H	Autism spectrum disorder	3
+neurexin 1	36036133	Wu QH	Autism spectrum disorder	2
+neurexin 1	36036133	Yang T	Autism spectrum disorder	3
+neurexin 1	36036133	Chen J	Autism spectrum disorder	5
+neurexin 1	36036133	Li TY	Autism spectrum disorder	2
+interferon gamma	36009104	Tamayo JM	Autism spectrum disorder	2
+interferon gamma	36009104	Rose D	Autism spectrum disorder	2
+interferon gamma	36009104	Church JS	Autism spectrum disorder	2
+interferon gamma	36009104	Schwartzer JJ	Autism spectrum disorder	2
+interferon gamma	36009104	Ashwood P	Autism spectrum disorder	2
+tumor necrosis factor	36009104	Tamayo JM	Autism spectrum disorder	2
+tumor necrosis factor	36009104	Rose D	Autism spectrum disorder	2
+tumor necrosis factor	36009104	Church JS	Autism spectrum disorder	2
+tumor necrosis factor	36009104	Schwartzer JJ	Autism spectrum disorder	2
+tumor necrosis factor	36009104	Ashwood P	Autism spectrum disorder	2
+arginine vasopressin	35995237	Sen P	Autism spectrum disorder	1
+arginine vasopressin	35995237	Sherwin E	Autism spectrum disorder	1
+arginine vasopressin	35995237	Sandhu K	Autism spectrum disorder	1
+arginine vasopressin	35995237	Bastiaanssen TFS	Autism spectrum disorder	1
+arginine vasopressin	35995237	Moloney GM	Autism spectrum disorder	1
+arginine vasopressin	35995237	Golubeva A	Autism spectrum disorder	1
+arginine vasopressin	35995237	Fitzgerald P	Autism spectrum disorder	1
+arginine vasopressin	35995237	Paula Ventura Da Silva A	Autism spectrum disorder	1
+arginine vasopressin	35995237	Chruscicka-Smaga B	Autism spectrum disorder	1
+arginine vasopressin	35995237	Olavarria-Ramirez L	Autism spectrum disorder	1
+arginine vasopressin	35995237	Druelle C	Autism spectrum disorder	1
+arginine vasopressin	35995237	Campos D	Autism spectrum disorder	1
+arginine vasopressin	35995237	Jayaprakash P	Autism spectrum disorder	2
+arginine vasopressin	35995237	Rea K	Autism spectrum disorder	1
+arginine vasopressin	35995237	Jeffery IB	Autism spectrum disorder	1
+arginine vasopressin	35995237	Savignac H	Autism spectrum disorder	1
+arginine vasopressin	35995237	Chetal S	Autism spectrum disorder	1
+arginine vasopressin	35995237	Mulder I	Autism spectrum disorder	1
+arginine vasopressin	35995237	Schellekens H	Autism spectrum disorder	1
+arginine vasopressin	35995237	Dinan TG	Autism spectrum disorder	1
+arginine vasopressin	35995237	Cryan JF	Autism spectrum disorder	1
+multiple sclerosis	35989698	Anyachor CP	Autism spectrum disorder	1
+multiple sclerosis	35989698	Dooka DB	Autism spectrum disorder	1
+multiple sclerosis	35989698	Orish CN	Autism spectrum disorder	1
+multiple sclerosis	35989698	Amadi CN	Autism spectrum disorder	1
+multiple sclerosis	35989698	Bocca B	Autism spectrum disorder	1
+multiple sclerosis	35989698	Ruggieri F	Autism spectrum disorder	1
+multiple sclerosis	35989698	Senofonte M	Autism spectrum disorder	1
+multiple sclerosis	35989698	Frazzoli C	Autism spectrum disorder	1
+multiple sclerosis	35989698	Orisakwe OE	Autism spectrum disorder	1
+doublecortin	35975241	Rozhkova IN	Autism spectrum disorder	1
+doublecortin	35975241	Okotrub SV	Autism spectrum disorder	1
+doublecortin	35975241	Brusentsev EY	Autism spectrum disorder	1
+doublecortin	35975241	Uldanova EE	Autism spectrum disorder	1
+doublecortin	35975241	Chuyko Ecapital A, Cyrillic	Autism spectrum disorder	1
+doublecortin	35975241	Lipina TV	Autism spectrum disorder	1
+doublecortin	35975241	Amstislavskaya TG	Autism spectrum disorder	1
+doublecortin	35975241	Amstislavsky SY	Autism spectrum disorder	1
+insulin	35962006	Robinson-Agramonte MLA	Autism spectrum disorder	1
+insulin	35962006	Michalski B	Autism spectrum disorder	1
+insulin	35962006	Vidal-Martinez B	Autism spectrum disorder	1
+insulin	35962006	Hernandez LR	Autism spectrum disorder	1
+insulin	35962006	Santiesteban MW	Autism spectrum disorder	1
+insulin	35962006	Fahnestock M	Autism spectrum disorder	1
+histone deacetylase 2	35959102	Shirinian M	Autism spectrum disorder	1
+histone deacetylase 2	35959102	Chen C	Autism spectrum disorder	2
+histone deacetylase 2	35959102	Uchida S	Autism spectrum disorder	1
+histone deacetylase 2	35959102	Jadavji NM	Autism spectrum disorder	1
+ST8 alpha-N-acetyl-neuraminide alpha-2,8-sialyltransferase 2	35957920	Yang X	Autism spectrum disorder	2
+ST8 alpha-N-acetyl-neuraminide alpha-2,8-sialyltransferase 2	35957920	Li L	Autism spectrum disorder	5
+ST8 alpha-N-acetyl-neuraminide alpha-2,8-sialyltransferase 2	35957920	Chai X	Autism spectrum disorder	1
+ST8 alpha-N-acetyl-neuraminide alpha-2,8-sialyltransferase 2	35957920	Liu J	Autism spectrum disorder	3
+vitamin D receptor	35953654	Zhang Z	Autism spectrum disorder	3
+vitamin D receptor	35953654	Liu J	Autism spectrum disorder	3
+vitamin D receptor	35953654	Jiang G	Autism spectrum disorder	1
+vitamin D receptor	35953654	Yu H	Autism spectrum disorder	2
+multiple sclerosis	35944870	Kattner AA	Autism spectrum disorder	1
+dopamine receptor D1	35941573	Sherman HT	Autism spectrum disorder	1
+dopamine receptor D1	35941573	Liu K	Autism spectrum disorder	1
+dopamine receptor D1	35941573	Kwong K	Autism spectrum disorder	1
+dopamine receptor D1	35941573	Chan ST	Autism spectrum disorder	1
+dopamine receptor D1	35941573	Li AC	Autism spectrum disorder	1
+dopamine receptor D1	35941573	Kong XJ	Autism spectrum disorder	1
+methylenetetrahydrofolate reductase	35929945	Xu S	Autism spectrum disorder	1
+methylenetetrahydrofolate reductase	35929945	Men S	Autism spectrum disorder	1
+methylenetetrahydrofolate reductase	35929945	Wang X	Autism spectrum disorder	3
+methylenetetrahydrofolate reductase	35929945	Zhan F	Autism spectrum disorder	1
+methylenetetrahydrofolate reductase	35929945	Yuan X	Autism spectrum disorder	1
+D-aspartate oxidase	35915065	Lombardo B	Autism spectrum disorder	1
+D-aspartate oxidase	35915065	Pagani M	Autism spectrum disorder	1
+D-aspartate oxidase	35915065	De Rosa A	Autism spectrum disorder	1
+D-aspartate oxidase	35915065	Nunziato M	Autism spectrum disorder	1
+D-aspartate oxidase	35915065	Migliarini S	Autism spectrum disorder	1
+D-aspartate oxidase	35915065	Garofalo M	Autism spectrum disorder	1
+D-aspartate oxidase	35915065	Terrile M	Autism spectrum disorder	1
+D-aspartate oxidase	35915065	D'Argenio V	Autism spectrum disorder	1
+D-aspartate oxidase	35915065	Galbusera A	Autism spectrum disorder	1
+D-aspartate oxidase	35915065	Nuzzo T	Autism spectrum disorder	1
+D-aspartate oxidase	35915065	Ranieri A	Autism spectrum disorder	1
+D-aspartate oxidase	35915065	Vitale A	Autism spectrum disorder	1
+D-aspartate oxidase	35915065	Leggiero E	Autism spectrum disorder	1
+D-aspartate oxidase	35915065	Di Maio A	Autism spectrum disorder	1
+D-aspartate oxidase	35915065	Barsotti N	Autism spectrum disorder	1
+D-aspartate oxidase	35915065	Borello U	Autism spectrum disorder	1
+D-aspartate oxidase	35915065	Napolitano F	Autism spectrum disorder	1
+D-aspartate oxidase	35915065	Mandarino A	Autism spectrum disorder	1
+D-aspartate oxidase	35915065	Carotenuto M	Autism spectrum disorder	1
+D-aspartate oxidase	35915065	Heresco-Levy U	Autism spectrum disorder	1
+D-aspartate oxidase	35915065	Pasqualetti M	Autism spectrum disorder	1
+D-aspartate oxidase	35915065	Malatesta P	Autism spectrum disorder	1
+D-aspartate oxidase	35915065	Gozzi A	Autism spectrum disorder	1
+D-aspartate oxidase	35915065	Errico F	Autism spectrum disorder	1
+D-aspartate oxidase	35915065	Salvatore F	Autism spectrum disorder	1
+D-aspartate oxidase	35915065	Pastore L	Autism spectrum disorder	1
+D-aspartate oxidase	35915065	Usiello A	Autism spectrum disorder	1
+oxytocin receptor	35908894	Takayama K	Autism spectrum disorder	1
+oxytocin receptor	35908894	Tobori S	Autism spectrum disorder	1
+oxytocin receptor	35908894	Andoh C	Autism spectrum disorder	1
+oxytocin receptor	35908894	Kakae M	Autism spectrum disorder	1
+oxytocin receptor	35908894	Hagiwara M	Autism spectrum disorder	1
+oxytocin receptor	35908894	Nagayasu K	Autism spectrum disorder	1
+oxytocin receptor	35908894	Shirakawa H	Autism spectrum disorder	1
+oxytocin receptor	35908894	Ago Y	Autism spectrum disorder	1
+oxytocin receptor	35908894	Kaneko S	Autism spectrum disorder	1
+parvalbumin	35907861	Mueller FS	Autism spectrum disorder	1
+parvalbumin	35907861	Amport R	Autism spectrum disorder	1
+parvalbumin	35907861	Notter T	Autism spectrum disorder	1
+parvalbumin	35907861	Schalbetter SM	Autism spectrum disorder	1
+parvalbumin	35907861	Lin HY	Autism spectrum disorder	1
+parvalbumin	35907861	Garajova Z	Autism spectrum disorder	1
+parvalbumin	35907861	Amini P	Autism spectrum disorder	1
+parvalbumin	35907861	Weber-Stadlbauer U	Autism spectrum disorder	1
+parvalbumin	35907861	Markkanen E	Autism spectrum disorder	1
+C-C motif chemokine ligand 3	35906621	Ishihara Y	Autism spectrum disorder	1
+C-C motif chemokine ligand 3	35906621	Honda T	Autism spectrum disorder	1
+C-C motif chemokine ligand 3	35906621	Ishihara N	Autism spectrum disorder	1
+C-C motif chemokine ligand 3	35906621	Namba K	Autism spectrum disorder	1
+C-C motif chemokine ligand 3	35906621	Taketoshi M	Autism spectrum disorder	1
+C-C motif chemokine ligand 3	35906621	Tominaga Y	Autism spectrum disorder	1
+C-C motif chemokine ligand 3	35906621	Tsuji M	Autism spectrum disorder	1
+C-C motif chemokine ligand 3	35906621	Vogel CFA	Autism spectrum disorder	1
+C-C motif chemokine ligand 3	35906621	Yamazaki T	Autism spectrum disorder	1
+C-C motif chemokine ligand 3	35906621	Itoh K	Autism spectrum disorder	1
+C-C motif chemokine ligand 3	35906621	Tominaga T	Autism spectrum disorder	1
+nerve growth factor	35904498	Durankus F	Autism spectrum disorder	1
+nerve growth factor	35904498	Albayrak Y	Autism spectrum disorder	2
+nerve growth factor	35904498	Erdogan F	Autism spectrum disorder	1
+nerve growth factor	35904498	Albayrak N	Autism spectrum disorder	1
+nerve growth factor	35904498	Erdogan MA	Autism spectrum disorder	4
+nerve growth factor	35904498	Erbas O	Autism spectrum disorder	5
+insulin	35897673	Kummer S	Autism spectrum disorder	1
+insulin	35897673	Rinne S	Autism spectrum disorder	1
+insulin	35897673	Seemann G	Autism spectrum disorder	1
+insulin	35897673	Bachmann N	Autism spectrum disorder	1
+insulin	35897673	Timothy K	Autism spectrum disorder	1
+insulin	35897673	Thornton PS	Autism spectrum disorder	1
+insulin	35897673	Pillekamp F	Autism spectrum disorder	1
+insulin	35897673	Mayatepek E	Autism spectrum disorder	1
+insulin	35897673	Bergmann C	Autism spectrum disorder	1
+insulin	35897673	Meissner T	Autism spectrum disorder	1
+insulin	35897673	Decher N	Autism spectrum disorder	1
+leptin	35888736	Guiducci L	Autism spectrum disorder	3
+leptin	35888736	Vassalle C	Autism spectrum disorder	3
+leptin	35888736	Prosperi M	Autism spectrum disorder	3
+leptin	35888736	Santocchi E	Autism spectrum disorder	3
+leptin	35888736	Morales MA	Autism spectrum disorder	3
+leptin	35888736	Muratori F	Autism spectrum disorder	3
+leptin	35888736	Calderoni S	Autism spectrum disorder	3
+insulin	35888736	Guiducci L	Autism spectrum disorder	3
+insulin	35888736	Vassalle C	Autism spectrum disorder	3
+insulin	35888736	Prosperi M	Autism spectrum disorder	3
+insulin	35888736	Santocchi E	Autism spectrum disorder	3
+insulin	35888736	Morales MA	Autism spectrum disorder	3
+insulin	35888736	Muratori F	Autism spectrum disorder	3
+insulin	35888736	Calderoni S	Autism spectrum disorder	3
+resistin	35888736	Guiducci L	Autism spectrum disorder	3
+resistin	35888736	Vassalle C	Autism spectrum disorder	3
+resistin	35888736	Prosperi M	Autism spectrum disorder	3
+resistin	35888736	Santocchi E	Autism spectrum disorder	3
+resistin	35888736	Morales MA	Autism spectrum disorder	3
+resistin	35888736	Muratori F	Autism spectrum disorder	3
+resistin	35888736	Calderoni S	Autism spectrum disorder	3
+oxytocin receptor	35888641	Florea T	Autism spectrum disorder	1
+oxytocin receptor	35888641	Palimariciuc M	Autism spectrum disorder	1
+oxytocin receptor	35888641	Cristofor AC	Autism spectrum disorder	1
+oxytocin receptor	35888641	Dobrin I	Autism spectrum disorder	1
+oxytocin receptor	35888641	Chirita R	Autism spectrum disorder	1
+oxytocin receptor	35888641	Birsan M	Autism spectrum disorder	1
+oxytocin receptor	35888641	Dobrin RP	Autism spectrum disorder	1
+oxytocin receptor	35888641	Padurariu M	Autism spectrum disorder	1
+albumin	35883654	Jagadapillai R	Autism spectrum disorder	1
+albumin	35883654	Qiu X	Autism spectrum disorder	1
+albumin	35883654	Ojha K	Autism spectrum disorder	1
+albumin	35883654	Li Z	Autism spectrum disorder	4
+albumin	35883654	El-Baz A	Autism spectrum disorder	1
+albumin	35883654	Zou S	Autism spectrum disorder	1
+albumin	35883654	Gozal E	Autism spectrum disorder	1
+albumin	35883654	Barnes GN	Autism spectrum disorder	1
+C-reactive protein	35878480	Esnafoglu E	Autism spectrum disorder	1
+C-reactive protein	35878480	Subasi B	Autism spectrum disorder	1
+parvalbumin	35869039	Xiang L	Autism spectrum disorder	1
+parvalbumin	35869039	Wu Q	Autism spectrum disorder	1
+parvalbumin	35869039	Sun H	Autism spectrum disorder	2
+parvalbumin	35869039	Miao X	Autism spectrum disorder	1
+parvalbumin	35869039	Lv Z	Autism spectrum disorder	1
+parvalbumin	35869039	Liu H	Autism spectrum disorder	3
+parvalbumin	35869039	Chen L	Autism spectrum disorder	1
+parvalbumin	35869039	Gu Y	Autism spectrum disorder	2
+parvalbumin	35869039	Chen J	Autism spectrum disorder	5
+parvalbumin	35869039	Zhou S	Autism spectrum disorder	1
+parvalbumin	35869039	Jiang H	Autism spectrum disorder	1
+parvalbumin	35869039	Du S	Autism spectrum disorder	1
+parvalbumin	35869039	Zhou Y	Autism spectrum disorder	2
+parvalbumin	35869039	Dong H	Autism spectrum disorder	1
+parvalbumin	35869039	Fan Y	Autism spectrum disorder	1
+parvalbumin	35869039	Miao S	Autism spectrum disorder	1
+parvalbumin	35869039	Lu Q	Autism spectrum disorder	1
+parvalbumin	35869039	Chang L	Autism spectrum disorder	1
+parvalbumin	35869039	Wang H	Autism spectrum disorder	4
+parvalbumin	35869039	Lu Y	Autism spectrum disorder	1
+parvalbumin	35869039	Xu X	Autism spectrum disorder	4
+parvalbumin	35869039	Wang W	Autism spectrum disorder	1
+parvalbumin	35869039	Huang Z	Autism spectrum disorder	1
+FOXP3 regulating long intergenic non-coding RNA	35860502	Akbari M	Autism spectrum disorder	1
+FOXP3 regulating long intergenic non-coding RNA	35860502	Eghtedarian R	Autism spectrum disorder	1
+FOXP3 regulating long intergenic non-coding RNA	35860502	Hussen BM	Autism spectrum disorder	1
+FOXP3 regulating long intergenic non-coding RNA	35860502	Eslami S	Autism spectrum disorder	1
+FOXP3 regulating long intergenic non-coding RNA	35860502	Taheri M	Autism spectrum disorder	1
+FOXP3 regulating long intergenic non-coding RNA	35860502	Neishabouri SM	Autism spectrum disorder	1
+FOXP3 regulating long intergenic non-coding RNA	35860502	Ghafouri-Fard S	Autism spectrum disorder	1
+protocadherin 19	35860011	Johannessen M	Autism spectrum disorder	1
+protocadherin 19	35860011	Kjellsen IM	Autism spectrum disorder	1
+protocadherin 19	35860011	Malt E	Autism spectrum disorder	1
+oxytocin receptor	35858098	Frehner SS	Autism spectrum disorder	2
+oxytocin receptor	35858098	Dooley KT	Autism spectrum disorder	2
+oxytocin receptor	35858098	Palumbo MC	Autism spectrum disorder	2
+oxytocin receptor	35858098	Smith AL	Autism spectrum disorder	2
+oxytocin receptor	35858098	Goodman MM	Autism spectrum disorder	2
+oxytocin receptor	35858098	Bales KL	Autism spectrum disorder	2
+oxytocin receptor	35858098	Freeman SM	Autism spectrum disorder	2
+tyrosine hydroxylase	35858098	Frehner SS	Autism spectrum disorder	2
+tyrosine hydroxylase	35858098	Dooley KT	Autism spectrum disorder	2
+tyrosine hydroxylase	35858098	Palumbo MC	Autism spectrum disorder	2
+tyrosine hydroxylase	35858098	Smith AL	Autism spectrum disorder	2
+tyrosine hydroxylase	35858098	Goodman MM	Autism spectrum disorder	2
+tyrosine hydroxylase	35858098	Bales KL	Autism spectrum disorder	2
+tyrosine hydroxylase	35858098	Freeman SM	Autism spectrum disorder	2
+ribosomal protein S6	35851298	Sare RM	Autism spectrum disorder	1
+ribosomal protein S6	35851298	Torossian A	Autism spectrum disorder	1
+ribosomal protein S6	35851298	Loutaev I	Autism spectrum disorder	1
+ribosomal protein S6	35851298	Smith CB	Autism spectrum disorder	1
+gephyrin	35821032	Chu MC	Autism spectrum disorder	1
+gephyrin	35821032	Wu HF	Autism spectrum disorder	1
+gephyrin	35821032	Lee CW	Autism spectrum disorder	1
+gephyrin	35821032	Chung YJ	Autism spectrum disorder	1
+gephyrin	35821032	Chi H	Autism spectrum disorder	1
+gephyrin	35821032	Chen PS	Autism spectrum disorder	1
+gephyrin	35821032	Lin HC	Autism spectrum disorder	1
+leptin	35809877	Mitchell AJ	Autism spectrum disorder	1
+leptin	35809877	Khambadkone SG	Autism spectrum disorder	1
+leptin	35809877	Dunn G	Autism spectrum disorder	1
+leptin	35809877	Bagley J	Autism spectrum disorder	1
+leptin	35809877	Tamashiro KLK	Autism spectrum disorder	1
+leptin	35809877	Fair D	Autism spectrum disorder	1
+leptin	35809877	Gustafsson H	Autism spectrum disorder	1
+leptin	35809877	Sullivan EL	Autism spectrum disorder	1
+leptin receptor	35809703	Zorn S	Autism spectrum disorder	1
+leptin receptor	35809703	von Schnurbein J	Autism spectrum disorder	1
+leptin receptor	35809703	Schirmer M	Autism spectrum disorder	1
+leptin receptor	35809703	Brandt S	Autism spectrum disorder	1
+leptin receptor	35809703	Wabitsch M	Autism spectrum disorder	1
+parvalbumin	35768828	Kalinowska M	Autism spectrum disorder	2
+parvalbumin	35768828	van der Lei MB	Autism spectrum disorder	2
+parvalbumin	35768828	Kitiashvili M	Autism spectrum disorder	2
+parvalbumin	35768828	Mamcarz M	Autism spectrum disorder	2
+parvalbumin	35768828	Oliveira MM	Autism spectrum disorder	2
+parvalbumin	35768828	Longo F	Autism spectrum disorder	2
+parvalbumin	35768828	Klann E	Autism spectrum disorder	2
+somatostatin	35768828	Kalinowska M	Autism spectrum disorder	2
+somatostatin	35768828	van der Lei MB	Autism spectrum disorder	2
+somatostatin	35768828	Kitiashvili M	Autism spectrum disorder	2
+somatostatin	35768828	Mamcarz M	Autism spectrum disorder	2
+somatostatin	35768828	Oliveira MM	Autism spectrum disorder	2
+somatostatin	35768828	Longo F	Autism spectrum disorder	2
+somatostatin	35768828	Klann E	Autism spectrum disorder	2
+methyl-CpG binding protein 2	35767654	Morelli KH	Autism spectrum disorder	1
+methyl-CpG binding protein 2	35767654	Jin W	Autism spectrum disorder	1
+methyl-CpG binding protein 2	35767654	Shathe S	Autism spectrum disorder	1
+methyl-CpG binding protein 2	35767654	Madrigal AA	Autism spectrum disorder	1
+methyl-CpG binding protein 2	35767654	Jones KL	Autism spectrum disorder	1
+methyl-CpG binding protein 2	35767654	Schwartz JL	Autism spectrum disorder	1
+methyl-CpG binding protein 2	35767654	Bridges T	Autism spectrum disorder	1
+methyl-CpG binding protein 2	35767654	Mueller JR	Autism spectrum disorder	1
+methyl-CpG binding protein 2	35767654	Shankar A	Autism spectrum disorder	1
+methyl-CpG binding protein 2	35767654	Chaim IA	Autism spectrum disorder	1
+methyl-CpG binding protein 2	35767654	Day JW	Autism spectrum disorder	1
+methyl-CpG binding protein 2	35767654	Yeo GW	Autism spectrum disorder	1
+neuraminidase 1	35757207	Zhang H	Autism spectrum disorder	6
+neuraminidase 1	35757207	Gu Y	Autism spectrum disorder	2
+neuraminidase 1	35757207	He W	Autism spectrum disorder	1
+neuraminidase 1	35757207	Kuo F	Autism spectrum disorder	1
+neuraminidase 1	35757207	Zhang Y	Autism spectrum disorder	7
+neuraminidase 1	35757207	Wang D	Autism spectrum disorder	3
+neuraminidase 1	35757207	He L	Autism spectrum disorder	1
+neuraminidase 1	35757207	Yang Y	Autism spectrum disorder	1
+neuraminidase 1	35757207	Wang H	Autism spectrum disorder	4
+neuraminidase 1	35757207	Chen Y	Autism spectrum disorder	3
+lysozyme	35756062	Vernocchi P	Autism spectrum disorder	1
+lysozyme	35756062	Ristori MV	Autism spectrum disorder	1
+lysozyme	35756062	Guerrera S	Autism spectrum disorder	1
+lysozyme	35756062	Guarrasi V	Autism spectrum disorder	1
+lysozyme	35756062	Conte F	Autism spectrum disorder	1
+lysozyme	35756062	Russo A	Autism spectrum disorder	1
+lysozyme	35756062	Lupi E	Autism spectrum disorder	1
+lysozyme	35756062	Albitar-Nehme S	Autism spectrum disorder	1
+lysozyme	35756062	Gardini S	Autism spectrum disorder	1
+lysozyme	35756062	Paci P	Autism spectrum disorder	1
+lysozyme	35756062	Ianiro G	Autism spectrum disorder	1
+lysozyme	35756062	Vicari S	Autism spectrum disorder	1
+lysozyme	35756062	Gasbarrini A	Autism spectrum disorder	1
+lysozyme	35756062	Putignani L	Autism spectrum disorder	1
+BR serine/threonine kinase 2	35754711	Deng J	Autism spectrum disorder	1
+BR serine/threonine kinase 2	35754711	Wang Y	Autism spectrum disorder	7
+BR serine/threonine kinase 2	35754711	Hu M	Autism spectrum disorder	1
+BR serine/threonine kinase 2	35754711	Lin J	Autism spectrum disorder	5
+BR serine/threonine kinase 2	35754711	Li Q	Autism spectrum disorder	1
+BR serine/threonine kinase 2	35754711	Liu C	Autism spectrum disorder	1
+BR serine/threonine kinase 2	35754711	Xu X	Autism spectrum disorder	4
+methyl-CpG binding protein 2	35726297	Lim HK	Autism spectrum disorder	3
+methyl-CpG binding protein 2	35726297	Yoon JH	Autism spectrum disorder	3
+methyl-CpG binding protein 2	35726297	Song M	Autism spectrum disorder	3
+neurexin 1	35726297	Lim HK	Autism spectrum disorder	3
+neurexin 1	35726297	Yoon JH	Autism spectrum disorder	3
+neurexin 1	35726297	Song M	Autism spectrum disorder	3
+chromodomain helicase DNA binding protein 8	35726297	Lim HK	Autism spectrum disorder	3
+chromodomain helicase DNA binding protein 8	35726297	Yoon JH	Autism spectrum disorder	3
+chromodomain helicase DNA binding protein 8	35726297	Song M	Autism spectrum disorder	3
+E1A binding protein p300	35697159	Liu X	Autism spectrum disorder	7
+E1A binding protein p300	35697159	Wang Z	Autism spectrum disorder	4
+E1A binding protein p300	35697159	Zhang X	Autism spectrum disorder	7
+E1A binding protein p300	35697159	Zhang D	Autism spectrum disorder	3
+E1A binding protein p300	35697159	Yang Q	Autism spectrum disorder	5
+E1A binding protein p300	35697159	Hu P	Autism spectrum disorder	2
+E1A binding protein p300	35697159	Li F	Autism spectrum disorder	2
+cadherin 2	35697159	Liu X	Autism spectrum disorder	7
+cadherin 2	35697159	Wang Z	Autism spectrum disorder	4
+cadherin 2	35697159	Zhang X	Autism spectrum disorder	7
+cadherin 2	35697159	Zhang D	Autism spectrum disorder	3
+cadherin 2	35697159	Yang Q	Autism spectrum disorder	5
+cadherin 2	35697159	Hu P	Autism spectrum disorder	2
+cadherin 2	35697159	Li F	Autism spectrum disorder	2
+myelin basic protein	35687217	Sharma A	Autism spectrum disorder	1
+myelin basic protein	35687217	Bhalla S	Autism spectrum disorder	3
+myelin basic protein	35687217	Mehan S	Autism spectrum disorder	3
+multiple sclerosis	35682642	Tovo PA	Autism spectrum disorder	1
+multiple sclerosis	35682642	Davico C	Autism spectrum disorder	1
+multiple sclerosis	35682642	Marcotulli D	Autism spectrum disorder	1
+multiple sclerosis	35682642	Vitiello B	Autism spectrum disorder	1
+multiple sclerosis	35682642	Dapra V	Autism spectrum disorder	1
+multiple sclerosis	35682642	Calvi C	Autism spectrum disorder	1
+multiple sclerosis	35682642	Montanari P	Autism spectrum disorder	1
+multiple sclerosis	35682642	Carpino A	Autism spectrum disorder	1
+multiple sclerosis	35682642	Galliano I	Autism spectrum disorder	1
+multiple sclerosis	35682642	Bergallo M	Autism spectrum disorder	1
+dystrophin	35654209	Hashimoto Y	Autism spectrum disorder	1
+dystrophin	35654209	Kuniishi H	Autism spectrum disorder	1
+dystrophin	35654209	Sakai K	Autism spectrum disorder	1
+dystrophin	35654209	Fukushima Y	Autism spectrum disorder	1
+dystrophin	35654209	Du X	Autism spectrum disorder	1
+dystrophin	35654209	Yamashiro K	Autism spectrum disorder	1
+dystrophin	35654209	Hori K	Autism spectrum disorder	1
+dystrophin	35654209	Imamura M	Autism spectrum disorder	1
+dystrophin	35654209	Hoshino M	Autism spectrum disorder	1
+dystrophin	35654209	Yamada M	Autism spectrum disorder	1
+dystrophin	35654209	Araki T	Autism spectrum disorder	1
+dystrophin	35654209	Sakagami H	Autism spectrum disorder	1
+dystrophin	35654209	Takeda S	Autism spectrum disorder	1
+dystrophin	35654209	Itaka K	Autism spectrum disorder	1
+dystrophin	35654209	Ichinohe N	Autism spectrum disorder	1
+dystrophin	35654209	Muntoni F	Autism spectrum disorder	1
+dystrophin	35654209	Sekiguchi M	Autism spectrum disorder	1
+dystrophin	35654209	Aoki Y	Autism spectrum disorder	1
+nerve growth factor	35648200	Sivasangari K	Autism spectrum disorder	3
+nerve growth factor	35648200	Rajan KE	Autism spectrum disorder	3
+glial fibrillary acidic protein	35648200	Sivasangari K	Autism spectrum disorder	3
+glial fibrillary acidic protein	35648200	Rajan KE	Autism spectrum disorder	3
+proliferating cell nuclear antigen	35648200	Sivasangari K	Autism spectrum disorder	3
+proliferating cell nuclear antigen	35648200	Rajan KE	Autism spectrum disorder	3
+parvalbumin	35645731	Serra I	Autism spectrum disorder	1
+parvalbumin	35645731	Stravs A	Autism spectrum disorder	1
+parvalbumin	35645731	Osorio C	Autism spectrum disorder	1
+parvalbumin	35645731	Oyaga MR	Autism spectrum disorder	1
+parvalbumin	35645731	Schonewille M	Autism spectrum disorder	1
+parvalbumin	35645731	Tudorache C	Autism spectrum disorder	1
+parvalbumin	35645731	Badura A	Autism spectrum disorder	1
+prolactin	35625005	Alsayouf HA	Autism spectrum disorder	1
+prolactin	35625005	Talo H	Autism spectrum disorder	1
+prolactin	35625005	Biddappa ML	Autism spectrum disorder	1
+doublecortin	35618077	He Z	Autism spectrum disorder	1
+parathyroid hormone	35592510	Vitale RJ	Autism spectrum disorder	1
+parathyroid hormone	35592510	Shieh HF	Autism spectrum disorder	1
+parathyroid hormone	35592510	Modi BP	Autism spectrum disorder	1
+parathyroid hormone	35592510	Gordon RJ	Autism spectrum disorder	1
+tumor necrosis factor	35584252	Ozkul B	Autism spectrum disorder	2
+tumor necrosis factor	35584252	Urfali FE	Autism spectrum disorder	2
+tumor necrosis factor	35584252	Sever IH	Autism spectrum disorder	2
+tumor necrosis factor	35584252	Bozkurt MF	Autism spectrum disorder	3
+tumor necrosis factor	35584252	Sogut I	Autism spectrum disorder	2
+tumor necrosis factor	35584252	Elgormus CS	Autism spectrum disorder	2
+tumor necrosis factor	35584252	Erdogan MA	Autism spectrum disorder	4
+tumor necrosis factor	35584252	Erbas O	Autism spectrum disorder	5
+glial fibrillary acidic protein	35584252	Ozkul B	Autism spectrum disorder	2
+glial fibrillary acidic protein	35584252	Urfali FE	Autism spectrum disorder	2
+glial fibrillary acidic protein	35584252	Sever IH	Autism spectrum disorder	2
+glial fibrillary acidic protein	35584252	Bozkurt MF	Autism spectrum disorder	3
+glial fibrillary acidic protein	35584252	Sogut I	Autism spectrum disorder	2
+glial fibrillary acidic protein	35584252	Elgormus CS	Autism spectrum disorder	2
+glial fibrillary acidic protein	35584252	Erdogan MA	Autism spectrum disorder	4
+glial fibrillary acidic protein	35584252	Erbas O	Autism spectrum disorder	5
+leptin	35583626	Dhaliwal KK	Autism spectrum disorder	1
+leptin	35583626	Avedzi HM	Autism spectrum disorder	1
+leptin	35583626	Richard C	Autism spectrum disorder	1
+leptin	35583626	Zwaigenbaum L	Autism spectrum disorder	1
+leptin	35583626	Haqq AM	Autism spectrum disorder	1
+androgen receptor	35563368	Vancolen S	Autism spectrum disorder	1
+androgen receptor	35563368	Ayash T	Autism spectrum disorder	1
+androgen receptor	35563368	Segura M	Autism spectrum disorder	1
+androgen receptor	35563368	Allard MJ	Autism spectrum disorder	1
+androgen receptor	35563368	Robaire B	Autism spectrum disorder	1
+androgen receptor	35563368	Sebire G	Autism spectrum disorder	1
+cortactin	35562389	Shih PY	Autism spectrum disorder	1
+cortactin	35562389	Fang YL	Autism spectrum disorder	1
+cortactin	35562389	Shankar S	Autism spectrum disorder	1
+cortactin	35562389	Lee SP	Autism spectrum disorder	1
+cortactin	35562389	Hu HT	Autism spectrum disorder	1
+cortactin	35562389	Chen H	Autism spectrum disorder	1
+cortactin	35562389	Wang TF	Autism spectrum disorder	1
+cortactin	35562389	Hsia KC	Autism spectrum disorder	1
+cortactin	35562389	Hsueh YP	Autism spectrum disorder	1
+parvalbumin	35544642	Yu D	Autism spectrum disorder	2
+parvalbumin	35544642	Li T	Autism spectrum disorder	2
+parvalbumin	35544642	Delpech JC	Autism spectrum disorder	2
+parvalbumin	35544642	Zhu B	Autism spectrum disorder	2
+parvalbumin	35544642	Kishore P	Autism spectrum disorder	2
+parvalbumin	35544642	Koshi T	Autism spectrum disorder	2
+parvalbumin	35544642	Luo R	Autism spectrum disorder	2
+parvalbumin	35544642	Pratt KJB	Autism spectrum disorder	2
+parvalbumin	35544642	Popova G	Autism spectrum disorder	2
+parvalbumin	35544642	Nowakowski TJ	Autism spectrum disorder	2
+parvalbumin	35544642	Villeda SA	Autism spectrum disorder	2
+parvalbumin	35544642	Piao X	Autism spectrum disorder	2
+tumor necrosis factor	35544642	Yu D	Autism spectrum disorder	2
+tumor necrosis factor	35544642	Li T	Autism spectrum disorder	2
+tumor necrosis factor	35544642	Delpech JC	Autism spectrum disorder	2
+tumor necrosis factor	35544642	Zhu B	Autism spectrum disorder	2
+tumor necrosis factor	35544642	Kishore P	Autism spectrum disorder	2
+tumor necrosis factor	35544642	Koshi T	Autism spectrum disorder	2
+tumor necrosis factor	35544642	Luo R	Autism spectrum disorder	2
+tumor necrosis factor	35544642	Pratt KJB	Autism spectrum disorder	2
+tumor necrosis factor	35544642	Popova G	Autism spectrum disorder	2
+tumor necrosis factor	35544642	Nowakowski TJ	Autism spectrum disorder	2
+tumor necrosis factor	35544642	Villeda SA	Autism spectrum disorder	2
+tumor necrosis factor	35544642	Piao X	Autism spectrum disorder	2
+parvalbumin	35493330	Brandenburg C	Autism spectrum disorder	1
+parvalbumin	35493330	Blatt GJ	Autism spectrum disorder	1
+tyrosine hydroxylase	35493109	Suarez-Pereira I	Autism spectrum disorder	2
+tyrosine hydroxylase	35493109	Garcia-Dominguez I	Autism spectrum disorder	2
+tyrosine hydroxylase	35493109	Bravo L	Autism spectrum disorder	2
+tyrosine hydroxylase	35493109	Santiago M	Autism spectrum disorder	2
+tyrosine hydroxylase	35493109	Garcia-Revilla J	Autism spectrum disorder	2
+tyrosine hydroxylase	35493109	Espinosa-Oliva AM	Autism spectrum disorder	2
+tyrosine hydroxylase	35493109	Alonso-Bellido IM	Autism spectrum disorder	2
+tyrosine hydroxylase	35493109	Lopez-Martin C	Autism spectrum disorder	2
+tyrosine hydroxylase	35493109	Perez-Villegas EM	Autism spectrum disorder	2
+tyrosine hydroxylase	35493109	Armengol JA	Autism spectrum disorder	2
+tyrosine hydroxylase	35493109	Berrocoso E	Autism spectrum disorder	2
+tyrosine hydroxylase	35493109	Venero JL	Autism spectrum disorder	2
+tyrosine hydroxylase	35493109	de Pablos RM	Autism spectrum disorder	2
+tyrosine hydroxylase	35493109	Ruiz R	Autism spectrum disorder	2
+caspase 8	35493109	Suarez-Pereira I	Autism spectrum disorder	2
+caspase 8	35493109	Garcia-Dominguez I	Autism spectrum disorder	2
+caspase 8	35493109	Bravo L	Autism spectrum disorder	2
+caspase 8	35493109	Santiago M	Autism spectrum disorder	2
+caspase 8	35493109	Garcia-Revilla J	Autism spectrum disorder	2
+caspase 8	35493109	Espinosa-Oliva AM	Autism spectrum disorder	2
+caspase 8	35493109	Alonso-Bellido IM	Autism spectrum disorder	2
+caspase 8	35493109	Lopez-Martin C	Autism spectrum disorder	2
+caspase 8	35493109	Perez-Villegas EM	Autism spectrum disorder	2
+caspase 8	35493109	Armengol JA	Autism spectrum disorder	2
+caspase 8	35493109	Berrocoso E	Autism spectrum disorder	2
+caspase 8	35493109	Venero JL	Autism spectrum disorder	2
+caspase 8	35493109	de Pablos RM	Autism spectrum disorder	2
+caspase 8	35493109	Ruiz R	Autism spectrum disorder	2
+insulin	35488357	Perea V	Autism spectrum disorder	1
+insulin	35488357	Urquizu X	Autism spectrum disorder	1
+insulin	35488357	Valverde M	Autism spectrum disorder	1
+insulin	35488357	Macias M	Autism spectrum disorder	1
+insulin	35488357	Carmona A	Autism spectrum disorder	1
+insulin	35488357	Esteve E	Autism spectrum disorder	1
+insulin	35488357	Escribano G	Autism spectrum disorder	1
+insulin	35488357	Pons N	Autism spectrum disorder	1
+insulin	35488357	Gimenez O	Autism spectrum disorder	1
+insulin	35488357	Girones T	Autism spectrum disorder	1
+insulin	35488357	Simo-Servat A	Autism spectrum disorder	1
+insulin	35488357	Domenech A	Autism spectrum disorder	1
+insulin	35488357	Alonso-Carril N	Autism spectrum disorder	1
+insulin	35488357	Quiros C	Autism spectrum disorder	1
+insulin	35488357	Amor AJ	Autism spectrum disorder	1
+insulin	35488357	Lopez E	Autism spectrum disorder	1
+insulin	35488357	Barahona MJ	Autism spectrum disorder	1
+lysine methyltransferase 2E (inactive)	35481221	Catana A	Autism spectrum disorder	1
+lysine methyltransferase 2E (inactive)	35481221	Kutasi E	Autism spectrum disorder	1
+lysine methyltransferase 2E (inactive)	35481221	Cuzmici-Barabas Z	Autism spectrum disorder	1
+lysine methyltransferase 2E (inactive)	35481221	Militaru D	Autism spectrum disorder	1
+lysine methyltransferase 2E (inactive)	35481221	Iordanescu I	Autism spectrum disorder	1
+lysine methyltransferase 2E (inactive)	35481221	Militaru MS	Autism spectrum disorder	1
+prolactin	35477330	Biswas M	Autism spectrum disorder	1
+prolactin	35477330	Vanwong N	Autism spectrum disorder	1
+prolactin	35477330	Sukasem C	Autism spectrum disorder	1
+parvalbumin	35456893	Santos-Terra J	Autism spectrum disorder	2
+parvalbumin	35456893	Deckmann I	Autism spectrum disorder	2
+parvalbumin	35456893	Carello-Collar G	Autism spectrum disorder	2
+parvalbumin	35456893	Nunes GD	Autism spectrum disorder	2
+parvalbumin	35456893	Bauer-Negrini G	Autism spectrum disorder	2
+parvalbumin	35456893	Schwingel GB	Autism spectrum disorder	2
+parvalbumin	35456893	Fontes-Dutra M	Autism spectrum disorder	2
+parvalbumin	35456893	Riesgo R	Autism spectrum disorder	2
+parvalbumin	35456893	Gottfried C	Autism spectrum disorder	2
+somatostatin	35456893	Santos-Terra J	Autism spectrum disorder	2
+somatostatin	35456893	Deckmann I	Autism spectrum disorder	2
+somatostatin	35456893	Carello-Collar G	Autism spectrum disorder	2
+somatostatin	35456893	Nunes GD	Autism spectrum disorder	2
+somatostatin	35456893	Bauer-Negrini G	Autism spectrum disorder	2
+somatostatin	35456893	Schwingel GB	Autism spectrum disorder	2
+somatostatin	35456893	Fontes-Dutra M	Autism spectrum disorder	2
+somatostatin	35456893	Riesgo R	Autism spectrum disorder	2
+somatostatin	35456893	Gottfried C	Autism spectrum disorder	2
+beta-1,3-N-acetylgalactosaminyltransferase 2	35456500	D'haenens E	Autism spectrum disorder	1
+beta-1,3-N-acetylgalactosaminyltransferase 2	35456500	Vergult S	Autism spectrum disorder	1
+beta-1,3-N-acetylgalactosaminyltransferase 2	35456500	Menten B	Autism spectrum disorder	1
+beta-1,3-N-acetylgalactosaminyltransferase 2	35456500	Dheedene A	Autism spectrum disorder	1
+beta-1,3-N-acetylgalactosaminyltransferase 2	35456500	Kooy RF	Autism spectrum disorder	1
+beta-1,3-N-acetylgalactosaminyltransferase 2	35456500	Callewaert B	Autism spectrum disorder	1
+leptin	35456030	Westmark CJ	Autism spectrum disorder	1
+leptin	35456030	Filon MJ	Autism spectrum disorder	1
+leptin	35456030	Maina P	Autism spectrum disorder	1
+leptin	35456030	Steinberg LI	Autism spectrum disorder	1
+leptin	35456030	Ikonomidou C	Autism spectrum disorder	1
+leptin	35456030	Westmark PR	Autism spectrum disorder	1
+brain derived neurotrophic factor	35451422	Luhach K	Autism spectrum disorder	2
+brain derived neurotrophic factor	35451422	Kulkarni GT	Autism spectrum disorder	2
+brain derived neurotrophic factor	35451422	Singh VP	Autism spectrum disorder	2
+brain derived neurotrophic factor	35451422	Sharma B	Autism spectrum disorder	2
+tumor necrosis factor	35451422	Luhach K	Autism spectrum disorder	2
+tumor necrosis factor	35451422	Kulkarni GT	Autism spectrum disorder	2
+tumor necrosis factor	35451422	Singh VP	Autism spectrum disorder	2
+tumor necrosis factor	35451422	Sharma B	Autism spectrum disorder	2
+glutamate decarboxylase 2	35420879	Vazifekhah S	Autism spectrum disorder	1
+glutamate decarboxylase 2	35420879	Barfi S	Autism spectrum disorder	1
+glutamate decarboxylase 2	35420879	Soleimany F	Autism spectrum disorder	1
+glutamate decarboxylase 2	35420879	Aliakbar A	Autism spectrum disorder	1
+glutamate decarboxylase 2	35420879	Zavvari F	Autism spectrum disorder	1
+glutamate decarboxylase 2	35420879	Karimzadeh F	Autism spectrum disorder	1
+transferrin	35409689	De Giacomo A	Autism spectrum disorder	2
+transferrin	35409689	Medicamento S	Autism spectrum disorder	1
+transferrin	35409689	Pedaci C	Autism spectrum disorder	1
+transferrin	35409689	Giambersio D	Autism spectrum disorder	1
+transferrin	35409689	Giannico OV	Autism spectrum disorder	1
+transferrin	35409689	Petruzzelli MG	Autism spectrum disorder	1
+transferrin	35409689	Simone M	Autism spectrum disorder	2
+transferrin	35409689	Corsalini M	Autism spectrum disorder	1
+transferrin	35409689	Marzulli L	Autism spectrum disorder	2
+transferrin	35409689	Matera E	Autism spectrum disorder	1
+tyrosine hydroxylase	35401120	Xu Y	Autism spectrum disorder	1
+tyrosine hydroxylase	35401120	Wang Y	Autism spectrum disorder	7
+tyrosine hydroxylase	35401120	Tong G	Autism spectrum disorder	1
+tyrosine hydroxylase	35401120	Li L	Autism spectrum disorder	5
+tyrosine hydroxylase	35401120	Cheng J	Autism spectrum disorder	1
+tyrosine hydroxylase	35401120	Zhang L	Autism spectrum disorder	2
+tyrosine hydroxylase	35401120	Xu Q	Autism spectrum disorder	1
+tyrosine hydroxylase	35401120	Wang L	Autism spectrum disorder	2
+tyrosine hydroxylase	35401120	Zhang P	Autism spectrum disorder	3
+arginine vasopressin	35401102	Zhou B	Autism spectrum disorder	2
+arginine vasopressin	35401102	Zheng X	Autism spectrum disorder	2
+arginine vasopressin	35401102	Chen Y	Autism spectrum disorder	3
+arginine vasopressin	35401102	Yan X	Autism spectrum disorder	2
+arginine vasopressin	35401102	Peng J	Autism spectrum disorder	2
+arginine vasopressin	35401102	Liu Y	Autism spectrum disorder	2
+arginine vasopressin	35401102	Zhang Y	Autism spectrum disorder	7
+arginine vasopressin	35401102	Tang L	Autism spectrum disorder	2
+arginine vasopressin	35401102	Wen M	Autism spectrum disorder	2
+insulin	35395866	Kolevzon A	Autism spectrum disorder	2
+insulin	35395866	Breen MS	Autism spectrum disorder	1
+insulin	35395866	Siper PM	Autism spectrum disorder	2
+insulin	35395866	Halpern D	Autism spectrum disorder	2
+insulin	35395866	Frank Y	Autism spectrum disorder	1
+insulin	35395866	Rieger H	Autism spectrum disorder	1
+insulin	35395866	Weismann J	Autism spectrum disorder	1
+insulin	35395866	Trelles MP	Autism spectrum disorder	1
+insulin	35395866	Lerman B	Autism spectrum disorder	1
+insulin	35395866	Rapaport R	Autism spectrum disorder	2
+insulin	35395866	Buxbaum JD	Autism spectrum disorder	2
+C-reactive protein	35393396	Brynge M	Autism spectrum disorder	1
+C-reactive protein	35393396	Gardner R	Autism spectrum disorder	1
+C-reactive protein	35393396	Sjoqvist H	Autism spectrum disorder	1
+C-reactive protein	35393396	Karlsson H	Autism spectrum disorder	1
+C-reactive protein	35393396	Dalman C	Autism spectrum disorder	1
+oxytocin receptor	35384534	Imam B	Autism spectrum disorder	3
+oxytocin receptor	35384534	Rahmatinia M	Autism spectrum disorder	3
+oxytocin receptor	35384534	Shahsavani A	Autism spectrum disorder	3
+oxytocin receptor	35384534	Khodagholi F	Autism spectrum disorder	3
+oxytocin receptor	35384534	Hopke PK	Autism spectrum disorder	3
+oxytocin receptor	35384534	Bazazzpour S	Autism spectrum disorder	3
+oxytocin receptor	35384534	Hadei M	Autism spectrum disorder	3
+oxytocin receptor	35384534	Yarahmadi M	Autism spectrum disorder	3
+oxytocin receptor	35384534	Abdollahifar MA	Autism spectrum disorder	3
+oxytocin receptor	35384534	Torkmahalleh MA	Autism spectrum disorder	3
+oxytocin receptor	35384534	Kermani M	Autism spectrum disorder	3
+oxytocin receptor	35384534	Ilkhani S	Autism spectrum disorder	3
+oxytocin receptor	35384534	MirBehbahani SH	Autism spectrum disorder	3
+interleukin 6	35384534	Imam B	Autism spectrum disorder	3
+interleukin 6	35384534	Rahmatinia M	Autism spectrum disorder	3
+interleukin 6	35384534	Shahsavani A	Autism spectrum disorder	3
+interleukin 6	35384534	Khodagholi F	Autism spectrum disorder	3
+interleukin 6	35384534	Hopke PK	Autism spectrum disorder	3
+interleukin 6	35384534	Bazazzpour S	Autism spectrum disorder	3
+interleukin 6	35384534	Hadei M	Autism spectrum disorder	3
+interleukin 6	35384534	Yarahmadi M	Autism spectrum disorder	3
+interleukin 6	35384534	Abdollahifar MA	Autism spectrum disorder	3
+interleukin 6	35384534	Torkmahalleh MA	Autism spectrum disorder	3
+interleukin 6	35384534	Kermani M	Autism spectrum disorder	3
+interleukin 6	35384534	Ilkhani S	Autism spectrum disorder	3
+interleukin 6	35384534	MirBehbahani SH	Autism spectrum disorder	3
+tumor necrosis factor	35384534	Imam B	Autism spectrum disorder	3
+tumor necrosis factor	35384534	Rahmatinia M	Autism spectrum disorder	3
+tumor necrosis factor	35384534	Shahsavani A	Autism spectrum disorder	3
+tumor necrosis factor	35384534	Khodagholi F	Autism spectrum disorder	3
+tumor necrosis factor	35384534	Hopke PK	Autism spectrum disorder	3
+tumor necrosis factor	35384534	Bazazzpour S	Autism spectrum disorder	3
+tumor necrosis factor	35384534	Hadei M	Autism spectrum disorder	3
+tumor necrosis factor	35384534	Yarahmadi M	Autism spectrum disorder	3
+tumor necrosis factor	35384534	Abdollahifar MA	Autism spectrum disorder	3
+tumor necrosis factor	35384534	Torkmahalleh MA	Autism spectrum disorder	3
+tumor necrosis factor	35384534	Kermani M	Autism spectrum disorder	3
+tumor necrosis factor	35384534	Ilkhani S	Autism spectrum disorder	3
+tumor necrosis factor	35384534	MirBehbahani SH	Autism spectrum disorder	3
+translocator protein	35383319	Simpson D	Autism spectrum disorder	2
+translocator protein	35383319	Gharehgazlou A	Autism spectrum disorder	2
+translocator protein	35383319	Da Silva T	Autism spectrum disorder	2
+translocator protein	35383319	Labrie-Cleary C	Autism spectrum disorder	2
+translocator protein	35383319	Wilson AA	Autism spectrum disorder	2
+translocator protein	35383319	Meyer JH	Autism spectrum disorder	2
+translocator protein	35383319	Mizrahi R	Autism spectrum disorder	2
+translocator protein	35383319	Rusjan PM	Autism spectrum disorder	2
+multiple sclerosis	35383319	Simpson D	Autism spectrum disorder	2
+multiple sclerosis	35383319	Gharehgazlou A	Autism spectrum disorder	2
+multiple sclerosis	35383319	Da Silva T	Autism spectrum disorder	2
+multiple sclerosis	35383319	Labrie-Cleary C	Autism spectrum disorder	2
+multiple sclerosis	35383319	Wilson AA	Autism spectrum disorder	2
+multiple sclerosis	35383319	Meyer JH	Autism spectrum disorder	2
+multiple sclerosis	35383319	Mizrahi R	Autism spectrum disorder	2
+multiple sclerosis	35383319	Rusjan PM	Autism spectrum disorder	2
+adenosine deaminase	35353796	Mpoulimari I	Autism spectrum disorder	6
+adenosine deaminase	35353796	Zintzaras E	Autism spectrum disorder	6
+solute carrier family 6 member 4	35353796	Mpoulimari I	Autism spectrum disorder	6
+solute carrier family 6 member 4	35353796	Zintzaras E	Autism spectrum disorder	6
+vitamin D receptor	35353796	Mpoulimari I	Autism spectrum disorder	6
+vitamin D receptor	35353796	Zintzaras E	Autism spectrum disorder	6
+dopamine receptor D3	35353796	Mpoulimari I	Autism spectrum disorder	6
+dopamine receptor D3	35353796	Zintzaras E	Autism spectrum disorder	6
+neurexin 1	35353796	Mpoulimari I	Autism spectrum disorder	6
+neurexin 1	35353796	Zintzaras E	Autism spectrum disorder	6
+oxytocin receptor	35353796	Mpoulimari I	Autism spectrum disorder	6
+oxytocin receptor	35353796	Zintzaras E	Autism spectrum disorder	6
+catalase	35346813	Abhishek M	Autism spectrum disorder	1
+catalase	35346813	Rubal S	Autism spectrum disorder	1
+catalase	35346813	Rohit K	Autism spectrum disorder	1
+catalase	35346813	Rupa J	Autism spectrum disorder	1
+catalase	35346813	Phulen S	Autism spectrum disorder	1
+catalase	35346813	Gurjeet K	Autism spectrum disorder	1
+catalase	35346813	Raj SA	Autism spectrum disorder	1
+catalase	35346813	Manisha P	Autism spectrum disorder	1
+catalase	35346813	Alka B	Autism spectrum disorder	1
+catalase	35346813	Ramprasad P	Autism spectrum disorder	1
+catalase	35346813	Bikash M	Autism spectrum disorder	1
+phosphodiesterase 2A	35338117	Schiavi S	Autism spectrum disorder	1
+phosphodiesterase 2A	35338117	Carbone E	Autism spectrum disorder	1
+phosphodiesterase 2A	35338117	Melancia F	Autism spectrum disorder	1
+phosphodiesterase 2A	35338117	di Masi A	Autism spectrum disorder	1
+phosphodiesterase 2A	35338117	Jarjat M	Autism spectrum disorder	1
+phosphodiesterase 2A	35338117	Brau F	Autism spectrum disorder	1
+phosphodiesterase 2A	35338117	Cardarelli S	Autism spectrum disorder	1
+phosphodiesterase 2A	35338117	Giorgi M	Autism spectrum disorder	1
+phosphodiesterase 2A	35338117	Bardoni B	Autism spectrum disorder	2
+phosphodiesterase 2A	35338117	Trezza V	Autism spectrum disorder	1
+insulin	35328058	Cammarata-Scalisi F	Autism spectrum disorder	1
+insulin	35328058	Callea M	Autism spectrum disorder	1
+insulin	35328058	Martinelli D	Autism spectrum disorder	1
+insulin	35328058	Willoughby CE	Autism spectrum disorder	1
+insulin	35328058	Tadich AC	Autism spectrum disorder	1
+insulin	35328058	Araya Castillo M	Autism spectrum disorder	1
+insulin	35328058	Lacruz-Rengel MA	Autism spectrum disorder	1
+insulin	35328058	Medina M	Autism spectrum disorder	1
+insulin	35328058	Grimaldi P	Autism spectrum disorder	1
+insulin	35328058	Bertini E	Autism spectrum disorder	1
+insulin	35328058	Nevado J	Autism spectrum disorder	1
+prosaposin	35318322	Wang L	Autism spectrum disorder	2
+prosaposin	35318322	Chen J	Autism spectrum disorder	5
+prosaposin	35318322	Hu Y	Autism spectrum disorder	3
+prosaposin	35318322	Liao A	Autism spectrum disorder	1
+prosaposin	35318322	Zheng W	Autism spectrum disorder	1
+prosaposin	35318322	Wang X	Autism spectrum disorder	3
+prosaposin	35318322	Lan J	Autism spectrum disorder	1
+prosaposin	35318322	Shen J	Autism spectrum disorder	1
+prosaposin	35318322	Wang S	Autism spectrum disorder	1
+prosaposin	35318322	Yang F	Autism spectrum disorder	1
+prosaposin	35318322	Wang Y	Autism spectrum disorder	7
+prosaposin	35318322	Li Y	Autism spectrum disorder	3
+prosaposin	35318322	Chen D	Autism spectrum disorder	1
+oxytocin receptor	35316293	Al-Ali Z	Autism spectrum disorder	1
+oxytocin receptor	35316293	Yasseen AA	Autism spectrum disorder	1
+oxytocin receptor	35316293	Al-Dujailli A	Autism spectrum disorder	1
+oxytocin receptor	35316293	Al-Karaqully AJ	Autism spectrum disorder	1
+oxytocin receptor	35316293	McAllister KA	Autism spectrum disorder	1
+oxytocin receptor	35316293	Jumaah AS	Autism spectrum disorder	1
+catalase	35307911	Abbasalipour H	Autism spectrum disorder	1
+catalase	35307911	Hajizadeh Moghaddam A	Autism spectrum disorder	1
+catalase	35307911	Ranjbar M	Autism spectrum disorder	3
+parvalbumin	35272296	Cristino LMF	Autism spectrum disorder	1
+parvalbumin	35272296	Chaves Filho AJM	Autism spectrum disorder	1
+parvalbumin	35272296	Custodio CS	Autism spectrum disorder	1
+parvalbumin	35272296	Vasconcelos SMM	Autism spectrum disorder	1
+parvalbumin	35272296	de Sousa FCF	Autism spectrum disorder	1
+parvalbumin	35272296	Sanders LLO	Autism spectrum disorder	1
+parvalbumin	35272296	de Lucena DF	Autism spectrum disorder	1
+parvalbumin	35272296	Macedo DS	Autism spectrum disorder	1
+superoxide dismutase 1	35266053	Ejlersen M	Autism spectrum disorder	2
+superoxide dismutase 1	35266053	Ilieva M	Autism spectrum disorder	2
+superoxide dismutase 1	35266053	Michel TM	Autism spectrum disorder	2
+superoxide dismutase 2	35266053	Ejlersen M	Autism spectrum disorder	2
+superoxide dismutase 2	35266053	Ilieva M	Autism spectrum disorder	2
+superoxide dismutase 2	35266053	Michel TM	Autism spectrum disorder	2
+glial fibrillary acidic protein	35255304	Heimfarth L	Autism spectrum disorder	2
+glial fibrillary acidic protein	35255304	Passos FRS	Autism spectrum disorder	2
+glial fibrillary acidic protein	35255304	Monteiro BS	Autism spectrum disorder	2
+glial fibrillary acidic protein	35255304	Araujo AAS	Autism spectrum disorder	2
+glial fibrillary acidic protein	35255304	Quintans Junior LJ	Autism spectrum disorder	2
+glial fibrillary acidic protein	35255304	Quintans JSS	Autism spectrum disorder	2
+multiple sclerosis	35255304	Heimfarth L	Autism spectrum disorder	2
+multiple sclerosis	35255304	Passos FRS	Autism spectrum disorder	2
+multiple sclerosis	35255304	Monteiro BS	Autism spectrum disorder	2
+multiple sclerosis	35255304	Araujo AAS	Autism spectrum disorder	2
+multiple sclerosis	35255304	Quintans Junior LJ	Autism spectrum disorder	2
+multiple sclerosis	35255304	Quintans JSS	Autism spectrum disorder	2
+insulin	35241692	Yehia L	Autism spectrum disorder	1
+insulin	35241692	Ni Y	Autism spectrum disorder	1
+insulin	35241692	Sadler T	Autism spectrum disorder	1
+insulin	35241692	Frazier TW	Autism spectrum disorder	1
+insulin	35241692	Eng C	Autism spectrum disorder	2
+tumor necrosis factor	35236262	Zhang Y	Autism spectrum disorder	7
+tumor necrosis factor	35236262	Yin HY	Autism spectrum disorder	2
+tumor necrosis factor	35236262	Rubini P	Autism spectrum disorder	2
+tumor necrosis factor	35236262	Tang Y	Autism spectrum disorder	2
+tumor necrosis factor	35236262	Illes P	Autism spectrum disorder	2
+multiple sclerosis	35236262	Zhang Y	Autism spectrum disorder	7
+multiple sclerosis	35236262	Yin HY	Autism spectrum disorder	2
+multiple sclerosis	35236262	Rubini P	Autism spectrum disorder	2
+multiple sclerosis	35236262	Tang Y	Autism spectrum disorder	2
+multiple sclerosis	35236262	Illes P	Autism spectrum disorder	2
+glutathione peroxidase 4	35227767	Wu H	Autism spectrum disorder	1
+glutathione peroxidase 4	35227767	Luan Y	Autism spectrum disorder	1
+glutathione peroxidase 4	35227767	Wang H	Autism spectrum disorder	4
+glutathione peroxidase 4	35227767	Zhang P	Autism spectrum disorder	3
+glutathione peroxidase 4	35227767	Liu S	Autism spectrum disorder	2
+glutathione peroxidase 4	35227767	Wang P	Autism spectrum disorder	1
+glutathione peroxidase 4	35227767	Cao Y	Autism spectrum disorder	1
+glutathione peroxidase 4	35227767	Sun H	Autism spectrum disorder	2
+glutathione peroxidase 4	35227767	Wu L	Autism spectrum disorder	1
+phosphatidylserine synthase 1	35224839	Gracie S	Autism spectrum disorder	1
+phosphatidylserine synthase 1	35224839	Sengupta N	Autism spectrum disorder	1
+phosphatidylserine synthase 1	35224839	Ferreira C	Autism spectrum disorder	1
+phosphatidylserine synthase 1	35224839	Pemberton J	Autism spectrum disorder	1
+phosphatidylserine synthase 1	35224839	Anderson I	Autism spectrum disorder	1
+phosphatidylserine synthase 1	35224839	Wang X	Autism spectrum disorder	3
+phosphatidylserine synthase 1	35224839	Rhodes L	Autism spectrum disorder	1
+phosphatidylserine synthase 1	35224839	Brown K	Autism spectrum disorder	1
+phosphatidylserine synthase 1	35224839	Balla T	Autism spectrum disorder	1
+phosphatidylserine synthase 1	35224839	Larson A	Autism spectrum disorder	1
+SH3 and multiple ankyrin repeat domains 3	35216282	Hausman-Cohen S	Autism spectrum disorder	1
+SH3 and multiple ankyrin repeat domains 3	35216282	LaValley W	Autism spectrum disorder	1
+SH3 and multiple ankyrin repeat domains 3	35216282	Way H	Autism spectrum disorder	1
+SH3 and multiple ankyrin repeat domains 3	35216282	Gutierrez E	Autism spectrum disorder	1
+SH3 and multiple ankyrin repeat domains 3	35216282	Reeder J	Autism spectrum disorder	1
+parvalbumin	35212623	Mattis J	Autism spectrum disorder	1
+parvalbumin	35212623	Somarowthu A	Autism spectrum disorder	1
+parvalbumin	35212623	Goff KM	Autism spectrum disorder	1
+parvalbumin	35212623	Jiang E	Autism spectrum disorder	1
+parvalbumin	35212623	Yom J	Autism spectrum disorder	1
+parvalbumin	35212623	Sotuyo N	Autism spectrum disorder	1
+parvalbumin	35212623	Mcgarry LM	Autism spectrum disorder	1
+parvalbumin	35212623	Feng H	Autism spectrum disorder	1
+parvalbumin	35212623	Kaneko K	Autism spectrum disorder	1
+parvalbumin	35212623	Goldberg EM	Autism spectrum disorder	1
+insulin	35209985	Li Z	Autism spectrum disorder	4
+insulin	35209985	Xiao GY	Autism spectrum disorder	1
+insulin	35209985	He CY	Autism spectrum disorder	1
+insulin	35209985	Liu X	Autism spectrum disorder	7
+insulin	35209985	Fan X	Autism spectrum disorder	1
+insulin	35209985	Zhao Y	Autism spectrum disorder	1
+insulin	35209985	Wang NR	Autism spectrum disorder	1
+leptin	35185642	Iwabuchi T	Autism spectrum disorder	1
+leptin	35185642	Takahashi N	Autism spectrum disorder	1
+leptin	35185642	Nishimura T	Autism spectrum disorder	1
+leptin	35185642	Rahman MS	Autism spectrum disorder	1
+leptin	35185642	Harada T	Autism spectrum disorder	1
+leptin	35185642	Okumura A	Autism spectrum disorder	1
+leptin	35185642	Kuwabara H	Autism spectrum disorder	1
+leptin	35185642	Takagai S	Autism spectrum disorder	1
+leptin	35185642	Nomura Y	Autism spectrum disorder	1
+leptin	35185642	Matsuzaki H	Autism spectrum disorder	1
+leptin	35185642	Ozaki N	Autism spectrum disorder	1
+leptin	35185642	Tsuchiya KJ	Autism spectrum disorder	1
+somatostatin	35182575	Cheng Y	Autism spectrum disorder	2
+somatostatin	35182575	Tang B	Autism spectrum disorder	2
+somatostatin	35182575	Zhang G	Autism spectrum disorder	1
+somatostatin	35182575	An P	Autism spectrum disorder	1
+somatostatin	35182575	Sun Y	Autism spectrum disorder	1
+somatostatin	35182575	Gao M	Autism spectrum disorder	1
+somatostatin	35182575	Zhang Y	Autism spectrum disorder	7
+somatostatin	35182575	Shan Y	Autism spectrum disorder	1
+somatostatin	35182575	Zhang J	Autism spectrum disorder	4
+somatostatin	35182575	Liu Q	Autism spectrum disorder	1
+somatostatin	35182575	Lai CSW	Autism spectrum disorder	1
+somatostatin	35182575	de Villers-Sidani E	Autism spectrum disorder	1
+somatostatin	35182575	Wang Y	Autism spectrum disorder	7
+somatostatin	35182575	Zhou X	Autism spectrum disorder	1
+synaptophysin	35178882	Kutna V	Autism spectrum disorder	1
+synaptophysin	35178882	O'Leary VB	Autism spectrum disorder	1
+synaptophysin	35178882	Hoschl C	Autism spectrum disorder	1
+synaptophysin	35178882	Ovsepian SV	Autism spectrum disorder	1
+caspase 3	35178102	Linlin Z	Autism spectrum disorder	4
+caspase 3	35178102	Ciai L	Autism spectrum disorder	4
+caspase 3	35178102	Yanhong S	Autism spectrum disorder	4
+caspase 3	35178102	Huizhong G	Autism spectrum disorder	4
+caspase 3	35178102	Yongchun L	Autism spectrum disorder	4
+caspase 3	35178102	Zhen Y	Autism spectrum disorder	4
+caspase 3	35178102	Shan X	Autism spectrum disorder	4
+caspase 3	35178102	Fengying G	Autism spectrum disorder	4
+caspase 3	35178102	Ying L	Autism spectrum disorder	4
+caspase 3	35178102	Jingjun L	Autism spectrum disorder	4
+caspase 3	35178102	Qin F	Autism spectrum disorder	4
+tumor necrosis factor	35178102	Linlin Z	Autism spectrum disorder	4
+tumor necrosis factor	35178102	Ciai L	Autism spectrum disorder	4
+tumor necrosis factor	35178102	Yanhong S	Autism spectrum disorder	4
+tumor necrosis factor	35178102	Huizhong G	Autism spectrum disorder	4
+tumor necrosis factor	35178102	Yongchun L	Autism spectrum disorder	4
+tumor necrosis factor	35178102	Zhen Y	Autism spectrum disorder	4
+tumor necrosis factor	35178102	Shan X	Autism spectrum disorder	4
+tumor necrosis factor	35178102	Fengying G	Autism spectrum disorder	4
+tumor necrosis factor	35178102	Ying L	Autism spectrum disorder	4
+tumor necrosis factor	35178102	Jingjun L	Autism spectrum disorder	4
+tumor necrosis factor	35178102	Qin F	Autism spectrum disorder	4
+AKT serine/threonine kinase 1	35178102	Linlin Z	Autism spectrum disorder	4
+AKT serine/threonine kinase 1	35178102	Ciai L	Autism spectrum disorder	4
+AKT serine/threonine kinase 1	35178102	Yanhong S	Autism spectrum disorder	4
+AKT serine/threonine kinase 1	35178102	Huizhong G	Autism spectrum disorder	4
+AKT serine/threonine kinase 1	35178102	Yongchun L	Autism spectrum disorder	4
+AKT serine/threonine kinase 1	35178102	Zhen Y	Autism spectrum disorder	4
+AKT serine/threonine kinase 1	35178102	Shan X	Autism spectrum disorder	4
+AKT serine/threonine kinase 1	35178102	Fengying G	Autism spectrum disorder	4
+AKT serine/threonine kinase 1	35178102	Ying L	Autism spectrum disorder	4
+AKT serine/threonine kinase 1	35178102	Jingjun L	Autism spectrum disorder	4
+AKT serine/threonine kinase 1	35178102	Qin F	Autism spectrum disorder	4
+5-hydroxytryptamine receptor 1B	35178102	Linlin Z	Autism spectrum disorder	4
+5-hydroxytryptamine receptor 1B	35178102	Ciai L	Autism spectrum disorder	4
+5-hydroxytryptamine receptor 1B	35178102	Yanhong S	Autism spectrum disorder	4
+5-hydroxytryptamine receptor 1B	35178102	Huizhong G	Autism spectrum disorder	4
+5-hydroxytryptamine receptor 1B	35178102	Yongchun L	Autism spectrum disorder	4
+5-hydroxytryptamine receptor 1B	35178102	Zhen Y	Autism spectrum disorder	4
+5-hydroxytryptamine receptor 1B	35178102	Shan X	Autism spectrum disorder	4
+5-hydroxytryptamine receptor 1B	35178102	Fengying G	Autism spectrum disorder	4
+5-hydroxytryptamine receptor 1B	35178102	Ying L	Autism spectrum disorder	4
+5-hydroxytryptamine receptor 1B	35178102	Jingjun L	Autism spectrum disorder	4
+5-hydroxytryptamine receptor 1B	35178102	Qin F	Autism spectrum disorder	4
+insulin	35165256	Fanelli G	Autism spectrum disorder	2
+insulin	35165256	Franke B	Autism spectrum disorder	2
+insulin	35165256	De Witte W	Autism spectrum disorder	2
+insulin	35165256	Ruisch IH	Autism spectrum disorder	2
+insulin	35165256	Haavik J	Autism spectrum disorder	2
+insulin	35165256	van Gils V	Autism spectrum disorder	2
+insulin	35165256	Jansen WJ	Autism spectrum disorder	2
+insulin	35165256	Vos SJB	Autism spectrum disorder	2
+insulin	35165256	Lind L	Autism spectrum disorder	2
+insulin	35165256	Buitelaar JK	Autism spectrum disorder	2
+insulin	35165256	Banaschewski T	Autism spectrum disorder	2
+insulin	35165256	Dalsgaard S	Autism spectrum disorder	2
+insulin	35165256	Serretti A	Autism spectrum disorder	2
+insulin	35165256	Mota NR	Autism spectrum disorder	2
+insulin	35165256	Poelmans G	Autism spectrum disorder	2
+insulin	35165256	Bralten J	Autism spectrum disorder	2
+insulin receptor	35165256	Fanelli G	Autism spectrum disorder	2
+insulin receptor	35165256	Franke B	Autism spectrum disorder	2
+insulin receptor	35165256	De Witte W	Autism spectrum disorder	2
+insulin receptor	35165256	Ruisch IH	Autism spectrum disorder	2
+insulin receptor	35165256	Haavik J	Autism spectrum disorder	2
+insulin receptor	35165256	van Gils V	Autism spectrum disorder	2
+insulin receptor	35165256	Jansen WJ	Autism spectrum disorder	2
+insulin receptor	35165256	Vos SJB	Autism spectrum disorder	2
+insulin receptor	35165256	Lind L	Autism spectrum disorder	2
+insulin receptor	35165256	Buitelaar JK	Autism spectrum disorder	2
+insulin receptor	35165256	Banaschewski T	Autism spectrum disorder	2
+insulin receptor	35165256	Dalsgaard S	Autism spectrum disorder	2
+insulin receptor	35165256	Serretti A	Autism spectrum disorder	2
+insulin receptor	35165256	Mota NR	Autism spectrum disorder	2
+insulin receptor	35165256	Poelmans G	Autism spectrum disorder	2
+insulin receptor	35165256	Bralten J	Autism spectrum disorder	2
+superoxide dismutase 2	35165191	Wang J	Autism spectrum disorder	3
+superoxide dismutase 2	35165191	Frohlich H	Autism spectrum disorder	1
+superoxide dismutase 2	35165191	Torres FB	Autism spectrum disorder	1
+superoxide dismutase 2	35165191	Silva RL	Autism spectrum disorder	1
+superoxide dismutase 2	35165191	Poschet G	Autism spectrum disorder	1
+superoxide dismutase 2	35165191	Agarwal A	Autism spectrum disorder	1
+superoxide dismutase 2	35165191	Rappold GA	Autism spectrum disorder	1
+oxytocin receptor	35149102	Kohlhoff J	Autism spectrum disorder	1
+oxytocin receptor	35149102	Cibralic S	Autism spectrum disorder	1
+oxytocin receptor	35149102	Hawes DJ	Autism spectrum disorder	1
+oxytocin receptor	35149102	Eapen V	Autism spectrum disorder	1
+insulin receptor	35142069	Hughes RB	Autism spectrum disorder	1
+insulin receptor	35142069	Whittingham-Dowd J	Autism spectrum disorder	1
+insulin receptor	35142069	Clapcote SJ	Autism spectrum disorder	1
+insulin receptor	35142069	Broughton SJ	Autism spectrum disorder	1
+insulin receptor	35142069	Dawson N	Autism spectrum disorder	1
+plasminogen	35113965	Okazaki S	Autism spectrum disorder	1
+plasminogen	35113965	Kimura R	Autism spectrum disorder	1
+plasminogen	35113965	Otsuka I	Autism spectrum disorder	1
+plasminogen	35113965	Funabiki Y	Autism spectrum disorder	1
+plasminogen	35113965	Murai T	Autism spectrum disorder	1
+plasminogen	35113965	Hishimoto A	Autism spectrum disorder	1
+insulin	35093163	Sethuram S	Autism spectrum disorder	1
+insulin	35093163	Levy T	Autism spectrum disorder	1
+insulin	35093163	Foss-Feig J	Autism spectrum disorder	1
+insulin	35093163	Halpern D	Autism spectrum disorder	2
+insulin	35093163	Sandin S	Autism spectrum disorder	1
+insulin	35093163	Siper PM	Autism spectrum disorder	2
+insulin	35093163	Walker H	Autism spectrum disorder	1
+insulin	35093163	Buxbaum JD	Autism spectrum disorder	2
+insulin	35093163	Rapaport R	Autism spectrum disorder	2
+insulin	35093163	Kolevzon A	Autism spectrum disorder	2
+parvalbumin	35069123	Knipper M	Autism spectrum disorder	1
+parvalbumin	35069123	Singer W	Autism spectrum disorder	1
+parvalbumin	35069123	Schwabe K	Autism spectrum disorder	1
+parvalbumin	35069123	Hagberg GE	Autism spectrum disorder	1
+parvalbumin	35069123	Li Hegner Y	Autism spectrum disorder	1
+parvalbumin	35069123	Ruttiger L	Autism spectrum disorder	1
+parvalbumin	35069123	Braun C	Autism spectrum disorder	1
+parvalbumin	35069123	Land R	Autism spectrum disorder	1
+estrogen receptor 1	35065713	Knoedler JR	Autism spectrum disorder	1
+estrogen receptor 1	35065713	Inoue S	Autism spectrum disorder	1
+estrogen receptor 1	35065713	Bayless DW	Autism spectrum disorder	1
+estrogen receptor 1	35065713	Yang T	Autism spectrum disorder	3
+estrogen receptor 1	35065713	Tantry A	Autism spectrum disorder	1
+estrogen receptor 1	35065713	Davis CH	Autism spectrum disorder	1
+estrogen receptor 1	35065713	Leung NY	Autism spectrum disorder	1
+estrogen receptor 1	35065713	Parthasarathy S	Autism spectrum disorder	1
+estrogen receptor 1	35065713	Wang G	Autism spectrum disorder	1
+estrogen receptor 1	35065713	Alvarado M	Autism spectrum disorder	1
+estrogen receptor 1	35065713	Rizvi AH	Autism spectrum disorder	1
+estrogen receptor 1	35065713	Fenno LE	Autism spectrum disorder	1
+estrogen receptor 1	35065713	Ramakrishnan C	Autism spectrum disorder	1
+estrogen receptor 1	35065713	Deisseroth K	Autism spectrum disorder	1
+estrogen receptor 1	35065713	Shah NM	Autism spectrum disorder	1
+butyrylcholinesterase	35052591	Nadeem MS	Autism spectrum disorder	1
+butyrylcholinesterase	35052591	Kazmi I	Autism spectrum disorder	1
+butyrylcholinesterase	35052591	Ullah I	Autism spectrum disorder	1
+butyrylcholinesterase	35052591	Muhammad K	Autism spectrum disorder	1
+butyrylcholinesterase	35052591	Anwar F	Autism spectrum disorder	1
+nucleolin	35052391	Sheikh TI	Autism spectrum disorder	1
+nucleolin	35052391	Harripaul R	Autism spectrum disorder	1
+nucleolin	35052391	Vasli N	Autism spectrum disorder	1
+nucleolin	35052391	Ghadami M	Autism spectrum disorder	1
+nucleolin	35052391	Santangelo SL	Autism spectrum disorder	1
+nucleolin	35052391	Ayub M	Autism spectrum disorder	1
+nucleolin	35052391	Sasanfar R	Autism spectrum disorder	1
+nucleolin	35052391	Vincent JB	Autism spectrum disorder	1
+tumor necrosis factor	35047232	Alhakbany M	Autism spectrum disorder	1
+tumor necrosis factor	35047232	Al-Ayadhi L	Autism spectrum disorder	1
+tumor necrosis factor	35047232	El-Ansary A	Autism spectrum disorder	2
+Gilles de la Tourette syndrome	35042017	Lin WD	Autism spectrum disorder	2
+Gilles de la Tourette syndrome	35042017	Tsai FJ	Autism spectrum disorder	2
+Gilles de la Tourette syndrome	35042017	Chou IC	Autism spectrum disorder	2
+histidine decarboxylase	35042017	Lin WD	Autism spectrum disorder	2
+histidine decarboxylase	35042017	Tsai FJ	Autism spectrum disorder	2
+histidine decarboxylase	35042017	Chou IC	Autism spectrum disorder	2
+superoxide dismutase 2	35027651	Yu H	Autism spectrum disorder	2
+superoxide dismutase 2	35027651	Niu Y	Autism spectrum disorder	1
+superoxide dismutase 2	35027651	Jia G	Autism spectrum disorder	1
+superoxide dismutase 2	35027651	Liang Y	Autism spectrum disorder	1
+superoxide dismutase 2	35027651	Chen B	Autism spectrum disorder	2
+superoxide dismutase 2	35027651	Sun R	Autism spectrum disorder	1
+superoxide dismutase 2	35027651	Wang M	Autism spectrum disorder	2
+superoxide dismutase 2	35027651	Huang S	Autism spectrum disorder	1
+superoxide dismutase 2	35027651	Zeng J	Autism spectrum disorder	1
+superoxide dismutase 2	35027651	Lu J	Autism spectrum disorder	3
+superoxide dismutase 2	35027651	Li L	Autism spectrum disorder	5
+superoxide dismutase 2	35027651	Guo X	Autism spectrum disorder	1
+superoxide dismutase 2	35027651	Yao P	Autism spectrum disorder	1
+multiple sclerosis	35024691	Azcoitia I	Autism spectrum disorder	1
+multiple sclerosis	35024691	Mendez P	Autism spectrum disorder	1
+multiple sclerosis	35024691	Garcia-Segura LM	Autism spectrum disorder	1
+thioredoxin	35015875	Zhao P	Autism spectrum disorder	2
+thioredoxin	35015875	Fu H	Autism spectrum disorder	2
+thioredoxin	35015875	Cheng H	Autism spectrum disorder	2
+thioredoxin	35015875	Zheng R	Autism spectrum disorder	2
+thioredoxin	35015875	Yuan D	Autism spectrum disorder	2
+thioredoxin	35015875	Yang J	Autism spectrum disorder	2
+thioredoxin	35015875	Li S	Autism spectrum disorder	3
+thioredoxin	35015875	Li E	Autism spectrum disorder	2
+thioredoxin	35015875	Li L	Autism spectrum disorder	5
+caspase 1	35015875	Zhao P	Autism spectrum disorder	2
+caspase 1	35015875	Fu H	Autism spectrum disorder	2
+caspase 1	35015875	Cheng H	Autism spectrum disorder	2
+caspase 1	35015875	Zheng R	Autism spectrum disorder	2
+caspase 1	35015875	Yuan D	Autism spectrum disorder	2
+caspase 1	35015875	Yang J	Autism spectrum disorder	2
+caspase 1	35015875	Li S	Autism spectrum disorder	3
+caspase 1	35015875	Li E	Autism spectrum disorder	2
+caspase 1	35015875	Li L	Autism spectrum disorder	5
+adenylosuccinate lyase	34998670	Dewulf JP	Autism spectrum disorder	1
+adenylosuccinate lyase	34998670	Marie S	Autism spectrum disorder	1
+adenylosuccinate lyase	34998670	Nassogne MC	Autism spectrum disorder	1
+glutathione peroxidase 1	34997988	Carducci F	Autism spectrum disorder	1
+glutathione peroxidase 1	34997988	Ardiccioni C	Autism spectrum disorder	1
+glutathione peroxidase 1	34997988	Fiorini R	Autism spectrum disorder	1
+glutathione peroxidase 1	34997988	Vignini A	Autism spectrum disorder	1
+glutathione peroxidase 1	34997988	Di Paolo A	Autism spectrum disorder	1
+glutathione peroxidase 1	34997988	Alia S	Autism spectrum disorder	1
+glutathione peroxidase 1	34997988	Barucca M	Autism spectrum disorder	1
+glutathione peroxidase 1	34997988	Biscotti MA	Autism spectrum disorder	1
+occludin	34988901	Nalbant K	Autism spectrum disorder	1
+occludin	34988901	Erden S	Autism spectrum disorder	1
+occludin	34988901	Yazar A	Autism spectrum disorder	1
+occludin	34988901	Kilinc I	Autism spectrum disorder	4
+oxytocin receptor	34980886	Meyer M	Autism spectrum disorder	1
+oxytocin receptor	34980886	Jurek B	Autism spectrum disorder	1
+oxytocin receptor	34980886	Alfonso-Prieto M	Autism spectrum disorder	1
+oxytocin receptor	34980886	Ribeiro R	Autism spectrum disorder	1
+oxytocin receptor	34980886	Milenkovic VM	Autism spectrum disorder	1
+oxytocin receptor	34980886	Winter J	Autism spectrum disorder	1
+oxytocin receptor	34980886	Hoffmann P	Autism spectrum disorder	1
+oxytocin receptor	34980886	Wetzel CH	Autism spectrum disorder	1
+oxytocin receptor	34980886	Giorgetti A	Autism spectrum disorder	1
+oxytocin receptor	34980886	Carloni P	Autism spectrum disorder	1
+oxytocin receptor	34980886	Neumann ID	Autism spectrum disorder	1
+cholecystokinin	34976023	Drozd MM	Autism spectrum disorder	1
+cholecystokinin	34976023	Capovilla M	Autism spectrum disorder	1
+cholecystokinin	34976023	Previdere C	Autism spectrum disorder	1
+cholecystokinin	34976023	Grossi M	Autism spectrum disorder	1
+cholecystokinin	34976023	Askenazy F	Autism spectrum disorder	1
+cholecystokinin	34976023	Bardoni B	Autism spectrum disorder	2
+cholecystokinin	34976023	Fernandez A	Autism spectrum disorder	1
+oxytocin receptor	34970101	Caliskan E	Autism spectrum disorder	1
+oxytocin receptor	34970101	Sahin MN	Autism spectrum disorder	1
+oxytocin receptor	34970101	Guldag MA	Autism spectrum disorder	1
+renin	34959804	Ali A	Autism spectrum disorder	1
+renin	34959804	Alexander S	Autism spectrum disorder	1
+renin	34959804	Ko P	Autism spectrum disorder	1
+renin	34959804	Cuffe JSM	Autism spectrum disorder	1
+renin	34959804	Whitehouse AJO	Autism spectrum disorder	1
+renin	34959804	McGrath JJ	Autism spectrum disorder	1
+renin	34959804	Eyles D	Autism spectrum disorder	1

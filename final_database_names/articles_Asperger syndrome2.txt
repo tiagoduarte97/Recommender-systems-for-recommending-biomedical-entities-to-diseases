@@ -1,0 +1,315 @@
+matrix metallopeptidase 9	34802386	Schofield TS
+matrix metallopeptidase 9	34802386	Sup Lee C
+matrix metallopeptidase 9	34802386	Peppers BP
+matrix metallopeptidase 9	34802386	Mauger T
+matrix metallopeptidase 9	34802386	Schofield TS
+matrix metallopeptidase 9	34802386	Sup Lee C
+matrix metallopeptidase 9	34802386	Peppers BP
+matrix metallopeptidase 9	34802386	Mauger T
+multiple sclerosis	34194368	Sivertsen B
+multiple sclerosis	34194368	Hysing M
+multiple sclerosis	34194368	Harvey AG
+multiple sclerosis	34194368	Petrie KJ
+albumin	32521749	Runge K
+albumin	32521749	Tebartz van Elst L
+albumin	32521749	Maier S
+albumin	32521749	Nickel K
+albumin	32521749	Denzel D
+albumin	32521749	Matysik M
+albumin	32521749	Kuzior H
+albumin	32521749	Robinson T
+albumin	32521749	Blank T
+albumin	32521749	Dersch R
+albumin	32521749	Domschke K
+albumin	32521749	Endres D
+albumin	32521749	Runge K
+albumin	32521749	Tebartz van Elst L
+albumin	32521749	Maier S
+albumin	32521749	Nickel K
+albumin	32521749	Denzel D
+albumin	32521749	Matysik M
+albumin	32521749	Kuzior H
+albumin	32521749	Robinson T
+albumin	32521749	Blank T
+albumin	32521749	Dersch R
+albumin	32521749	Domschke K
+albumin	32521749	Endres D
+albumin	32521749	Runge K
+albumin	32521749	Tebartz van Elst L
+albumin	32521749	Maier S
+albumin	32521749	Nickel K
+albumin	32521749	Denzel D
+albumin	32521749	Matysik M
+albumin	32521749	Kuzior H
+albumin	32521749	Robinson T
+albumin	32521749	Blank T
+albumin	32521749	Dersch R
+albumin	32521749	Domschke K
+albumin	32521749	Endres D
+albumin	32521749	Runge K
+albumin	32521749	Tebartz van Elst L
+albumin	32521749	Maier S
+albumin	32521749	Nickel K
+albumin	32521749	Denzel D
+albumin	32521749	Matysik M
+albumin	32521749	Kuzior H
+albumin	32521749	Robinson T
+albumin	32521749	Blank T
+albumin	32521749	Dersch R
+albumin	32521749	Domschke K
+albumin	32521749	Endres D
+molybdenum cofactor sulfurase	32327736	Rontani P
+molybdenum cofactor sulfurase	32327736	Perche O
+molybdenum cofactor sulfurase	32327736	Greetham L
+molybdenum cofactor sulfurase	32327736	Jullien N
+molybdenum cofactor sulfurase	32327736	Gepner B
+molybdenum cofactor sulfurase	32327736	Feron F
+molybdenum cofactor sulfurase	32327736	Nivet E
+molybdenum cofactor sulfurase	32327736	Erard-Garcia M
+androgen receptor	30319350	Berkel S
+androgen receptor	30319350	Eltokhi A
+androgen receptor	30319350	Frohlich H
+androgen receptor	30319350	Porras-Gonzalez D
+androgen receptor	30319350	Rafiullah R
+androgen receptor	30319350	Sprengel R
+androgen receptor	30319350	Rappold GA
+androgen receptor	30319350	Berkel S
+androgen receptor	30319350	Eltokhi A
+androgen receptor	30319350	Frohlich H
+androgen receptor	30319350	Porras-Gonzalez D
+androgen receptor	30319350	Rafiullah R
+androgen receptor	30319350	Sprengel R
+androgen receptor	30319350	Rappold GA
+oxytocin receptor	27655235	Preckel K
+oxytocin receptor	27655235	Kanske P
+oxytocin receptor	27655235	Singer T
+oxytocin receptor	27655235	Paulus FM
+oxytocin receptor	27655235	Krach S
+cholecystokinin	26523151	Iourov IY
+cholecystokinin	26523151	Vorsanova SG
+cholecystokinin	26523151	Voinova VY
+cholecystokinin	26523151	Yurov YB
+oxytocin receptor	25264479	Di Napoli A
+oxytocin receptor	25264479	Warrier V
+oxytocin receptor	25264479	Baron-Cohen S
+oxytocin receptor	25264479	Chakrabarti B
+oxytocin receptor	25264479	Di Napoli A
+oxytocin receptor	25264479	Warrier V
+oxytocin receptor	25264479	Baron-Cohen S
+oxytocin receptor	25264479	Chakrabarti B
+insulin	22382494	Cottenceau H
+insulin	22382494	Roux S
+insulin	22382494	Blanc R
+insulin	22382494	Lenoir P
+insulin	22382494	Bonnet-Brilhault F
+insulin	22382494	Barthelemy C
+catalase	22225920	Parellada M
+catalase	22225920	Moreno C
+catalase	22225920	Mac-Dowell K
+catalase	22225920	Leza JC
+catalase	22225920	Giraldez M
+catalase	22225920	Bailon C
+catalase	22225920	Castro C
+catalase	22225920	Miranda-Azpiazu P
+catalase	22225920	Fraguas D
+catalase	22225920	Arango C
+ceruloplasmin	22225920	Parellada M
+ceruloplasmin	22225920	Moreno C
+ceruloplasmin	22225920	Mac-Dowell K
+ceruloplasmin	22225920	Leza JC
+ceruloplasmin	22225920	Giraldez M
+ceruloplasmin	22225920	Bailon C
+ceruloplasmin	22225920	Castro C
+ceruloplasmin	22225920	Miranda-Azpiazu P
+ceruloplasmin	22225920	Fraguas D
+ceruloplasmin	22225920	Arango C
+Gilles de la Tourette syndrome	22220492	Brynska A
+Gilles de la Tourette syndrome	22220492	Lipinska E
+Gilles de la Tourette syndrome	22220492	Matelska M
+neurexophilin 1	21480499	Cukier HN
+neurexophilin 1	21480499	Salyakina D
+neurexophilin 1	21480499	Blankstein SF
+neurexophilin 1	21480499	Robinson JL
+neurexophilin 1	21480499	Sacharow S
+neurexophilin 1	21480499	Ma D
+neurexophilin 1	21480499	Wright HH
+neurexophilin 1	21480499	Abramson RK
+neurexophilin 1	21480499	Menon R
+neurexophilin 1	21480499	Williams SM
+neurexophilin 1	21480499	Haines JL
+neurexophilin 1	21480499	Cuccaro ML
+neurexophilin 1	21480499	Gilbert JR
+neurexophilin 1	21480499	Pericak-Vance MA
+islet cell autoantigen 1	21480499	Cukier HN
+islet cell autoantigen 1	21480499	Salyakina D
+islet cell autoantigen 1	21480499	Blankstein SF
+islet cell autoantigen 1	21480499	Robinson JL
+islet cell autoantigen 1	21480499	Sacharow S
+islet cell autoantigen 1	21480499	Ma D
+islet cell autoantigen 1	21480499	Wright HH
+islet cell autoantigen 1	21480499	Abramson RK
+islet cell autoantigen 1	21480499	Menon R
+islet cell autoantigen 1	21480499	Williams SM
+islet cell autoantigen 1	21480499	Haines JL
+islet cell autoantigen 1	21480499	Cuccaro ML
+islet cell autoantigen 1	21480499	Gilbert JR
+islet cell autoantigen 1	21480499	Pericak-Vance MA
+insulin	20877284	Schwarz E
+insulin	20877284	Guest PC
+insulin	20877284	Rahmoune H
+insulin	20877284	Wang L
+insulin	20877284	Levin Y
+insulin	20877284	Ingudomnukul E
+insulin	20877284	Ruta L
+insulin	20877284	Kent L
+insulin	20877284	Spain M
+insulin	20877284	Baron-Cohen S
+insulin	20877284	Bahn S
+oxytocin receptor	19777562	Wermter AK
+oxytocin receptor	19777562	Kamp-Becker I
+oxytocin receptor	19777562	Hesse P
+oxytocin receptor	19777562	Schulte-Korne G
+oxytocin receptor	19777562	Strauch K
+oxytocin receptor	19777562	Remschmidt H
+oxytocin receptor	19777562	Wermter AK
+oxytocin receptor	19777562	Kamp-Becker I
+oxytocin receptor	19777562	Hesse P
+oxytocin receptor	19777562	Schulte-Korne G
+oxytocin receptor	19777562	Strauch K
+oxytocin receptor	19777562	Remschmidt H
+homeobox A1	19598235	Chakrabarti B
+homeobox A1	19598235	Dudbridge F
+homeobox A1	19598235	Kent L
+homeobox A1	19598235	Wheelwright S
+homeobox A1	19598235	Hill-Cawthorne G
+homeobox A1	19598235	Allison C
+homeobox A1	19598235	Banerjee-Basu S
+homeobox A1	19598235	Baron-Cohen S
+statherin	19367726	Castagnola M
+statherin	19367726	Messana I
+statherin	19367726	Inzitari R
+statherin	19367726	Fanali C
+statherin	19367726	Cabras T
+statherin	19367726	Morelli A
+statherin	19367726	Pecoraro AM
+statherin	19367726	Neri G
+statherin	19367726	Torrioli MG
+statherin	19367726	Gurrieri F
+histatin 1	19367726	Castagnola M
+histatin 1	19367726	Messana I
+histatin 1	19367726	Inzitari R
+histatin 1	19367726	Fanali C
+histatin 1	19367726	Cabras T
+histatin 1	19367726	Morelli A
+histatin 1	19367726	Pecoraro AM
+histatin 1	19367726	Neri G
+histatin 1	19367726	Torrioli MG
+histatin 1	19367726	Gurrieri F
+neuroligin 3	18628683	Yan J
+neuroligin 3	18628683	Feng J
+neuroligin 3	18628683	Schroer R
+neuroligin 3	18628683	Li W
+neuroligin 3	18628683	Skinner C
+neuroligin 3	18628683	Schwartz CE
+neuroligin 3	18628683	Cook EH Jr
+neuroligin 3	18628683	Sommer SS
+neuroligin 3	18189281	Wermter AK
+neuroligin 3	18189281	Kamp-Becker I
+neuroligin 3	18189281	Strauch K
+neuroligin 3	18189281	Schulte-Korne G
+neuroligin 3	18189281	Remschmidt H
+neuroligin 3	18189281	Wermter AK
+neuroligin 3	18189281	Kamp-Becker I
+neuroligin 3	18189281	Strauch K
+neuroligin 3	18189281	Schulte-Korne G
+neuroligin 3	18189281	Remschmidt H
+tumor necrosis factor	22473229	Al-Ayadhi LY
+prolactin	15132762	Novotny S
+prolactin	15132762	Hollander E
+prolactin	15132762	Phillips A
+prolactin	15132762	Allen A
+prolactin	15132762	Wasserman S
+prolactin	15132762	Iyengar R
+prolactin	15132762	Novotny S
+prolactin	15132762	Hollander E
+prolactin	15132762	Phillips A
+prolactin	15132762	Allen A
+prolactin	15132762	Wasserman S
+prolactin	15132762	Iyengar R
+prolactin	15132762	Novotny S
+prolactin	15132762	Hollander E
+prolactin	15132762	Phillips A
+prolactin	15132762	Allen A
+prolactin	15132762	Wasserman S
+prolactin	15132762	Iyengar R
+oxytocin receptor	15121991	Muhle R
+oxytocin receptor	15121991	Trentacoste SV
+oxytocin receptor	15121991	Rapin I
+homeobox A1	14960295	Conciatori M
+homeobox A1	14960295	Stodgell CJ
+homeobox A1	14960295	Hyman SL
+homeobox A1	14960295	O'Bara M
+homeobox A1	14960295	Militerni R
+homeobox A1	14960295	Bravaccio C
+homeobox A1	14960295	Trillo S
+homeobox A1	14960295	Montecchi F
+homeobox A1	14960295	Schneider C
+homeobox A1	14960295	Melmed R
+homeobox A1	14960295	Elia M
+homeobox A1	14960295	Crawford L
+homeobox A1	14960295	Spence SJ
+homeobox A1	14960295	Muscarella L
+homeobox A1	14960295	Guarnieri V
+homeobox A1	14960295	D'Agruma L
+homeobox A1	14960295	Quattrone A
+homeobox A1	14960295	Zelante L
+homeobox A1	14960295	Rabinowitz D
+homeobox A1	14960295	Pascucci T
+homeobox A1	14960295	Puglisi-Allegra S
+homeobox A1	14960295	Reichelt KL
+homeobox A1	14960295	Rodier PM
+homeobox A1	14960295	Persico AM
+homeobox A1	12908836	Collins JS
+homeobox A1	12908836	Schroer RJ
+homeobox A1	12908836	Bird J
+homeobox A1	12908836	Michaelis RC
+homeobox A1	12908836	Collins JS
+homeobox A1	12908836	Schroer RJ
+homeobox A1	12908836	Bird J
+homeobox A1	12908836	Michaelis RC
+multiple sclerosis	12432978	Dubisar BM
+multiple sclerosis	12432978	Stoner SC
+multiple sclerosis	12432978	Khan R
+multiple sclerosis	12432978	Farrar CD
+multiple sclerosis	12432978	Dubisar BM
+multiple sclerosis	12432978	Stoner SC
+multiple sclerosis	12432978	Khan R
+multiple sclerosis	12432978	Farrar CD
+multiple sclerosis	12432978	Dubisar BM
+multiple sclerosis	12432978	Stoner SC
+multiple sclerosis	12432978	Khan R
+multiple sclerosis	12432978	Farrar CD
+homeobox A1	12210285	Devlin B
+homeobox A1	12210285	Bennett P
+homeobox A1	12210285	Cook EH Jr
+homeobox A1	12210285	Dawson G
+homeobox A1	12210285	Gonen D
+homeobox A1	12210285	Grigorenko EL
+homeobox A1	12210285	McMahon W
+homeobox A1	12210285	Pauls D
+homeobox A1	12210285	Smith M
+homeobox A1	12210285	Spence MA
+homeobox A1	12210285	Schellenberg GD
+androgen receptor	12208164	Manning JT
+androgen receptor	12208164	Bundred PE
+androgen receptor	12208164	Flanagan BF
+androgen receptor	12208164	Manning JT
+androgen receptor	12208164	Bundred PE
+androgen receptor	12208164	Flanagan BF
+homeobox A1	pean or African origin. In	AU não encontrado
+hypoparathyroidism	10671127	Stip E
+hypoparathyroidism	10671127	Black N
+hypoparathyroidism	10671127	Ekoe JM
+hypoparathyroidism	10671127	Mottron L
+hypomelanosis of Ito	1717328	Akefeldt A
+hypomelanosis of Ito	1717328	Gillberg C

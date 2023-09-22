@@ -1,0 +1,1962 @@
+Scott SR	Autism spectrum disorder	leptin	3
+Millwood SN	Autism spectrum disorder	leptin	3
+Manczak EM	Autism spectrum disorder	leptin	3
+Scott SR	Autism spectrum disorder	resistin	3
+Millwood SN	Autism spectrum disorder	resistin	3
+Manczak EM	Autism spectrum disorder	resistin	3
+Scott SR	Autism spectrum disorder	apelin	3
+Millwood SN	Autism spectrum disorder	apelin	3
+Manczak EM	Autism spectrum disorder	apelin	3
+Morimoto M	Autism spectrum disorder	C-reactive protein	3
+Hashimoto T	Autism spectrum disorder	C-reactive protein	3
+Tsuda Y	Autism spectrum disorder	C-reactive protein	3
+Suenaga M	Autism spectrum disorder	C-reactive protein	3
+Nakamura T	Autism spectrum disorder	C-reactive protein	3
+Katoh S	Autism spectrum disorder	C-reactive protein	3
+Morimoto M	Autism spectrum disorder	prolactin	3
+Hashimoto T	Autism spectrum disorder	prolactin	3
+Tsuda Y	Autism spectrum disorder	prolactin	3
+Suenaga M	Autism spectrum disorder	prolactin	3
+Nakamura T	Autism spectrum disorder	prolactin	3
+Katoh S	Autism spectrum disorder	prolactin	3
+Morimoto M	Autism spectrum disorder	albumin	3
+Hashimoto T	Autism spectrum disorder	albumin	3
+Tsuda Y	Autism spectrum disorder	albumin	3
+Suenaga M	Autism spectrum disorder	albumin	3
+Nakamura T	Autism spectrum disorder	albumin	3
+Katoh S	Autism spectrum disorder	albumin	3
+Vellingiri B	Autism spectrum disorder	catalase	1
+Venkatesan D	Autism spectrum disorder	catalase	1
+Iyer M	Autism spectrum disorder	catalase	1
+Mohan G	Autism spectrum disorder	catalase	1
+Krishnan P	Autism spectrum disorder	catalase	1
+Sai Krishna K	Autism spectrum disorder	catalase	1
+R S	Autism spectrum disorder	catalase	1
+Narayanasamy A	Autism spectrum disorder	catalase	1
+Gopalakrishnan AV	Autism spectrum disorder	catalase	1
+Kumar NS	Autism spectrum disorder	catalase	1
+Subramaniam MD	Autism spectrum disorder	catalase	1
+Dumitriu D	Autism spectrum disorder	C-reactive protein	1
+Baldwin E	Autism spectrum disorder	C-reactive protein	1
+Coenen RJJ	Autism spectrum disorder	C-reactive protein	1
+Hammond LA	Autism spectrum disorder	C-reactive protein	1
+Peterka DS	Autism spectrum disorder	C-reactive protein	1
+Heilbrun L	Autism spectrum disorder	C-reactive protein	1
+Frye RE	Autism spectrum disorder	C-reactive protein	1
+Palmer R	Autism spectrum disorder	C-reactive protein	1
+Norrman HN	Autism spectrum disorder	C-reactive protein	1
+Fridell A	Autism spectrum disorder	C-reactive protein	1
+Remnelius KL	Autism spectrum disorder	C-reactive protein	1
+Isaksson J	Autism spectrum disorder	C-reactive protein	1
+Austin C	Autism spectrum disorder	C-reactive protein	1
+Curtin P	Autism spectrum disorder	C-reactive protein	1
+Bolte S	Autism spectrum disorder	C-reactive protein	1
+Arora M	Autism spectrum disorder	C-reactive protein	1
+Zhang X	Autism spectrum disorder	glutaminase	7
+Liu S	Autism spectrum disorder	glutaminase	2
+Liu X	Autism spectrum disorder	glutaminase	7
+Wang J	Autism spectrum disorder	glutaminase	3
+Bobrowski-Khoury N	Autism spectrum disorder	folate receptor alpha	1
+Sequeira JM	Autism spectrum disorder	folate receptor alpha	1
+Quadros EV	Autism spectrum disorder	folate receptor alpha	1
+Skorzynska-Dziduszko KE	Autism spectrum disorder	leptin	1
+Makarewicz A	Autism spectrum disorder	leptin	1
+Blazewicz A	Autism spectrum disorder	leptin	1
+Chaaba R	Autism spectrum disorder	diabetic nephropathy	1
+Bouaziz A	Autism spectrum disorder	diabetic nephropathy	1
+Ben Amor A	Autism spectrum disorder	diabetic nephropathy	1
+Mnif W	Autism spectrum disorder	diabetic nephropathy	1
+Hammami M	Autism spectrum disorder	diabetic nephropathy	1
+Mehri S	Autism spectrum disorder	diabetic nephropathy	1
+Zhang H	Autism spectrum disorder	biotinidase	6
+Tang X	Autism spectrum disorder	biotinidase	2
+Feng C	Autism spectrum disorder	biotinidase	2
+Gao Y	Autism spectrum disorder	biotinidase	2
+Hong Q	Autism spectrum disorder	biotinidase	2
+Zhang J	Autism spectrum disorder	biotinidase	4
+Zhang X	Autism spectrum disorder	biotinidase	7
+Zheng Q	Autism spectrum disorder	biotinidase	2
+Lin J	Autism spectrum disorder	biotinidase	5
+Liu X	Autism spectrum disorder	biotinidase	7
+Shen L	Autism spectrum disorder	biotinidase	2
+Zhang H	Autism spectrum disorder	insulin	6
+Tang X	Autism spectrum disorder	insulin	2
+Feng C	Autism spectrum disorder	insulin	2
+Gao Y	Autism spectrum disorder	insulin	2
+Hong Q	Autism spectrum disorder	insulin	2
+Zhang J	Autism spectrum disorder	insulin	4
+Zhang X	Autism spectrum disorder	insulin	7
+Zheng Q	Autism spectrum disorder	insulin	2
+Lin J	Autism spectrum disorder	insulin	5
+Liu X	Autism spectrum disorder	insulin	7
+Shen L	Autism spectrum disorder	insulin	2
+Dogan M	Autism spectrum disorder	tumor necrosis factor	1
+Albayrak Y	Autism spectrum disorder	tumor necrosis factor	2
+Erbas O	Autism spectrum disorder	tumor necrosis factor	5
+Klocke B	Autism spectrum disorder	parvalbumin	1
+Krone K	Autism spectrum disorder	parvalbumin	1
+Tornes J	Autism spectrum disorder	parvalbumin	1
+Moore C	Autism spectrum disorder	parvalbumin	1
+Ott H	Autism spectrum disorder	parvalbumin	1
+Pitychoutis PM	Autism spectrum disorder	parvalbumin	1
+Okuzono S	Autism spectrum disorder	SH3 and multiple ankyrin repeat domains 3	2
+Fujii F	Autism spectrum disorder	SH3 and multiple ankyrin repeat domains 3	2
+Matsushita Y	Autism spectrum disorder	SH3 and multiple ankyrin repeat domains 3	2
+Setoyama D	Autism spectrum disorder	SH3 and multiple ankyrin repeat domains 3	2
+Shinmyo Y	Autism spectrum disorder	SH3 and multiple ankyrin repeat domains 3	2
+Taira R	Autism spectrum disorder	SH3 and multiple ankyrin repeat domains 3	2
+Yonemoto K	Autism spectrum disorder	SH3 and multiple ankyrin repeat domains 3	2
+Akamine S	Autism spectrum disorder	SH3 and multiple ankyrin repeat domains 3	2
+Motomura Y	Autism spectrum disorder	SH3 and multiple ankyrin repeat domains 3	2
+Sanefuji M	Autism spectrum disorder	SH3 and multiple ankyrin repeat domains 3	2
+Sakurai T	Autism spectrum disorder	SH3 and multiple ankyrin repeat domains 3	2
+Kawasaki H	Autism spectrum disorder	SH3 and multiple ankyrin repeat domains 3	2
+Han K	Autism spectrum disorder	SH3 and multiple ankyrin repeat domains 3	2
+Kato TA	Autism spectrum disorder	SH3 and multiple ankyrin repeat domains 3	2
+Torisu H	Autism spectrum disorder	SH3 and multiple ankyrin repeat domains 3	2
+Kang D	Autism spectrum disorder	SH3 and multiple ankyrin repeat domains 3	2
+Nakabeppu Y	Autism spectrum disorder	SH3 and multiple ankyrin repeat domains 3	2
+Sakai Y	Autism spectrum disorder	SH3 and multiple ankyrin repeat domains 3	2
+Ohga S	Autism spectrum disorder	SH3 and multiple ankyrin repeat domains 3	2
+Okuzono S	Autism spectrum disorder	parvalbumin	2
+Fujii F	Autism spectrum disorder	parvalbumin	2
+Matsushita Y	Autism spectrum disorder	parvalbumin	2
+Setoyama D	Autism spectrum disorder	parvalbumin	2
+Shinmyo Y	Autism spectrum disorder	parvalbumin	2
+Taira R	Autism spectrum disorder	parvalbumin	2
+Yonemoto K	Autism spectrum disorder	parvalbumin	2
+Akamine S	Autism spectrum disorder	parvalbumin	2
+Motomura Y	Autism spectrum disorder	parvalbumin	2
+Sanefuji M	Autism spectrum disorder	parvalbumin	2
+Sakurai T	Autism spectrum disorder	parvalbumin	2
+Kawasaki H	Autism spectrum disorder	parvalbumin	2
+Han K	Autism spectrum disorder	parvalbumin	2
+Kato TA	Autism spectrum disorder	parvalbumin	2
+Torisu H	Autism spectrum disorder	parvalbumin	2
+Kang D	Autism spectrum disorder	parvalbumin	2
+Nakabeppu Y	Autism spectrum disorder	parvalbumin	2
+Sakai Y	Autism spectrum disorder	parvalbumin	2
+Ohga S	Autism spectrum disorder	parvalbumin	2
+Morel C	Autism spectrum disorder	oxytocin receptor	1
+Martinez Sanchez I	Autism spectrum disorder	oxytocin receptor	1
+Cherifi Y	Autism spectrum disorder	oxytocin receptor	1
+Chartrel N	Autism spectrum disorder	oxytocin receptor	1
+Diaz Heijtz R	Autism spectrum disorder	oxytocin receptor	1
+Backstrom F	Autism spectrum disorder	interleukin 6	1
+Ahl M	Autism spectrum disorder	interleukin 6	1
+Wickham J	Autism spectrum disorder	interleukin 6	1
+Ekdahl CT	Autism spectrum disorder	interleukin 6	1
+Zhang P	Autism spectrum disorder	insulin	3
+Omanska A	Autism spectrum disorder	insulin	1
+Ander BP	Autism spectrum disorder	insulin	1
+Gandal MJ	Autism spectrum disorder	insulin	1
+Stamova B	Autism spectrum disorder	insulin	1
+Schumann CM	Autism spectrum disorder	insulin	1
+de Oliveira Ferreira E	Autism spectrum disorder	synaptophysin	1
+Pessoa Gomes JM	Autism spectrum disorder	synaptophysin	1
+Neves KRT	Autism spectrum disorder	synaptophysin	1
+Lima FAV	Autism spectrum disorder	synaptophysin	1
+de Barros Viana GS	Autism spectrum disorder	synaptophysin	1
+de Andrade GM	Autism spectrum disorder	synaptophysin	1
+Saha S	Autism spectrum disorder	dopamine receptor D4	1
+Chatterjee M	Autism spectrum disorder	dopamine receptor D4	1
+Dutta N	Autism spectrum disorder	dopamine receptor D4	1
+Sinha S	Autism spectrum disorder	dopamine receptor D4	1
+Mukhopadhyay K	Autism spectrum disorder	dopamine receptor D4	1
+Wei JA	Autism spectrum disorder	secretin	1
+Han Q	Autism spectrum disorder	secretin	1
+Luo Z	Autism spectrum disorder	secretin	1
+Liu L	Autism spectrum disorder	secretin	1
+Cui J	Autism spectrum disorder	secretin	1
+Tan J	Autism spectrum disorder	secretin	1
+Chow BKC	Autism spectrum disorder	secretin	1
+So KF	Autism spectrum disorder	secretin	1
+Zhang L	Autism spectrum disorder	secretin	2
+Xiong Y	Autism spectrum disorder	synaptophysin	1
+Chen J	Autism spectrum disorder	synaptophysin	5
+Lv M	Autism spectrum disorder	synaptophysin	1
+Wang F	Autism spectrum disorder	synaptophysin	1
+Zhang H	Autism spectrum disorder	synaptophysin	6
+Tang B	Autism spectrum disorder	synaptophysin	2
+Li Y	Autism spectrum disorder	synaptophysin	3
+Thomas SD	Autism spectrum disorder	phosphatase and tensin homolog	2
+Jha NK	Autism spectrum disorder	phosphatase and tensin homolog	1
+Ojha S	Autism spectrum disorder	phosphatase and tensin homolog	1
+Sadek B	Autism spectrum disorder	phosphatase and tensin homolog	4
+Menghi M	Autism spectrum disorder	hypoparathyroidism	1
+Micangeli G	Autism spectrum disorder	hypoparathyroidism	1
+Tarani F	Autism spectrum disorder	hypoparathyroidism	1
+Putotto C	Autism spectrum disorder	hypoparathyroidism	1
+Pirro F	Autism spectrum disorder	hypoparathyroidism	1
+Mariani A	Autism spectrum disorder	hypoparathyroidism	1
+Petrella C	Autism spectrum disorder	hypoparathyroidism	1
+Pulvirenti F	Autism spectrum disorder	hypoparathyroidism	1
+Cinicola B	Autism spectrum disorder	hypoparathyroidism	1
+Colloridi F	Autism spectrum disorder	hypoparathyroidism	1
+Tarani L	Autism spectrum disorder	hypoparathyroidism	1
+Fiore M	Autism spectrum disorder	hypoparathyroidism	1
+Papuc SM	Autism spectrum disorder	primary cilia formation	1
+Erbescu A	Autism spectrum disorder	primary cilia formation	1
+Glangher A	Autism spectrum disorder	primary cilia formation	1
+Streata I	Autism spectrum disorder	primary cilia formation	1
+Riza AL	Autism spectrum disorder	primary cilia formation	1
+Budisteanu M	Autism spectrum disorder	primary cilia formation	1
+Arghir A	Autism spectrum disorder	primary cilia formation	1
+Esvap E	Autism spectrum disorder	glutathione-disulfide reductase	1
+Ulgen KO	Autism spectrum disorder	glutathione-disulfide reductase	1
+Dai S	Autism spectrum disorder	adenosine deaminase	2
+Lin J	Autism spectrum disorder	adenosine deaminase	5
+Hou Y	Autism spectrum disorder	adenosine deaminase	2
+Luo X	Autism spectrum disorder	adenosine deaminase	2
+Shen Y	Autism spectrum disorder	adenosine deaminase	2
+Ou J	Autism spectrum disorder	adenosine deaminase	2
+Dai S	Autism spectrum disorder	adenylosuccinate lyase	2
+Lin J	Autism spectrum disorder	adenylosuccinate lyase	5
+Hou Y	Autism spectrum disorder	adenylosuccinate lyase	2
+Luo X	Autism spectrum disorder	adenylosuccinate lyase	2
+Shen Y	Autism spectrum disorder	adenylosuccinate lyase	2
+Ou J	Autism spectrum disorder	adenylosuccinate lyase	2
+Osada K	Autism spectrum disorder	oxytocin receptor	1
+Kujirai R	Autism spectrum disorder	oxytocin receptor	1
+Hosono A	Autism spectrum disorder	oxytocin receptor	1
+Tsuda M	Autism spectrum disorder	oxytocin receptor	1
+Ohata M	Autism spectrum disorder	oxytocin receptor	1
+Ohta T	Autism spectrum disorder	oxytocin receptor	1
+Nishimori K	Autism spectrum disorder	oxytocin receptor	1
+Zang Y	Autism spectrum disorder	multiple sclerosis	1
+Lai X	Autism spectrum disorder	multiple sclerosis	1
+Li C	Autism spectrum disorder	multiple sclerosis	3
+Ding D	Autism spectrum disorder	multiple sclerosis	1
+Wang Y	Autism spectrum disorder	multiple sclerosis	7
+Zhu Y	Autism spectrum disorder	multiple sclerosis	2
+Mazon-Cabrera R	Autism spectrum disorder	ribosomal protein L23	2
+Liesenborgs J	Autism spectrum disorder	ribosomal protein L23	2
+Brone B	Autism spectrum disorder	ribosomal protein L23	2
+Vandormael P	Autism spectrum disorder	ribosomal protein L23	2
+Somers V	Autism spectrum disorder	ribosomal protein L23	2
+Mazon-Cabrera R	Autism spectrum disorder	glyceraldehyde-3-phosphate dehydrogenase	2
+Liesenborgs J	Autism spectrum disorder	glyceraldehyde-3-phosphate dehydrogenase	2
+Brone B	Autism spectrum disorder	glyceraldehyde-3-phosphate dehydrogenase	2
+Vandormael P	Autism spectrum disorder	glyceraldehyde-3-phosphate dehydrogenase	2
+Somers V	Autism spectrum disorder	glyceraldehyde-3-phosphate dehydrogenase	2
+Thongkorn S	Autism spectrum disorder	androgen receptor	1
+Kanlayaprasit S	Autism spectrum disorder	androgen receptor	1
+Kasitipradit K	Autism spectrum disorder	androgen receptor	1
+Lertpeerapan P	Autism spectrum disorder	androgen receptor	1
+Panjabud P	Autism spectrum disorder	androgen receptor	1
+Hu VW	Autism spectrum disorder	androgen receptor	1
+Jindatip D	Autism spectrum disorder	androgen receptor	1
+Sarachana T	Autism spectrum disorder	androgen receptor	1
+Nascimento A	Autism spectrum disorder	dystrophin	2
+Bruels CC	Autism spectrum disorder	dystrophin	2
+Donkervoort S	Autism spectrum disorder	dystrophin	2
+Foley AR	Autism spectrum disorder	dystrophin	2
+Codina A	Autism spectrum disorder	dystrophin	2
+Milisenda JC	Autism spectrum disorder	dystrophin	2
+Estrella EA	Autism spectrum disorder	dystrophin	2
+Li C	Autism spectrum disorder	dystrophin	3
+Pijuan J	Autism spectrum disorder	dystrophin	2
+Draper I	Autism spectrum disorder	dystrophin	2
+Hu Y	Autism spectrum disorder	dystrophin	3
+Stafki SA	Autism spectrum disorder	dystrophin	2
+Pais LS	Autism spectrum disorder	dystrophin	2
+Ganesh VS	Autism spectrum disorder	dystrophin	2
+O'Donnell-Luria A	Autism spectrum disorder	dystrophin	2
+Syeda SB	Autism spectrum disorder	dystrophin	2
+Carrera-Garcia L	Autism spectrum disorder	dystrophin	2
+Exposito-Escudero J	Autism spectrum disorder	dystrophin	2
+Yubero D	Autism spectrum disorder	dystrophin	2
+Martorell L	Autism spectrum disorder	dystrophin	2
+Pinal-Fernandez I	Autism spectrum disorder	dystrophin	2
+Lidov HGW	Autism spectrum disorder	dystrophin	2
+Mammen AL	Autism spectrum disorder	dystrophin	2
+Grau-Junyent JM	Autism spectrum disorder	dystrophin	2
+Ortez C	Autism spectrum disorder	dystrophin	2
+Palau F	Autism spectrum disorder	dystrophin	2
+Ghosh PS	Autism spectrum disorder	dystrophin	2
+Darras BT	Autism spectrum disorder	dystrophin	2
+Jou C	Autism spectrum disorder	dystrophin	2
+Kunkel LM	Autism spectrum disorder	dystrophin	2
+Hoenicka J	Autism spectrum disorder	dystrophin	2
+Bonnemann CG	Autism spectrum disorder	dystrophin	2
+Kang PB	Autism spectrum disorder	dystrophin	2
+Natera-de Benito D	Autism spectrum disorder	dystrophin	2
+Nascimento A	Autism spectrum disorder	utrophin	2
+Bruels CC	Autism spectrum disorder	utrophin	2
+Donkervoort S	Autism spectrum disorder	utrophin	2
+Foley AR	Autism spectrum disorder	utrophin	2
+Codina A	Autism spectrum disorder	utrophin	2
+Milisenda JC	Autism spectrum disorder	utrophin	2
+Estrella EA	Autism spectrum disorder	utrophin	2
+Li C	Autism spectrum disorder	utrophin	3
+Pijuan J	Autism spectrum disorder	utrophin	2
+Draper I	Autism spectrum disorder	utrophin	2
+Hu Y	Autism spectrum disorder	utrophin	3
+Stafki SA	Autism spectrum disorder	utrophin	2
+Pais LS	Autism spectrum disorder	utrophin	2
+Ganesh VS	Autism spectrum disorder	utrophin	2
+O'Donnell-Luria A	Autism spectrum disorder	utrophin	2
+Syeda SB	Autism spectrum disorder	utrophin	2
+Carrera-Garcia L	Autism spectrum disorder	utrophin	2
+Exposito-Escudero J	Autism spectrum disorder	utrophin	2
+Yubero D	Autism spectrum disorder	utrophin	2
+Martorell L	Autism spectrum disorder	utrophin	2
+Pinal-Fernandez I	Autism spectrum disorder	utrophin	2
+Lidov HGW	Autism spectrum disorder	utrophin	2
+Mammen AL	Autism spectrum disorder	utrophin	2
+Grau-Junyent JM	Autism spectrum disorder	utrophin	2
+Ortez C	Autism spectrum disorder	utrophin	2
+Palau F	Autism spectrum disorder	utrophin	2
+Ghosh PS	Autism spectrum disorder	utrophin	2
+Darras BT	Autism spectrum disorder	utrophin	2
+Jou C	Autism spectrum disorder	utrophin	2
+Kunkel LM	Autism spectrum disorder	utrophin	2
+Hoenicka J	Autism spectrum disorder	utrophin	2
+Bonnemann CG	Autism spectrum disorder	utrophin	2
+Kang PB	Autism spectrum disorder	utrophin	2
+Natera-de Benito D	Autism spectrum disorder	utrophin	2
+AbdelAleem A	Autism spectrum disorder	NSF attachment protein beta	1
+Haddad N	Autism spectrum disorder	NSF attachment protein beta	1
+Al-Ettribi G	Autism spectrum disorder	NSF attachment protein beta	1
+Crunk A	Autism spectrum disorder	NSF attachment protein beta	1
+Elsotouhy A	Autism spectrum disorder	NSF attachment protein beta	1
+Shih YT	Autism spectrum disorder	parvalbumin	1
+Alipio JB	Autism spectrum disorder	parvalbumin	1
+Sahay A	Autism spectrum disorder	parvalbumin	1
+Simone M	Autism spectrum disorder	glial fibrillary acidic protein	2
+De Giacomo A	Autism spectrum disorder	glial fibrillary acidic protein	2
+Palumbi R	Autism spectrum disorder	glial fibrillary acidic protein	1
+Palazzo C	Autism spectrum disorder	glial fibrillary acidic protein	1
+Lucisano G	Autism spectrum disorder	glial fibrillary acidic protein	1
+Pompamea F	Autism spectrum disorder	glial fibrillary acidic protein	1
+Micella S	Autism spectrum disorder	glial fibrillary acidic protein	1
+Pascali M	Autism spectrum disorder	glial fibrillary acidic protein	1
+Gabellone A	Autism spectrum disorder	glial fibrillary acidic protein	1
+Marzulli L	Autism spectrum disorder	glial fibrillary acidic protein	2
+Giordano P	Autism spectrum disorder	glial fibrillary acidic protein	1
+Gargano CD	Autism spectrum disorder	glial fibrillary acidic protein	1
+Margari L	Autism spectrum disorder	glial fibrillary acidic protein	1
+Frigeri A	Autism spectrum disorder	glial fibrillary acidic protein	1
+Ruggieri M	Autism spectrum disorder	glial fibrillary acidic protein	1
+Ding H	Autism spectrum disorder	insulin	1
+Xie M	Autism spectrum disorder	insulin	1
+Wang J	Autism spectrum disorder	insulin	3
+Ouyang M	Autism spectrum disorder	insulin	1
+Huang Y	Autism spectrum disorder	insulin	1
+Yuan F	Autism spectrum disorder	insulin	1
+Jia Y	Autism spectrum disorder	insulin	1
+Zhang X	Autism spectrum disorder	insulin	7
+Liu N	Autism spectrum disorder	insulin	1
+Zhang N	Autism spectrum disorder	insulin	2
+Kashii H	Autism spectrum disorder	signal transducer and activator of transcription 3	2
+Kasai S	Autism spectrum disorder	signal transducer and activator of transcription 3	2
+Sato A	Autism spectrum disorder	signal transducer and activator of transcription 3	2
+Hagino Y	Autism spectrum disorder	signal transducer and activator of transcription 3	2
+Nishito Y	Autism spectrum disorder	signal transducer and activator of transcription 3	2
+Kobayashi T	Autism spectrum disorder	signal transducer and activator of transcription 3	2
+Hino O	Autism spectrum disorder	signal transducer and activator of transcription 3	2
+Mizuguchi M	Autism spectrum disorder	signal transducer and activator of transcription 3	2
+Ikeda K	Autism spectrum disorder	signal transducer and activator of transcription 3	2
+Kashii H	Autism spectrum disorder	interferon regulatory factor 4	2
+Kasai S	Autism spectrum disorder	interferon regulatory factor 4	2
+Sato A	Autism spectrum disorder	interferon regulatory factor 4	2
+Hagino Y	Autism spectrum disorder	interferon regulatory factor 4	2
+Nishito Y	Autism spectrum disorder	interferon regulatory factor 4	2
+Kobayashi T	Autism spectrum disorder	interferon regulatory factor 4	2
+Hino O	Autism spectrum disorder	interferon regulatory factor 4	2
+Mizuguchi M	Autism spectrum disorder	interferon regulatory factor 4	2
+Ikeda K	Autism spectrum disorder	interferon regulatory factor 4	2
+Gzielo K	Autism spectrum disorder	parvalbumin	1
+Piotrowska D	Autism spectrum disorder	parvalbumin	1
+Litwa E	Autism spectrum disorder	parvalbumin	1
+Popik P	Autism spectrum disorder	parvalbumin	1
+Nikiforuk A	Autism spectrum disorder	parvalbumin	1
+Rawlings-Mortimer F	Autism spectrum disorder	myelin regulatory factor	1
+Gullino LS	Autism spectrum disorder	myelin regulatory factor	1
+Ruhling S	Autism spectrum disorder	myelin regulatory factor	1
+Ashton A	Autism spectrum disorder	myelin regulatory factor	1
+Barkus C	Autism spectrum disorder	myelin regulatory factor	1
+Johansen-Berg H	Autism spectrum disorder	myelin regulatory factor	1
+Krishnan RP	Autism spectrum disorder	plasminogen	1
+Ramani P	Autism spectrum disorder	plasminogen	1
+Pandiar D	Autism spectrum disorder	plasminogen	1
+Y D	Autism spectrum disorder	plasminogen	1
+Alsubaiei SRM	Autism spectrum disorder	tumor necrosis factor	1
+Alfawaz HA	Autism spectrum disorder	tumor necrosis factor	1
+Almubarak AY	Autism spectrum disorder	tumor necrosis factor	1
+Alabdali NA	Autism spectrum disorder	tumor necrosis factor	1
+Ben Bacha A	Autism spectrum disorder	tumor necrosis factor	1
+El-Ansary A	Autism spectrum disorder	tumor necrosis factor	2
+Xie Y	Autism spectrum disorder	cortactin	1
+Wang H	Autism spectrum disorder	cortactin	4
+Hu B	Autism spectrum disorder	cortactin	1
+Zhang X	Autism spectrum disorder	cortactin	7
+Liu A	Autism spectrum disorder	cortactin	1
+Cai C	Autism spectrum disorder	cortactin	1
+Li S	Autism spectrum disorder	cortactin	3
+Chen C	Autism spectrum disorder	cortactin	2
+Wang Z	Autism spectrum disorder	cortactin	4
+Yin Z	Autism spectrum disorder	cortactin	1
+Wang M	Autism spectrum disorder	cortactin	2
+Bilgic A	Autism spectrum disorder	occludin	3
+Ferahkaya H	Autism spectrum disorder	occludin	3
+Karagoz H	Autism spectrum disorder	occludin	3
+Kilinc I	Autism spectrum disorder	occludin	4
+Energin VM	Autism spectrum disorder	occludin	3
+Bilgic A	Autism spectrum disorder	vinculin	3
+Ferahkaya H	Autism spectrum disorder	vinculin	3
+Karagoz H	Autism spectrum disorder	vinculin	3
+Kilinc I	Autism spectrum disorder	vinculin	4
+Energin VM	Autism spectrum disorder	vinculin	3
+Bilgic A	Autism spectrum disorder	paxillin	3
+Ferahkaya H	Autism spectrum disorder	paxillin	3
+Karagoz H	Autism spectrum disorder	paxillin	3
+Kilinc I	Autism spectrum disorder	paxillin	4
+Energin VM	Autism spectrum disorder	paxillin	3
+LaSalle JM	Autism spectrum disorder	neuronal hypoxia inducible, placenta associated	1
+Moghaddam AH	Autism spectrum disorder	catalase	1
+Eslami A	Autism spectrum disorder	catalase	1
+Jelodar SK	Autism spectrum disorder	catalase	1
+Ranjbar M	Autism spectrum disorder	catalase	3
+Hasantabar V	Autism spectrum disorder	catalase	1
+Smith IN	Autism spectrum disorder	phosphatase and tensin homolog	1
+Dawson JE	Autism spectrum disorder	phosphatase and tensin homolog	1
+Eng C	Autism spectrum disorder	phosphatase and tensin homolog	2
+Fumagalli MR	Autism spectrum disorder	multiple sclerosis	1
+Saro SM	Autism spectrum disorder	multiple sclerosis	1
+Tajana M	Autism spectrum disorder	multiple sclerosis	1
+Zapperi S	Autism spectrum disorder	multiple sclerosis	1
+La Porta CAM	Autism spectrum disorder	multiple sclerosis	1
+Colijn MA	Autism spectrum disorder	euchromatic histone lysine methyltransferase 1	1
+Lakusta CM	Autism spectrum disorder	euchromatic histone lysine methyltransferase 1	1
+Marcadier JL	Autism spectrum disorder	euchromatic histone lysine methyltransferase 1	1
+Panchal SK	Autism spectrum disorder	insulin	1
+Brown L	Autism spectrum disorder	insulin	1
+Eissa N	Autism spectrum disorder	tumor necrosis factor	1
+Awad MA	Autism spectrum disorder	tumor necrosis factor	1
+Thomas SD	Autism spectrum disorder	tumor necrosis factor	2
+Venkatachalam K	Autism spectrum disorder	tumor necrosis factor	1
+Jayaprakash P	Autism spectrum disorder	tumor necrosis factor	2
+Zhong S	Autism spectrum disorder	tumor necrosis factor	1
+Stark H	Autism spectrum disorder	tumor necrosis factor	1
+Sadek B	Autism spectrum disorder	tumor necrosis factor	4
+Erdogan MA	Autism spectrum disorder	insulin	4
+Bozkurt MF	Autism spectrum disorder	insulin	3
+Erbas O	Autism spectrum disorder	insulin	5
+Xu D	Autism spectrum disorder	WD repeat domain 62	1
+Zhi Y	Autism spectrum disorder	WD repeat domain 62	1
+Liu X	Autism spectrum disorder	WD repeat domain 62	7
+Guan L	Autism spectrum disorder	WD repeat domain 62	1
+Yu J	Autism spectrum disorder	WD repeat domain 62	1
+Zhang D	Autism spectrum disorder	WD repeat domain 62	3
+Zhang W	Autism spectrum disorder	WD repeat domain 62	1
+Wang Y	Autism spectrum disorder	WD repeat domain 62	7
+Tao W	Autism spectrum disorder	WD repeat domain 62	1
+Xu Z	Autism spectrum disorder	WD repeat domain 62	1
+Haratizadeh S	Autism spectrum disorder	erythropoietin	1
+Ranjbar M	Autism spectrum disorder	erythropoietin	3
+Darvishzadeh-Mahani F	Autism spectrum disorder	erythropoietin	1
+Basiri M	Autism spectrum disorder	erythropoietin	1
+Nozari M	Autism spectrum disorder	erythropoietin	1
+Pascual-Morena C	Autism spectrum disorder	dystrophin	1
+Cavero-Redondo I	Autism spectrum disorder	dystrophin	1
+Martinez-Vizcaino V	Autism spectrum disorder	dystrophin	1
+Sequi-Dominguez I	Autism spectrum disorder	dystrophin	1
+Fernandez-Bravo-Rodrigo J	Autism spectrum disorder	dystrophin	1
+Jimenez-Lopez E	Autism spectrum disorder	dystrophin	1
+Luppe J	Autism spectrum disorder	syntaxin 1A	1
+Sticht H	Autism spectrum disorder	syntaxin 1A	1
+Lecoquierre F	Autism spectrum disorder	syntaxin 1A	1
+Goldenberg A	Autism spectrum disorder	syntaxin 1A	1
+Gorman KM	Autism spectrum disorder	syntaxin 1A	1
+Molloy B	Autism spectrum disorder	syntaxin 1A	1
+Agolini E	Autism spectrum disorder	syntaxin 1A	1
+Novelli A	Autism spectrum disorder	syntaxin 1A	1
+Briuglia S	Autism spectrum disorder	syntaxin 1A	1
+Kuismin O	Autism spectrum disorder	syntaxin 1A	1
+Marcelis C	Autism spectrum disorder	syntaxin 1A	1
+Vitobello A	Autism spectrum disorder	syntaxin 1A	1
+Denomme-Pichon AS	Autism spectrum disorder	syntaxin 1A	1
+Julia S	Autism spectrum disorder	syntaxin 1A	1
+Lemke JR	Autism spectrum disorder	syntaxin 1A	1
+Abou Jamra R	Autism spectrum disorder	syntaxin 1A	1
+Platzer K	Autism spectrum disorder	syntaxin 1A	1
+Elhefnawei DM	Autism spectrum disorder	glial fibrillary acidic protein	1
+Mahmoud AH	Autism spectrum disorder	glial fibrillary acidic protein	1
+Kadry MO	Autism spectrum disorder	glial fibrillary acidic protein	1
+Al-Mokaddem AK	Autism spectrum disorder	glial fibrillary acidic protein	1
+Badawy MA	Autism spectrum disorder	glial fibrillary acidic protein	1
+El-Desouky MA	Autism spectrum disorder	glial fibrillary acidic protein	1
+Aishworiya R	Autism spectrum disorder	fragile X messenger ribonucleoprotein 1	1
+Protic D	Autism spectrum disorder	fragile X messenger ribonucleoprotein 1	1
+Tang SJ	Autism spectrum disorder	fragile X messenger ribonucleoprotein 1	1
+Schneider A	Autism spectrum disorder	fragile X messenger ribonucleoprotein 1	1
+Tassone F	Autism spectrum disorder	fragile X messenger ribonucleoprotein 1	1
+Hagerman R	Autism spectrum disorder	fragile X messenger ribonucleoprotein 1	1
+Hermans RA	Autism spectrum disorder	prolactin	2
+Ringeling LT	Autism spectrum disorder	prolactin	2
+Liang K	Autism spectrum disorder	prolactin	2
+Kloosterboer SM	Autism spectrum disorder	prolactin	2
+de Winter BCM	Autism spectrum disorder	prolactin	2
+Hillegers MHJ	Autism spectrum disorder	prolactin	2
+Koch BCP	Autism spectrum disorder	prolactin	2
+Dierckx B	Autism spectrum disorder	prolactin	2
+Hermans RA	Autism spectrum disorder	leptin	2
+Ringeling LT	Autism spectrum disorder	leptin	2
+Liang K	Autism spectrum disorder	leptin	2
+Kloosterboer SM	Autism spectrum disorder	leptin	2
+de Winter BCM	Autism spectrum disorder	leptin	2
+Hillegers MHJ	Autism spectrum disorder	leptin	2
+Koch BCP	Autism spectrum disorder	leptin	2
+Dierckx B	Autism spectrum disorder	leptin	2
+Kerschbamer E	Autism spectrum disorder	heterogeneous nuclear ribonucleoprotein L	1
+Arnoldi M	Autism spectrum disorder	heterogeneous nuclear ribonucleoprotein L	1
+Tripathi T	Autism spectrum disorder	heterogeneous nuclear ribonucleoprotein L	1
+Pellegrini M	Autism spectrum disorder	heterogeneous nuclear ribonucleoprotein L	1
+Maturi S	Autism spectrum disorder	heterogeneous nuclear ribonucleoprotein L	1
+Erdin S	Autism spectrum disorder	heterogeneous nuclear ribonucleoprotein L	1
+Salviato E	Autism spectrum disorder	heterogeneous nuclear ribonucleoprotein L	1
+Di Leva F	Autism spectrum disorder	heterogeneous nuclear ribonucleoprotein L	1
+Sebestyen E	Autism spectrum disorder	heterogeneous nuclear ribonucleoprotein L	1
+Dassi E	Autism spectrum disorder	heterogeneous nuclear ribonucleoprotein L	1
+Zarantonello G	Autism spectrum disorder	heterogeneous nuclear ribonucleoprotein L	1
+Benelli M	Autism spectrum disorder	heterogeneous nuclear ribonucleoprotein L	1
+Campos E	Autism spectrum disorder	heterogeneous nuclear ribonucleoprotein L	1
+Basson MA	Autism spectrum disorder	heterogeneous nuclear ribonucleoprotein L	1
+Gusella JF	Autism spectrum disorder	heterogeneous nuclear ribonucleoprotein L	1
+Gustincich S	Autism spectrum disorder	heterogeneous nuclear ribonucleoprotein L	1
+Piazza S	Autism spectrum disorder	heterogeneous nuclear ribonucleoprotein L	1
+Demichelis F	Autism spectrum disorder	heterogeneous nuclear ribonucleoprotein L	1
+Talkowski ME	Autism spectrum disorder	heterogeneous nuclear ribonucleoprotein L	1
+Ferrari F	Autism spectrum disorder	heterogeneous nuclear ribonucleoprotein L	1
+Biagioli M	Autism spectrum disorder	heterogeneous nuclear ribonucleoprotein L	1
+Ermakova G	Autism spectrum disorder	insulin	1
+Hou C	Autism spectrum disorder	insulin	1
+Boudreau J	Autism spectrum disorder	insulin	1
+Bendena WG	Autism spectrum disorder	insulin	1
+Chin-Sang ID	Autism spectrum disorder	insulin	1
+Zhang Z	Autism spectrum disorder	neuroligin 2	3
+Hou M	Autism spectrum disorder	neuroligin 2	2
+Ou H	Autism spectrum disorder	neuroligin 2	2
+Wang D	Autism spectrum disorder	neuroligin 2	3
+Li Z	Autism spectrum disorder	neuroligin 2	4
+Zhang H	Autism spectrum disorder	neuroligin 2	6
+Lu J	Autism spectrum disorder	neuroligin 2	3
+Zhang Z	Autism spectrum disorder	neuroligin 3	3
+Hou M	Autism spectrum disorder	neuroligin 3	2
+Ou H	Autism spectrum disorder	neuroligin 3	2
+Wang D	Autism spectrum disorder	neuroligin 3	3
+Li Z	Autism spectrum disorder	neuroligin 3	4
+Zhang H	Autism spectrum disorder	neuroligin 3	6
+Lu J	Autism spectrum disorder	neuroligin 3	3
+Cao W	Autism spectrum disorder	parvalbumin	2
+Li JH	Autism spectrum disorder	parvalbumin	2
+Lin S	Autism spectrum disorder	parvalbumin	2
+Xia QQ	Autism spectrum disorder	parvalbumin	2
+Du YL	Autism spectrum disorder	parvalbumin	2
+Yang Q	Autism spectrum disorder	parvalbumin	5
+Ye YZ	Autism spectrum disorder	parvalbumin	2
+Zeng LH	Autism spectrum disorder	parvalbumin	2
+Li XY	Autism spectrum disorder	parvalbumin	2
+Xu J	Autism spectrum disorder	parvalbumin	2
+Luo JH	Autism spectrum disorder	parvalbumin	2
+Cao W	Autism spectrum disorder	neuroligin 3	2
+Li JH	Autism spectrum disorder	neuroligin 3	2
+Lin S	Autism spectrum disorder	neuroligin 3	2
+Xia QQ	Autism spectrum disorder	neuroligin 3	2
+Du YL	Autism spectrum disorder	neuroligin 3	2
+Yang Q	Autism spectrum disorder	neuroligin 3	5
+Ye YZ	Autism spectrum disorder	neuroligin 3	2
+Zeng LH	Autism spectrum disorder	neuroligin 3	2
+Li XY	Autism spectrum disorder	neuroligin 3	2
+Xu J	Autism spectrum disorder	neuroligin 3	2
+Luo JH	Autism spectrum disorder	neuroligin 3	2
+Sun JJ	Autism spectrum disorder	glutaredoxin	1
+Chen B	Autism spectrum disorder	glutaredoxin	2
+Yu T	Autism spectrum disorder	glutaredoxin	1
+Maisterrena A	Autism spectrum disorder	tyrosine hydroxylase	2
+Matas E	Autism spectrum disorder	tyrosine hydroxylase	2
+Mirfendereski H	Autism spectrum disorder	tyrosine hydroxylase	2
+Balbous A	Autism spectrum disorder	tyrosine hydroxylase	2
+Marchand S	Autism spectrum disorder	tyrosine hydroxylase	2
+Jaber M	Autism spectrum disorder	tyrosine hydroxylase	2
+Maisterrena A	Autism spectrum disorder	parvalbumin	2
+Matas E	Autism spectrum disorder	parvalbumin	2
+Mirfendereski H	Autism spectrum disorder	parvalbumin	2
+Balbous A	Autism spectrum disorder	parvalbumin	2
+Marchand S	Autism spectrum disorder	parvalbumin	2
+Jaber M	Autism spectrum disorder	parvalbumin	2
+Dutra ML	Autism spectrum disorder	interleukin 17A	1
+Dias P	Autism spectrum disorder	interleukin 17A	1
+Freiberger V	Autism spectrum disorder	interleukin 17A	1
+Ventura L	Autism spectrum disorder	interleukin 17A	1
+Comim CM	Autism spectrum disorder	interleukin 17A	1
+Martins DF	Autism spectrum disorder	interleukin 17A	1
+Bobinski F	Autism spectrum disorder	interleukin 17A	1
+Sirp A	Autism spectrum disorder	transcription factor 4	1
+Shubina A	Autism spectrum disorder	transcription factor 4	1
+Tuvikene J	Autism spectrum disorder	transcription factor 4	1
+Tamberg L	Autism spectrum disorder	transcription factor 4	1
+Kiir CS	Autism spectrum disorder	transcription factor 4	1
+Kranich L	Autism spectrum disorder	transcription factor 4	1
+Timmusk T	Autism spectrum disorder	transcription factor 4	1
+Yang X	Autism spectrum disorder	renin	2
+Li J	Autism spectrum disorder	renin	1
+Zhou Y	Autism spectrum disorder	renin	2
+Zhang N	Autism spectrum disorder	renin	2
+Liu J	Autism spectrum disorder	renin	3
+Gai J	Autism spectrum disorder	prolactin	1
+Xing J	Autism spectrum disorder	prolactin	1
+Wang Y	Autism spectrum disorder	prolactin	7
+Lei J	Autism spectrum disorder	prolactin	1
+Zhang C	Autism spectrum disorder	prolactin	1
+Zhang J	Autism spectrum disorder	prolactin	4
+Tang J	Autism spectrum disorder	prolactin	1
+Filippova YY	Autism spectrum disorder	nerve growth factor	1
+Devyatova EV	Autism spectrum disorder	nerve growth factor	1
+Alekseeva AS	Autism spectrum disorder	nerve growth factor	1
+Burmistrova AL	Autism spectrum disorder	nerve growth factor	1
+Bashir Y	Autism spectrum disorder	multiple sclerosis	1
+Khan AU	Autism spectrum disorder	multiple sclerosis	1
+Gracia-Darder I	Autism spectrum disorder	fibroblast growth factor 3	1
+Llull Ramos A	Autism spectrum disorder	fibroblast growth factor 3	1
+Giacaman A	Autism spectrum disorder	fibroblast growth factor 3	1
+Gomez Bellvert C	Autism spectrum disorder	fibroblast growth factor 3	1
+Obrador-Hevia A	Autism spectrum disorder	fibroblast growth factor 3	1
+Jubert Esteve E	Autism spectrum disorder	fibroblast growth factor 3	1
+Martin-Santiago A	Autism spectrum disorder	fibroblast growth factor 3	1
+Cumberland A	Autism spectrum disorder	somatostatin	1
+Hale N	Autism spectrum disorder	somatostatin	1
+Azhan A	Autism spectrum disorder	somatostatin	1
+Gilchrist CP	Autism spectrum disorder	somatostatin	1
+Chincarini G	Autism spectrum disorder	somatostatin	1
+Tolcos M	Autism spectrum disorder	somatostatin	1
+Nakhal MM	Autism spectrum disorder	C-reactive protein	2
+Aburuz S	Autism spectrum disorder	C-reactive protein	2
+Sadek B	Autism spectrum disorder	C-reactive protein	4
+Akour A	Autism spectrum disorder	C-reactive protein	2
+Nakhal MM	Autism spectrum disorder	tumor necrosis factor	2
+Aburuz S	Autism spectrum disorder	tumor necrosis factor	2
+Sadek B	Autism spectrum disorder	tumor necrosis factor	4
+Akour A	Autism spectrum disorder	tumor necrosis factor	2
+Pellegrini C	Autism spectrum disorder	multiple sclerosis	1
+Fornai M	Autism spectrum disorder	multiple sclerosis	1
+D'Antongiovanni V	Autism spectrum disorder	multiple sclerosis	1
+Antonioli L	Autism spectrum disorder	multiple sclerosis	1
+Bernardini N	Autism spectrum disorder	multiple sclerosis	1
+Derkinderen P	Autism spectrum disorder	multiple sclerosis	1
+Paketci C	Autism spectrum disorder	neurofilament light chain	1
+Ermis C	Autism spectrum disorder	neurofilament light chain	1
+Sisman AR	Autism spectrum disorder	neurofilament light chain	1
+Hiz S	Autism spectrum disorder	neurofilament light chain	1
+Baykara B	Autism spectrum disorder	neurofilament light chain	1
+Yis U	Autism spectrum disorder	neurofilament light chain	1
+Iskandar K	Autism spectrum disorder	dystrophin	1
+Triono A	Autism spectrum disorder	dystrophin	1
+Sunartini	Autism spectrum disorder	dystrophin	1
+Dwianingsih EK	Autism spectrum disorder	dystrophin	1
+Indraswari BW	Autism spectrum disorder	dystrophin	1
+Kirana IR	Autism spectrum disorder	dystrophin	1
+Ivana G	Autism spectrum disorder	dystrophin	1
+Sutomo R	Autism spectrum disorder	dystrophin	1
+Patria SY	Autism spectrum disorder	dystrophin	1
+Herini ES	Autism spectrum disorder	dystrophin	1
+Gunadi	Autism spectrum disorder	dystrophin	1
+Zaki JK	Autism spectrum disorder	insulin	1
+Lago SG	Autism spectrum disorder	insulin	1
+Rustogi N	Autism spectrum disorder	insulin	1
+Gangadin SS	Autism spectrum disorder	insulin	1
+Benacek J	Autism spectrum disorder	insulin	1
+van Rees GF	Autism spectrum disorder	insulin	1
+Haenisch F	Autism spectrum disorder	insulin	1
+Broek JA	Autism spectrum disorder	insulin	1
+Suarez-Pinilla P	Autism spectrum disorder	insulin	1
+Ruland T	Autism spectrum disorder	insulin	1
+Auyeung B	Autism spectrum disorder	insulin	1
+Mikova O	Autism spectrum disorder	insulin	1
+Kabacs N	Autism spectrum disorder	insulin	1
+Arolt V	Autism spectrum disorder	insulin	1
+Baron-Cohen S	Autism spectrum disorder	insulin	1
+Crespo-Facorro B	Autism spectrum disorder	insulin	1
+Drexhage HA	Autism spectrum disorder	insulin	1
+de Witte LD	Autism spectrum disorder	insulin	1
+Kahn RS	Autism spectrum disorder	insulin	1
+Sommer IE	Autism spectrum disorder	insulin	1
+Bahn S	Autism spectrum disorder	insulin	1
+Tomasik J	Autism spectrum disorder	insulin	1
+Bhalla S	Autism spectrum disorder	glucagon	3
+Mehan S	Autism spectrum disorder	glucagon	3
+Bhalla S	Autism spectrum disorder	insulin	3
+Mehan S	Autism spectrum disorder	insulin	3
+Majerczyk D	Autism spectrum disorder	interferon gamma	2
+Ayad EG	Autism spectrum disorder	interferon gamma	2
+Brewton KL	Autism spectrum disorder	interferon gamma	2
+Saing P	Autism spectrum disorder	interferon gamma	2
+Hart PC	Autism spectrum disorder	interferon gamma	2
+Majerczyk D	Autism spectrum disorder	interleukin 6	2
+Ayad EG	Autism spectrum disorder	interleukin 6	2
+Brewton KL	Autism spectrum disorder	interleukin 6	2
+Saing P	Autism spectrum disorder	interleukin 6	2
+Hart PC	Autism spectrum disorder	interleukin 6	2
+Svirin E	Autism spectrum disorder	insulin receptor	1
+de Munter J	Autism spectrum disorder	insulin receptor	1
+Umriukhin A	Autism spectrum disorder	insulin receptor	1
+Sheveleva E	Autism spectrum disorder	insulin receptor	1
+Kalueff AV	Autism spectrum disorder	insulin receptor	1
+Svistunov A	Autism spectrum disorder	insulin receptor	1
+Morozov S	Autism spectrum disorder	insulin receptor	1
+Walitza S	Autism spectrum disorder	insulin receptor	1
+Strekalova T	Autism spectrum disorder	insulin receptor	1
+Yi S	Autism spectrum disorder	thyroid hormone receptor interactor 12	1
+Chen F	Autism spectrum disorder	thyroid hormone receptor interactor 12	1
+Qin Z	Autism spectrum disorder	thyroid hormone receptor interactor 12	1
+Huang L	Autism spectrum disorder	thyroid hormone receptor interactor 12	1
+Feng Y	Autism spectrum disorder	thyroid hormone receptor interactor 12	1
+Wei H	Autism spectrum disorder	thyroid hormone receptor interactor 12	1
+Yang Q	Autism spectrum disorder	thyroid hormone receptor interactor 12	5
+Zhang Q	Autism spectrum disorder	thyroid hormone receptor interactor 12	3
+Luo J	Autism spectrum disorder	thyroid hormone receptor interactor 12	1
+Sitaram S	Autism spectrum disorder	adenylosuccinate lyase	1
+Banka HC	Autism spectrum disorder	adenylosuccinate lyase	1
+Vassallo G	Autism spectrum disorder	adenylosuccinate lyase	1
+Pavaine J	Autism spectrum disorder	adenylosuccinate lyase	1
+Fairclough A	Autism spectrum disorder	adenylosuccinate lyase	1
+Wright R	Autism spectrum disorder	adenylosuccinate lyase	1
+Fairbanks L	Autism spectrum disorder	adenylosuccinate lyase	1
+Bierau J	Autism spectrum disorder	adenylosuccinate lyase	1
+Bowden L	Autism spectrum disorder	adenylosuccinate lyase	1
+Schwahn B	Autism spectrum disorder	adenylosuccinate lyase	1
+Horman A	Autism spectrum disorder	adenylosuccinate lyase	1
+Banka S	Autism spectrum disorder	adenylosuccinate lyase	1
+Wei RQ	Autism spectrum disorder	Janus kinase 2	1
+Guo WL	Autism spectrum disorder	Janus kinase 2	1
+Wu YT	Autism spectrum disorder	Janus kinase 2	1
+Alarcon Rodriguez R	Autism spectrum disorder	Janus kinase 2	1
+Requena Mullor MDM	Autism spectrum disorder	Janus kinase 2	1
+Gui YC	Autism spectrum disorder	Janus kinase 2	1
+Xu JW	Autism spectrum disorder	Janus kinase 2	1
+DelRosso LM	Autism spectrum disorder	transferrin	1
+Reuter-Yuill LM	Autism spectrum disorder	transferrin	1
+Cho Y	Autism spectrum disorder	transferrin	1
+Ferri R	Autism spectrum disorder	transferrin	1
+Mogavero MP	Autism spectrum disorder	transferrin	1
+Picchietti DL	Autism spectrum disorder	transferrin	1
+Iannone LF	Autism spectrum disorder	multiple sclerosis	1
+Gomez-Eguilaz M	Autism spectrum disorder	multiple sclerosis	1
+De Caro C	Autism spectrum disorder	multiple sclerosis	1
+Stolar O	Autism spectrum disorder	prolactin	1
+Hazan A	Autism spectrum disorder	prolactin	1
+Vissoker RE	Autism spectrum disorder	prolactin	1
+Kishk IA	Autism spectrum disorder	prolactin	1
+Barchel D	Autism spectrum disorder	prolactin	1
+Lezinger M	Autism spectrum disorder	prolactin	1
+Dagan A	Autism spectrum disorder	prolactin	1
+Treves N	Autism spectrum disorder	prolactin	1
+Meiri D	Autism spectrum disorder	prolactin	1
+Berkovitch M	Autism spectrum disorder	prolactin	1
+Kohn E	Autism spectrum disorder	prolactin	1
+Heyman E	Autism spectrum disorder	prolactin	1
+Frontiers Production Office	Autism spectrum disorder	caspase 8	1
+Syu GD	Autism spectrum disorder	monoamine oxidase A	1
+Sutandy FXR	Autism spectrum disorder	monoamine oxidase A	1
+Chen K	Autism spectrum disorder	monoamine oxidase A	1
+Cheng Y	Autism spectrum disorder	monoamine oxidase A	2
+Chen CS	Autism spectrum disorder	monoamine oxidase A	1
+Shih JC	Autism spectrum disorder	monoamine oxidase A	1
+Zhou B	Autism spectrum disorder	arginine vasopressin	2
+Yan X	Autism spectrum disorder	arginine vasopressin	2
+Yang L	Autism spectrum disorder	arginine vasopressin	1
+Zheng X	Autism spectrum disorder	arginine vasopressin	2
+Chen Y	Autism spectrum disorder	arginine vasopressin	3
+Liu Y	Autism spectrum disorder	arginine vasopressin	2
+Ren Y	Autism spectrum disorder	arginine vasopressin	1
+Peng J	Autism spectrum disorder	arginine vasopressin	2
+Zhang Y	Autism spectrum disorder	arginine vasopressin	7
+Huang J	Autism spectrum disorder	arginine vasopressin	1
+Tang L	Autism spectrum disorder	arginine vasopressin	2
+Wen M	Autism spectrum disorder	arginine vasopressin	2
+Song X	Autism spectrum disorder	protein kinase C beta	2
+Hu Q	Autism spectrum disorder	protein kinase C beta	2
+Xu X	Autism spectrum disorder	protein kinase C beta	4
+Pan W	Autism spectrum disorder	protein kinase C beta	2
+Song X	Autism spectrum disorder	uncoupling protein 1	2
+Hu Q	Autism spectrum disorder	uncoupling protein 1	2
+Xu X	Autism spectrum disorder	uncoupling protein 1	4
+Pan W	Autism spectrum disorder	uncoupling protein 1	2
+Silvestri R	Autism spectrum disorder	C-reactive protein	2
+Ipsiroglu OS	Autism spectrum disorder	C-reactive protein	2
+Silvestri R	Autism spectrum disorder	transferrin	2
+Ipsiroglu OS	Autism spectrum disorder	transferrin	2
+Coakley-Youngs E	Autism spectrum disorder	chromodomain helicase DNA binding protein 8	1
+Ranatunga M	Autism spectrum disorder	chromodomain helicase DNA binding protein 8	1
+Richardson S	Autism spectrum disorder	chromodomain helicase DNA binding protein 8	1
+Getti G	Autism spectrum disorder	chromodomain helicase DNA binding protein 8	1
+Shorter S	Autism spectrum disorder	chromodomain helicase DNA binding protein 8	1
+Fivaz M	Autism spectrum disorder	chromodomain helicase DNA binding protein 8	1
+Brusov OS	Autism spectrum disorder	myelin basic protein	1
+Klyushnik TP	Autism spectrum disorder	myelin basic protein	1
+Zozulya SA	Autism spectrum disorder	myelin basic protein	1
+Karpova NS	Autism spectrum disorder	myelin basic protein	1
+Shilov YE	Autism spectrum disorder	myelin basic protein	1
+Nikitina SG	Autism spectrum disorder	myelin basic protein	1
+Simashkova NV	Autism spectrum disorder	myelin basic protein	1
+Anne A	Autism spectrum disorder	catalase	1
+Saxena S	Autism spectrum disorder	catalase	1
+Mohan KN	Autism spectrum disorder	catalase	1
+Wongpaiboonwattana W	Autism spectrum disorder	dopamine beta-hydroxylase	1
+Hnoonual A	Autism spectrum disorder	dopamine beta-hydroxylase	1
+Limprasert P	Autism spectrum disorder	dopamine beta-hydroxylase	1
+Pappas J	Autism spectrum disorder	Coats disease	1
+Rabin R	Autism spectrum disorder	Coats disease	1
+Carey C	Autism spectrum disorder	parvalbumin	1
+Singh N	Autism spectrum disorder	parvalbumin	1
+Dunn JT	Autism spectrum disorder	parvalbumin	1
+Sementa T	Autism spectrum disorder	parvalbumin	1
+Mendez MA	Autism spectrum disorder	parvalbumin	1
+Velthuis H	Autism spectrum disorder	parvalbumin	1
+Pereira AC	Autism spectrum disorder	parvalbumin	1
+Pretzsch CM	Autism spectrum disorder	parvalbumin	1
+Horder J	Autism spectrum disorder	parvalbumin	1
+Hader S	Autism spectrum disorder	parvalbumin	1
+Lythgoe DJ	Autism spectrum disorder	parvalbumin	1
+Rotaru DG	Autism spectrum disorder	parvalbumin	1
+Gee A	Autism spectrum disorder	parvalbumin	1
+Cash D	Autism spectrum disorder	parvalbumin	1
+Veronese M	Autism spectrum disorder	parvalbumin	1
+Murphy D	Autism spectrum disorder	parvalbumin	1
+McAlonan G	Autism spectrum disorder	parvalbumin	1
+Singla R	Autism spectrum disorder	glutamate decarboxylase 1	1
+Mishra A	Autism spectrum disorder	glutamate decarboxylase 1	1
+Joshi R	Autism spectrum disorder	glutamate decarboxylase 1	1
+Sarma P	Autism spectrum disorder	glutamate decarboxylase 1	1
+Kumar R	Autism spectrum disorder	glutamate decarboxylase 1	1
+Kaur G	Autism spectrum disorder	glutamate decarboxylase 1	1
+Sharma AR	Autism spectrum disorder	glutamate decarboxylase 1	1
+Jain A	Autism spectrum disorder	glutamate decarboxylase 1	1
+Prakash A	Autism spectrum disorder	glutamate decarboxylase 1	1
+Bhatia A	Autism spectrum disorder	glutamate decarboxylase 1	1
+Medhi B	Autism spectrum disorder	glutamate decarboxylase 1	1
+Phunsawat P	Autism spectrum disorder	folate receptor alpha	1
+Chiangjong W	Autism spectrum disorder	folate receptor alpha	1
+Chutipongtanate S	Autism spectrum disorder	folate receptor alpha	1
+Dumrongwongsiri O	Autism spectrum disorder	folate receptor alpha	1
+Thommachot P	Autism spectrum disorder	folate receptor alpha	1
+Butdawong W	Autism spectrum disorder	folate receptor alpha	1
+Chuthapisith J	Autism spectrum disorder	folate receptor alpha	1
+Takashima K	Autism spectrum disorder	reelin	1
+Okano H	Autism spectrum disorder	reelin	1
+Ojiro R	Autism spectrum disorder	reelin	1
+Tang Q	Autism spectrum disorder	reelin	1
+Takahashi Y	Autism spectrum disorder	reelin	1
+Ozawa S	Autism spectrum disorder	reelin	1
+Zou X	Autism spectrum disorder	reelin	1
+Koyanagi M	Autism spectrum disorder	reelin	1
+Maronpot RR	Autism spectrum disorder	reelin	1
+Yoshida T	Autism spectrum disorder	reelin	1
+Shibutani M	Autism spectrum disorder	reelin	1
+Maurer MH	Autism spectrum disorder	adhesion G protein-coupled receptor L3	1
+Kohler A	Autism spectrum disorder	adhesion G protein-coupled receptor L3	1
+Hudemann M	Autism spectrum disorder	adhesion G protein-coupled receptor L3	1
+Jungling J	Autism spectrum disorder	adhesion G protein-coupled receptor L3	1
+Biskup S	Autism spectrum disorder	adhesion G protein-coupled receptor L3	1
+Menzel M	Autism spectrum disorder	adhesion G protein-coupled receptor L3	1
+Choi J	Autism spectrum disorder	monoamine oxidase B	1
+Kim YS	Autism spectrum disorder	monoamine oxidase B	1
+Kim MH	Autism spectrum disorder	monoamine oxidase B	1
+Kim HJ	Autism spectrum disorder	monoamine oxidase B	1
+Yoon BE	Autism spectrum disorder	monoamine oxidase B	1
+Zhang Y	Autism spectrum disorder	nuclear receptor subfamily 4 group A member 1	7
+Pang Y	Autism spectrum disorder	nuclear receptor subfamily 4 group A member 1	1
+Feng W	Autism spectrum disorder	nuclear receptor subfamily 4 group A member 1	1
+Jin Y	Autism spectrum disorder	nuclear receptor subfamily 4 group A member 1	1
+Chen S	Autism spectrum disorder	nuclear receptor subfamily 4 group A member 1	1
+Ding S	Autism spectrum disorder	nuclear receptor subfamily 4 group A member 1	1
+Wang Z	Autism spectrum disorder	nuclear receptor subfamily 4 group A member 1	4
+Zou Y	Autism spectrum disorder	nuclear receptor subfamily 4 group A member 1	1
+Li Y	Autism spectrum disorder	nuclear receptor subfamily 4 group A member 1	3
+Wang T	Autism spectrum disorder	nuclear receptor subfamily 4 group A member 1	1
+Sun P	Autism spectrum disorder	nuclear receptor subfamily 4 group A member 1	1
+Gao J	Autism spectrum disorder	nuclear receptor subfamily 4 group A member 1	1
+Zhu Y	Autism spectrum disorder	nuclear receptor subfamily 4 group A member 1	2
+Ke X	Autism spectrum disorder	nuclear receptor subfamily 4 group A member 1	1
+Marshall C	Autism spectrum disorder	nuclear receptor subfamily 4 group A member 1	1
+Huang H	Autism spectrum disorder	nuclear receptor subfamily 4 group A member 1	1
+Sheng C	Autism spectrum disorder	nuclear receptor subfamily 4 group A member 1	1
+Xiao M	Autism spectrum disorder	nuclear receptor subfamily 4 group A member 1	1
+Niehaus AD	Autism spectrum disorder	arginine-glutamic acid dipeptide repeats	1
+Kim J	Autism spectrum disorder	arginine-glutamic acid dipeptide repeats	1
+Manning MA	Autism spectrum disorder	arginine-glutamic acid dipeptide repeats	1
+Li LS	Autism spectrum disorder	retinoic acid receptor alpha	2
+Zhang Q	Autism spectrum disorder	retinoic acid receptor alpha	3
+Liu H	Autism spectrum disorder	retinoic acid receptor alpha	3
+Wu QH	Autism spectrum disorder	retinoic acid receptor alpha	2
+Yang T	Autism spectrum disorder	retinoic acid receptor alpha	3
+Chen J	Autism spectrum disorder	retinoic acid receptor alpha	5
+Li TY	Autism spectrum disorder	retinoic acid receptor alpha	2
+Li LS	Autism spectrum disorder	neurexin 1	2
+Zhang Q	Autism spectrum disorder	neurexin 1	3
+Liu H	Autism spectrum disorder	neurexin 1	3
+Wu QH	Autism spectrum disorder	neurexin 1	2
+Yang T	Autism spectrum disorder	neurexin 1	3
+Chen J	Autism spectrum disorder	neurexin 1	5
+Li TY	Autism spectrum disorder	neurexin 1	2
+Tamayo JM	Autism spectrum disorder	interferon gamma	2
+Rose D	Autism spectrum disorder	interferon gamma	2
+Church JS	Autism spectrum disorder	interferon gamma	2
+Schwartzer JJ	Autism spectrum disorder	interferon gamma	2
+Ashwood P	Autism spectrum disorder	interferon gamma	2
+Tamayo JM	Autism spectrum disorder	tumor necrosis factor	2
+Rose D	Autism spectrum disorder	tumor necrosis factor	2
+Church JS	Autism spectrum disorder	tumor necrosis factor	2
+Schwartzer JJ	Autism spectrum disorder	tumor necrosis factor	2
+Ashwood P	Autism spectrum disorder	tumor necrosis factor	2
+Sen P	Autism spectrum disorder	arginine vasopressin	1
+Sherwin E	Autism spectrum disorder	arginine vasopressin	1
+Sandhu K	Autism spectrum disorder	arginine vasopressin	1
+Bastiaanssen TFS	Autism spectrum disorder	arginine vasopressin	1
+Moloney GM	Autism spectrum disorder	arginine vasopressin	1
+Golubeva A	Autism spectrum disorder	arginine vasopressin	1
+Fitzgerald P	Autism spectrum disorder	arginine vasopressin	1
+Paula Ventura Da Silva A	Autism spectrum disorder	arginine vasopressin	1
+Chruscicka-Smaga B	Autism spectrum disorder	arginine vasopressin	1
+Olavarria-Ramirez L	Autism spectrum disorder	arginine vasopressin	1
+Druelle C	Autism spectrum disorder	arginine vasopressin	1
+Campos D	Autism spectrum disorder	arginine vasopressin	1
+Jayaprakash P	Autism spectrum disorder	arginine vasopressin	2
+Rea K	Autism spectrum disorder	arginine vasopressin	1
+Jeffery IB	Autism spectrum disorder	arginine vasopressin	1
+Savignac H	Autism spectrum disorder	arginine vasopressin	1
+Chetal S	Autism spectrum disorder	arginine vasopressin	1
+Mulder I	Autism spectrum disorder	arginine vasopressin	1
+Schellekens H	Autism spectrum disorder	arginine vasopressin	1
+Dinan TG	Autism spectrum disorder	arginine vasopressin	1
+Cryan JF	Autism spectrum disorder	arginine vasopressin	1
+Anyachor CP	Autism spectrum disorder	multiple sclerosis	1
+Dooka DB	Autism spectrum disorder	multiple sclerosis	1
+Orish CN	Autism spectrum disorder	multiple sclerosis	1
+Amadi CN	Autism spectrum disorder	multiple sclerosis	1
+Bocca B	Autism spectrum disorder	multiple sclerosis	1
+Ruggieri F	Autism spectrum disorder	multiple sclerosis	1
+Senofonte M	Autism spectrum disorder	multiple sclerosis	1
+Frazzoli C	Autism spectrum disorder	multiple sclerosis	1
+Orisakwe OE	Autism spectrum disorder	multiple sclerosis	1
+Rozhkova IN	Autism spectrum disorder	doublecortin	1
+Okotrub SV	Autism spectrum disorder	doublecortin	1
+Brusentsev EY	Autism spectrum disorder	doublecortin	1
+Uldanova EE	Autism spectrum disorder	doublecortin	1
+Chuyko Ecapital A, Cyrillic	Autism spectrum disorder	doublecortin	1
+Lipina TV	Autism spectrum disorder	doublecortin	1
+Amstislavskaya TG	Autism spectrum disorder	doublecortin	1
+Amstislavsky SY	Autism spectrum disorder	doublecortin	1
+Robinson-Agramonte MLA	Autism spectrum disorder	insulin	1
+Michalski B	Autism spectrum disorder	insulin	1
+Vidal-Martinez B	Autism spectrum disorder	insulin	1
+Hernandez LR	Autism spectrum disorder	insulin	1
+Santiesteban MW	Autism spectrum disorder	insulin	1
+Fahnestock M	Autism spectrum disorder	insulin	1
+Shirinian M	Autism spectrum disorder	histone deacetylase 2	1
+Chen C	Autism spectrum disorder	histone deacetylase 2	2
+Uchida S	Autism spectrum disorder	histone deacetylase 2	1
+Jadavji NM	Autism spectrum disorder	histone deacetylase 2	1
+Yang X	Autism spectrum disorder	ST8 alpha-N-acetyl-neuraminide alpha-2,8-sialyltransferase 2	2
+Li L	Autism spectrum disorder	ST8 alpha-N-acetyl-neuraminide alpha-2,8-sialyltransferase 2	5
+Chai X	Autism spectrum disorder	ST8 alpha-N-acetyl-neuraminide alpha-2,8-sialyltransferase 2	1
+Liu J	Autism spectrum disorder	ST8 alpha-N-acetyl-neuraminide alpha-2,8-sialyltransferase 2	3
+Zhang Z	Autism spectrum disorder	vitamin D receptor	3
+Liu J	Autism spectrum disorder	vitamin D receptor	3
+Jiang G	Autism spectrum disorder	vitamin D receptor	1
+Yu H	Autism spectrum disorder	vitamin D receptor	2
+Kattner AA	Autism spectrum disorder	multiple sclerosis	1
+Sherman HT	Autism spectrum disorder	dopamine receptor D1	1
+Liu K	Autism spectrum disorder	dopamine receptor D1	1
+Kwong K	Autism spectrum disorder	dopamine receptor D1	1
+Chan ST	Autism spectrum disorder	dopamine receptor D1	1
+Li AC	Autism spectrum disorder	dopamine receptor D1	1
+Kong XJ	Autism spectrum disorder	dopamine receptor D1	1
+Xu S	Autism spectrum disorder	methylenetetrahydrofolate reductase	1
+Men S	Autism spectrum disorder	methylenetetrahydrofolate reductase	1
+Wang X	Autism spectrum disorder	methylenetetrahydrofolate reductase	3
+Zhan F	Autism spectrum disorder	methylenetetrahydrofolate reductase	1
+Yuan X	Autism spectrum disorder	methylenetetrahydrofolate reductase	1
+Lombardo B	Autism spectrum disorder	D-aspartate oxidase	1
+Pagani M	Autism spectrum disorder	D-aspartate oxidase	1
+De Rosa A	Autism spectrum disorder	D-aspartate oxidase	1
+Nunziato M	Autism spectrum disorder	D-aspartate oxidase	1
+Migliarini S	Autism spectrum disorder	D-aspartate oxidase	1
+Garofalo M	Autism spectrum disorder	D-aspartate oxidase	1
+Terrile M	Autism spectrum disorder	D-aspartate oxidase	1
+D'Argenio V	Autism spectrum disorder	D-aspartate oxidase	1
+Galbusera A	Autism spectrum disorder	D-aspartate oxidase	1
+Nuzzo T	Autism spectrum disorder	D-aspartate oxidase	1
+Ranieri A	Autism spectrum disorder	D-aspartate oxidase	1
+Vitale A	Autism spectrum disorder	D-aspartate oxidase	1
+Leggiero E	Autism spectrum disorder	D-aspartate oxidase	1
+Di Maio A	Autism spectrum disorder	D-aspartate oxidase	1
+Barsotti N	Autism spectrum disorder	D-aspartate oxidase	1
+Borello U	Autism spectrum disorder	D-aspartate oxidase	1
+Napolitano F	Autism spectrum disorder	D-aspartate oxidase	1
+Mandarino A	Autism spectrum disorder	D-aspartate oxidase	1
+Carotenuto M	Autism spectrum disorder	D-aspartate oxidase	1
+Heresco-Levy U	Autism spectrum disorder	D-aspartate oxidase	1
+Pasqualetti M	Autism spectrum disorder	D-aspartate oxidase	1
+Malatesta P	Autism spectrum disorder	D-aspartate oxidase	1
+Gozzi A	Autism spectrum disorder	D-aspartate oxidase	1
+Errico F	Autism spectrum disorder	D-aspartate oxidase	1
+Salvatore F	Autism spectrum disorder	D-aspartate oxidase	1
+Pastore L	Autism spectrum disorder	D-aspartate oxidase	1
+Usiello A	Autism spectrum disorder	D-aspartate oxidase	1
+Takayama K	Autism spectrum disorder	oxytocin receptor	1
+Tobori S	Autism spectrum disorder	oxytocin receptor	1
+Andoh C	Autism spectrum disorder	oxytocin receptor	1
+Kakae M	Autism spectrum disorder	oxytocin receptor	1
+Hagiwara M	Autism spectrum disorder	oxytocin receptor	1
+Nagayasu K	Autism spectrum disorder	oxytocin receptor	1
+Shirakawa H	Autism spectrum disorder	oxytocin receptor	1
+Ago Y	Autism spectrum disorder	oxytocin receptor	1
+Kaneko S	Autism spectrum disorder	oxytocin receptor	1
+Mueller FS	Autism spectrum disorder	parvalbumin	1
+Amport R	Autism spectrum disorder	parvalbumin	1
+Notter T	Autism spectrum disorder	parvalbumin	1
+Schalbetter SM	Autism spectrum disorder	parvalbumin	1
+Lin HY	Autism spectrum disorder	parvalbumin	1
+Garajova Z	Autism spectrum disorder	parvalbumin	1
+Amini P	Autism spectrum disorder	parvalbumin	1
+Weber-Stadlbauer U	Autism spectrum disorder	parvalbumin	1
+Markkanen E	Autism spectrum disorder	parvalbumin	1
+Ishihara Y	Autism spectrum disorder	C-C motif chemokine ligand 3	1
+Honda T	Autism spectrum disorder	C-C motif chemokine ligand 3	1
+Ishihara N	Autism spectrum disorder	C-C motif chemokine ligand 3	1
+Namba K	Autism spectrum disorder	C-C motif chemokine ligand 3	1
+Taketoshi M	Autism spectrum disorder	C-C motif chemokine ligand 3	1
+Tominaga Y	Autism spectrum disorder	C-C motif chemokine ligand 3	1
+Tsuji M	Autism spectrum disorder	C-C motif chemokine ligand 3	1
+Vogel CFA	Autism spectrum disorder	C-C motif chemokine ligand 3	1
+Yamazaki T	Autism spectrum disorder	C-C motif chemokine ligand 3	1
+Itoh K	Autism spectrum disorder	C-C motif chemokine ligand 3	1
+Tominaga T	Autism spectrum disorder	C-C motif chemokine ligand 3	1
+Durankus F	Autism spectrum disorder	nerve growth factor	1
+Albayrak Y	Autism spectrum disorder	nerve growth factor	2
+Erdogan F	Autism spectrum disorder	nerve growth factor	1
+Albayrak N	Autism spectrum disorder	nerve growth factor	1
+Erdogan MA	Autism spectrum disorder	nerve growth factor	4
+Erbas O	Autism spectrum disorder	nerve growth factor	5
+Kummer S	Autism spectrum disorder	insulin	1
+Rinne S	Autism spectrum disorder	insulin	1
+Seemann G	Autism spectrum disorder	insulin	1
+Bachmann N	Autism spectrum disorder	insulin	1
+Timothy K	Autism spectrum disorder	insulin	1
+Thornton PS	Autism spectrum disorder	insulin	1
+Pillekamp F	Autism spectrum disorder	insulin	1
+Mayatepek E	Autism spectrum disorder	insulin	1
+Bergmann C	Autism spectrum disorder	insulin	1
+Meissner T	Autism spectrum disorder	insulin	1
+Decher N	Autism spectrum disorder	insulin	1
+Guiducci L	Autism spectrum disorder	leptin	3
+Vassalle C	Autism spectrum disorder	leptin	3
+Prosperi M	Autism spectrum disorder	leptin	3
+Santocchi E	Autism spectrum disorder	leptin	3
+Morales MA	Autism spectrum disorder	leptin	3
+Muratori F	Autism spectrum disorder	leptin	3
+Calderoni S	Autism spectrum disorder	leptin	3
+Guiducci L	Autism spectrum disorder	insulin	3
+Vassalle C	Autism spectrum disorder	insulin	3
+Prosperi M	Autism spectrum disorder	insulin	3
+Santocchi E	Autism spectrum disorder	insulin	3
+Morales MA	Autism spectrum disorder	insulin	3
+Muratori F	Autism spectrum disorder	insulin	3
+Calderoni S	Autism spectrum disorder	insulin	3
+Guiducci L	Autism spectrum disorder	resistin	3
+Vassalle C	Autism spectrum disorder	resistin	3
+Prosperi M	Autism spectrum disorder	resistin	3
+Santocchi E	Autism spectrum disorder	resistin	3
+Morales MA	Autism spectrum disorder	resistin	3
+Muratori F	Autism spectrum disorder	resistin	3
+Calderoni S	Autism spectrum disorder	resistin	3
+Florea T	Autism spectrum disorder	oxytocin receptor	1
+Palimariciuc M	Autism spectrum disorder	oxytocin receptor	1
+Cristofor AC	Autism spectrum disorder	oxytocin receptor	1
+Dobrin I	Autism spectrum disorder	oxytocin receptor	1
+Chirita R	Autism spectrum disorder	oxytocin receptor	1
+Birsan M	Autism spectrum disorder	oxytocin receptor	1
+Dobrin RP	Autism spectrum disorder	oxytocin receptor	1
+Padurariu M	Autism spectrum disorder	oxytocin receptor	1
+Jagadapillai R	Autism spectrum disorder	albumin	1
+Qiu X	Autism spectrum disorder	albumin	1
+Ojha K	Autism spectrum disorder	albumin	1
+Li Z	Autism spectrum disorder	albumin	4
+El-Baz A	Autism spectrum disorder	albumin	1
+Zou S	Autism spectrum disorder	albumin	1
+Gozal E	Autism spectrum disorder	albumin	1
+Barnes GN	Autism spectrum disorder	albumin	1
+Esnafoglu E	Autism spectrum disorder	C-reactive protein	1
+Subasi B	Autism spectrum disorder	C-reactive protein	1
+Xiang L	Autism spectrum disorder	parvalbumin	1
+Wu Q	Autism spectrum disorder	parvalbumin	1
+Sun H	Autism spectrum disorder	parvalbumin	2
+Miao X	Autism spectrum disorder	parvalbumin	1
+Lv Z	Autism spectrum disorder	parvalbumin	1
+Liu H	Autism spectrum disorder	parvalbumin	3
+Chen L	Autism spectrum disorder	parvalbumin	1
+Gu Y	Autism spectrum disorder	parvalbumin	2
+Chen J	Autism spectrum disorder	parvalbumin	5
+Zhou S	Autism spectrum disorder	parvalbumin	1
+Jiang H	Autism spectrum disorder	parvalbumin	1
+Du S	Autism spectrum disorder	parvalbumin	1
+Zhou Y	Autism spectrum disorder	parvalbumin	2
+Dong H	Autism spectrum disorder	parvalbumin	1
+Fan Y	Autism spectrum disorder	parvalbumin	1
+Miao S	Autism spectrum disorder	parvalbumin	1
+Lu Q	Autism spectrum disorder	parvalbumin	1
+Chang L	Autism spectrum disorder	parvalbumin	1
+Wang H	Autism spectrum disorder	parvalbumin	4
+Lu Y	Autism spectrum disorder	parvalbumin	1
+Xu X	Autism spectrum disorder	parvalbumin	4
+Wang W	Autism spectrum disorder	parvalbumin	1
+Huang Z	Autism spectrum disorder	parvalbumin	1
+Akbari M	Autism spectrum disorder	FOXP3 regulating long intergenic non-coding RNA	1
+Eghtedarian R	Autism spectrum disorder	FOXP3 regulating long intergenic non-coding RNA	1
+Hussen BM	Autism spectrum disorder	FOXP3 regulating long intergenic non-coding RNA	1
+Eslami S	Autism spectrum disorder	FOXP3 regulating long intergenic non-coding RNA	1
+Taheri M	Autism spectrum disorder	FOXP3 regulating long intergenic non-coding RNA	1
+Neishabouri SM	Autism spectrum disorder	FOXP3 regulating long intergenic non-coding RNA	1
+Ghafouri-Fard S	Autism spectrum disorder	FOXP3 regulating long intergenic non-coding RNA	1
+Johannessen M	Autism spectrum disorder	protocadherin 19	1
+Kjellsen IM	Autism spectrum disorder	protocadherin 19	1
+Malt E	Autism spectrum disorder	protocadherin 19	1
+Frehner SS	Autism spectrum disorder	oxytocin receptor	2
+Dooley KT	Autism spectrum disorder	oxytocin receptor	2
+Palumbo MC	Autism spectrum disorder	oxytocin receptor	2
+Smith AL	Autism spectrum disorder	oxytocin receptor	2
+Goodman MM	Autism spectrum disorder	oxytocin receptor	2
+Bales KL	Autism spectrum disorder	oxytocin receptor	2
+Freeman SM	Autism spectrum disorder	oxytocin receptor	2
+Frehner SS	Autism spectrum disorder	tyrosine hydroxylase	2
+Dooley KT	Autism spectrum disorder	tyrosine hydroxylase	2
+Palumbo MC	Autism spectrum disorder	tyrosine hydroxylase	2
+Smith AL	Autism spectrum disorder	tyrosine hydroxylase	2
+Goodman MM	Autism spectrum disorder	tyrosine hydroxylase	2
+Bales KL	Autism spectrum disorder	tyrosine hydroxylase	2
+Freeman SM	Autism spectrum disorder	tyrosine hydroxylase	2
+Sare RM	Autism spectrum disorder	ribosomal protein S6	1
+Torossian A	Autism spectrum disorder	ribosomal protein S6	1
+Loutaev I	Autism spectrum disorder	ribosomal protein S6	1
+Smith CB	Autism spectrum disorder	ribosomal protein S6	1
+Chu MC	Autism spectrum disorder	gephyrin	1
+Wu HF	Autism spectrum disorder	gephyrin	1
+Lee CW	Autism spectrum disorder	gephyrin	1
+Chung YJ	Autism spectrum disorder	gephyrin	1
+Chi H	Autism spectrum disorder	gephyrin	1
+Chen PS	Autism spectrum disorder	gephyrin	1
+Lin HC	Autism spectrum disorder	gephyrin	1
+Mitchell AJ	Autism spectrum disorder	leptin	1
+Khambadkone SG	Autism spectrum disorder	leptin	1
+Dunn G	Autism spectrum disorder	leptin	1
+Bagley J	Autism spectrum disorder	leptin	1
+Tamashiro KLK	Autism spectrum disorder	leptin	1
+Fair D	Autism spectrum disorder	leptin	1
+Gustafsson H	Autism spectrum disorder	leptin	1
+Sullivan EL	Autism spectrum disorder	leptin	1
+Zorn S	Autism spectrum disorder	leptin receptor	1
+von Schnurbein J	Autism spectrum disorder	leptin receptor	1
+Schirmer M	Autism spectrum disorder	leptin receptor	1
+Brandt S	Autism spectrum disorder	leptin receptor	1
+Wabitsch M	Autism spectrum disorder	leptin receptor	1
+Kalinowska M	Autism spectrum disorder	parvalbumin	2
+van der Lei MB	Autism spectrum disorder	parvalbumin	2
+Kitiashvili M	Autism spectrum disorder	parvalbumin	2
+Mamcarz M	Autism spectrum disorder	parvalbumin	2
+Oliveira MM	Autism spectrum disorder	parvalbumin	2
+Longo F	Autism spectrum disorder	parvalbumin	2
+Klann E	Autism spectrum disorder	parvalbumin	2
+Kalinowska M	Autism spectrum disorder	somatostatin	2
+van der Lei MB	Autism spectrum disorder	somatostatin	2
+Kitiashvili M	Autism spectrum disorder	somatostatin	2
+Mamcarz M	Autism spectrum disorder	somatostatin	2
+Oliveira MM	Autism spectrum disorder	somatostatin	2
+Longo F	Autism spectrum disorder	somatostatin	2
+Klann E	Autism spectrum disorder	somatostatin	2
+Morelli KH	Autism spectrum disorder	methyl-CpG binding protein 2	1
+Jin W	Autism spectrum disorder	methyl-CpG binding protein 2	1
+Shathe S	Autism spectrum disorder	methyl-CpG binding protein 2	1
+Madrigal AA	Autism spectrum disorder	methyl-CpG binding protein 2	1
+Jones KL	Autism spectrum disorder	methyl-CpG binding protein 2	1
+Schwartz JL	Autism spectrum disorder	methyl-CpG binding protein 2	1
+Bridges T	Autism spectrum disorder	methyl-CpG binding protein 2	1
+Mueller JR	Autism spectrum disorder	methyl-CpG binding protein 2	1
+Shankar A	Autism spectrum disorder	methyl-CpG binding protein 2	1
+Chaim IA	Autism spectrum disorder	methyl-CpG binding protein 2	1
+Day JW	Autism spectrum disorder	methyl-CpG binding protein 2	1
+Yeo GW	Autism spectrum disorder	methyl-CpG binding protein 2	1
+Zhang H	Autism spectrum disorder	neuraminidase 1	6
+Gu Y	Autism spectrum disorder	neuraminidase 1	2
+He W	Autism spectrum disorder	neuraminidase 1	1
+Kuo F	Autism spectrum disorder	neuraminidase 1	1
+Zhang Y	Autism spectrum disorder	neuraminidase 1	7
+Wang D	Autism spectrum disorder	neuraminidase 1	3
+He L	Autism spectrum disorder	neuraminidase 1	1
+Yang Y	Autism spectrum disorder	neuraminidase 1	1
+Wang H	Autism spectrum disorder	neuraminidase 1	4
+Chen Y	Autism spectrum disorder	neuraminidase 1	3
+Vernocchi P	Autism spectrum disorder	lysozyme	1
+Ristori MV	Autism spectrum disorder	lysozyme	1
+Guerrera S	Autism spectrum disorder	lysozyme	1
+Guarrasi V	Autism spectrum disorder	lysozyme	1
+Conte F	Autism spectrum disorder	lysozyme	1
+Russo A	Autism spectrum disorder	lysozyme	1
+Lupi E	Autism spectrum disorder	lysozyme	1
+Albitar-Nehme S	Autism spectrum disorder	lysozyme	1
+Gardini S	Autism spectrum disorder	lysozyme	1
+Paci P	Autism spectrum disorder	lysozyme	1
+Ianiro G	Autism spectrum disorder	lysozyme	1
+Vicari S	Autism spectrum disorder	lysozyme	1
+Gasbarrini A	Autism spectrum disorder	lysozyme	1
+Putignani L	Autism spectrum disorder	lysozyme	1
+Deng J	Autism spectrum disorder	BR serine/threonine kinase 2	1
+Wang Y	Autism spectrum disorder	BR serine/threonine kinase 2	7
+Hu M	Autism spectrum disorder	BR serine/threonine kinase 2	1
+Lin J	Autism spectrum disorder	BR serine/threonine kinase 2	5
+Li Q	Autism spectrum disorder	BR serine/threonine kinase 2	1
+Liu C	Autism spectrum disorder	BR serine/threonine kinase 2	1
+Xu X	Autism spectrum disorder	BR serine/threonine kinase 2	4
+Lim HK	Autism spectrum disorder	methyl-CpG binding protein 2	3
+Yoon JH	Autism spectrum disorder	methyl-CpG binding protein 2	3
+Song M	Autism spectrum disorder	methyl-CpG binding protein 2	3
+Lim HK	Autism spectrum disorder	neurexin 1	3
+Yoon JH	Autism spectrum disorder	neurexin 1	3
+Song M	Autism spectrum disorder	neurexin 1	3
+Lim HK	Autism spectrum disorder	chromodomain helicase DNA binding protein 8	3
+Yoon JH	Autism spectrum disorder	chromodomain helicase DNA binding protein 8	3
+Song M	Autism spectrum disorder	chromodomain helicase DNA binding protein 8	3
+Liu X	Autism spectrum disorder	E1A binding protein p300	7
+Wang Z	Autism spectrum disorder	E1A binding protein p300	4
+Zhang X	Autism spectrum disorder	E1A binding protein p300	7
+Zhang D	Autism spectrum disorder	E1A binding protein p300	3
+Yang Q	Autism spectrum disorder	E1A binding protein p300	5
+Hu P	Autism spectrum disorder	E1A binding protein p300	2
+Li F	Autism spectrum disorder	E1A binding protein p300	2
+Liu X	Autism spectrum disorder	cadherin 2	7
+Wang Z	Autism spectrum disorder	cadherin 2	4
+Zhang X	Autism spectrum disorder	cadherin 2	7
+Zhang D	Autism spectrum disorder	cadherin 2	3
+Yang Q	Autism spectrum disorder	cadherin 2	5
+Hu P	Autism spectrum disorder	cadherin 2	2
+Li F	Autism spectrum disorder	cadherin 2	2
+Sharma A	Autism spectrum disorder	myelin basic protein	1
+Bhalla S	Autism spectrum disorder	myelin basic protein	3
+Mehan S	Autism spectrum disorder	myelin basic protein	3
+Tovo PA	Autism spectrum disorder	multiple sclerosis	1
+Davico C	Autism spectrum disorder	multiple sclerosis	1
+Marcotulli D	Autism spectrum disorder	multiple sclerosis	1
+Vitiello B	Autism spectrum disorder	multiple sclerosis	1
+Dapra V	Autism spectrum disorder	multiple sclerosis	1
+Calvi C	Autism spectrum disorder	multiple sclerosis	1
+Montanari P	Autism spectrum disorder	multiple sclerosis	1
+Carpino A	Autism spectrum disorder	multiple sclerosis	1
+Galliano I	Autism spectrum disorder	multiple sclerosis	1
+Bergallo M	Autism spectrum disorder	multiple sclerosis	1
+Hashimoto Y	Autism spectrum disorder	dystrophin	1
+Kuniishi H	Autism spectrum disorder	dystrophin	1
+Sakai K	Autism spectrum disorder	dystrophin	1
+Fukushima Y	Autism spectrum disorder	dystrophin	1
+Du X	Autism spectrum disorder	dystrophin	1
+Yamashiro K	Autism spectrum disorder	dystrophin	1
+Hori K	Autism spectrum disorder	dystrophin	1
+Imamura M	Autism spectrum disorder	dystrophin	1
+Hoshino M	Autism spectrum disorder	dystrophin	1
+Yamada M	Autism spectrum disorder	dystrophin	1
+Araki T	Autism spectrum disorder	dystrophin	1
+Sakagami H	Autism spectrum disorder	dystrophin	1
+Takeda S	Autism spectrum disorder	dystrophin	1
+Itaka K	Autism spectrum disorder	dystrophin	1
+Ichinohe N	Autism spectrum disorder	dystrophin	1
+Muntoni F	Autism spectrum disorder	dystrophin	1
+Sekiguchi M	Autism spectrum disorder	dystrophin	1
+Aoki Y	Autism spectrum disorder	dystrophin	1
+Sivasangari K	Autism spectrum disorder	nerve growth factor	3
+Rajan KE	Autism spectrum disorder	nerve growth factor	3
+Sivasangari K	Autism spectrum disorder	glial fibrillary acidic protein	3
+Rajan KE	Autism spectrum disorder	glial fibrillary acidic protein	3
+Sivasangari K	Autism spectrum disorder	proliferating cell nuclear antigen	3
+Rajan KE	Autism spectrum disorder	proliferating cell nuclear antigen	3
+Serra I	Autism spectrum disorder	parvalbumin	1
+Stravs A	Autism spectrum disorder	parvalbumin	1
+Osorio C	Autism spectrum disorder	parvalbumin	1
+Oyaga MR	Autism spectrum disorder	parvalbumin	1
+Schonewille M	Autism spectrum disorder	parvalbumin	1
+Tudorache C	Autism spectrum disorder	parvalbumin	1
+Badura A	Autism spectrum disorder	parvalbumin	1
+Alsayouf HA	Autism spectrum disorder	prolactin	1
+Talo H	Autism spectrum disorder	prolactin	1
+Biddappa ML	Autism spectrum disorder	prolactin	1
+He Z	Autism spectrum disorder	doublecortin	1
+Vitale RJ	Autism spectrum disorder	parathyroid hormone	1
+Shieh HF	Autism spectrum disorder	parathyroid hormone	1
+Modi BP	Autism spectrum disorder	parathyroid hormone	1
+Gordon RJ	Autism spectrum disorder	parathyroid hormone	1
+Ozkul B	Autism spectrum disorder	tumor necrosis factor	2
+Urfali FE	Autism spectrum disorder	tumor necrosis factor	2
+Sever IH	Autism spectrum disorder	tumor necrosis factor	2
+Bozkurt MF	Autism spectrum disorder	tumor necrosis factor	3
+Sogut I	Autism spectrum disorder	tumor necrosis factor	2
+Elgormus CS	Autism spectrum disorder	tumor necrosis factor	2
+Erdogan MA	Autism spectrum disorder	tumor necrosis factor	4
+Erbas O	Autism spectrum disorder	tumor necrosis factor	5
+Ozkul B	Autism spectrum disorder	glial fibrillary acidic protein	2
+Urfali FE	Autism spectrum disorder	glial fibrillary acidic protein	2
+Sever IH	Autism spectrum disorder	glial fibrillary acidic protein	2
+Bozkurt MF	Autism spectrum disorder	glial fibrillary acidic protein	3
+Sogut I	Autism spectrum disorder	glial fibrillary acidic protein	2
+Elgormus CS	Autism spectrum disorder	glial fibrillary acidic protein	2
+Erdogan MA	Autism spectrum disorder	glial fibrillary acidic protein	4
+Erbas O	Autism spectrum disorder	glial fibrillary acidic protein	5
+Dhaliwal KK	Autism spectrum disorder	leptin	1
+Avedzi HM	Autism spectrum disorder	leptin	1
+Richard C	Autism spectrum disorder	leptin	1
+Zwaigenbaum L	Autism spectrum disorder	leptin	1
+Haqq AM	Autism spectrum disorder	leptin	1
+Vancolen S	Autism spectrum disorder	androgen receptor	1
+Ayash T	Autism spectrum disorder	androgen receptor	1
+Segura M	Autism spectrum disorder	androgen receptor	1
+Allard MJ	Autism spectrum disorder	androgen receptor	1
+Robaire B	Autism spectrum disorder	androgen receptor	1
+Sebire G	Autism spectrum disorder	androgen receptor	1
+Shih PY	Autism spectrum disorder	cortactin	1
+Fang YL	Autism spectrum disorder	cortactin	1
+Shankar S	Autism spectrum disorder	cortactin	1
+Lee SP	Autism spectrum disorder	cortactin	1
+Hu HT	Autism spectrum disorder	cortactin	1
+Chen H	Autism spectrum disorder	cortactin	1
+Wang TF	Autism spectrum disorder	cortactin	1
+Hsia KC	Autism spectrum disorder	cortactin	1
+Hsueh YP	Autism spectrum disorder	cortactin	1
+Yu D	Autism spectrum disorder	parvalbumin	2
+Li T	Autism spectrum disorder	parvalbumin	2
+Delpech JC	Autism spectrum disorder	parvalbumin	2
+Zhu B	Autism spectrum disorder	parvalbumin	2
+Kishore P	Autism spectrum disorder	parvalbumin	2
+Koshi T	Autism spectrum disorder	parvalbumin	2
+Luo R	Autism spectrum disorder	parvalbumin	2
+Pratt KJB	Autism spectrum disorder	parvalbumin	2
+Popova G	Autism spectrum disorder	parvalbumin	2
+Nowakowski TJ	Autism spectrum disorder	parvalbumin	2
+Villeda SA	Autism spectrum disorder	parvalbumin	2
+Piao X	Autism spectrum disorder	parvalbumin	2
+Yu D	Autism spectrum disorder	tumor necrosis factor	2
+Li T	Autism spectrum disorder	tumor necrosis factor	2
+Delpech JC	Autism spectrum disorder	tumor necrosis factor	2
+Zhu B	Autism spectrum disorder	tumor necrosis factor	2
+Kishore P	Autism spectrum disorder	tumor necrosis factor	2
+Koshi T	Autism spectrum disorder	tumor necrosis factor	2
+Luo R	Autism spectrum disorder	tumor necrosis factor	2
+Pratt KJB	Autism spectrum disorder	tumor necrosis factor	2
+Popova G	Autism spectrum disorder	tumor necrosis factor	2
+Nowakowski TJ	Autism spectrum disorder	tumor necrosis factor	2
+Villeda SA	Autism spectrum disorder	tumor necrosis factor	2
+Piao X	Autism spectrum disorder	tumor necrosis factor	2
+Brandenburg C	Autism spectrum disorder	parvalbumin	1
+Blatt GJ	Autism spectrum disorder	parvalbumin	1
+Suarez-Pereira I	Autism spectrum disorder	tyrosine hydroxylase	2
+Garcia-Dominguez I	Autism spectrum disorder	tyrosine hydroxylase	2
+Bravo L	Autism spectrum disorder	tyrosine hydroxylase	2
+Santiago M	Autism spectrum disorder	tyrosine hydroxylase	2
+Garcia-Revilla J	Autism spectrum disorder	tyrosine hydroxylase	2
+Espinosa-Oliva AM	Autism spectrum disorder	tyrosine hydroxylase	2
+Alonso-Bellido IM	Autism spectrum disorder	tyrosine hydroxylase	2
+Lopez-Martin C	Autism spectrum disorder	tyrosine hydroxylase	2
+Perez-Villegas EM	Autism spectrum disorder	tyrosine hydroxylase	2
+Armengol JA	Autism spectrum disorder	tyrosine hydroxylase	2
+Berrocoso E	Autism spectrum disorder	tyrosine hydroxylase	2
+Venero JL	Autism spectrum disorder	tyrosine hydroxylase	2
+de Pablos RM	Autism spectrum disorder	tyrosine hydroxylase	2
+Ruiz R	Autism spectrum disorder	tyrosine hydroxylase	2
+Suarez-Pereira I	Autism spectrum disorder	caspase 8	2
+Garcia-Dominguez I	Autism spectrum disorder	caspase 8	2
+Bravo L	Autism spectrum disorder	caspase 8	2
+Santiago M	Autism spectrum disorder	caspase 8	2
+Garcia-Revilla J	Autism spectrum disorder	caspase 8	2
+Espinosa-Oliva AM	Autism spectrum disorder	caspase 8	2
+Alonso-Bellido IM	Autism spectrum disorder	caspase 8	2
+Lopez-Martin C	Autism spectrum disorder	caspase 8	2
+Perez-Villegas EM	Autism spectrum disorder	caspase 8	2
+Armengol JA	Autism spectrum disorder	caspase 8	2
+Berrocoso E	Autism spectrum disorder	caspase 8	2
+Venero JL	Autism spectrum disorder	caspase 8	2
+de Pablos RM	Autism spectrum disorder	caspase 8	2
+Ruiz R	Autism spectrum disorder	caspase 8	2
+Perea V	Autism spectrum disorder	insulin	1
+Urquizu X	Autism spectrum disorder	insulin	1
+Valverde M	Autism spectrum disorder	insulin	1
+Macias M	Autism spectrum disorder	insulin	1
+Carmona A	Autism spectrum disorder	insulin	1
+Esteve E	Autism spectrum disorder	insulin	1
+Escribano G	Autism spectrum disorder	insulin	1
+Pons N	Autism spectrum disorder	insulin	1
+Gimenez O	Autism spectrum disorder	insulin	1
+Girones T	Autism spectrum disorder	insulin	1
+Simo-Servat A	Autism spectrum disorder	insulin	1
+Domenech A	Autism spectrum disorder	insulin	1
+Alonso-Carril N	Autism spectrum disorder	insulin	1
+Quiros C	Autism spectrum disorder	insulin	1
+Amor AJ	Autism spectrum disorder	insulin	1
+Lopez E	Autism spectrum disorder	insulin	1
+Barahona MJ	Autism spectrum disorder	insulin	1
+Catana A	Autism spectrum disorder	lysine methyltransferase 2E (inactive)	1
+Kutasi E	Autism spectrum disorder	lysine methyltransferase 2E (inactive)	1
+Cuzmici-Barabas Z	Autism spectrum disorder	lysine methyltransferase 2E (inactive)	1
+Militaru D	Autism spectrum disorder	lysine methyltransferase 2E (inactive)	1
+Iordanescu I	Autism spectrum disorder	lysine methyltransferase 2E (inactive)	1
+Militaru MS	Autism spectrum disorder	lysine methyltransferase 2E (inactive)	1
+Biswas M	Autism spectrum disorder	prolactin	1
+Vanwong N	Autism spectrum disorder	prolactin	1
+Sukasem C	Autism spectrum disorder	prolactin	1
+Santos-Terra J	Autism spectrum disorder	parvalbumin	2
+Deckmann I	Autism spectrum disorder	parvalbumin	2
+Carello-Collar G	Autism spectrum disorder	parvalbumin	2
+Nunes GD	Autism spectrum disorder	parvalbumin	2
+Bauer-Negrini G	Autism spectrum disorder	parvalbumin	2
+Schwingel GB	Autism spectrum disorder	parvalbumin	2
+Fontes-Dutra M	Autism spectrum disorder	parvalbumin	2
+Riesgo R	Autism spectrum disorder	parvalbumin	2
+Gottfried C	Autism spectrum disorder	parvalbumin	2
+Santos-Terra J	Autism spectrum disorder	somatostatin	2
+Deckmann I	Autism spectrum disorder	somatostatin	2
+Carello-Collar G	Autism spectrum disorder	somatostatin	2
+Nunes GD	Autism spectrum disorder	somatostatin	2
+Bauer-Negrini G	Autism spectrum disorder	somatostatin	2
+Schwingel GB	Autism spectrum disorder	somatostatin	2
+Fontes-Dutra M	Autism spectrum disorder	somatostatin	2
+Riesgo R	Autism spectrum disorder	somatostatin	2
+Gottfried C	Autism spectrum disorder	somatostatin	2
+D'haenens E	Autism spectrum disorder	beta-1,3-N-acetylgalactosaminyltransferase 2	1
+Vergult S	Autism spectrum disorder	beta-1,3-N-acetylgalactosaminyltransferase 2	1
+Menten B	Autism spectrum disorder	beta-1,3-N-acetylgalactosaminyltransferase 2	1
+Dheedene A	Autism spectrum disorder	beta-1,3-N-acetylgalactosaminyltransferase 2	1
+Kooy RF	Autism spectrum disorder	beta-1,3-N-acetylgalactosaminyltransferase 2	1
+Callewaert B	Autism spectrum disorder	beta-1,3-N-acetylgalactosaminyltransferase 2	1
+Westmark CJ	Autism spectrum disorder	leptin	1
+Filon MJ	Autism spectrum disorder	leptin	1
+Maina P	Autism spectrum disorder	leptin	1
+Steinberg LI	Autism spectrum disorder	leptin	1
+Ikonomidou C	Autism spectrum disorder	leptin	1
+Westmark PR	Autism spectrum disorder	leptin	1
+Luhach K	Autism spectrum disorder	brain derived neurotrophic factor	2
+Kulkarni GT	Autism spectrum disorder	brain derived neurotrophic factor	2
+Singh VP	Autism spectrum disorder	brain derived neurotrophic factor	2
+Sharma B	Autism spectrum disorder	brain derived neurotrophic factor	2
+Luhach K	Autism spectrum disorder	tumor necrosis factor	2
+Kulkarni GT	Autism spectrum disorder	tumor necrosis factor	2
+Singh VP	Autism spectrum disorder	tumor necrosis factor	2
+Sharma B	Autism spectrum disorder	tumor necrosis factor	2
+Vazifekhah S	Autism spectrum disorder	glutamate decarboxylase 2	1
+Barfi S	Autism spectrum disorder	glutamate decarboxylase 2	1
+Soleimany F	Autism spectrum disorder	glutamate decarboxylase 2	1
+Aliakbar A	Autism spectrum disorder	glutamate decarboxylase 2	1
+Zavvari F	Autism spectrum disorder	glutamate decarboxylase 2	1
+Karimzadeh F	Autism spectrum disorder	glutamate decarboxylase 2	1
+De Giacomo A	Autism spectrum disorder	transferrin	2
+Medicamento S	Autism spectrum disorder	transferrin	1
+Pedaci C	Autism spectrum disorder	transferrin	1
+Giambersio D	Autism spectrum disorder	transferrin	1
+Giannico OV	Autism spectrum disorder	transferrin	1
+Petruzzelli MG	Autism spectrum disorder	transferrin	1
+Simone M	Autism spectrum disorder	transferrin	2
+Corsalini M	Autism spectrum disorder	transferrin	1
+Marzulli L	Autism spectrum disorder	transferrin	2
+Matera E	Autism spectrum disorder	transferrin	1
+Xu Y	Autism spectrum disorder	tyrosine hydroxylase	1
+Wang Y	Autism spectrum disorder	tyrosine hydroxylase	7
+Tong G	Autism spectrum disorder	tyrosine hydroxylase	1
+Li L	Autism spectrum disorder	tyrosine hydroxylase	5
+Cheng J	Autism spectrum disorder	tyrosine hydroxylase	1
+Zhang L	Autism spectrum disorder	tyrosine hydroxylase	2
+Xu Q	Autism spectrum disorder	tyrosine hydroxylase	1
+Wang L	Autism spectrum disorder	tyrosine hydroxylase	2
+Zhang P	Autism spectrum disorder	tyrosine hydroxylase	3
+Zhou B	Autism spectrum disorder	arginine vasopressin	2
+Zheng X	Autism spectrum disorder	arginine vasopressin	2
+Chen Y	Autism spectrum disorder	arginine vasopressin	3
+Yan X	Autism spectrum disorder	arginine vasopressin	2
+Peng J	Autism spectrum disorder	arginine vasopressin	2
+Liu Y	Autism spectrum disorder	arginine vasopressin	2
+Zhang Y	Autism spectrum disorder	arginine vasopressin	7
+Tang L	Autism spectrum disorder	arginine vasopressin	2
+Wen M	Autism spectrum disorder	arginine vasopressin	2
+Kolevzon A	Autism spectrum disorder	insulin	2
+Breen MS	Autism spectrum disorder	insulin	1
+Siper PM	Autism spectrum disorder	insulin	2
+Halpern D	Autism spectrum disorder	insulin	2
+Frank Y	Autism spectrum disorder	insulin	1
+Rieger H	Autism spectrum disorder	insulin	1
+Weismann J	Autism spectrum disorder	insulin	1
+Trelles MP	Autism spectrum disorder	insulin	1
+Lerman B	Autism spectrum disorder	insulin	1
+Rapaport R	Autism spectrum disorder	insulin	2
+Buxbaum JD	Autism spectrum disorder	insulin	2
+Brynge M	Autism spectrum disorder	C-reactive protein	1
+Gardner R	Autism spectrum disorder	C-reactive protein	1
+Sjoqvist H	Autism spectrum disorder	C-reactive protein	1
+Karlsson H	Autism spectrum disorder	C-reactive protein	1
+Dalman C	Autism spectrum disorder	C-reactive protein	1
+Imam B	Autism spectrum disorder	oxytocin receptor	3
+Rahmatinia M	Autism spectrum disorder	oxytocin receptor	3
+Shahsavani A	Autism spectrum disorder	oxytocin receptor	3
+Khodagholi F	Autism spectrum disorder	oxytocin receptor	3
+Hopke PK	Autism spectrum disorder	oxytocin receptor	3
+Bazazzpour S	Autism spectrum disorder	oxytocin receptor	3
+Hadei M	Autism spectrum disorder	oxytocin receptor	3
+Yarahmadi M	Autism spectrum disorder	oxytocin receptor	3
+Abdollahifar MA	Autism spectrum disorder	oxytocin receptor	3
+Torkmahalleh MA	Autism spectrum disorder	oxytocin receptor	3
+Kermani M	Autism spectrum disorder	oxytocin receptor	3
+Ilkhani S	Autism spectrum disorder	oxytocin receptor	3
+MirBehbahani SH	Autism spectrum disorder	oxytocin receptor	3
+Imam B	Autism spectrum disorder	interleukin 6	3
+Rahmatinia M	Autism spectrum disorder	interleukin 6	3
+Shahsavani A	Autism spectrum disorder	interleukin 6	3
+Khodagholi F	Autism spectrum disorder	interleukin 6	3
+Hopke PK	Autism spectrum disorder	interleukin 6	3
+Bazazzpour S	Autism spectrum disorder	interleukin 6	3
+Hadei M	Autism spectrum disorder	interleukin 6	3
+Yarahmadi M	Autism spectrum disorder	interleukin 6	3
+Abdollahifar MA	Autism spectrum disorder	interleukin 6	3
+Torkmahalleh MA	Autism spectrum disorder	interleukin 6	3
+Kermani M	Autism spectrum disorder	interleukin 6	3
+Ilkhani S	Autism spectrum disorder	interleukin 6	3
+MirBehbahani SH	Autism spectrum disorder	interleukin 6	3
+Imam B	Autism spectrum disorder	tumor necrosis factor	3
+Rahmatinia M	Autism spectrum disorder	tumor necrosis factor	3
+Shahsavani A	Autism spectrum disorder	tumor necrosis factor	3
+Khodagholi F	Autism spectrum disorder	tumor necrosis factor	3
+Hopke PK	Autism spectrum disorder	tumor necrosis factor	3
+Bazazzpour S	Autism spectrum disorder	tumor necrosis factor	3
+Hadei M	Autism spectrum disorder	tumor necrosis factor	3
+Yarahmadi M	Autism spectrum disorder	tumor necrosis factor	3
+Abdollahifar MA	Autism spectrum disorder	tumor necrosis factor	3
+Torkmahalleh MA	Autism spectrum disorder	tumor necrosis factor	3
+Kermani M	Autism spectrum disorder	tumor necrosis factor	3
+Ilkhani S	Autism spectrum disorder	tumor necrosis factor	3
+MirBehbahani SH	Autism spectrum disorder	tumor necrosis factor	3
+Simpson D	Autism spectrum disorder	translocator protein	2
+Gharehgazlou A	Autism spectrum disorder	translocator protein	2
+Da Silva T	Autism spectrum disorder	translocator protein	2
+Labrie-Cleary C	Autism spectrum disorder	translocator protein	2
+Wilson AA	Autism spectrum disorder	translocator protein	2
+Meyer JH	Autism spectrum disorder	translocator protein	2
+Mizrahi R	Autism spectrum disorder	translocator protein	2
+Rusjan PM	Autism spectrum disorder	translocator protein	2
+Simpson D	Autism spectrum disorder	multiple sclerosis	2
+Gharehgazlou A	Autism spectrum disorder	multiple sclerosis	2
+Da Silva T	Autism spectrum disorder	multiple sclerosis	2
+Labrie-Cleary C	Autism spectrum disorder	multiple sclerosis	2
+Wilson AA	Autism spectrum disorder	multiple sclerosis	2
+Meyer JH	Autism spectrum disorder	multiple sclerosis	2
+Mizrahi R	Autism spectrum disorder	multiple sclerosis	2
+Rusjan PM	Autism spectrum disorder	multiple sclerosis	2
+Mpoulimari I	Autism spectrum disorder	adenosine deaminase	6
+Zintzaras E	Autism spectrum disorder	adenosine deaminase	6
+Mpoulimari I	Autism spectrum disorder	solute carrier family 6 member 4	6
+Zintzaras E	Autism spectrum disorder	solute carrier family 6 member 4	6
+Mpoulimari I	Autism spectrum disorder	vitamin D receptor	6
+Zintzaras E	Autism spectrum disorder	vitamin D receptor	6
+Mpoulimari I	Autism spectrum disorder	dopamine receptor D3	6
+Zintzaras E	Autism spectrum disorder	dopamine receptor D3	6
+Mpoulimari I	Autism spectrum disorder	neurexin 1	6
+Zintzaras E	Autism spectrum disorder	neurexin 1	6
+Mpoulimari I	Autism spectrum disorder	oxytocin receptor	6
+Zintzaras E	Autism spectrum disorder	oxytocin receptor	6
+Abhishek M	Autism spectrum disorder	catalase	1
+Rubal S	Autism spectrum disorder	catalase	1
+Rohit K	Autism spectrum disorder	catalase	1
+Rupa J	Autism spectrum disorder	catalase	1
+Phulen S	Autism spectrum disorder	catalase	1
+Gurjeet K	Autism spectrum disorder	catalase	1
+Raj SA	Autism spectrum disorder	catalase	1
+Manisha P	Autism spectrum disorder	catalase	1
+Alka B	Autism spectrum disorder	catalase	1
+Ramprasad P	Autism spectrum disorder	catalase	1
+Bikash M	Autism spectrum disorder	catalase	1
+Schiavi S	Autism spectrum disorder	phosphodiesterase 2A	1
+Carbone E	Autism spectrum disorder	phosphodiesterase 2A	1
+Melancia F	Autism spectrum disorder	phosphodiesterase 2A	1
+di Masi A	Autism spectrum disorder	phosphodiesterase 2A	1
+Jarjat M	Autism spectrum disorder	phosphodiesterase 2A	1
+Brau F	Autism spectrum disorder	phosphodiesterase 2A	1
+Cardarelli S	Autism spectrum disorder	phosphodiesterase 2A	1
+Giorgi M	Autism spectrum disorder	phosphodiesterase 2A	1
+Bardoni B	Autism spectrum disorder	phosphodiesterase 2A	2
+Trezza V	Autism spectrum disorder	phosphodiesterase 2A	1
+Cammarata-Scalisi F	Autism spectrum disorder	insulin	1
+Callea M	Autism spectrum disorder	insulin	1
+Martinelli D	Autism spectrum disorder	insulin	1
+Willoughby CE	Autism spectrum disorder	insulin	1
+Tadich AC	Autism spectrum disorder	insulin	1
+Araya Castillo M	Autism spectrum disorder	insulin	1
+Lacruz-Rengel MA	Autism spectrum disorder	insulin	1
+Medina M	Autism spectrum disorder	insulin	1
+Grimaldi P	Autism spectrum disorder	insulin	1
+Bertini E	Autism spectrum disorder	insulin	1
+Nevado J	Autism spectrum disorder	insulin	1
+Wang L	Autism spectrum disorder	prosaposin	2
+Chen J	Autism spectrum disorder	prosaposin	5
+Hu Y	Autism spectrum disorder	prosaposin	3
+Liao A	Autism spectrum disorder	prosaposin	1
+Zheng W	Autism spectrum disorder	prosaposin	1
+Wang X	Autism spectrum disorder	prosaposin	3
+Lan J	Autism spectrum disorder	prosaposin	1
+Shen J	Autism spectrum disorder	prosaposin	1
+Wang S	Autism spectrum disorder	prosaposin	1
+Yang F	Autism spectrum disorder	prosaposin	1
+Wang Y	Autism spectrum disorder	prosaposin	7
+Li Y	Autism spectrum disorder	prosaposin	3
+Chen D	Autism spectrum disorder	prosaposin	1
+Al-Ali Z	Autism spectrum disorder	oxytocin receptor	1
+Yasseen AA	Autism spectrum disorder	oxytocin receptor	1
+Al-Dujailli A	Autism spectrum disorder	oxytocin receptor	1
+Al-Karaqully AJ	Autism spectrum disorder	oxytocin receptor	1
+McAllister KA	Autism spectrum disorder	oxytocin receptor	1
+Jumaah AS	Autism spectrum disorder	oxytocin receptor	1
+Abbasalipour H	Autism spectrum disorder	catalase	1
+Hajizadeh Moghaddam A	Autism spectrum disorder	catalase	1
+Ranjbar M	Autism spectrum disorder	catalase	3
+Cristino LMF	Autism spectrum disorder	parvalbumin	1
+Chaves Filho AJM	Autism spectrum disorder	parvalbumin	1
+Custodio CS	Autism spectrum disorder	parvalbumin	1
+Vasconcelos SMM	Autism spectrum disorder	parvalbumin	1
+de Sousa FCF	Autism spectrum disorder	parvalbumin	1
+Sanders LLO	Autism spectrum disorder	parvalbumin	1
+de Lucena DF	Autism spectrum disorder	parvalbumin	1
+Macedo DS	Autism spectrum disorder	parvalbumin	1
+Ejlersen M	Autism spectrum disorder	superoxide dismutase 1	2
+Ilieva M	Autism spectrum disorder	superoxide dismutase 1	2
+Michel TM	Autism spectrum disorder	superoxide dismutase 1	2
+Ejlersen M	Autism spectrum disorder	superoxide dismutase 2	2
+Ilieva M	Autism spectrum disorder	superoxide dismutase 2	2
+Michel TM	Autism spectrum disorder	superoxide dismutase 2	2
+Heimfarth L	Autism spectrum disorder	glial fibrillary acidic protein	2
+Passos FRS	Autism spectrum disorder	glial fibrillary acidic protein	2
+Monteiro BS	Autism spectrum disorder	glial fibrillary acidic protein	2
+Araujo AAS	Autism spectrum disorder	glial fibrillary acidic protein	2
+Quintans Junior LJ	Autism spectrum disorder	glial fibrillary acidic protein	2
+Quintans JSS	Autism spectrum disorder	glial fibrillary acidic protein	2
+Heimfarth L	Autism spectrum disorder	multiple sclerosis	2
+Passos FRS	Autism spectrum disorder	multiple sclerosis	2
+Monteiro BS	Autism spectrum disorder	multiple sclerosis	2
+Araujo AAS	Autism spectrum disorder	multiple sclerosis	2
+Quintans Junior LJ	Autism spectrum disorder	multiple sclerosis	2
+Quintans JSS	Autism spectrum disorder	multiple sclerosis	2
+Yehia L	Autism spectrum disorder	insulin	1
+Ni Y	Autism spectrum disorder	insulin	1
+Sadler T	Autism spectrum disorder	insulin	1
+Frazier TW	Autism spectrum disorder	insulin	1
+Eng C	Autism spectrum disorder	insulin	2
+Zhang Y	Autism spectrum disorder	tumor necrosis factor	7
+Yin HY	Autism spectrum disorder	tumor necrosis factor	2
+Rubini P	Autism spectrum disorder	tumor necrosis factor	2
+Tang Y	Autism spectrum disorder	tumor necrosis factor	2
+Illes P	Autism spectrum disorder	tumor necrosis factor	2
+Zhang Y	Autism spectrum disorder	multiple sclerosis	7
+Yin HY	Autism spectrum disorder	multiple sclerosis	2
+Rubini P	Autism spectrum disorder	multiple sclerosis	2
+Tang Y	Autism spectrum disorder	multiple sclerosis	2
+Illes P	Autism spectrum disorder	multiple sclerosis	2
+Wu H	Autism spectrum disorder	glutathione peroxidase 4	1
+Luan Y	Autism spectrum disorder	glutathione peroxidase 4	1
+Wang H	Autism spectrum disorder	glutathione peroxidase 4	4
+Zhang P	Autism spectrum disorder	glutathione peroxidase 4	3
+Liu S	Autism spectrum disorder	glutathione peroxidase 4	2
+Wang P	Autism spectrum disorder	glutathione peroxidase 4	1
+Cao Y	Autism spectrum disorder	glutathione peroxidase 4	1
+Sun H	Autism spectrum disorder	glutathione peroxidase 4	2
+Wu L	Autism spectrum disorder	glutathione peroxidase 4	1
+Gracie S	Autism spectrum disorder	phosphatidylserine synthase 1	1
+Sengupta N	Autism spectrum disorder	phosphatidylserine synthase 1	1
+Ferreira C	Autism spectrum disorder	phosphatidylserine synthase 1	1
+Pemberton J	Autism spectrum disorder	phosphatidylserine synthase 1	1
+Anderson I	Autism spectrum disorder	phosphatidylserine synthase 1	1
+Wang X	Autism spectrum disorder	phosphatidylserine synthase 1	3
+Rhodes L	Autism spectrum disorder	phosphatidylserine synthase 1	1
+Brown K	Autism spectrum disorder	phosphatidylserine synthase 1	1
+Balla T	Autism spectrum disorder	phosphatidylserine synthase 1	1
+Larson A	Autism spectrum disorder	phosphatidylserine synthase 1	1
+Hausman-Cohen S	Autism spectrum disorder	SH3 and multiple ankyrin repeat domains 3	1
+LaValley W	Autism spectrum disorder	SH3 and multiple ankyrin repeat domains 3	1
+Way H	Autism spectrum disorder	SH3 and multiple ankyrin repeat domains 3	1
+Gutierrez E	Autism spectrum disorder	SH3 and multiple ankyrin repeat domains 3	1
+Reeder J	Autism spectrum disorder	SH3 and multiple ankyrin repeat domains 3	1
+Mattis J	Autism spectrum disorder	parvalbumin	1
+Somarowthu A	Autism spectrum disorder	parvalbumin	1
+Goff KM	Autism spectrum disorder	parvalbumin	1
+Jiang E	Autism spectrum disorder	parvalbumin	1
+Yom J	Autism spectrum disorder	parvalbumin	1
+Sotuyo N	Autism spectrum disorder	parvalbumin	1
+Mcgarry LM	Autism spectrum disorder	parvalbumin	1
+Feng H	Autism spectrum disorder	parvalbumin	1
+Kaneko K	Autism spectrum disorder	parvalbumin	1
+Goldberg EM	Autism spectrum disorder	parvalbumin	1
+Li Z	Autism spectrum disorder	insulin	4
+Xiao GY	Autism spectrum disorder	insulin	1
+He CY	Autism spectrum disorder	insulin	1
+Liu X	Autism spectrum disorder	insulin	7
+Fan X	Autism spectrum disorder	insulin	1
+Zhao Y	Autism spectrum disorder	insulin	1
+Wang NR	Autism spectrum disorder	insulin	1
+Iwabuchi T	Autism spectrum disorder	leptin	1
+Takahashi N	Autism spectrum disorder	leptin	1
+Nishimura T	Autism spectrum disorder	leptin	1
+Rahman MS	Autism spectrum disorder	leptin	1
+Harada T	Autism spectrum disorder	leptin	1
+Okumura A	Autism spectrum disorder	leptin	1
+Kuwabara H	Autism spectrum disorder	leptin	1
+Takagai S	Autism spectrum disorder	leptin	1
+Nomura Y	Autism spectrum disorder	leptin	1
+Matsuzaki H	Autism spectrum disorder	leptin	1
+Ozaki N	Autism spectrum disorder	leptin	1
+Tsuchiya KJ	Autism spectrum disorder	leptin	1
+Cheng Y	Autism spectrum disorder	somatostatin	2
+Tang B	Autism spectrum disorder	somatostatin	2
+Zhang G	Autism spectrum disorder	somatostatin	1
+An P	Autism spectrum disorder	somatostatin	1
+Sun Y	Autism spectrum disorder	somatostatin	1
+Gao M	Autism spectrum disorder	somatostatin	1
+Zhang Y	Autism spectrum disorder	somatostatin	7
+Shan Y	Autism spectrum disorder	somatostatin	1
+Zhang J	Autism spectrum disorder	somatostatin	4
+Liu Q	Autism spectrum disorder	somatostatin	1
+Lai CSW	Autism spectrum disorder	somatostatin	1
+de Villers-Sidani E	Autism spectrum disorder	somatostatin	1
+Wang Y	Autism spectrum disorder	somatostatin	7
+Zhou X	Autism spectrum disorder	somatostatin	1
+Kutna V	Autism spectrum disorder	synaptophysin	1
+O'Leary VB	Autism spectrum disorder	synaptophysin	1
+Hoschl C	Autism spectrum disorder	synaptophysin	1
+Ovsepian SV	Autism spectrum disorder	synaptophysin	1
+Linlin Z	Autism spectrum disorder	caspase 3	4
+Ciai L	Autism spectrum disorder	caspase 3	4
+Yanhong S	Autism spectrum disorder	caspase 3	4
+Huizhong G	Autism spectrum disorder	caspase 3	4
+Yongchun L	Autism spectrum disorder	caspase 3	4
+Zhen Y	Autism spectrum disorder	caspase 3	4
+Shan X	Autism spectrum disorder	caspase 3	4
+Fengying G	Autism spectrum disorder	caspase 3	4
+Ying L	Autism spectrum disorder	caspase 3	4
+Jingjun L	Autism spectrum disorder	caspase 3	4
+Qin F	Autism spectrum disorder	caspase 3	4
+Linlin Z	Autism spectrum disorder	tumor necrosis factor	4
+Ciai L	Autism spectrum disorder	tumor necrosis factor	4
+Yanhong S	Autism spectrum disorder	tumor necrosis factor	4
+Huizhong G	Autism spectrum disorder	tumor necrosis factor	4
+Yongchun L	Autism spectrum disorder	tumor necrosis factor	4
+Zhen Y	Autism spectrum disorder	tumor necrosis factor	4
+Shan X	Autism spectrum disorder	tumor necrosis factor	4
+Fengying G	Autism spectrum disorder	tumor necrosis factor	4
+Ying L	Autism spectrum disorder	tumor necrosis factor	4
+Jingjun L	Autism spectrum disorder	tumor necrosis factor	4
+Qin F	Autism spectrum disorder	tumor necrosis factor	4
+Linlin Z	Autism spectrum disorder	AKT serine/threonine kinase 1	4
+Ciai L	Autism spectrum disorder	AKT serine/threonine kinase 1	4
+Yanhong S	Autism spectrum disorder	AKT serine/threonine kinase 1	4
+Huizhong G	Autism spectrum disorder	AKT serine/threonine kinase 1	4
+Yongchun L	Autism spectrum disorder	AKT serine/threonine kinase 1	4
+Zhen Y	Autism spectrum disorder	AKT serine/threonine kinase 1	4
+Shan X	Autism spectrum disorder	AKT serine/threonine kinase 1	4
+Fengying G	Autism spectrum disorder	AKT serine/threonine kinase 1	4
+Ying L	Autism spectrum disorder	AKT serine/threonine kinase 1	4
+Jingjun L	Autism spectrum disorder	AKT serine/threonine kinase 1	4
+Qin F	Autism spectrum disorder	AKT serine/threonine kinase 1	4
+Linlin Z	Autism spectrum disorder	5-hydroxytryptamine receptor 1B	4
+Ciai L	Autism spectrum disorder	5-hydroxytryptamine receptor 1B	4
+Yanhong S	Autism spectrum disorder	5-hydroxytryptamine receptor 1B	4
+Huizhong G	Autism spectrum disorder	5-hydroxytryptamine receptor 1B	4
+Yongchun L	Autism spectrum disorder	5-hydroxytryptamine receptor 1B	4
+Zhen Y	Autism spectrum disorder	5-hydroxytryptamine receptor 1B	4
+Shan X	Autism spectrum disorder	5-hydroxytryptamine receptor 1B	4
+Fengying G	Autism spectrum disorder	5-hydroxytryptamine receptor 1B	4
+Ying L	Autism spectrum disorder	5-hydroxytryptamine receptor 1B	4
+Jingjun L	Autism spectrum disorder	5-hydroxytryptamine receptor 1B	4
+Qin F	Autism spectrum disorder	5-hydroxytryptamine receptor 1B	4
+Fanelli G	Autism spectrum disorder	insulin	2
+Franke B	Autism spectrum disorder	insulin	2
+De Witte W	Autism spectrum disorder	insulin	2
+Ruisch IH	Autism spectrum disorder	insulin	2
+Haavik J	Autism spectrum disorder	insulin	2
+van Gils V	Autism spectrum disorder	insulin	2
+Jansen WJ	Autism spectrum disorder	insulin	2
+Vos SJB	Autism spectrum disorder	insulin	2
+Lind L	Autism spectrum disorder	insulin	2
+Buitelaar JK	Autism spectrum disorder	insulin	2
+Banaschewski T	Autism spectrum disorder	insulin	2
+Dalsgaard S	Autism spectrum disorder	insulin	2
+Serretti A	Autism spectrum disorder	insulin	2
+Mota NR	Autism spectrum disorder	insulin	2
+Poelmans G	Autism spectrum disorder	insulin	2
+Bralten J	Autism spectrum disorder	insulin	2
+Fanelli G	Autism spectrum disorder	insulin receptor	2
+Franke B	Autism spectrum disorder	insulin receptor	2
+De Witte W	Autism spectrum disorder	insulin receptor	2
+Ruisch IH	Autism spectrum disorder	insulin receptor	2
+Haavik J	Autism spectrum disorder	insulin receptor	2
+van Gils V	Autism spectrum disorder	insulin receptor	2
+Jansen WJ	Autism spectrum disorder	insulin receptor	2
+Vos SJB	Autism spectrum disorder	insulin receptor	2
+Lind L	Autism spectrum disorder	insulin receptor	2
+Buitelaar JK	Autism spectrum disorder	insulin receptor	2
+Banaschewski T	Autism spectrum disorder	insulin receptor	2
+Dalsgaard S	Autism spectrum disorder	insulin receptor	2
+Serretti A	Autism spectrum disorder	insulin receptor	2
+Mota NR	Autism spectrum disorder	insulin receptor	2
+Poelmans G	Autism spectrum disorder	insulin receptor	2
+Bralten J	Autism spectrum disorder	insulin receptor	2
+Wang J	Autism spectrum disorder	superoxide dismutase 2	3
+Frohlich H	Autism spectrum disorder	superoxide dismutase 2	1
+Torres FB	Autism spectrum disorder	superoxide dismutase 2	1
+Silva RL	Autism spectrum disorder	superoxide dismutase 2	1
+Poschet G	Autism spectrum disorder	superoxide dismutase 2	1
+Agarwal A	Autism spectrum disorder	superoxide dismutase 2	1
+Rappold GA	Autism spectrum disorder	superoxide dismutase 2	1
+Kohlhoff J	Autism spectrum disorder	oxytocin receptor	1
+Cibralic S	Autism spectrum disorder	oxytocin receptor	1
+Hawes DJ	Autism spectrum disorder	oxytocin receptor	1
+Eapen V	Autism spectrum disorder	oxytocin receptor	1
+Hughes RB	Autism spectrum disorder	insulin receptor	1
+Whittingham-Dowd J	Autism spectrum disorder	insulin receptor	1
+Clapcote SJ	Autism spectrum disorder	insulin receptor	1
+Broughton SJ	Autism spectrum disorder	insulin receptor	1
+Dawson N	Autism spectrum disorder	insulin receptor	1
+Okazaki S	Autism spectrum disorder	plasminogen	1
+Kimura R	Autism spectrum disorder	plasminogen	1
+Otsuka I	Autism spectrum disorder	plasminogen	1
+Funabiki Y	Autism spectrum disorder	plasminogen	1
+Murai T	Autism spectrum disorder	plasminogen	1
+Hishimoto A	Autism spectrum disorder	plasminogen	1
+Sethuram S	Autism spectrum disorder	insulin	1
+Levy T	Autism spectrum disorder	insulin	1
+Foss-Feig J	Autism spectrum disorder	insulin	1
+Halpern D	Autism spectrum disorder	insulin	2
+Sandin S	Autism spectrum disorder	insulin	1
+Siper PM	Autism spectrum disorder	insulin	2
+Walker H	Autism spectrum disorder	insulin	1
+Buxbaum JD	Autism spectrum disorder	insulin	2
+Rapaport R	Autism spectrum disorder	insulin	2
+Kolevzon A	Autism spectrum disorder	insulin	2
+Knipper M	Autism spectrum disorder	parvalbumin	1
+Singer W	Autism spectrum disorder	parvalbumin	1
+Schwabe K	Autism spectrum disorder	parvalbumin	1
+Hagberg GE	Autism spectrum disorder	parvalbumin	1
+Li Hegner Y	Autism spectrum disorder	parvalbumin	1
+Ruttiger L	Autism spectrum disorder	parvalbumin	1
+Braun C	Autism spectrum disorder	parvalbumin	1
+Land R	Autism spectrum disorder	parvalbumin	1
+Knoedler JR	Autism spectrum disorder	estrogen receptor 1	1
+Inoue S	Autism spectrum disorder	estrogen receptor 1	1
+Bayless DW	Autism spectrum disorder	estrogen receptor 1	1
+Yang T	Autism spectrum disorder	estrogen receptor 1	3
+Tantry A	Autism spectrum disorder	estrogen receptor 1	1
+Davis CH	Autism spectrum disorder	estrogen receptor 1	1
+Leung NY	Autism spectrum disorder	estrogen receptor 1	1
+Parthasarathy S	Autism spectrum disorder	estrogen receptor 1	1
+Wang G	Autism spectrum disorder	estrogen receptor 1	1
+Alvarado M	Autism spectrum disorder	estrogen receptor 1	1
+Rizvi AH	Autism spectrum disorder	estrogen receptor 1	1
+Fenno LE	Autism spectrum disorder	estrogen receptor 1	1
+Ramakrishnan C	Autism spectrum disorder	estrogen receptor 1	1
+Deisseroth K	Autism spectrum disorder	estrogen receptor 1	1
+Shah NM	Autism spectrum disorder	estrogen receptor 1	1
+Nadeem MS	Autism spectrum disorder	butyrylcholinesterase	1
+Kazmi I	Autism spectrum disorder	butyrylcholinesterase	1
+Ullah I	Autism spectrum disorder	butyrylcholinesterase	1
+Muhammad K	Autism spectrum disorder	butyrylcholinesterase	1
+Anwar F	Autism spectrum disorder	butyrylcholinesterase	1
+Sheikh TI	Autism spectrum disorder	nucleolin	1
+Harripaul R	Autism spectrum disorder	nucleolin	1
+Vasli N	Autism spectrum disorder	nucleolin	1
+Ghadami M	Autism spectrum disorder	nucleolin	1
+Santangelo SL	Autism spectrum disorder	nucleolin	1
+Ayub M	Autism spectrum disorder	nucleolin	1
+Sasanfar R	Autism spectrum disorder	nucleolin	1
+Vincent JB	Autism spectrum disorder	nucleolin	1
+Alhakbany M	Autism spectrum disorder	tumor necrosis factor	1
+Al-Ayadhi L	Autism spectrum disorder	tumor necrosis factor	1
+El-Ansary A	Autism spectrum disorder	tumor necrosis factor	2
+Lin WD	Autism spectrum disorder	Gilles de la Tourette syndrome	2
+Tsai FJ	Autism spectrum disorder	Gilles de la Tourette syndrome	2
+Chou IC	Autism spectrum disorder	Gilles de la Tourette syndrome	2
+Lin WD	Autism spectrum disorder	histidine decarboxylase	2
+Tsai FJ	Autism spectrum disorder	histidine decarboxylase	2
+Chou IC	Autism spectrum disorder	histidine decarboxylase	2
+Yu H	Autism spectrum disorder	superoxide dismutase 2	2
+Niu Y	Autism spectrum disorder	superoxide dismutase 2	1
+Jia G	Autism spectrum disorder	superoxide dismutase 2	1
+Liang Y	Autism spectrum disorder	superoxide dismutase 2	1
+Chen B	Autism spectrum disorder	superoxide dismutase 2	2
+Sun R	Autism spectrum disorder	superoxide dismutase 2	1
+Wang M	Autism spectrum disorder	superoxide dismutase 2	2
+Huang S	Autism spectrum disorder	superoxide dismutase 2	1
+Zeng J	Autism spectrum disorder	superoxide dismutase 2	1
+Lu J	Autism spectrum disorder	superoxide dismutase 2	3
+Li L	Autism spectrum disorder	superoxide dismutase 2	5
+Guo X	Autism spectrum disorder	superoxide dismutase 2	1
+Yao P	Autism spectrum disorder	superoxide dismutase 2	1
+Azcoitia I	Autism spectrum disorder	multiple sclerosis	1
+Mendez P	Autism spectrum disorder	multiple sclerosis	1
+Garcia-Segura LM	Autism spectrum disorder	multiple sclerosis	1
+Zhao P	Autism spectrum disorder	thioredoxin	2
+Fu H	Autism spectrum disorder	thioredoxin	2
+Cheng H	Autism spectrum disorder	thioredoxin	2
+Zheng R	Autism spectrum disorder	thioredoxin	2
+Yuan D	Autism spectrum disorder	thioredoxin	2
+Yang J	Autism spectrum disorder	thioredoxin	2
+Li S	Autism spectrum disorder	thioredoxin	3
+Li E	Autism spectrum disorder	thioredoxin	2
+Li L	Autism spectrum disorder	thioredoxin	5
+Zhao P	Autism spectrum disorder	caspase 1	2
+Fu H	Autism spectrum disorder	caspase 1	2
+Cheng H	Autism spectrum disorder	caspase 1	2
+Zheng R	Autism spectrum disorder	caspase 1	2
+Yuan D	Autism spectrum disorder	caspase 1	2
+Yang J	Autism spectrum disorder	caspase 1	2
+Li S	Autism spectrum disorder	caspase 1	3
+Li E	Autism spectrum disorder	caspase 1	2
+Li L	Autism spectrum disorder	caspase 1	5
+Dewulf JP	Autism spectrum disorder	adenylosuccinate lyase	1
+Marie S	Autism spectrum disorder	adenylosuccinate lyase	1
+Nassogne MC	Autism spectrum disorder	adenylosuccinate lyase	1
+Carducci F	Autism spectrum disorder	glutathione peroxidase 1	1
+Ardiccioni C	Autism spectrum disorder	glutathione peroxidase 1	1
+Fiorini R	Autism spectrum disorder	glutathione peroxidase 1	1
+Vignini A	Autism spectrum disorder	glutathione peroxidase 1	1
+Di Paolo A	Autism spectrum disorder	glutathione peroxidase 1	1
+Alia S	Autism spectrum disorder	glutathione peroxidase 1	1
+Barucca M	Autism spectrum disorder	glutathione peroxidase 1	1
+Biscotti MA	Autism spectrum disorder	glutathione peroxidase 1	1
+Nalbant K	Autism spectrum disorder	occludin	1
+Erden S	Autism spectrum disorder	occludin	1
+Yazar A	Autism spectrum disorder	occludin	1
+Kilinc I	Autism spectrum disorder	occludin	4
+Meyer M	Autism spectrum disorder	oxytocin receptor	1
+Jurek B	Autism spectrum disorder	oxytocin receptor	1
+Alfonso-Prieto M	Autism spectrum disorder	oxytocin receptor	1
+Ribeiro R	Autism spectrum disorder	oxytocin receptor	1
+Milenkovic VM	Autism spectrum disorder	oxytocin receptor	1
+Winter J	Autism spectrum disorder	oxytocin receptor	1
+Hoffmann P	Autism spectrum disorder	oxytocin receptor	1
+Wetzel CH	Autism spectrum disorder	oxytocin receptor	1
+Giorgetti A	Autism spectrum disorder	oxytocin receptor	1
+Carloni P	Autism spectrum disorder	oxytocin receptor	1
+Neumann ID	Autism spectrum disorder	oxytocin receptor	1
+Drozd MM	Autism spectrum disorder	cholecystokinin	1
+Capovilla M	Autism spectrum disorder	cholecystokinin	1
+Previdere C	Autism spectrum disorder	cholecystokinin	1
+Grossi M	Autism spectrum disorder	cholecystokinin	1
+Askenazy F	Autism spectrum disorder	cholecystokinin	1
+Bardoni B	Autism spectrum disorder	cholecystokinin	2
+Fernandez A	Autism spectrum disorder	cholecystokinin	1
+Caliskan E	Autism spectrum disorder	oxytocin receptor	1
+Sahin MN	Autism spectrum disorder	oxytocin receptor	1
+Guldag MA	Autism spectrum disorder	oxytocin receptor	1
+Ali A	Autism spectrum disorder	renin	1
+Alexander S	Autism spectrum disorder	renin	1
+Ko P	Autism spectrum disorder	renin	1
+Cuffe JSM	Autism spectrum disorder	renin	1
+Whitehouse AJO	Autism spectrum disorder	renin	1
+McGrath JJ	Autism spectrum disorder	renin	1
+Eyles D	Autism spectrum disorder	renin	1

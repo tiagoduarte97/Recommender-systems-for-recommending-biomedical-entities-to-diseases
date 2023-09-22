@@ -1,0 +1,226 @@
+Schofield TS	Asperger syndrome	matrix metallopeptidase 9	1
+Sup Lee C	Asperger syndrome	matrix metallopeptidase 9	1
+Peppers BP	Asperger syndrome	matrix metallopeptidase 9	1
+Mauger T	Asperger syndrome	matrix metallopeptidase 9	1
+Sivertsen B	Asperger syndrome	multiple sclerosis	1
+Hysing M	Asperger syndrome	multiple sclerosis	1
+Harvey AG	Asperger syndrome	multiple sclerosis	1
+Petrie KJ	Asperger syndrome	multiple sclerosis	1
+Runge K	Asperger syndrome	albumin	1
+Tebartz van Elst L	Asperger syndrome	albumin	1
+Maier S	Asperger syndrome	albumin	1
+Nickel K	Asperger syndrome	albumin	1
+Denzel D	Asperger syndrome	albumin	1
+Matysik M	Asperger syndrome	albumin	1
+Kuzior H	Asperger syndrome	albumin	1
+Robinson T	Asperger syndrome	albumin	1
+Blank T	Asperger syndrome	albumin	1
+Dersch R	Asperger syndrome	albumin	1
+Domschke K	Asperger syndrome	albumin	1
+Endres D	Asperger syndrome	albumin	1
+Rontani P	Asperger syndrome	molybdenum cofactor sulfurase	1
+Perche O	Asperger syndrome	molybdenum cofactor sulfurase	1
+Greetham L	Asperger syndrome	molybdenum cofactor sulfurase	1
+Jullien N	Asperger syndrome	molybdenum cofactor sulfurase	1
+Gepner B	Asperger syndrome	molybdenum cofactor sulfurase	1
+Feron F	Asperger syndrome	molybdenum cofactor sulfurase	1
+Nivet E	Asperger syndrome	molybdenum cofactor sulfurase	1
+Erard-Garcia M	Asperger syndrome	molybdenum cofactor sulfurase	1
+Berkel S	Asperger syndrome	androgen receptor	1
+Eltokhi A	Asperger syndrome	androgen receptor	1
+Frohlich H	Asperger syndrome	androgen receptor	1
+Porras-Gonzalez D	Asperger syndrome	androgen receptor	1
+Rafiullah R	Asperger syndrome	androgen receptor	1
+Sprengel R	Asperger syndrome	androgen receptor	1
+Rappold GA	Asperger syndrome	androgen receptor	1
+Preckel K	Asperger syndrome	oxytocin receptor	1
+Kanske P	Asperger syndrome	oxytocin receptor	1
+Singer T	Asperger syndrome	oxytocin receptor	1
+Paulus FM	Asperger syndrome	oxytocin receptor	1
+Krach S	Asperger syndrome	oxytocin receptor	1
+Iourov IY	Asperger syndrome	cholecystokinin	1
+Vorsanova SG	Asperger syndrome	cholecystokinin	1
+Voinova VY	Asperger syndrome	cholecystokinin	1
+Yurov YB	Asperger syndrome	cholecystokinin	1
+Di Napoli A	Asperger syndrome	oxytocin receptor	1
+Warrier V	Asperger syndrome	oxytocin receptor	1
+Baron-Cohen S	Asperger syndrome	oxytocin receptor	3
+Chakrabarti B	Asperger syndrome	oxytocin receptor	2
+Cottenceau H	Asperger syndrome	insulin	1
+Roux S	Asperger syndrome	insulin	1
+Blanc R	Asperger syndrome	insulin	1
+Lenoir P	Asperger syndrome	insulin	1
+Bonnet-Brilhault F	Asperger syndrome	insulin	1
+Barthelemy C	Asperger syndrome	insulin	1
+Parellada M	Asperger syndrome	catalase	2
+Moreno C	Asperger syndrome	catalase	2
+Mac-Dowell K	Asperger syndrome	catalase	2
+Leza JC	Asperger syndrome	catalase	2
+Giraldez M	Asperger syndrome	catalase	2
+Bailon C	Asperger syndrome	catalase	2
+Castro C	Asperger syndrome	catalase	2
+Miranda-Azpiazu P	Asperger syndrome	catalase	2
+Fraguas D	Asperger syndrome	catalase	2
+Arango C	Asperger syndrome	catalase	2
+Parellada M	Asperger syndrome	ceruloplasmin	2
+Moreno C	Asperger syndrome	ceruloplasmin	2
+Mac-Dowell K	Asperger syndrome	ceruloplasmin	2
+Leza JC	Asperger syndrome	ceruloplasmin	2
+Giraldez M	Asperger syndrome	ceruloplasmin	2
+Bailon C	Asperger syndrome	ceruloplasmin	2
+Castro C	Asperger syndrome	ceruloplasmin	2
+Miranda-Azpiazu P	Asperger syndrome	ceruloplasmin	2
+Fraguas D	Asperger syndrome	ceruloplasmin	2
+Arango C	Asperger syndrome	ceruloplasmin	2
+Brynska A	Asperger syndrome	Gilles de la Tourette syndrome	1
+Lipinska E	Asperger syndrome	Gilles de la Tourette syndrome	1
+Matelska M	Asperger syndrome	Gilles de la Tourette syndrome	1
+Cukier HN	Asperger syndrome	neurexophilin 1	2
+Salyakina D	Asperger syndrome	neurexophilin 1	2
+Blankstein SF	Asperger syndrome	neurexophilin 1	2
+Robinson JL	Asperger syndrome	neurexophilin 1	2
+Sacharow S	Asperger syndrome	neurexophilin 1	2
+Ma D	Asperger syndrome	neurexophilin 1	2
+Wright HH	Asperger syndrome	neurexophilin 1	2
+Abramson RK	Asperger syndrome	neurexophilin 1	2
+Menon R	Asperger syndrome	neurexophilin 1	2
+Williams SM	Asperger syndrome	neurexophilin 1	2
+Haines JL	Asperger syndrome	neurexophilin 1	2
+Cuccaro ML	Asperger syndrome	neurexophilin 1	2
+Gilbert JR	Asperger syndrome	neurexophilin 1	2
+Pericak-Vance MA	Asperger syndrome	neurexophilin 1	2
+Cukier HN	Asperger syndrome	islet cell autoantigen 1	2
+Salyakina D	Asperger syndrome	islet cell autoantigen 1	2
+Blankstein SF	Asperger syndrome	islet cell autoantigen 1	2
+Robinson JL	Asperger syndrome	islet cell autoantigen 1	2
+Sacharow S	Asperger syndrome	islet cell autoantigen 1	2
+Ma D	Asperger syndrome	islet cell autoantigen 1	2
+Wright HH	Asperger syndrome	islet cell autoantigen 1	2
+Abramson RK	Asperger syndrome	islet cell autoantigen 1	2
+Menon R	Asperger syndrome	islet cell autoantigen 1	2
+Williams SM	Asperger syndrome	islet cell autoantigen 1	2
+Haines JL	Asperger syndrome	islet cell autoantigen 1	2
+Cuccaro ML	Asperger syndrome	islet cell autoantigen 1	2
+Gilbert JR	Asperger syndrome	islet cell autoantigen 1	2
+Pericak-Vance MA	Asperger syndrome	islet cell autoantigen 1	2
+Schwarz E	Asperger syndrome	insulin	1
+Guest PC	Asperger syndrome	insulin	1
+Rahmoune H	Asperger syndrome	insulin	1
+Wang L	Asperger syndrome	insulin	1
+Levin Y	Asperger syndrome	insulin	1
+Ingudomnukul E	Asperger syndrome	insulin	1
+Ruta L	Asperger syndrome	insulin	1
+Kent L	Asperger syndrome	insulin	2
+Spain M	Asperger syndrome	insulin	1
+Baron-Cohen S	Asperger syndrome	insulin	3
+Bahn S	Asperger syndrome	insulin	1
+Wermter AK	Asperger syndrome	oxytocin receptor	2
+Kamp-Becker I	Asperger syndrome	oxytocin receptor	2
+Hesse P	Asperger syndrome	oxytocin receptor	1
+Schulte-Korne G	Asperger syndrome	oxytocin receptor	2
+Strauch K	Asperger syndrome	oxytocin receptor	2
+Remschmidt H	Asperger syndrome	oxytocin receptor	2
+Chakrabarti B	Asperger syndrome	homeobox A1	2
+Dudbridge F	Asperger syndrome	homeobox A1	1
+Kent L	Asperger syndrome	homeobox A1	2
+Wheelwright S	Asperger syndrome	homeobox A1	1
+Hill-Cawthorne G	Asperger syndrome	homeobox A1	1
+Allison C	Asperger syndrome	homeobox A1	1
+Banerjee-Basu S	Asperger syndrome	homeobox A1	1
+Baron-Cohen S	Asperger syndrome	homeobox A1	3
+Castagnola M	Asperger syndrome	statherin	2
+Messana I	Asperger syndrome	statherin	2
+Inzitari R	Asperger syndrome	statherin	2
+Fanali C	Asperger syndrome	statherin	2
+Cabras T	Asperger syndrome	statherin	2
+Morelli A	Asperger syndrome	statherin	2
+Pecoraro AM	Asperger syndrome	statherin	2
+Neri G	Asperger syndrome	statherin	2
+Torrioli MG	Asperger syndrome	statherin	2
+Gurrieri F	Asperger syndrome	statherin	2
+Castagnola M	Asperger syndrome	histatin 1	2
+Messana I	Asperger syndrome	histatin 1	2
+Inzitari R	Asperger syndrome	histatin 1	2
+Fanali C	Asperger syndrome	histatin 1	2
+Cabras T	Asperger syndrome	histatin 1	2
+Morelli A	Asperger syndrome	histatin 1	2
+Pecoraro AM	Asperger syndrome	histatin 1	2
+Neri G	Asperger syndrome	histatin 1	2
+Torrioli MG	Asperger syndrome	histatin 1	2
+Gurrieri F	Asperger syndrome	histatin 1	2
+Yan J	Asperger syndrome	neuroligin 3	1
+Feng J	Asperger syndrome	neuroligin 3	1
+Schroer R	Asperger syndrome	neuroligin 3	1
+Li W	Asperger syndrome	neuroligin 3	1
+Skinner C	Asperger syndrome	neuroligin 3	1
+Schwartz CE	Asperger syndrome	neuroligin 3	1
+Cook EH Jr	Asperger syndrome	neuroligin 3	2
+Sommer SS	Asperger syndrome	neuroligin 3	1
+Wermter AK	Asperger syndrome	neuroligin 3	2
+Kamp-Becker I	Asperger syndrome	neuroligin 3	2
+Strauch K	Asperger syndrome	neuroligin 3	2
+Schulte-Korne G	Asperger syndrome	neuroligin 3	2
+Remschmidt H	Asperger syndrome	neuroligin 3	2
+Al-Ayadhi LY	Asperger syndrome	tumor necrosis factor	1
+Novotny S	Asperger syndrome	prolactin	1
+Hollander E	Asperger syndrome	prolactin	1
+Phillips A	Asperger syndrome	prolactin	1
+Allen A	Asperger syndrome	prolactin	1
+Wasserman S	Asperger syndrome	prolactin	1
+Iyengar R	Asperger syndrome	prolactin	1
+Muhle R	Asperger syndrome	oxytocin receptor	1
+Trentacoste SV	Asperger syndrome	oxytocin receptor	1
+Rapin I	Asperger syndrome	oxytocin receptor	1
+Conciatori M	Asperger syndrome	homeobox A1	1
+Stodgell CJ	Asperger syndrome	homeobox A1	1
+Hyman SL	Asperger syndrome	homeobox A1	1
+O'Bara M	Asperger syndrome	homeobox A1	1
+Militerni R	Asperger syndrome	homeobox A1	1
+Bravaccio C	Asperger syndrome	homeobox A1	1
+Trillo S	Asperger syndrome	homeobox A1	1
+Montecchi F	Asperger syndrome	homeobox A1	1
+Schneider C	Asperger syndrome	homeobox A1	1
+Melmed R	Asperger syndrome	homeobox A1	1
+Elia M	Asperger syndrome	homeobox A1	1
+Crawford L	Asperger syndrome	homeobox A1	1
+Spence SJ	Asperger syndrome	homeobox A1	1
+Muscarella L	Asperger syndrome	homeobox A1	1
+Guarnieri V	Asperger syndrome	homeobox A1	1
+D'Agruma L	Asperger syndrome	homeobox A1	1
+Quattrone A	Asperger syndrome	homeobox A1	1
+Zelante L	Asperger syndrome	homeobox A1	1
+Rabinowitz D	Asperger syndrome	homeobox A1	1
+Pascucci T	Asperger syndrome	homeobox A1	1
+Puglisi-Allegra S	Asperger syndrome	homeobox A1	1
+Reichelt KL	Asperger syndrome	homeobox A1	1
+Rodier PM	Asperger syndrome	homeobox A1	1
+Persico AM	Asperger syndrome	homeobox A1	1
+Collins JS	Asperger syndrome	homeobox A1	1
+Schroer RJ	Asperger syndrome	homeobox A1	1
+Bird J	Asperger syndrome	homeobox A1	1
+Michaelis RC	Asperger syndrome	homeobox A1	1
+Dubisar BM	Asperger syndrome	multiple sclerosis	1
+Stoner SC	Asperger syndrome	multiple sclerosis	1
+Khan R	Asperger syndrome	multiple sclerosis	1
+Farrar CD	Asperger syndrome	multiple sclerosis	1
+Devlin B	Asperger syndrome	homeobox A1	1
+Bennett P	Asperger syndrome	homeobox A1	1
+Cook EH Jr	Asperger syndrome	homeobox A1	2
+Dawson G	Asperger syndrome	homeobox A1	1
+Gonen D	Asperger syndrome	homeobox A1	1
+Grigorenko EL	Asperger syndrome	homeobox A1	1
+McMahon W	Asperger syndrome	homeobox A1	1
+Pauls D	Asperger syndrome	homeobox A1	1
+Smith M	Asperger syndrome	homeobox A1	1
+Spence MA	Asperger syndrome	homeobox A1	1
+Schellenberg GD	Asperger syndrome	homeobox A1	1
+Manning JT	Asperger syndrome	androgen receptor	1
+Bundred PE	Asperger syndrome	androgen receptor	1
+Flanagan BF	Asperger syndrome	androgen receptor	1
+AU não encontrado	Asperger syndrome	homeobox A1	1
+Stip E	Asperger syndrome	hypoparathyroidism	1
+Black N	Asperger syndrome	hypoparathyroidism	1
+Ekoe JM	Asperger syndrome	hypoparathyroidism	1
+Mottron L	Asperger syndrome	hypoparathyroidism	1
+Akefeldt A	Asperger syndrome	hypomelanosis of Ito	1
+Gillberg C	Asperger syndrome	hypomelanosis of Ito	1

@@ -1,0 +1,226 @@
+matrix metallopeptidase 9	34802386	Schofield TS	Asperger syndrome	1
+matrix metallopeptidase 9	34802386	Sup Lee C	Asperger syndrome	1
+matrix metallopeptidase 9	34802386	Peppers BP	Asperger syndrome	1
+matrix metallopeptidase 9	34802386	Mauger T	Asperger syndrome	1
+multiple sclerosis	34194368	Sivertsen B	Asperger syndrome	1
+multiple sclerosis	34194368	Hysing M	Asperger syndrome	1
+multiple sclerosis	34194368	Harvey AG	Asperger syndrome	1
+multiple sclerosis	34194368	Petrie KJ	Asperger syndrome	1
+albumin	32521749	Runge K	Asperger syndrome	1
+albumin	32521749	Tebartz van Elst L	Asperger syndrome	1
+albumin	32521749	Maier S	Asperger syndrome	1
+albumin	32521749	Nickel K	Asperger syndrome	1
+albumin	32521749	Denzel D	Asperger syndrome	1
+albumin	32521749	Matysik M	Asperger syndrome	1
+albumin	32521749	Kuzior H	Asperger syndrome	1
+albumin	32521749	Robinson T	Asperger syndrome	1
+albumin	32521749	Blank T	Asperger syndrome	1
+albumin	32521749	Dersch R	Asperger syndrome	1
+albumin	32521749	Domschke K	Asperger syndrome	1
+albumin	32521749	Endres D	Asperger syndrome	1
+molybdenum cofactor sulfurase	32327736	Rontani P	Asperger syndrome	1
+molybdenum cofactor sulfurase	32327736	Perche O	Asperger syndrome	1
+molybdenum cofactor sulfurase	32327736	Greetham L	Asperger syndrome	1
+molybdenum cofactor sulfurase	32327736	Jullien N	Asperger syndrome	1
+molybdenum cofactor sulfurase	32327736	Gepner B	Asperger syndrome	1
+molybdenum cofactor sulfurase	32327736	Feron F	Asperger syndrome	1
+molybdenum cofactor sulfurase	32327736	Nivet E	Asperger syndrome	1
+molybdenum cofactor sulfurase	32327736	Erard-Garcia M	Asperger syndrome	1
+androgen receptor	30319350	Berkel S	Asperger syndrome	1
+androgen receptor	30319350	Eltokhi A	Asperger syndrome	1
+androgen receptor	30319350	Frohlich H	Asperger syndrome	1
+androgen receptor	30319350	Porras-Gonzalez D	Asperger syndrome	1
+androgen receptor	30319350	Rafiullah R	Asperger syndrome	1
+androgen receptor	30319350	Sprengel R	Asperger syndrome	1
+androgen receptor	30319350	Rappold GA	Asperger syndrome	1
+oxytocin receptor	27655235	Preckel K	Asperger syndrome	1
+oxytocin receptor	27655235	Kanske P	Asperger syndrome	1
+oxytocin receptor	27655235	Singer T	Asperger syndrome	1
+oxytocin receptor	27655235	Paulus FM	Asperger syndrome	1
+oxytocin receptor	27655235	Krach S	Asperger syndrome	1
+cholecystokinin	26523151	Iourov IY	Asperger syndrome	1
+cholecystokinin	26523151	Vorsanova SG	Asperger syndrome	1
+cholecystokinin	26523151	Voinova VY	Asperger syndrome	1
+cholecystokinin	26523151	Yurov YB	Asperger syndrome	1
+oxytocin receptor	25264479	Di Napoli A	Asperger syndrome	1
+oxytocin receptor	25264479	Warrier V	Asperger syndrome	1
+oxytocin receptor	25264479	Baron-Cohen S	Asperger syndrome	3
+oxytocin receptor	25264479	Chakrabarti B	Asperger syndrome	2
+insulin	22382494	Cottenceau H	Asperger syndrome	1
+insulin	22382494	Roux S	Asperger syndrome	1
+insulin	22382494	Blanc R	Asperger syndrome	1
+insulin	22382494	Lenoir P	Asperger syndrome	1
+insulin	22382494	Bonnet-Brilhault F	Asperger syndrome	1
+insulin	22382494	Barthelemy C	Asperger syndrome	1
+catalase	22225920	Parellada M	Asperger syndrome	2
+catalase	22225920	Moreno C	Asperger syndrome	2
+catalase	22225920	Mac-Dowell K	Asperger syndrome	2
+catalase	22225920	Leza JC	Asperger syndrome	2
+catalase	22225920	Giraldez M	Asperger syndrome	2
+catalase	22225920	Bailon C	Asperger syndrome	2
+catalase	22225920	Castro C	Asperger syndrome	2
+catalase	22225920	Miranda-Azpiazu P	Asperger syndrome	2
+catalase	22225920	Fraguas D	Asperger syndrome	2
+catalase	22225920	Arango C	Asperger syndrome	2
+ceruloplasmin	22225920	Parellada M	Asperger syndrome	2
+ceruloplasmin	22225920	Moreno C	Asperger syndrome	2
+ceruloplasmin	22225920	Mac-Dowell K	Asperger syndrome	2
+ceruloplasmin	22225920	Leza JC	Asperger syndrome	2
+ceruloplasmin	22225920	Giraldez M	Asperger syndrome	2
+ceruloplasmin	22225920	Bailon C	Asperger syndrome	2
+ceruloplasmin	22225920	Castro C	Asperger syndrome	2
+ceruloplasmin	22225920	Miranda-Azpiazu P	Asperger syndrome	2
+ceruloplasmin	22225920	Fraguas D	Asperger syndrome	2
+ceruloplasmin	22225920	Arango C	Asperger syndrome	2
+Gilles de la Tourette syndrome	22220492	Brynska A	Asperger syndrome	1
+Gilles de la Tourette syndrome	22220492	Lipinska E	Asperger syndrome	1
+Gilles de la Tourette syndrome	22220492	Matelska M	Asperger syndrome	1
+neurexophilin 1	21480499	Cukier HN	Asperger syndrome	2
+neurexophilin 1	21480499	Salyakina D	Asperger syndrome	2
+neurexophilin 1	21480499	Blankstein SF	Asperger syndrome	2
+neurexophilin 1	21480499	Robinson JL	Asperger syndrome	2
+neurexophilin 1	21480499	Sacharow S	Asperger syndrome	2
+neurexophilin 1	21480499	Ma D	Asperger syndrome	2
+neurexophilin 1	21480499	Wright HH	Asperger syndrome	2
+neurexophilin 1	21480499	Abramson RK	Asperger syndrome	2
+neurexophilin 1	21480499	Menon R	Asperger syndrome	2
+neurexophilin 1	21480499	Williams SM	Asperger syndrome	2
+neurexophilin 1	21480499	Haines JL	Asperger syndrome	2
+neurexophilin 1	21480499	Cuccaro ML	Asperger syndrome	2
+neurexophilin 1	21480499	Gilbert JR	Asperger syndrome	2
+neurexophilin 1	21480499	Pericak-Vance MA	Asperger syndrome	2
+islet cell autoantigen 1	21480499	Cukier HN	Asperger syndrome	2
+islet cell autoantigen 1	21480499	Salyakina D	Asperger syndrome	2
+islet cell autoantigen 1	21480499	Blankstein SF	Asperger syndrome	2
+islet cell autoantigen 1	21480499	Robinson JL	Asperger syndrome	2
+islet cell autoantigen 1	21480499	Sacharow S	Asperger syndrome	2
+islet cell autoantigen 1	21480499	Ma D	Asperger syndrome	2
+islet cell autoantigen 1	21480499	Wright HH	Asperger syndrome	2
+islet cell autoantigen 1	21480499	Abramson RK	Asperger syndrome	2
+islet cell autoantigen 1	21480499	Menon R	Asperger syndrome	2
+islet cell autoantigen 1	21480499	Williams SM	Asperger syndrome	2
+islet cell autoantigen 1	21480499	Haines JL	Asperger syndrome	2
+islet cell autoantigen 1	21480499	Cuccaro ML	Asperger syndrome	2
+islet cell autoantigen 1	21480499	Gilbert JR	Asperger syndrome	2
+islet cell autoantigen 1	21480499	Pericak-Vance MA	Asperger syndrome	2
+insulin	20877284	Schwarz E	Asperger syndrome	1
+insulin	20877284	Guest PC	Asperger syndrome	1
+insulin	20877284	Rahmoune H	Asperger syndrome	1
+insulin	20877284	Wang L	Asperger syndrome	1
+insulin	20877284	Levin Y	Asperger syndrome	1
+insulin	20877284	Ingudomnukul E	Asperger syndrome	1
+insulin	20877284	Ruta L	Asperger syndrome	1
+insulin	20877284	Kent L	Asperger syndrome	2
+insulin	20877284	Spain M	Asperger syndrome	1
+insulin	20877284	Baron-Cohen S	Asperger syndrome	3
+insulin	20877284	Bahn S	Asperger syndrome	1
+oxytocin receptor	19777562	Wermter AK	Asperger syndrome	2
+oxytocin receptor	19777562	Kamp-Becker I	Asperger syndrome	2
+oxytocin receptor	19777562	Hesse P	Asperger syndrome	1
+oxytocin receptor	19777562	Schulte-Korne G	Asperger syndrome	2
+oxytocin receptor	19777562	Strauch K	Asperger syndrome	2
+oxytocin receptor	19777562	Remschmidt H	Asperger syndrome	2
+homeobox A1	19598235	Chakrabarti B	Asperger syndrome	2
+homeobox A1	19598235	Dudbridge F	Asperger syndrome	1
+homeobox A1	19598235	Kent L	Asperger syndrome	2
+homeobox A1	19598235	Wheelwright S	Asperger syndrome	1
+homeobox A1	19598235	Hill-Cawthorne G	Asperger syndrome	1
+homeobox A1	19598235	Allison C	Asperger syndrome	1
+homeobox A1	19598235	Banerjee-Basu S	Asperger syndrome	1
+homeobox A1	19598235	Baron-Cohen S	Asperger syndrome	3
+statherin	19367726	Castagnola M	Asperger syndrome	2
+statherin	19367726	Messana I	Asperger syndrome	2
+statherin	19367726	Inzitari R	Asperger syndrome	2
+statherin	19367726	Fanali C	Asperger syndrome	2
+statherin	19367726	Cabras T	Asperger syndrome	2
+statherin	19367726	Morelli A	Asperger syndrome	2
+statherin	19367726	Pecoraro AM	Asperger syndrome	2
+statherin	19367726	Neri G	Asperger syndrome	2
+statherin	19367726	Torrioli MG	Asperger syndrome	2
+statherin	19367726	Gurrieri F	Asperger syndrome	2
+histatin 1	19367726	Castagnola M	Asperger syndrome	2
+histatin 1	19367726	Messana I	Asperger syndrome	2
+histatin 1	19367726	Inzitari R	Asperger syndrome	2
+histatin 1	19367726	Fanali C	Asperger syndrome	2
+histatin 1	19367726	Cabras T	Asperger syndrome	2
+histatin 1	19367726	Morelli A	Asperger syndrome	2
+histatin 1	19367726	Pecoraro AM	Asperger syndrome	2
+histatin 1	19367726	Neri G	Asperger syndrome	2
+histatin 1	19367726	Torrioli MG	Asperger syndrome	2
+histatin 1	19367726	Gurrieri F	Asperger syndrome	2
+neuroligin 3	18628683	Yan J	Asperger syndrome	1
+neuroligin 3	18628683	Feng J	Asperger syndrome	1
+neuroligin 3	18628683	Schroer R	Asperger syndrome	1
+neuroligin 3	18628683	Li W	Asperger syndrome	1
+neuroligin 3	18628683	Skinner C	Asperger syndrome	1
+neuroligin 3	18628683	Schwartz CE	Asperger syndrome	1
+neuroligin 3	18628683	Cook EH Jr	Asperger syndrome	2
+neuroligin 3	18628683	Sommer SS	Asperger syndrome	1
+neuroligin 3	18189281	Wermter AK	Asperger syndrome	2
+neuroligin 3	18189281	Kamp-Becker I	Asperger syndrome	2
+neuroligin 3	18189281	Strauch K	Asperger syndrome	2
+neuroligin 3	18189281	Schulte-Korne G	Asperger syndrome	2
+neuroligin 3	18189281	Remschmidt H	Asperger syndrome	2
+tumor necrosis factor	22473229	Al-Ayadhi LY	Asperger syndrome	1
+prolactin	15132762	Novotny S	Asperger syndrome	1
+prolactin	15132762	Hollander E	Asperger syndrome	1
+prolactin	15132762	Phillips A	Asperger syndrome	1
+prolactin	15132762	Allen A	Asperger syndrome	1
+prolactin	15132762	Wasserman S	Asperger syndrome	1
+prolactin	15132762	Iyengar R	Asperger syndrome	1
+oxytocin receptor	15121991	Muhle R	Asperger syndrome	1
+oxytocin receptor	15121991	Trentacoste SV	Asperger syndrome	1
+oxytocin receptor	15121991	Rapin I	Asperger syndrome	1
+homeobox A1	14960295	Conciatori M	Asperger syndrome	1
+homeobox A1	14960295	Stodgell CJ	Asperger syndrome	1
+homeobox A1	14960295	Hyman SL	Asperger syndrome	1
+homeobox A1	14960295	O'Bara M	Asperger syndrome	1
+homeobox A1	14960295	Militerni R	Asperger syndrome	1
+homeobox A1	14960295	Bravaccio C	Asperger syndrome	1
+homeobox A1	14960295	Trillo S	Asperger syndrome	1
+homeobox A1	14960295	Montecchi F	Asperger syndrome	1
+homeobox A1	14960295	Schneider C	Asperger syndrome	1
+homeobox A1	14960295	Melmed R	Asperger syndrome	1
+homeobox A1	14960295	Elia M	Asperger syndrome	1
+homeobox A1	14960295	Crawford L	Asperger syndrome	1
+homeobox A1	14960295	Spence SJ	Asperger syndrome	1
+homeobox A1	14960295	Muscarella L	Asperger syndrome	1
+homeobox A1	14960295	Guarnieri V	Asperger syndrome	1
+homeobox A1	14960295	D'Agruma L	Asperger syndrome	1
+homeobox A1	14960295	Quattrone A	Asperger syndrome	1
+homeobox A1	14960295	Zelante L	Asperger syndrome	1
+homeobox A1	14960295	Rabinowitz D	Asperger syndrome	1
+homeobox A1	14960295	Pascucci T	Asperger syndrome	1
+homeobox A1	14960295	Puglisi-Allegra S	Asperger syndrome	1
+homeobox A1	14960295	Reichelt KL	Asperger syndrome	1
+homeobox A1	14960295	Rodier PM	Asperger syndrome	1
+homeobox A1	14960295	Persico AM	Asperger syndrome	1
+homeobox A1	12908836	Collins JS	Asperger syndrome	1
+homeobox A1	12908836	Schroer RJ	Asperger syndrome	1
+homeobox A1	12908836	Bird J	Asperger syndrome	1
+homeobox A1	12908836	Michaelis RC	Asperger syndrome	1
+multiple sclerosis	12432978	Dubisar BM	Asperger syndrome	1
+multiple sclerosis	12432978	Stoner SC	Asperger syndrome	1
+multiple sclerosis	12432978	Khan R	Asperger syndrome	1
+multiple sclerosis	12432978	Farrar CD	Asperger syndrome	1
+homeobox A1	12210285	Devlin B	Asperger syndrome	1
+homeobox A1	12210285	Bennett P	Asperger syndrome	1
+homeobox A1	12210285	Cook EH Jr	Asperger syndrome	2
+homeobox A1	12210285	Dawson G	Asperger syndrome	1
+homeobox A1	12210285	Gonen D	Asperger syndrome	1
+homeobox A1	12210285	Grigorenko EL	Asperger syndrome	1
+homeobox A1	12210285	McMahon W	Asperger syndrome	1
+homeobox A1	12210285	Pauls D	Asperger syndrome	1
+homeobox A1	12210285	Smith M	Asperger syndrome	1
+homeobox A1	12210285	Spence MA	Asperger syndrome	1
+homeobox A1	12210285	Schellenberg GD	Asperger syndrome	1
+androgen receptor	12208164	Manning JT	Asperger syndrome	1
+androgen receptor	12208164	Bundred PE	Asperger syndrome	1
+androgen receptor	12208164	Flanagan BF	Asperger syndrome	1
+homeobox A1	pean or African origin. In	AU não encontrado	Asperger syndrome	1
+hypoparathyroidism	10671127	Stip E	Asperger syndrome	1
+hypoparathyroidism	10671127	Black N	Asperger syndrome	1
+hypoparathyroidism	10671127	Ekoe JM	Asperger syndrome	1
+hypoparathyroidism	10671127	Mottron L	Asperger syndrome	1
+hypomelanosis of Ito	1717328	Akefeldt A	Asperger syndrome	1
+hypomelanosis of Ito	1717328	Gillberg C	Asperger syndrome	1
