@@ -1,0 +1,1008 @@
+insulin	36971688
+multiple sclerosis	36971587
+chloride voltage-gated channel 2	36967982
+C-reactive protein	36966195
+multiple sclerosis	36963171
+multiple sclerosis	36963171
+C-reactive protein	36963080
+multiple sclerosis	36946625
+multiple sclerosis	36946625
+renin	36945842
+Coats disease	20301506
+complement factor I	36941072
+insulin	36937886
+glucagon	36937886
+glucagon	36937886
+insulin	36937886
+glucagon	36937886
+insulin	36937886
+multiple sclerosis	36937181
+lysozyme	36936765
+tumor necrosis factor	36928157
+insulin	36927447
+insulin	36926658
+thyroglobulin	36926027
+prion protein	36914075
+apolipoprotein E	36912182
+neurofilament light chain	36911360
+insulin	36910417
+apolipoprotein E	36910417
+insulin	36910417
+multiple sclerosis	36905818
+multiple sclerosis	36905818
+telomerase reverse transcriptase	36905281
+telomerase RNA component	36905281
+insulin	36904135
+insulin	36904135
+multiple sclerosis	36898476
+renin	36898192
+interleukin 6	36893912
+C-reactive protein	36893777
+citrate synthase	36890488
+kinectin 1	36890161
+leptin	36889645
+leptin	36889645
+cholesteryl ester transfer protein	36881278
+Gilles de la Tourette syndrome	36878177
+C-reactive protein	36877251
+tumor necrosis factor	36877232
+tumor necrosis factor	36877232
+TSR2 ribosome maturation factor	36876933
+apolipoprotein E	36875654
+insulin	36875654
+insulin	36875654
+C-reactive protein	36872776
+tumor necrosis factor	36872436
+pannexin 2	36869038
+parvalbumin	36868483
+albumin	36864383
+albumin	36864383
+phosphoglycerate kinase 1	36864060
+insulin	36862943
+insulin	36862688
+multiple sclerosis	36862148
+multiple sclerosis	36862148
+insulin	29939535
+insulin	29939535
+insulin	29939535
+insulin	29939535
+insulin	29939535
+insulin	29939535
+insulin	36857172
+parathyroid hormone	36856310
+multiple sclerosis	36851894
+multiple sclerosis	36851894
+agmatinase	36849038
+agmatinase	36849038
+agmatinase	36849038
+apolipoprotein B	36846597
+prion protein	36846121
+transthyretin	36846120
+transthyretin	36846120
+transthyretin	36846120
+transthyretin	36846120
+hypoparathyroidism	36843594
+multiple sclerosis	36842312
+multiple sclerosis	36842312
+epidermal growth factor	36831558
+transthyretin	36824481
+transthyretin	36824481
+transthyretin	36824481
+transthyretin	36824481
+glial fibrillary acidic protein	36824390
+glial fibrillary acidic protein	36824390
+glial fibrillary acidic protein	36824390
+aminoacylase 1	36807260
+C-reactive protein	36805857
+vimentin	36805001
+insulin	36803912
+multiple sclerosis	36800908
+multiple sclerosis	36800908
+parvalbumin	36797233
+apolipoprotein B	36796439
+multiple sclerosis	36796403
+apolipoprotein C3	36790601
+albumin	36790601
+clusterin	36790601
+multiple sclerosis	36785945
+insulin	36782297
+insulin	36782297
+insulin	36782297
+glutamate metabotropic receptor 5	36776581
+glutamate ionotropic receptor NMDA type subunit 2B	36776581
+glial fibrillary acidic protein	36776057
+glial fibrillary acidic protein	36776057
+monoamine oxidase B	36776057
+albumin	36776010
+multiple sclerosis	36769670
+multiple sclerosis	36769670
+glial fibrillary acidic protein	36769057
+neurofilament light chain	36769057
+nidogen 1	36768220
+insulin	36766971
+multiple sclerosis	36764322
+multiple sclerosis	36764322
+multiple sclerosis	36764322
+multiple sclerosis	36764322
+glial fibrillary acidic protein	36756391
+diabetic nephropathy	36755923
+diabetic nephropathy	36755923
+myelin oligodendrocyte glycoprotein	36755772
+multiple sclerosis	36754977
+sphingosine-1-phosphate receptor 1	36751803
+sphingosine-1-phosphate receptor 1	36751803
+tumor necrosis factor	36751803
+apolipoprotein E	36745413
+multiple sclerosis	36745094
+multiple sclerosis	36745094
+ceruloplasmin	36743749
+C-reactive protein	36742208
+multiple sclerosis	36736021
+multiple sclerosis	36732044
+multiple sclerosis	36732044
+multiple sclerosis	36729471
+insulin	36727085
+multiple sclerosis	36726198
+insulin	36726099
+insulin	36726099
+huntingtin	36715614
+multiple sclerosis	36709575
+myoglobin	36709345
+myoglobin	36709345
+C-reactive protein	36705572
+insulin	36704786
+insulin	36704786
+insulin	36704786
+insulin	36704786
+insulin	36704786
+insulin	36704786
+insulin	36704786
+insulin	36704786
+catechol-O-methyltransferase	36702041
+insulin	36696701
+insulin	36696701
+insulin	36695022
+albumin	36694943
+insulin	36693378
+insulin	36693378
+insulin	36693378
+insulin	36693378
+angiopoietin 2	36692587
+pentraxin 3	36692587
+pentraxin 3	36692587
+angiopoietin 2	36692587
+pentraxin 3	36692587
+angiopoietin 2	36692587
+pentraxin 3	36692587
+C-reactive protein	36689715
+albumin	36684994
+albumin	36684994
+albumin	36681036
+albumin	36681036
+C-reactive protein	36675440
+caspase 1	36675440
+myeloperoxidase	36675440
+caspase 1	36675440
+insulin	36675177
+dystrophin	36675000
+dystrophin	36675000
+dystrophin	36675000
+neurofilament light chain	36674698
+leptin	36674646
+resistin	36674646
+leptin	36674646
+resistin	36674646
+leptin	36674646
+resistin	36674646
+leptin	36674646
+leptin	36674646
+resistin	36674646
+insulin receptor	36674429
+insulin receptor	36674429
+transferrin receptor	36671505
+glutathione peroxidase 4	36671505
+C-reactive protein	36670186
+interleukin 6	36669977
+vimentin	36669444
+filaggrin	36660532
+insulin	36648872
+insulin	36648872
+insulin	36648872
+neurogranin	36648169
+glial fibrillary acidic protein	36648169
+interleukin 6	36648169
+occludin	36644813
+neurofilament light chain	36641673
+multiple sclerosis	36640561
+translocator protein	36639552
+multiple sclerosis	36638539
+glial fibrillary acidic protein	36638231
+neurofilament light chain	36638231
+apolipoprotein E	36638231
+apolipoprotein E	36638231
+glial fibrillary acidic protein	36638231
+neurofilament light chain	36638231
+stomatin	36636173
+angiotensin converting enzyme 2	36634085
+catalase	36633696
+albumin	36623363
+albumin	36623363
+apolipoprotein E	36615719
+kinectin 1	36609385
+multiple sclerosis	36608690
+albumin	36601208
+multiple sclerosis	36600404
+multiple sclerosis	36600404
+multiple sclerosis	36600404
+insulin	36599626
+multiple sclerosis	36593701
+leptin	36593701
+insulin	36593701
+insulin	36593701
+plasminogen	36592967
+apolipoprotein E	36590218
+transferrin	36590208
+transferrin	36590208
+transferrin	36590208
+transferrin	36590208
+transferrin	36590208
+tumor necrosis factor	36587855
+caspase 3	36586673
+multiple sclerosis	36584795
+contactin 5	36583624
+contactin 5	36583624
+contactin 5	36583624
+contactin 5	36583624
+contactin 5	36583624
+glial fibrillary acidic protein	36583066
+leptin	36577337
+leptin	36577337
+leptin	36577337
+leptin	36577337
+leptin	36577337
+leptin	36577337
+leptin	36577337
+leptin	36577337
+glial fibrillary acidic protein	36576155
+glial fibrillary acidic protein	36574591
+apolipoprotein E	36574591
+glial fibrillary acidic protein	36574591
+aryl hydrocarbon receptor	36573349
+aryl hydrocarbon receptor	36573349
+aryl hydrocarbon receptor	36573349
+insulin	36568760
+multiple sclerosis	36565347
+multiple sclerosis	36556099
+multiple sclerosis	36556099
+renin	36555831
+C-X-C motif chemokine ligand 10	36554656
+insulin	36551953
+insulin	36551953
+insulin	36551953
+apolipoprotein E	36546606
+multiple sclerosis	36545918
+insulin	36545722
+apolipoprotein E	36544988
+apolipoprotein E	36544988
+insulin	36543129
+multiple sclerosis	36537667
+multiple sclerosis	36537667
+insulin	36536746
+CF transmembrane conductance regulator	36535664
+multiple sclerosis	36532061
+hexokinase 1	36531636
+neurofilament light chain	36527130
+neurofilament light chain	36527130
+apolipoprotein E	36523958
+leptin	36523422
+parathyroid hormone	36523246
+prolactin	36521667
+diabetic nephropathy	36521435
+albumin	36521435
+fibroblast growth factor 14	36516086
+fibroblast growth factor 14	36516086
+parathyroid hormone	36515925
+C-reactive protein	36506650
+C-reactive protein	36506650
+C-reactive protein	36506650
+apolipoprotein B	36506447
+apolipoprotein A1	36506447
+amphiphysin	36503157
+amphiphysin	36503157
+amphiphysin	36503157
+insulin	36501093
+multiple sclerosis	36498739
+progesterone receptor	36498560
+hepatocyte growth factor	36498560
+insulin	36497154
+insulin	36497154
+insulin	36497154
+insulin	36497154
+insulin	36497154
+insulin	36497154
+fibroblast growth factor 14	36493768
+fibroblast growth factor 14	36493768
+multiple sclerosis	36493358
+insulin	36483840
+insulin	36483840
+insulin	36483840
+C-reactive protein	36470375
+multiple sclerosis	36470169
+multiple sclerosis	36470169
+lipopolysaccharide binding protein	36462169
+lipopolysaccharide binding protein	36462169
+insulin	36460590
+insulin	36460590
+oxytocin receptor	36458331
+oxytocin receptor	36458331
+glial fibrillary acidic protein	36458331
+neurofilament light chain	36457825
+glial fibrillary acidic protein	36457825
+neurofilament light chain	36457825
+myelin oligodendrocyte glycoprotein	36451827
+aquaporin 4	36451827
+multiple sclerosis	36451827
+insulin	36447531
+insulin	36447531
+insulin	36447531
+insulin	20301750
+multiple sclerosis	36443880
+multiple sclerosis	36443880
+cadherin 5	36440791
+cadherin 5	36440791
+cadherin 5	36440791
+cadherin 5	36440791
+cadherin 5	36440791
+cadherin 5	36440791
+insulin	36440208
+insulin	36440208
+huntingtin	36436748
+multiple sclerosis	36433775
+multiple sclerosis	36433775
+multiple sclerosis	36430954
+multiple sclerosis	36430954
+transferrin receptor	36430312
+glutathione peroxidase 4	36430312
+multiple sclerosis	36430309
+albumin	36429816
+albumin	36429816
+tyrosine hydroxylase	36428497
+synapsin I	36424738
+huntingtin	36424090
+synaptophysin	36423207
+synaptopodin	36423207
+C-reactive protein	36422081
+multiple sclerosis	36421883
+multiple sclerosis	36421883
+insulin	36419765
+glucagon	36419765
+insulin	36419765
+insulin	36419765
+glycogen synthase kinase 3 beta	36411653
+makorin ring finger protein 3	36411607
+acromegaly	32310408
+acromegaly	32310408
+myelin oligodendrocyte glycoprotein	36411077
+myelin oligodendrocyte glycoprotein	36411077
+aquaporin 4	36411077
+aquaporin 4	36411077
+microtubule associated protein tau	36406122
+chromogranin A	36405600
+chromogranin A	36405600
+chromogranin A	36405600
+C-reactive protein	36404866
+titin	36403549
+multiple sclerosis	36402501
+multiple sclerosis	36401965
+multiple sclerosis	36401965
+leptin	36401965
+tumor necrosis factor	36401752
+albumin	36401462
+albumin	36401462
+albumin	36401462
+insulin	36400215
+insulin	36397324
+insulin	36397324
+insulin	36397324
+lipoprotein(a)	36396079
+androgen receptor	36394031
+androgen receptor	36394031
+androgen receptor	36394031
+androgen receptor	36394031
+myelin basic protein	36386900
+multiple sclerosis	36385950
+myelin oligodendrocyte glycoprotein	36385950
+steroid sulfatase	36379544
+filaggrin	36373988
+filaggrin	36373988
+periostin	36373873
+periostin	36373873
+periostin	36373873
+periostin	36373873
+periostin	36373873
+multiple sclerosis	36371162
+multiple sclerosis	36371162
+cysteinyl leukotriene receptor 1	36371059
+insulin	36367493
+insulin	36367493
+ornithine transcarbamylase	36362876
+ornithine transcarbamylase	36362876
+Gilles de la Tourette syndrome	36362696
+multiple sclerosis	36359383
+sphingosine-1-phosphate receptor 1	36358479
+tyrosine hydroxylase	36358479
+glial fibrillary acidic protein	36358479
+interleukin 1 beta	36358479
+multiple sclerosis	36357586
+apolipoprotein E	36357168
+apolipoprotein E	36357168
+apolipoprotein E	36357168
+insulin	36352358
+insulin	36352358
+insulin	36352358
+insulin	36352358
+parathyroid hormone	32491615
+albumin	32491615
+complement C9	36351892
+multiple sclerosis	36348444
+presenilin 2	36346209
+acromegaly	36342059
+acromegaly	36342059
+acromegaly	36342059
+acromegaly	36342059
+acromegaly	36342059
+neurogranin	36336935
+golgin A4	36336935
+neurofilament light chain	36336935
+golgin A4	36336935
+golgin A4	36336935
+golgin A4	36336935
+neurogranin	36336935
+titin	36336775
+thymoma	36336775
+multiple sclerosis	36335974
+vasoactive intestinal peptide receptor 2	36332470
+vasoactive intestinal peptide	36332470
+prolactin	36329924
+prolactin	36329924
+prolactin	36329924
+N-acylethanolamine acid amidase	36328902
+multiple sclerosis	36325318
+multiple sclerosis	36325318
+multiple sclerosis	36325318
+dystrophin	36315559
+dystrophin	36315559
+multiple sclerosis	36314485
+insulin	36313112
+insulin	36313112
+insulin	36313112
+insulin	36313112
+insulin	36313112
+insulin	36313112
+insulin	36313112
+insulin	36313112
+insulin	36313112
+insulin	36313112
+insulin	36313112
+insulin	36313112
+albumin	36313027
+albumin	36313027
+albumin	36313027
+albumin	36313027
+transmembrane serine protease 2	36312321
+apolipoprotein E	36312032
+insulin	36303652
+glucagon	36302774
+insulin	36302774
+insulin	36302774
+insulin	36302774
+insulin	36302774
+insulin	36297114
+catalase	36295651
+catalase	36295651
+catalase	36295651
+catalase	36295651
+catalase	36295651
+catalase	36295651
+glutathione peroxidase 1	36295574
+superoxide dismutase 2	36295574
+superoxide dismutase 2	36295574
+huntingtin	36293304
+translocator protein	36291606
+thioredoxin	36291328
+thioredoxin	36291328
+citrate synthase	36281451
+bridging integrator 1	36280690
+apolipoprotein E	36276649
+insulin	36275440
+insulin	36270020
+insulin	36270020
+insulin	36270020
+insulin	36269295
+insulin	36269295
+insulin	36269295
+insulin	36269295
+insulin	36269295
+insulin	36269295
+insulin	36269295
+insulin	36269295
+insulin	36269295
+insulin	36268655
+renin	36268528
+tumor necrosis factor	36268528
+multiple sclerosis	36265073
+neurogranin	36262371
+neurogranin	36262371
+neurogranin	36262371
+neurogranin	36262371
+neurogranin	36262371
+neurogranin	36262371
+neurogranin	36262371
+neurogranin	36262371
+neurogranin	36262371
+neurogranin	36262371
+neurogranin	36262371
+neurogranin	36262371
+hyaluronan and proteoglycan link protein 1	36262047
+cadherin related 23	36262047
+tumor necrosis factor	36262047
+cathepsin B	36262047
+apolipoprotein E	36257450
+prion protein	36254680
+prion protein	36254680
+prion protein	36254680
+fragile X messenger ribonucleoprotein 1	36250920
+fragile X messenger ribonucleoprotein 1	36250920
+albumin	36245494
+N-acylethanolamine acid amidase	36244543
+myelin oligodendrocyte glycoprotein	36243932
+glial fibrillary acidic protein	36229847
+insulin	36224493
+albumin	36221061
+retinol binding protein 4	36216318
+myeloperoxidase	36216318
+tyrosine hydroxylase	36209975
+klotho	36204099
+klotho	36204099
+klotho	36204099
+klotho	36204099
+klotho	36204099
+klotho	36204099
+klotho	36204099
+klotho	36204099
+klotho	36204099
+klotho	36204099
+klotho	36204099
+neurofilament light chain	36201960
+neurofilament light chain	36201960
+glial fibrillary acidic protein	36199154
+insulin	36198292
+progesterone receptor	36191723
+progesterone receptor	36191723
+corticotropin releasing hormone receptor 1	36191374
+multiple sclerosis	36191370
+cathepsin S	36185485
+C-reactive protein	36185077
+neurofilament light chain	36184969
+neurofilament light chain	36184969
+transcription factor EB	36184826
+transcription factor EB	36184826
+glucagon	36183318
+C-reactive protein	36182530
+multiple sclerosis	36180219
+multiple sclerosis	36180219
+multiple sclerosis	36180219
+multiple sclerosis	36180218
+multiple sclerosis	36180218
+multiple sclerosis	36180218
+multiple sclerosis	36179757
+myelin oligodendrocyte glycoprotein	36179757
+multiple sclerosis	36179757
+multiple sclerosis	36179757
+insulin	36175966
+synaptophysin	36175781
+multiple sclerosis	36171104
+C-reactive protein	36162675
+aryl hydrocarbon receptor	36159806
+multiple sclerosis	36156182
+multiple sclerosis	36156182
+multiple sclerosis	36156182
+C-reactive protein	36153327
+multiple sclerosis	36149605
+multiple sclerosis	36149605
+plasminogen	36145295
+plasminogen	36145295
+plasminogen	36145295
+plasminogen	36145295
+transthyretin	36141995
+transthyretin	36141995
+transthyretin	36140174
+neurofilament light chain	36138153
+multiple sclerosis	36129540
+multiple sclerosis	36129540
+platelet factor 4	36126784
+albumin	36126784
+catalase	36126784
+albumin	36126784
+arylsulfatase A	32809579
+albumin	36121826
+insulin	36119784
+insulin	36119784
+apolipoprotein E	36118969
+multiple sclerosis	36117421
+multiple sclerosis	36117421
+multiple sclerosis	36117421
+multiple sclerosis	36117421
+multiple sclerosis	36116384
+multiple sclerosis	36116384
+kynurenine 3-monooxygenase	36116377
+albumin	36116359
+C-reactive protein	36115323
+tumor necrosis factor	36115323
+somatostatin	36113379
+multiple sclerosis	36106568
+glial fibrillary acidic protein	36102852
+C-reactive protein	36094704
+multiple sclerosis	36094488
+apolipoprotein E	36093696
+hypoparathyroidism	36093070
+androgen receptor	36089529
+dopamine beta-hydroxylase	36088492
+multiple sclerosis	36086905
+multiple sclerosis	36086905
+multiple sclerosis	36086905
+albumin	36081568
+multiple sclerosis	36081414
+multiple sclerosis	36081414
+multiple sclerosis	36081414
+hydroxycarboxylic acid receptor 2	36077579
+insulin	36077219
+cyclin D1	36072406
+multiple sclerosis	36065614
+leptin	36065016
+leptin	36065016
+insulin	36065016
+insulin	36065016
+neurofilament light chain	36064709
+glial fibrillary acidic protein	36064709
+C-reactive protein	36064362
+multiple sclerosis	36063254
+insulin	36062418
+albumin	36057817
+C-reactive protein	36056874
+glial fibrillary acidic protein	36056631
+apolipoprotein E	36056631
+multiple sclerosis	36056590
+cystathionine beta-synthase	36053437
+tumor necrosis factor	36051596
+tenascin C	36048342
+replication factor C subunit 1	36046423
+neurogranin	36045450
+neuronal pentraxin receptor	36045450
+neuronal pentraxin 1	36045450
+neuronal pentraxin 2	36045450
+neurogranin	36045450
+butyrylcholinesterase	36041654
+tumor necrosis factor	36041546
+huntingtin	36035436
+high mobility group box 1	36034701
+emerin	36031908
+emerin	36031908
+insulin	36031896
+insulin	36031896
+insulin	36030228
+insulin	36030228
+C-reactive protein	36028809
+multiple sclerosis	36018515
+multiple sclerosis	36018515
+multiple sclerosis	36017870
+insulin	36015220
+glucagon	36015220
+insulin	36015220
+insulin	36015220
+insulin	36015220
+C-reactive protein	36014818
+C-reactive protein	36014818
+caspase 3	36010656
+neurofilament light chain	36005384
+multiple sclerosis	36002960
+multiple sclerosis	36002960
+apolipoprotein E	36002891
+apolipoprotein E	36002891
+neurofilament light chain	36002891
+multiple sclerosis	36000485
+tumor necrosis factor	35996750
+apolipoprotein E	35992586
+neurofilament light chain	35988220
+nerve growth factor	35984668
+leptin	35984286
+leptin	35984286
+leptin	35984286
+dermokine	35981655
+dermokine	35981655
+dermokine	35981655
+brain derived neurotrophic factor	35980530
+apolipoprotein E	35979332
+apolipoprotein E	35979332
+multiple sclerosis	35974949
+multiple sclerosis	35974949
+insulin	35968428
+insulin	35968428
+insulin	35968428
+insulin	35968428
+renin	35966642
+myogenin	35961944
+insulin	35961944
+multiple sclerosis	35958855
+myelin oligodendrocyte glycoprotein	35958613
+myelin oligodendrocyte glycoprotein	35958613
+thioredoxin	35958330
+thioredoxin	35958330
+insulin	35952934
+presenilin 1	35949106
+presenilin 2	35949106
+multiple sclerosis	35948450
+multiple sclerosis	35946086
+multiple sclerosis	35946086
+multiple sclerosis	35940876
+catalase	35940876
+myelin basic protein	35940876
+neurofilament heavy chain	35940876
+lipoprotein(a)	35939863
+apolipoprotein A1	35939863
+albumin	35939296
+albumin	35939296
+multiple sclerosis	35939096
+multiple sclerosis	35933740
+multiple sclerosis	35933740
+multiple sclerosis	35933740
+multiple sclerosis	35933740
+multiple sclerosis	35933740
+multiple sclerosis	35933740
+apolipoprotein E	35925685
+C-reactive protein	35924228
+C-reactive protein	35922184
+insulin	35920656
+insulin	35920656
+albumin	35917991
+apolipoprotein E	35917199
+multiple sclerosis	35911920
+multiple sclerosis	35911920
+insulin	35893348
+superoxide dismutase 1	35888698
+afamin	35887259
+apolipoprotein E	35887259
+biotinidase	35887259
+C-reactive protein	35886474
+C-reactive protein	35886474
+multiple sclerosis	35880717
+apolipoprotein E	35879306
+multiple sclerosis	35877104
+multiple sclerosis	35877104
+noggin	35877103
+parvalbumin	35872660
+C-reactive protein	35871085
+prolactin	35870269
+parvalbumin	35869039
+parvalbumin	35869039
+parvalbumin	35869039
+C-reactive protein	35868814
+C-reactive protein	35868814
+prolactin	35865960
+prolactin	35865960
+prolactin	35865960
+multiple sclerosis	35863879
+multiple sclerosis	35863879
+somatostatin	35858550
+insulin	35856435
+insulin	35856435
+insulin	35852822
+insulin	35852822
+insulin	35852822
+tyrosine hydroxylase	35852604
+tyrosine hydroxylase	35852604
+cholecystokinin	35850480
+cholecystokinin	35850480
+C-reactive protein	35848642
+low density lipoprotein receptor	35847504
+low density lipoprotein receptor	35847504
+multiple sclerosis	35844577
+multiple sclerosis	35844577
+insulin	35843421
+insulin	35843421
+insulin	35843421
+neurogranin	35841015
+beta-secretase 1	35841015
+multiple sclerosis	35839614
+interleukin 6	35834993
+tumor necrosis factor	35834993
+insulin receptor substrate 1	35834993
+glial fibrillary acidic protein	35834993
+mitogen-activated protein kinase 3	35833337
+transferrin receptor	35831434
+transferrin receptor	35831434
+albumin	35831434
+insulin	35818273
+insulin	35818273
+insulin	35818273
+insulin	35818273
+insulin	35818273
+insulin	35818273
+insulin	35818273
+C-reactive protein	35817743
+multiple sclerosis	35816952
+insulin	35816509
+albumin	35814520
+multiple sclerosis	35814103
+multiple sclerosis	35814103
+ribosomal protein L13a	35812414
+multiple sclerosis	35812108
+multiple sclerosis	35812097
+multiple sclerosis	35812097
+multiple sclerosis	32809419
+multiple sclerosis	35805532
+multiple sclerosis	35805532
+multiple sclerosis	35805532
+phospholipase A2 group VI	35803092
+multiple sclerosis	35801267
+multiple sclerosis	35801267
+insulin	35800019
+insulin	35799506
+cytochrome P450 family 21 subfamily A member 2	35799332
+multiple sclerosis	35798226
+apolipoprotein E	35796269
+aminoacylase 1	35791057
+glial fibrillary acidic protein	35789365
+tumor necrosis factor	35788394
+telomerase reverse transcriptase	35788059
+decorin	35787306
+decorin	35787306
+decorin	35787306
+decorin	35787306
+decorin	35787306
+decorin	35787306
+decorin	35787306
+decorin	35787306
+decorin	35787306
+decorin	35787306
+C-reactive protein	35784549
+tumor necrosis factor	35784549
+multiple sclerosis	35779628
+insulin	35776001
+insulin	35776001
+angiotensin converting enzyme 2	35772782
+multiple sclerosis	35772194
+multiple sclerosis	35772194
+neurotensin	35771046
+frataxin	35769335
+frataxin	35769335
+frataxin	35769335
+frataxin	35769335
+apolipoprotein E	35768339
+insulin	35762848
+uncoupling protein 2	35758957
+methylenetetrahydrofolate reductase	35758957
+Kearns-Sayre syndrome	35758105
+somatostatin	35754708
+somatostatin	35754708
+somatostatin	35754708
+multiple sclerosis	35751689
+selenoprotein P	35745104
+ceruloplasmin	35745104
+apolipoprotein E	35743503
+apolipoprotein E	35743503
+insulin	35741020
+insulin	35741020
+insulin	35741020
+albumin	35740219
+myeloperoxidase	35739985
+myeloperoxidase	35739985
+multiple sclerosis	35738113
+multiple sclerosis	35738113
+kinesin family member 5A	35735139
+multiple sclerosis	35735030
+brain derived neurotrophic factor	35734582
+C-reactive protein	35734230
+multiple sclerosis	35734180
+multiple sclerosis	35734180
+huntingtin	35724963
+dystrophin	35723110
+albumin	35718361
+dopamine receptor D1	35715487
+multiple sclerosis	35713597
+CF transmembrane conductance regulator	35710144
+insulin	35709193
+insulin	35709193
+multiple sclerosis	35708081
+multiple sclerosis	35693010
+insulin	35692417
+C-reactive protein	35692001
+tumor necrosis factor	35692001
+synaptophysin	35690819
+apolipoprotein E	35689862
+apolipoprotein E	35689862
+tumor necrosis factor	35688339
+multiple sclerosis	35688339
+myelin basic protein	35688339
+insulin	35684021
+insulin	35684021
+tumor necrosis factor	35681471
+synaptophysin	35681471
+tumor necrosis factor	35678798
+tumor necrosis factor	35678798
+tumor necrosis factor	35678798
+tumor necrosis factor	35678798
+insulin	35675800
+insulin	35673446
+insulin	35673446
+multiple sclerosis	35671672
+insulin	35670350
+multiple sclerosis	35669870
+glial fibrillary acidic protein	35665032
+C-reactive protein	35664492
+tumor necrosis factor	35664492
+neuroligin 2	35664469
+Cdc42 guanine nucleotide exchange factor 9	35664469
+cytoplasmic FMR1 interacting protein 2	35664469
+small nucleolar RNA host gene 11	35664469
+maternally expressed 3	35664469
+paired box 5	35664405
+interleukin 6	35662115
+multiple sclerosis	35661564
+multiple sclerosis	35661564
+albumin	35659385
+albumin	35659385
+glial fibrillary acidic protein	35654597
+albumin	35654597
+dystrophin	35654209
+dystrophin	35654209
+dystrophin	35654209
+transthyretin	35652823
+transthyretin	35652823
+translocator protein	35649646
+acromegaly	35644085
+acromegaly	35644085
+acromegaly	35644085
+acromegaly	35644085
+acromegaly	35644085
+catechol-O-methyltransferase	35642295
+catechol-O-methyltransferase	35642295
+interleukin 6	35639288
+tumor necrosis factor	35634054
+C-reactive protein	35634054
+insulin	35631301
+tumor necrosis factor	35625690
+C-reactive protein	35625690
+albumin	35622365
+C-reactive protein	35617770
+insulin	35617770
+parathyroid hormone	35612728
+multiple sclerosis	35604761
+multiple sclerosis	35604761
+multiple sclerosis	35597069
+diabetic nephropathy	35596219
+steroidogenic acute regulatory protein	35592776
+translocator protein	35592776
+transthyretin	35592550
+transthyretin	35592550
+albumin	35584735
+C-reactive protein	35584433
+thymic stromal lymphopoietin	35582626
+interferon gamma	35582626
+albumin	35582189
+multiple sclerosis	35581944
+multiple sclerosis	35581944
+myelin oligodendrocyte glycoprotein	35581944
+multiple sclerosis	35581944
+biotinidase	35578214
+apolipoprotein B	35576643
+apolipoprotein E	35571963
+C-reactive protein	35570627
+albumin	35570627
+tyrosine hydroxylase	35566180
+tumor necrosis factor	35563878
+N-acetyltransferase 10	35550155
+N-acetyltransferase 10	35550155
+N-acetyltransferase 10	35550155
+fragile X messenger ribonucleoprotein 1	35549943
+multiple sclerosis	35549477

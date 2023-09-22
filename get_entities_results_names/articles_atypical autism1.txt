@@ -1,0 +1,85 @@
+huntingtin	36959146
+C-reactive protein	36926653
+oxytocin receptor	36870672
+synaptophysin	36853856
+myelin regulatory factor	36730342
+arginine vasopressin	36703298
+adhesion G protein-coupled receptor L3	36082049
+D-aspartate oxidase	35915065
+D-aspartate oxidase	35915065
+translocator protein	35383319
+translocator protein	35383319
+multiple sclerosis	35383319
+parvalbumin	34848882
+parvalbumin	34690832
+oxytocin receptor	34445224
+multiple sclerosis	34374142
+FAT atypical cadherin 1	34100899
+oxytocin receptor	33839431
+oxytocin receptor	33839431
+oxytocin receptor	33839431
+methylenetetrahydrofolate reductase	33577628
+methylenetetrahydrofolate reductase	33577628
+insulin	33564861
+synaptoporin	32982694
+synaptoporin	32982694
+arginine vasopressin	32749543
+huntingtin	32652810
+oxytocin receptor	32650534
+amphiphysin	32166503
+glutamate decarboxylase 1	30659505
+SH3 and multiple ankyrin repeat domains 3	30385192
+nuclear receptor corepressor 1	30289594
+parvalbumin	30250263
+parvalbumin	30250263
+parvalbumin	30250263
+neuroligin 3	30093665
+neuroligin 3	30093665
+arginine vasopressin	29282644
+steroid sulfatase	28934990
+steroid sulfatase	28934990
+steroid sulfatase	28934990
+prolactin	28689816
+neuroligin 3	28255463
+insulin	28105014
+leptin	28105014
+prolactin	27346210
+prolactin	27346210
+oxytocin receptor	27655235
+oxytocin receptor	27421662
+oxytocin receptor	27421662
+oxytocin receptor	26998571
+lactase	26913756
+WD repeat domain 45	26859818
+androgen receptor	26781567
+neurexin 1	25149956
+Jacobsen syndrome	25058499
+Jacobsen syndrome	25058499
+multiple sclerosis	24721148
+parvalbumin	24098278
+TBC1 domain family member 7	23892008
+glial fibrillary acidic protein	23892008
+phosphatase and tensin homolog	23892008
+insulin	23575242
+secretin	23504356
+Gilles de la Tourette syndrome	23409724
+nerve growth factor	23047241
+SH3 and multiple ankyrin repeat domains 3	22570549
+methyl-CpG binding protein 2	22123427
+tyrosine hydroxylase	22120178
+C-reactive protein	21946139
+nerve growth factor	21946139
+adenylosuccinate lyase	21903433
+gastrin	21847557
+epidermal growth factor	21847557
+prolactin	20467549
+oxytocin receptor	19777562
+oxytocin receptor	19777562
+prolactin	19718428
+hydroxymethylbilane synthase	19267997
+prolactin	18315450
+neuroligin 3	18189281
+neuroligin 3	18189281
+prolactin	18056831
+prolactin	18056831
+myelin basic protein	17029701

@@ -1,0 +1,46 @@
+matrix metallopeptidase 9	34802386
+matrix metallopeptidase 9	34802386
+multiple sclerosis	34194368
+albumin	32521749
+albumin	32521749
+albumin	32521749
+albumin	32521749
+molybdenum cofactor sulfurase	32327736
+androgen receptor	30319350
+androgen receptor	30319350
+oxytocin receptor	27655235
+cholecystokinin	26523151
+oxytocin receptor	25264479
+oxytocin receptor	25264479
+insulin	22382494
+catalase	22225920
+ceruloplasmin	22225920
+Gilles de la Tourette syndrome	22220492
+neurexophilin 1	21480499
+islet cell autoantigen 1	21480499
+insulin	20877284
+oxytocin receptor	19777562
+oxytocin receptor	19777562
+homeobox A1	19598235
+statherin	19367726
+histatin 1	19367726
+neuroligin 3	18628683
+neuroligin 3	18189281
+neuroligin 3	18189281
+tumor necrosis factor	22473229
+prolactin	15132762
+prolactin	15132762
+prolactin	15132762
+oxytocin receptor	15121991
+homeobox A1	14960295
+homeobox A1	12908836
+homeobox A1	12908836
+multiple sclerosis	12432978
+multiple sclerosis	12432978
+multiple sclerosis	12432978
+homeobox A1	12210285
+androgen receptor	12208164
+androgen receptor	12208164
+homeobox A1	pean or African origin. In 
+hypoparathyroidism	10671127
+hypomelanosis of Ito	1717328

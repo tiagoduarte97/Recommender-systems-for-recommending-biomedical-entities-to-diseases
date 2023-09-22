@@ -1,0 +1,397 @@
+leptin	36946681
+resistin	36946681
+apelin	36946681
+leptin	36946681
+leptin	36946681
+leptin	36946681
+leptin	36946681
+leptin	36946681
+leptin	36946681
+glutaminase	36915976
+glutaminase	36915976
+leptin	36902307
+leptin	36902307
+leptin	36902307
+leptin	36902307
+leptin	36902307
+leptin	36902307
+leptin	36902307
+biotinidase	36898611
+insulin	36898611
+insulin	36898611
+biotinidase	36898611
+oxytocin receptor	36870672
+interleukin 6	36870094
+insulin	36862688
+synaptophysin	36853856
+phosphatase and tensin homolog	36838876
+primary cilia formation	36833254
+multiple sclerosis	36816743
+androgen receptor	36803626
+dystrophin	36799992
+dystrophin	36799992
+utrophin	36799992
+dystrophin	36799992
+glial fibrillary acidic protein	36769380
+insulin	36738649
+signal transducer and activator of transcription 3	36732866
+interferon regulatory factor 4	36732866
+parvalbumin	36732579
+myelin regulatory factor	36730342
+catalase	36642103
+phosphatase and tensin homolog	36626331
+euchromatic histone lysine methyltransferase 1	36617745
+insulin	36615279
+tumor necrosis factor	36613969
+erythropoietin	36567653
+erythropoietin	36567653
+erythropoietin	36567653
+erythropoietin	36567653
+erythropoietin	36567653
+erythropoietin	36567653
+erythropoietin	36567653
+syntaxin 1A	36564538
+fragile X messenger ribonucleoprotein 1	36553666
+heterogeneous nuclear ribonucleoprotein L	36537238
+neuroligin 2	36479216
+neuroligin 3	36479216
+neuroligin 2	36479216
+neuroligin 3	36479216
+parvalbumin	36476879
+neuroligin 3	36476879
+parvalbumin	36476879
+tyrosine hydroxylase	36421705
+parvalbumin	36421705
+interleukin 17A	36414133
+prolactin	36401485
+nerve growth factor	36398773
+nerve growth factor	36398773
+somatostatin	36373424
+C-reactive protein	36364000
+tumor necrosis factor	36364000
+multiple sclerosis	36334596
+neurofilament light chain	36326357
+neurofilament light chain	36326357
+dystrophin	36315559
+dystrophin	36315559
+insulin	36310155
+glucagon	36307249
+insulin	36307249
+interferon gamma	36300375
+interleukin 6	36300375
+insulin receptor	36291644
+insulin receptor	36291644
+adenylosuccinate lyase	36271826
+Janus kinase 2	36267781
+transferrin	36265207
+multiple sclerosis	36257595
+monoamine oxidase A	36243286
+arginine vasopressin	36239083
+arginine vasopressin	36239083
+protein kinase C beta	36239013
+uncoupling protein 1	36239013
+protein kinase C beta	36239013
+uncoupling protein 1	36239013
+chromodomain helicase DNA binding protein 8	36222238
+myelin basic protein	36170102
+catalase	36154275
+dopamine beta-hydroxylase	36143905
+dopamine beta-hydroxylase	36143905
+parvalbumin	36127322
+glutamate decarboxylase 1	36113682
+folate receptor alpha	36112150
+reelin	36094739
+nuclear receptor subfamily 4 group A member 1	36059036
+arginine-glutamic acid dipeptide repeats	36053530
+retinoic acid receptor alpha	36036133
+neurexin 1	36036133
+retinoic acid receptor alpha	36036133
+neurexin 1	36036133
+retinoic acid receptor alpha	36036133
+neurexin 1	36036133
+arginine vasopressin	35995237
+insulin	35962006
+vitamin D receptor	35953654
+multiple sclerosis	35944870
+dopamine receptor D1	35941573
+methylenetetrahydrofolate reductase	35929945
+D-aspartate oxidase	35915065
+D-aspartate oxidase	35915065
+oxytocin receptor	35908894
+parvalbumin	35907861
+C-C motif chemokine ligand 3	35906621
+nerve growth factor	35904498
+insulin	35897673
+oxytocin receptor	35888641
+albumin	35883654
+C-reactive protein	35878480
+C-reactive protein	35878480
+parvalbumin	35869039
+parvalbumin	tein (SARM1) is known as 
+parvalbumin	tein (SARM1) is known as 
+oxytocin receptor	35858098
+oxytocin receptor	35858098
+tyrosine hydroxylase	35858098
+tyrosine hydroxylase	35858098
+gephyrin	35821032
+gephyrin	35821032
+gephyrin	35821032
+leptin	35809877
+leptin receptor	35809703
+parvalbumin	35768828
+parvalbumin	35768828
+somatostatin	35768828
+parvalbumin	35768828
+somatostatin	35768828
+parvalbumin	35768828
+somatostatin	35768828
+parvalbumin	35768828
+somatostatin	35768828
+parvalbumin	35768828
+somatostatin	35768828
+parvalbumin	35768828
+somatostatin	35768828
+parvalbumin	35768828
+E1A binding protein p300	35697159
+cadherin 2	35697159
+myelin basic protein	35687217
+multiple sclerosis	35682642
+nerve growth factor	35648200
+glial fibrillary acidic protein	35648200
+proliferating cell nuclear antigen	35648200
+doublecortin	35618077
+tumor necrosis factor	35584252
+glial fibrillary acidic protein	35584252
+cortactin	35562389
+parvalbumin	35544642
+tumor necrosis factor	35544642
+insulin	35488357
+prolactin	35477330
+parvalbumin	35456893
+somatostatin	35456893
+beta-1,3-N-acetylgalactosaminyltransferase 2	35456500
+leptin	35456030
+brain derived neurotrophic factor	35451422
+tumor necrosis factor	35451422
+glutamate decarboxylase 2	35420879
+transferrin	35409689
+C-reactive protein	35393396
+oxytocin receptor	35384534
+interleukin 6	35384534
+tumor necrosis factor	35384534
+translocator protein	35383319
+translocator protein	35383319
+multiple sclerosis	35383319
+adenosine deaminase	35353796
+solute carrier family 6 member 4	35353796
+vitamin D receptor	35353796
+dopamine receptor D3	35353796
+neurexin 1	35353796
+oxytocin receptor	35353796
+catalase	35346813
+phosphodiesterase 2A	35338117
+insulin	35328058
+insulin	35328058
+prosaposin	35318322
+oxytocin receptor	35316293
+catalase	35307911
+parvalbumin	35272296
+parvalbumin	35272296
+parvalbumin	35272296
+superoxide dismutase 1	35266053
+superoxide dismutase 1	35266053
+superoxide dismutase 1	35266053
+superoxide dismutase 2	35266053
+tumor necrosis factor	35236262
+multiple sclerosis	35236262
+glutathione peroxidase 4	35227767
+SH3 and multiple ankyrin repeat domains 3	35216282
+parvalbumin	35212623
+insulin	35209985
+insulin	35209985
+insulin	35209985
+insulin	35209985
+insulin	35209985
+insulin	35209985
+somatostatin	35182575
+synaptophysin	35178882
+insulin	35165256
+insulin	35165256
+insulin	35165256
+insulin	35165256
+insulin	35165256
+insulin	35165256
+insulin receptor	35165256
+insulin	35165256
+insulin	35165256
+superoxide dismutase 2	35165191
+oxytocin receptor	35149102
+insulin receptor	35142069
+plasminogen	35113965
+plasminogen	35113965
+insulin	35093163
+parvalbumin	35069123
+estrogen receptor 1	35065713
+nucleolin	35052391
+nucleolin	35052391
+nucleolin	35052391
+nucleolin	35052391
+nucleolin	35052391
+nucleolin	35052391
+tumor necrosis factor	35047232
+tumor necrosis factor	35047232
+Gilles de la Tourette syndrome	35042017
+histidine decarboxylase	35042017
+superoxide dismutase 2	35027651
+thioredoxin	35015875
+caspase 1	35015875
+caspase 1	35015875
+adenylosuccinate lyase	34998670
+glutathione peroxidase 1	34997988
+occludin	34988901
+occludin	34988901
+occludin	34988901
+occludin	34988901
+occludin	34988901
+oxytocin receptor	34980886
+oxytocin receptor	34980886
+oxytocin receptor	34970101
+oxytocin receptor	34970101
+renin	34959804
+gephyrin	34851771
+parvalbumin	34848882
+neuroligin 3	34845591
+multiple sclerosis	34841782
+caspase 3	34830376
+histone deacetylase 5	34822816
+Gilles de la Tourette syndrome	34794811
+methylenetetrahydrofolate reductase	34792727
+fatty acid amide hydrolase	34775294
+parvalbumin	34758298
+leucine rich glioma inactivated 1	34738360
+gephyrin	34715405
+neuroligin 3	34715405
+amphiphysin	34689686
+amphiphysin	34689686
+amphiphysin	34689686
+amphiphysin	34689686
+amphiphysin	34689686
+amphiphysin	34689686
+amphiphysin	34689686
+amphiphysin	34689686
+Gilles de la Tourette syndrome	34687698
+neuroplastin	34680901
+neuroplastin	34680901
+neuroplastin	34680901
+neuroplastin	34680901
+neuropilin 2	34663783
+neuropilin 2	34663783
+parvalbumin	34663783
+somatostatin	34663783
+neuropeptide Y	34663783
+parvalbumin	34646371
+glutamate metabotropic receptor 5	34566559
+insulin	34562183
+insulin	34562183
+insulin	34562183
+insulin	34562183
+insulin	34562183
+insulin	34562183
+insulin	34562183
+insulin	34562183
+insulin	34562183
+neuroligin 3	34542148
+arginine vasopressin	34537624
+catalase	34528217
+apolipoprotein A1	34504056
+apolipoprotein B	34504056
+aryl hydrocarbon receptor	34502168
+insulin	34497307
+erythropoietin	34465877
+erythropoietin	34465877
+erythropoietin	34465877
+erythropoietin	34465877
+erythropoietin	34465877
+erythropoietin	34465877
+folate receptor alpha	34440744
+parvalbumin	34439901
+parvalbumin	34439901
+parvalbumin	34439901
+parvalbumin	34439901
+parvalbumin	34439901
+plasminogen	34427356
+plasminogen	34427356
+plasminogen	34427356
+doublecortin	34415116
+synaptophysin	34384873
+metallothionein 3	34384873
+tumor necrosis factor	34374213
+insulin	34357581
+insulin	34357581
+insulin	34357581
+insulin	34357581
+neuroligin 1	34353896
+parvalbumin	34347040
+parvalbumin	34347040
+somatostatin	34331907
+catalase	34298871
+plasminogen	34291889
+plasminogen	34291889
+plasminogen	34291889
+plasminogen	34291889
+oxytocin receptor	34290367
+somatostatin	34290367
+Aicardi syndrome	34269179
+Aicardi syndrome	34269179
+neuroligin 3	34262438
+chromodomain helicase DNA binding protein 8	34259569
+arginine vasopressin	34238350
+arginine vasopressin	34238350
+arginine vasopressin	34238350
+arginine vasopressin	34238350
+arginine vasopressin	34238350
+nerve growth factor	34214954
+myelin basic protein	34214954
+multiple sclerosis	34196695
+aquaporin 4	34196408
+aquaporin 4	34196408
+glutamate decarboxylase 2	34145239
+beclin 1	34130600
+bridging integrator 1	34130600
+dynamin 2	34130600
+FIG4 phosphoinositide 5-phosphatase	34130600
+huntingtin	34130600
+myotubularin 1	34130600
+SPG11 vesicle trafficking associated, spatacsin	34130600
+sequestosome 1	34130600
+TBC1 domain family member 20	34130600
+TSC complex subunit 1	34130600
+ubiquilin 2	34130600
+vacuolar ATPase assembly factor VMA21	34130600
+WD repeat domain 45	34130600
+WD repeat domain 47	34130600
+sex hormone binding globulin	34108004
+FAT atypical cadherin 1	34100899
+arginine vasopressin	34089305
+arginine vasopressin	34089305
+lysine demethylase 5C	34089235
+neuroligin 3	34085373
+epidermal growth factor	34062079
+leptin	34050756
+leptin	34050756
+leptin	34050756
+leptin	34050756
+leptin	34050756
+ezrin	34049799
+radixin	34049799
+moesin	34049799
+phosphatase and tensin homolog	34048873
+glutamate ionotropic receptor AMPA type subunit 2	34048873
+alpha-2-macroglobulin	34044209
+C-reactive protein	34044209
+haptoglobin	34044209
+plasminogen	34044209
+haptoglobin	34044209
+haptoglobin	34044209
+apolipoprotein E	34030059
+retinoic acid receptor alpha	33991534

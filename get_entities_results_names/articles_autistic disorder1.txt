@@ -1,0 +1,203 @@
+glutaminase	36915976
+glutaminase	36915976
+biotinidase	36898611
+insulin	36898611
+insulin	36898611
+biotinidase	36898611
+parvalbumin	36882863
+parvalbumin	36882863
+interleukin 6	36870094
+synaptophysin	36853856
+phosphatase and tensin homolog	36838876
+primary cilia formation	36833254
+glutathione-disulfide reductase	36831124
+SET binding protein 1	36805818
+androgen receptor	36803626
+signal transducer and activator of transcription 3	36732866
+interferon regulatory factor 4	36732866
+tumor necrosis factor	36676975
+cortactin	36670631
+catalase	36642103
+phosphatase and tensin homolog	36626331
+euchromatic histone lysine methyltransferase 1	36617745
+tumor necrosis factor	36613969
+insulin	36573444
+erythropoietin	36567653
+erythropoietin	36567653
+erythropoietin	36567653
+erythropoietin	36567653
+erythropoietin	36567653
+erythropoietin	36567653
+erythropoietin	36567653
+dystrophin	36565132
+dystrophin	36565132
+syntaxin 1A	36564538
+glial fibrillary acidic protein	36561125
+interleukin 17A	36414133
+nerve growth factor	36398773
+nerve growth factor	36398773
+somatostatin	36373424
+neurofilament light chain	36326357
+neurofilament light chain	36326357
+glucagon	36307249
+insulin	36307249
+adenylosuccinate lyase	36271826
+prolactin	36249785
+arginine vasopressin	36239083
+arginine vasopressin	36239083
+protein kinase C beta	36239013
+uncoupling protein 1	36239013
+protein kinase C beta	36239013
+uncoupling protein 1	36239013
+chromodomain helicase DNA binding protein 8	36222238
+myelin basic protein	36170102
+Coats disease	34978780
+Coats disease	34978780
+parvalbumin	36127322
+monoamine oxidase B	36072563
+retinoic acid receptor alpha	36036133
+neurexin 1	36036133
+retinoic acid receptor alpha	36036133
+neurexin 1	36036133
+retinoic acid receptor alpha	36036133
+neurexin 1	36036133
+arginine vasopressin	35995237
+doublecortin	35975241
+insulin	35962006
+ST8 alpha-N-acetyl-neuraminide alpha-2,8-sialyltransferase 2	35957920
+methylenetetrahydrofolate reductase	35929945
+nerve growth factor	35904498
+insulin	35897673
+oxytocin receptor	35888641
+albumin	35883654
+C-reactive protein	35878480
+C-reactive protein	35878480
+parvalbumin	35869039
+parvalbumin	35869039
+parvalbumin	35869039
+gephyrin	35821032
+gephyrin	35821032
+gephyrin	35821032
+leptin receptor	35809703
+parvalbumin	35768828
+parvalbumin	35768828
+somatostatin	35768828
+parvalbumin	35768828
+somatostatin	35768828
+parvalbumin	35768828
+somatostatin	35768828
+parvalbumin	35768828
+somatostatin	35768828
+parvalbumin	35768828
+somatostatin	35768828
+parvalbumin	35768828
+somatostatin	35768828
+parvalbumin	35768828
+myelin basic protein	35687217
+nerve growth factor	35648200
+glial fibrillary acidic protein	35648200
+proliferating cell nuclear antigen	35648200
+cortactin	35562389
+parvalbumin	35544642
+tumor necrosis factor	35544642
+parvalbumin	35456893
+somatostatin	35456893
+leptin	35456030
+glutamate decarboxylase 2	35420879
+oxytocin receptor	35384534
+interleukin 6	35384534
+tumor necrosis factor	35384534
+prosaposin	35318322
+oxytocin receptor	35316293
+catalase	35307911
+parvalbumin	35272296
+parvalbumin	35272296
+parvalbumin	35272296
+superoxide dismutase 1	35266053
+superoxide dismutase 1	35266053
+superoxide dismutase 1	35266053
+superoxide dismutase 2	35266053
+glutathione peroxidase 4	35227767
+SH3 and multiple ankyrin repeat domains 3	35216282
+insulin	35209985
+insulin	35209985
+insulin	35209985
+insulin	35209985
+insulin	35209985
+insulin	35209985
+leptin	35185642
+leptin	35185642
+leptin	35185642
+leptin	35185642
+leptin	35185642
+leptin	35185642
+leptin	35185642
+somatostatin	35182575
+synaptophysin	35178882
+superoxide dismutase 2	35165191
+insulin receptor	35142069
+heterogeneous nuclear ribonucleoprotein U	35138025
+glycine amidinotransferase	20301745
+microtubule associated serine/threonine kinase 3	35095415
+estrogen receptor 1	35065713
+tumor necrosis factor	35047232
+tumor necrosis factor	35047232
+thioredoxin	35015875
+caspase 1	35015875
+caspase 1	35015875
+neuroligin 3	35012288
+neuroligin 3	35012288
+neuroligin 3	35012288
+neuroligin 3	35012288
+neuroligin 3	35012288
+neuroligin 3	35012288
+adenylosuccinate lyase	34998670
+occludin	34988901
+occludin	34988901
+occludin	34988901
+occludin	34988901
+occludin	34988901
+renin	sorders in offspring, such as autism and schizophrenia. 
+glutamate ionotropic receptor AMPA type subunit 2	34899870
+parvalbumin	34848882
+caspase 3	34830376
+histone deacetylase 5	34822816
+leucine rich glioma inactivated 1	34738360
+Gilles de la Tourette syndrome	34687698
+neuroplastin	34680901
+neuroplastin	34680901
+neuroplastin	34680901
+neuroplastin	34680901
+neuropilin 2	34663783
+neuropilin 2	34663783
+parvalbumin	34663783
+somatostatin	34663783
+neuropeptide Y	34663783
+CREB binding protein	34652060
+parvalbumin	34646371
+neurobeachin	34609286
+insulin	34562183
+insulin	34562183
+insulin	34562183
+insulin	34562183
+insulin	34562183
+insulin	34562183
+insulin	34562183
+insulin	34562183
+insulin	34562183
+transferrin	34539458
+ceruloplasmin	34539458
+ceruloplasmin	34539458
+transferrin	34539458
+catalase	34528217
+lysozyme	34517895
+apolipoprotein A1	34504056
+apolipoprotein B	34504056
+insulin	34440366
+insulin	34440366
+agrin	34430425
+catalase	34298871
+oxytocin receptor	34290367
+somatostatin	34290367
+tumor necrosis factor	34276441
+neuroligin 3	34262438

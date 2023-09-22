@@ -1,0 +1,295 @@
+leptin	36946681
+resistin	36946681
+apelin	36946681
+leptin	36946681
+leptin	36946681
+leptin	36946681
+leptin	36946681
+leptin	36946681
+leptin	36946681
+Coats disease	20301506
+C-reactive protein	36934309
+plasminogen	36934309
+glycine amidinotransferase	36856349
+glycine amidinotransferase	36856349
+glycine amidinotransferase	36856349
+C-reactive protein	36712567
+tumor necrosis factor	36587855
+prolactin	36521667
+oxytocin receptor	36458331
+oxytocin receptor	36458331
+glial fibrillary acidic protein	36458331
+dystrophin	36315559
+dystrophin	36315559
+insulin receptor	36291644
+insulin receptor	36291644
+tumor necrosis factor	36241462
+biotinidase	35578214
+synaptophysin	35178882
+catechol-O-methyltransferase	35163702
+catechol-O-methyltransferase	1R8, Canada.
+insulin	35043762
+monoamine oxidase A	35038001
+monoamine oxidase A	35038001
+C-reactive protein	34990745
+plasminogen	34990745
+renin	34959804
+glutamate ionotropic receptor AMPA type subunit 2	34899870
+parvalbumin	34899420
+parvalbumin	34899420
+insulin	34835002
+insulin	34835002
+parvalbumin	34818031
+dystrophin	34782199
+thioredoxin	34711862
+C-reactive protein	34653513
+parvalbumin	34646371
+phosphatase and tensin homolog	34461955
+ezrin	34049799
+radixin	34049799
+moesin	34049799
+transcription factor 7	34003604
+C-reactive protein	33985349
+parvalbumin	33972691
+somatostatin	33972691
+C-reactive protein	33933746
+doublecortin	33862170
+steroid sulfatase	33610733
+insulin	33439216
+insulin	33439216
+insulin	33439216
+tumor necrosis factor	33364982
+neurofilament light chain	33239751
+L-2-hydroxyglutarate dehydrogenase	33061758
+steroid sulfatase	32766777
+DDHD domain containing 2	32747698
+fatty acid amide hydrolase	32739746
+semaphorin 3G	32365351
+Cornelia de Lange syndrome 2	32337850
+oxytocin receptor	32321197
+methylenetetrahydrofolate reductase	32318793
+aggrecan	32116542
+neurocan	32116542
+aggrecan	32116542
+neurocan	32116542
+neurocan	32116542
+aggrecan	32116542
+neurocan	32116542
+pericentrin	32099372
+transferrin receptor	32063571
+transferrin receptor	32063571
+adhesion G protein-coupled receptor L3	32051549
+tumor necrosis factor	31995664
+dystrophin	31964551
+oxytocin receptor	31931508
+oxytocin receptor	31931508
+prolactin	31863164
+C-reactive protein	31809804
+fatty acid amide hydrolase	31775159
+fatty acid amide hydrolase	31775159
+zinc finger protein 292	31723249
+multiple sclerosis	31654569
+dystrophin	31650559
+dystrophin	31650559
+dystrophin	31650559
+C-reactive protein	31532468
+C-reactive protein	31532468
+C-reactive protein	31284079
+parvalbumin	31216562
+multiple sclerosis	31165428
+parvalbumin	31150746
+parvalbumin	31150746
+neuroligin 3	31119867
+insulin	31111484
+placental growth factor	31111484
+glutamate ionotropic receptor AMPA type subunit 1	31083176
+glutamate metabotropic receptor 7	31083176
+prolactin	31072228
+insulin	31043756
+prolactin	31039525
+argininosuccinate lyase	31018246
+apolipoprotein B	30920679
+methyl-CpG binding protein 2	30842224
+nuclear receptor corepressor 2	30842224
+parvalbumin	30787870
+steroid sulfatase	30768640
+C-reactive protein	30762500
+C-reactive protein	30598484
+insulin	30566500
+insulin	30566500
+insulin	30566500
+tumor necrosis factor	30355978
+tumor necrosis factor	30310056
+neuroligin 1	30266599
+neuroligin 3	30266599
+leptin	30248249
+leptin	30248249
+leptin	30248249
+leptin	30248249
+leptin	30248249
+leptin	30248249
+leptin	30248249
+leptin	30248249
+leptin	30248249
+leptin	30248249
+leptin	30248249
+leptin	30248249
+Aicardi syndrome	30195559
+C-reactive protein	30130674
+C-reactive protein	30130674
+activating transcription factor 4	30127472
+pre-mRNA processing factor 4B	30104601
+tumor necrosis factor	30033161
+phosphatidylinositol glycan anchor biosynthesis class L	30023290
+plasminogen	29972605
+oxytocin receptor	29958961
+interleukin 6	29626828
+estrogen receptor 1	29526366
+C-reactive protein	29376460
+glial fibrillary acidic protein	29234492
+dystrophin	29196072
+dystrophin	29196072
+sulfotransferase	29140583
+parvalbumin	29118206
+aspartoacylase	29116375
+aspartoacylase	29116375
+aspartoacylase	29116375
+aspartoacylase	29116375
+aspartoacylase	29116375
+aspartoacylase	29116375
+aspartoacylase	29116375
+insulin	29116126
+C-reactive protein	29049554
+leptin	29049554
+leptin	29049554
+prolactin	28941259
+steroid sulfatase	28934990
+steroid sulfatase	28934990
+steroid sulfatase	28934990
+sulfite oxidase	28933809
+C-reactive protein	28867280
+transferrin	28778787
+C-reactive protein	28715724
+C-reactive protein	28715724
+C-reactive protein	28711477
+C-reactive protein	28711477
+C-reactive protein	28711477
+catechol-O-methyltransferase	28614354
+alpha-2-macroglobulin	28592917
+albumin	28592917
+apolipoprotein A1	28592917
+dystrophin	28503609
+insulin	28494655
+insulin	28452835
+insulin	28452835
+insulin	28452835
+insulin	28452835
+insulin	28452835
+phosphatidylinositol glycan anchor biosynthesis class A	28337824
+tumor necrosis factor	28282939
+myeloperoxidase	28282939
+C-reactive protein	28257825
+C-reactive protein	28257825
+telomerase RNA component	28233563
+prolactin	28212067
+CD40 ligand	28070266
+insulin	27939485
+aryl hydrocarbon receptor	27899901
+aryl hydrocarbon receptor	27899901
+aryl hydrocarbon receptor nuclear translocator	27899901
+parvalbumin	27876866
+parvalbumin	27876866
+C-reactive protein	27856235
+C-reactive protein	27801895
+steroid sulfatase	27711218
+Gilles de la Tourette syndrome	27686095
+Gilles de la Tourette syndrome	27686095
+4-aminobutyrate aminotransferase	27596361
+oxytocin receptor	27552585
+oxytocin receptor	27552585
+oxytocin receptor	27552585
+oxytocin receptor	27552585
+parvalbumin	27534393
+KIAA0319	27501527
+KIAA0319	27501527
+KIAA0319	27501527
+N-glycanase 1	27388694
+albumin	27388694
+oxytocin receptor	27309964
+oxytocin receptor	27309964
+oxytocin receptor	27309964
+ceruloplasmin	27306358
+prolactin	27238065
+interleukin 6	27138800
+insulin	27126856
+insulin	27126856
+leptin	27126856
+insulin	27126856
+insulin	27126856
+short stature homeobox	27073233
+multiple sclerosis	27009813
+aspartoacylase	26992473
+aspartoacylase	26992473
+C-reactive protein	26860445
+C-reactive protein	26860445
+ectodermal-neural cortex 1	26812035
+androgen receptor	26781567
+DNA methyltransferase 1	26745006
+multiple sclerosis	26683589
+glycine amidinotransferase	26542286
+glutaminyl-peptide cyclotransferase	26492838
+dopamine receptor D4	26439067
+tyrosine hydroxylase	26366376
+poly(A)-specific ribonuclease	26342108
+poly(A)-specific ribonuclease	26342108
+transferrin	26231264
+transferrin	26231264
+histamine N-methyltransferase	26206890
+histamine N-methyltransferase	26206890
+leptin	25926624
+leptin	25926624
+leptin	25926624
+leptin	25926624
+leptin	25926624
+leptin	25926624
+leptin	25926624
+leptin	25926624
+leptin	25926624
+leptin	25926624
+huntingtin	25875952
+albumin	25798515
+methyl-CpG binding protein 2	25737965
+vasoactive intestinal peptide	25575489
+synaptophysin	25575489
+hypoparathyroidism	27189754
+chondroitin sulfate proteoglycan 4	25446451
+neural cell adhesion molecule 1	25445624
+neural cell adhesion molecule 1	25445624
+multiple sclerosis	25421842
+insulin	25323142
+insulin	25323142
+insulin	25323142
+insulin	25323142
+insulin	25323142
+insulin	25323142
+gephyrin	25309321
+multiple sclerosis	25241021
+albumin	25241021
+MORC family CW-type zinc finger 1	25158004
+tumor necrosis factor	24936937
+parvalbumin	24845187
+parvalbumin	24845187
+glutamate decarboxylase 1	24845187
+fatty acid binding protein 7	24765068
+glutamate metabotropic receptor 3	24765068
+proenkephalin	24765068
+thymoma	24662006
+insulin	24648324
+methyl-CpG binding protein 2	24615633
+7-dehydrocholesterol reductase	24602487
+gastrin	24462726
+gastrin	24462726
+cell division cycle 42	24446295
+dopamine receptor D4	24391992
+catechol-O-methyltransferase	23992923
+multiple sclerosis	23981537
